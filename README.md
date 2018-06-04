@@ -1,3 +1,3 @@
-## Microsoft Open Source Code of Conduct
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## <a name="microsoft-open-source-code-of-conduct"></a>Código-fonte Microsoft Open de conduta
+Esse projeto adotou o [Microsoft Open fonte códigos de conduta](https://opensource.microsoft.com/codeofconduct/).
+Para obter mais informações consulte o [Código de conduzir FAQ](https://opensource.microsoft.com/codeofconduct/faq/) ou contate [opencode@microsoft.com](mailto:opencode@microsoft.com) com quaisquer comentários ou perguntas adicionais.
