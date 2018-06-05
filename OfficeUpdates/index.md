@@ -32,7 +32,7 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>O Office 365 ProPlus</h3>
+                        <h3>Office 365 ProPlus</h3>
                         <p><a href="release-notes-office365-proplus.md">Notas de versão</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">Histórico de atualização (por data)</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">Tamanhos de atualização</a></p>
@@ -48,7 +48,7 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                     <div class="cardText">
                         <h3>Office para Mac</h3>
                         <p><a href="release-notes-office-for-mac.md">Notas de versão</a></p>
-                        <p><a href="update-history-office-for-mac.md">Histórico de atualização</a></p>
+                        <p><a href="update-history-office-for-mac.md">Histórico de atualizações</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">Versões MAU</a></p>
                      </div>
                 </div>
