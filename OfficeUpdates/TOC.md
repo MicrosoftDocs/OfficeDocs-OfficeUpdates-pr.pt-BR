@@ -1,29 +1,29 @@
-# O Office 365 ProPlus
+# Office 365 ProPlus
 ## [Histórico de atualização (por data)](update-history-office365-proplus-by-date.md)
 ## [Histórico de atualização (por versão)](update-history-office365-proplus-by-version.md)
 ## [Tamanhos de atualização](download-sizes-office365-proplus-updates.md)
 
 ## [Notas de versão](release-notes-office365-proplus.md)
 
-### Canal mensal
+### Canal Mensal
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Canal delimitadas anual
+### Canal Semestral
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Canal delimitadas anual (público alvo)
+### Canal Semestral (direcionado)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office para Mac
-## [Histórico de atualização](update-history-office-for-mac.md)
+## [Histórico de atualizações](update-history-office-for-mac.md)
 ## [Notas de versão](release-notes-office-for-mac.md)
 ## [Histórico de versão MAU](release-history-microsoft-autoupdate.md)
 

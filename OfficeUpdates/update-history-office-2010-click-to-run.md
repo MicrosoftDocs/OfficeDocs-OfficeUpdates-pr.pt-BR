@@ -52,7 +52,7 @@ Novas versões contêm todas as atualizações contidas nas versões anteriores.
 > Os artigos listados abaixo são apenas para fins de referência. Atualizações de Click-to-Run incluem todas as correções listadas nos artigos KB. Não é necessário baixar as atualizações separadas listadas nos artigos KB.
 
   
-|**Ano de lançamento**|**Data de lançamento**|**Número de versão**|**Obter mais informações**|
+|**Ano de lançamento**|**Data de lançamento**|**Número de versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
 |2018  <br/> |8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
