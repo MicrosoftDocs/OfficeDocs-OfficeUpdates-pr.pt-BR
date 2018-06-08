@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece os profissionais de TI com um histórico de atualização para perpétuas versões do Office 2010 que usam o Click-to-Run
-ms.openlocfilehash: 11c4aa06ce34d1c7d57d482647b862bea9ab230a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555836"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709762"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Histórico de atualização para produtos do Office 2010 Click-to-Run
 
@@ -54,7 +54,7 @@ Novas versões contêm todas as atualizações contidas nas versões anteriores.
   
 |**Ano de lançamento**|**Data de lançamento**|**Número de versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2018  <br/> |8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||13 de março  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||13 de fevereiro  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
