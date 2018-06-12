@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 5b7f793ab49c492a5c92c0160276a47955d8835e
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 17e4b2b81ec0002f6dae5777dc235f9738bb3b34
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555842"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709722"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -23,9 +23,9 @@ As tabelas a seguir mostram o tamanho aproximado do download, por canal de atual
   
 Fornecemos estas informações antes da data de lançamento real a fim de ajudar os clientes corporativos a planejar a utilização de largura de banda da rede para as futuras atualizações de canal. Como fornecemos essas informações com antecedência, podemos alterá-las na ocasião do lançamento real da versão.
   
-Nosso objetivo é fornecer informações sobre o tamanho das atualizações uma semana antes de um lançamento. Porém, às vezes, as informações não ficam disponíveis com antecedência. Os lançamentos do Canal Semestral e do Canal Semestral (Direcionado) estão agendadas para a segunda terça-feira de cada mês. Lançamentos do Canal Mensal não têm um cronograma definido.
+Nosso objetivo é fornecer informações sobre o tamanho das atualizações uma semana antes de um lançamento. Porém, às vezes, as informações não ficam disponíveis com antecedência. Os lançamentos do Canal Semestral e do Canal Semestral (direcionado) estão agendados para a segunda terça-feira de cada mês. Lançamentos do Canal Mensal não têm um cronograma definido.
 
-Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas a segurança incluídas em determinado lançamento, confira [Notas de versão do Office 365 ProPlus](release-notes-office365-proplus.md).
+Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas a segurança incluídas em determinado lançamento, confira [Informações de versão das atualizações para o Office 365 ProPlus](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
