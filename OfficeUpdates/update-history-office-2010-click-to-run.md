@@ -3,19 +3,19 @@ title: Histórico de atualização para produtos do Office 2010 Click-to-Run
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece os profissionais de TI com um histórico de atualização para perpétuas versões do Office 2010 que usam o Click-to-Run
-ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: 709faa1fd3c73c17e518359d2facd8b2216f838b
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709762"
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "19886567"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Histórico de atualização para produtos do Office 2010 Click-to-Run
 
@@ -30,7 +30,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se você estiver usando um desses produtos e você gostaria de verificar se que você estiver atualizado, verifique seu número de versão do Office e atualizar manualmente o Office, se necessário.
   
 > [!NOTE]
-> A versão mais atual do Office 2010 é **14.0.7209.5000**, que foi lançada em 8 de maio de 2018. 
+> A versão mais atual do Office 2010 é **14.0.7210.5000**, que foi lançada em 12 de junho de 2018. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -46,15 +46,16 @@ Para verificar sua versão do Office, faça o seguinte:
 
 A tabela a seguir fornece uma lista das atualizações para o Office 2010, com a data de versão mais recente listada em primeiro lugar. A tabela inclui o número de versão para o lançamento e os links, se estiver disponível, artigos da Base de dados de Conhecimento da Microsoft (KB) ou boletins de segurança da Microsoft que contém informações sobre as correções incluídas na atualização.
   
-Novas versões contêm todas as atualizações contidas nas versões anteriores.
+As novas versões contêm todas as atualizações presentes nas versões anteriores.
 
 > [!NOTE]
-> Os artigos listados abaixo são apenas para fins de referência. Atualizações de Click-to-Run incluem todas as correções listadas nos artigos KB. Não é necessário baixar as atualizações separadas listadas nos artigos KB.
+> Os artigos da KB listados abaixo são apenas para referência. As atualizações de Clique para Executar incluem todas as correções listadas nos artigos da KB. Não é necessário baixar as atualizações separadas listadas nos artigos da base de dados.
 
   
-|**Ano de lançamento**|**Data de lançamento**|**Número de versão**|**Mais informações**|
+|**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |12 de junho  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||13 de março  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||13 de fevereiro  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
