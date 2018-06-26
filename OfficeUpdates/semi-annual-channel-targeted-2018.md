@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/18/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (direcionado) do Office 365 ProPlus em 2018
-ms.openlocfilehash: 7e4a881b7981ecd23d9771a5d1f375f4cf07eba7
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555853"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886627"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018
 
@@ -24,6 +24,32 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+## <a name="version-1803-june-12"></a>Versão 1803: 12 de junho
+*Versão 1803 (build 9126.2227)*
+
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8246): vulnerabilidade de divulgação de informações confidenciais do Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+-   Correção de um problema em que a operação agrupar ou desagrupar em uma Tabela Dinâmica do Excel podia, às vezes, gerar uma falha.
+
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+-   Correção de um problema em que podia ocorrer uma falha ao alterar a propriedade Shape.Visibile.
+-   Correção de um problema em que ocorre uma falha ao mesclar alterações em documentos criados em coautoria.
+-   Correção de um problema em que os documentos contendo Controles ActiveX poderiam causar falha durante a coautoria.
+
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+-   Correção de um problema em que, ao adicionar tarefas existentes à caixa de diálogo da Linha do Tempo, somente as tarefas da primeira tarefa resumo eram exibidas no Modo de Exibição da Linha do Tempo.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+-   Correção de um problema em que, ao implantar atualizações usando o System Center Configuration Manager em um cliente com aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estão em execução.
+
+
 
 ## <a name="version-1803-may-18"></a>Versão 1803: 18 de maio
 *Versão 1803 (build 9126.2210)*
@@ -179,7 +205,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 -   **Classifique seus emails com facilidade:** graças aos seus comentários, trouxemos de volta a classificação acima da lista de mensagens e o filtro Não lidos para pessoas que não usam a Caixa de Entrada Destaques.
--   **Converter ícones SVG em formas:** transformação de todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, tamanho ou textura.
+-   **Converter ícones SVG em formas:** transforme todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, o tamanho ou a textura.
 -   **Melhorias nos Grupos do Office 365:** ficou mais fácil do que nunca ler e responder as conversas em grupo. Basta clicar duas vezes em uma mensagem de grupo para abri-la em sua própria janela.
 -   **Configuração de recursos do LinkedIn:** vá para Arquivo \> Opções \> Geral para controlar a exibição dos recursos do LinkedIn nos aplicativos do Office. [Saiba mais](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelos 3D:** Use o 3D para aumentar o impacto visual e criativo do seu email. Insira facilmente um modelo 3D e, em seguida, você poderá girá-lo 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
@@ -191,7 +217,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   **Acesse rapidamente os grupos que você mais usa:** agora, os grupos com os quais é mais provável que você interaja aparecem no topo da lista em Grupos no painel Pasta.
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11939): vulnerabilidade de divulgação de informações confidenciais do Microsoft Office
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11939): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de Execução Remota de Código do Microsoft Outlook
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0850): vulnerabilidade de elevação de privilégio do Microsoft Outlook
@@ -204,7 +230,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 -   **Microsoft Translator:** traduza palavras, frases ou sentenças para outro idioma com o Microsoft Translator. Você pode fazer isso na guia Revisão na faixa de opções.
 -   **Animações 3D:** dê vida aos modelos 3D com animações como balançar suavemente ou saltar e girar.
--   **Converter ícones SVG em formas:** transformação de todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, tamanho ou textura.
+-   **Converter ícones SVG em formas:** transforme todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, o tamanho ou a textura.
 -   **Roaming de informações de acompanhamento de revisão:** o status de lido/não lido para realçar os slides compartilhados que foram modificados por outras pessoas agora está armazenado em um serviço de roaming (em vez de no computador local do usuário) para que essas informações possam ser sincronizadas em vários dispositivos ou plataformas.
 -   **Acesse rapidamente sites e grupos:** use o menu Arquivo para trabalhar com documentos armazenados em seus sites e grupos usados frequentemente.
 -   **Lápis Digital:** escreva ou esboce suas ideias com nossa nova textura de lápis. Basta inclinar as canetas digitais compatíveis para fazer sombreamento.
@@ -225,7 +251,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   **Régua digital:** Em dispositivos com tela touch, vá para Desenhar \> Régua, use a caneta ou o dedo para desenhar linhas retas ou alinhar um conjunto de objetos. [Saiba mais](https://support.office.com/article/6222c9b4-2fdf-48f7-a3fd-1687fbe2bf84)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: atualizações de segurança
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11934): vulnerabilidade de divulgação de informações confidenciais do Microsoft PowerPoint
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11934): vulnerabilidade de divulgação não autorizada de informações do Microsoft PowerPoint
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
 -   Correção de um problema em que remover propriedades do documento e informações pessoais podem causar uma falha no salvamento do SharePoint.
@@ -314,7 +340,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 -   **Converter ícones SVG em formas:** transforme todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, o tamanho ou a textura.
 -   **Contagem de caracteres:** exiba a contagem de caracteres na barra de status enquanto digita. Habilite esta opção no menu Personalizar Barra de Status.
--   **Acesse rapidamente sites e grupos:** use o menu Arquivo para trabalhar com documentos armazenados em sites e grupos acessados frequentemente.
+-   **Acesse rapidamente sites e grupos:** use o menu Arquivo para trabalhar com documentos armazenados em seus sites e grupos usados frequentemente.
 -   **Microsoft Translator:** traduza palavras, frases ou o documento inteiro para outro idioma usando o Microsoft Translator, diretamente do Word. [Saiba mais](https://support.office.com/article/24a987b3-03a1-4c17-8c1b-54495fca6b17)
 -   **Lápis Digital:** escreva ou esboce suas ideias com nossa nova textura de lápis. Basta inclinar as canetas digitais compatíveis para fazer sombreamento.
 -   **Configuração de recursos do LinkedIn:** vá para Arquivo \> Opções \> Geral para controlar a exibição dos recursos do LinkedIn nos aplicativos do Office. [Saiba mais](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
@@ -342,7 +368,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2018-0806](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0806): vulnerabilidade de execução remota de código do Microsoft Word
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0807): vulnerabilidade de execução remota de código do Microsoft Word
 -   [CVE-2018-0812](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0812): vulnerabilidade de Corrupção de Memória do Microsoft Word
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de Divulgação de Informações do Microsoft Office
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [Supervisão 170020](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV170020): atualização de proteção abrangente do Microsoft Office
 
 ### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
@@ -355,7 +381,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11882): vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0795): vulnerabilidade de Execução Remota de Código do Microsoft Office
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0851): Vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de Divulgação de Informações do Microsoft Office
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [Supervisão 180003](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180003): atualização de proteção abrangente do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
@@ -382,7 +408,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0851): vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informação do Microsoft Office
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 
 
 
@@ -397,7 +423,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   Correção de um problema em que a criação programática de uma Tabela Dinâmica seguida de uma atualização programática causa uma falha no Excel.
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade da execução remota de código do Microsoft Outlook
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança

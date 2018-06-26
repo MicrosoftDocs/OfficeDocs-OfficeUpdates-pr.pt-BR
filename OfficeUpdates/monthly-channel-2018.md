@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555848"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886957"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -25,10 +25,36 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 
+## <a name="version-1805-june-13"></a>Versão 1805: 13 de junho
+*Versão 1805 (build 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+ - Correção de um problema em que, ao chamar a API de Mensagem, o aplicativo podia falhar.
+
+
+
+## <a name="version-1805-june-12"></a>Versão 1805: 12 de junho
+*Versão 1805 (build 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8246): vulnerabilidade de divulgação de informações confidenciais do Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
+
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+
+- Correção de um problema em que, ao chamar a API de Mensagem, o aplicativo podia falhar.
+
+### <a name="project-non-security-updates"></a>Atualizações do Project não relacionadas à segurança
+
+- Correção de um problema em que você era impedido de salvar um subprojeto ao trabalhar com eles por meio do contexto de um projeto mestre.
+
 ## <a name="version-1805-may-24"></a>Versão 1805: 24 de maio
 *Versão 1805 (build 9330.2087)*
 
-### <a name="outlook-non-security-updates"></a>Atualizações que não são de segurança do Outlook
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
  - Correção de um problema em que o Outlook trava ao usar o suplemento do iCloud.
  
 
@@ -216,7 +242,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0851): vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informação do Microsoft Office
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 
 
 ## <a name="version-1801-february-7"></a>Versão 1801: 7 de fevereiro
@@ -269,7 +295,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 -   **Animações 3D:** dê vida aos modelos 3D com animações como balançar suavemente ou saltar e girar.
--   **Converter ícones SVG em formas:** transformação de todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, tamanho ou textura.
+-   **Converter ícones SVG em formas:** transforme todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, o tamanho ou a textura.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Adição de um botão de transferência de chamada na interface do usuário do sistema para chamadas PSTN de entrada.
@@ -295,7 +321,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [Supervisão 170021](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade da execução remota de código do Microsoft Outlook
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
