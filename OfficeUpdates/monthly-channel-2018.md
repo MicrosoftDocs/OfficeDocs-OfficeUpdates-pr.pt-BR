@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886957"
+ms.locfileid: "20036300"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -24,6 +24,36 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+
+
+## <a name="version-1806-june-25"></a>Versão 1806: 25 de junho
+*Versão 1806 (build 10228.20080)*
+
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+ - **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.
+ - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+ - **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
+ - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project: atualizações de recursos
+ - **Mantenha a organização com locais de salvamento Recentes**: o Project mantém uma lista ativa de locais em que você salvou outros projetos. Quando estiver pronto para salvar um projeto, basta escolher um dos Locais de salvamento recentes e continuar trabalhando.
+
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+ - Correção de um problema em que o salvamento de subprojetos de projetos mestres poderia falhar.
+
+### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+ - **Mais estênceis, ícones e opções**: adicionamos 26 estênceis, como Análise, Artes, Comemoração, Rostos, Local, Medicina, Natureza, Pessoas, Esportes, Clima e Estações, e muito mais.
+
+### <a name="word-feature-updates"></a>Word: atualizações de recursos
+ - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>Versão 1805: 13 de junho
 *Versão 1805 (build 9330.2124)*
