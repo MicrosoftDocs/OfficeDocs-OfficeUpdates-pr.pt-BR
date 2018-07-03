@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036300"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157859"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -24,8 +24,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>Versão 1806: 25 de junho
 *Versão 1806 (build 10228.20080)*
@@ -36,13 +35,17 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
  - **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
+ - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
  - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project: atualizações de recursos
  - **Mantenha a organização com locais de salvamento Recentes**: o Project mantém uma lista ativa de locais em que você salvou outros projetos. Quando estiver pronto para salvar um projeto, basta escolher um dos Locais de salvamento recentes e continuar trabalhando.
+ - **Uma nova maneira de gerenciar sprints:** adote uma abordagem ágil trabalhando com os Painéis de Tarefas. Acesse Gerenciar Sprints para adicionar e remover sprints durante o projeto.
+
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
  - Correção de um problema em que o salvamento de subprojetos de projetos mestres poderia falhar.
@@ -109,6 +112,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
  - **Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do PowerPoint. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **Digitação sem mãos:** use sua voz para criar apresentações simplesmente ditando. Não é preciso digitar. [Saiba mais](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft Forms:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
  - Corrige um problema em que o Project pode falhar na primeira vez que você salva um projeto no Project Web App.
