@@ -3,7 +3,7 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 ms.custom: LIL_Placement
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 61d1d77c7601fc570e92dc4d2cd613306903495c
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 842ce6c2b8ae2ee7c1acbc11afd4c74cc50d217f
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036280"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246331"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -33,7 +33,8 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|25 de junho   |[**Versão 1806 (build 10228.20080)**](monthly-channel-2018.md#version-1806-june-25) |||
+|2018|10 de julho   |[**Versão 1806 (build 10228.20104)**](monthly-channel-2018.md#version-1806-july-10) |[**Versão 1803 (build 9126.2259**)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[**Versão 1803 (build 9126.2259)**](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+||25 de junho   |[Versão 1806 (build 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||13 de junho   |[Versão 1805 (build 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||12 de junho   |[Versão 1805 (build 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[**Versão 1803 (build 9126.2227**)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[**Versão 1708 (Build 8431.2270)**](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Versão 1705 (build 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||24 de maio   |[Versão 1805 (build 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
