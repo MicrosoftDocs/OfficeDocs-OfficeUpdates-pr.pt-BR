@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (direcionado) do Office 365 ProPlus em 2018
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886627"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246381"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018
 
@@ -24,6 +24,36 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+## <a name="version-1803-july-10"></a>Versão 1803: 10 de julho
+*Versão 1803 (build 9126.2259)*
+
+### <a name="access-security-updates"></a>Access: atualizações de segurança
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
+
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8310): vulnerabilidade de adulteração do Microsoft Office
+
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+-   Corrige um problema em que o ano errado é exibido quando o calendário de Era japonesa é usado no formato de célula de data.
+-   Ao importar dados para o modelo de dados do Excel, os valores de entrada abaixo de zero resultavam em um erro. A correção importa esses valores como zero.
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+-   Corrige o problema em que as tabelas são renderizadas incorretamente com bordas espessas.
+
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+-   Corrigido um problema em que, se uma tarefa fosse dividida com um recurso de custo, o recurso de custo não seria atualizado corretamente, e o custo seria perdido.
+-   Corrigido um problema em que, ao adicionar tarefas existentes à caixa de diálogo da Linha do Tempo, somente as tarefas da primeira tarefa resumo eram exibidas no Modo de Exibição da Linha do Tempo.
+-   Corrigido um problema onde salvar como XML poderia falhar para projetos mestres no Project Online ou no Project Server.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+-   Correção de um bug que causava a demora na instalação de atualização em determinadas situações. 
+-   Corrige um problema em que os testes SVG estão falhando
+-   Correção de um problema em que, ao implantar atualizações usando o System Center Configuration Manager em um cliente com aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estão em execução.
+
 
 ## <a name="version-1803-june-12"></a>Versão 1803: 12 de junho
 *Versão 1803 (build 9126.2227)*

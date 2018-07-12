@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Office 365 ProPlus para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: 2c6d54e1b75a7bd21b1e014236a2c8a4629a006a
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: b4205abeb74342f9fcb4218bfc033e7a122ac5bd
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036230"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246441"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informações de versão das atualizações do Office 365 ProPlus
 
@@ -24,12 +24,12 @@ O Office 365 ProPlus é atualizado regularmente com novos recursos, atualizaçõ
 A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualização. O número de build é vinculado diretamente às notas de versão desse lançamento. 
 
   
-|**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão atual terá suporte até**|
+|**Canal**|**Versão**|**Build**|**Data de lançamento**|**Versão atual até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensalmente  <br/> |1806  <br/> |[10228.20080](monthly-channel-2018.md#version-1806-june-25)  <br/> | 25 de junho de 2018  <br/> |Lançamos a versão 1807 <br/>|
-|Semestralmente (Direcionado)  <br/> |1803  <br/> |[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)  <br/> | 12 de junho de 2018  <br/> |11 de setembro de 2018 <br/>|
-|Semestralmente <br/> |1708  <br/> | [8431.2270](semi-annual-channel-2018.md#version-1708-june-12) <br/> |12 de junho de 2018  <br/> |12 de março de 2019 <br/>|
-|Adiado <br/> |1705  <br/> |[8201.2294](semi-annual-channel-2018.md#version-1705-june-12)  <br/> | 12 de junho de 2018  <br/> |10 de julho de 2018 <br/>|
+|Mensalmente  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 10 de julho de 2018  <br/> |Lançamos a versão 1807 <br/>|
+|Semestralmente (Direcionado)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 10 de julho de 2018  <br/> |11 de setembro de 2018 <br/>|
+|Semestralmente <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |10 de julho de 2018  <br/> |11 de setembro de 2018 <br/>|
+|Semestral Estendida <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 10 de julho de 2018  <br/> |12 de março de 2019 <br/>|
 
 Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais recente, confira [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
