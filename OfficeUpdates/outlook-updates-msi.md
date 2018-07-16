@@ -3,19 +3,19 @@ title: Atualizações mais recentes para versões do Outlook que usam o Windows 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Outlook 2016, Outlook 2013 e Outlook 2010
-ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886677"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246241"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Outlook que usam o Windows Installer (MSI)
 
@@ -44,13 +44,13 @@ A compatibilidade do Outlook com o Office 365 e com o seu ambiente local depende
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de junho de 2018 <br/>[KB4022160](https://support.microsoft.com/pt-BR/help/4022160) <br/><br/> PU agosto de 2016 para Filtro de lixo eletrônico do Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Atualização pública de julho de 2018 <br/>[KB4022230](https://support.microsoft.com/pt-BR/help/4022230) <br/><br/> PU agosto de 2016 para Filtro de lixo eletrônico do Outlook 2016  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Atualizações do Outlook 2013
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de dezembro de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |PU de junho de 2018 <br/>[KB4022169](https://support.microsoft.com/pt-BR/help/4022169) <br/><br/>  PU agosto de 2016 para Filtro de lixo eletrônico do Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de dezembro de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Atualização pública de julho de 2018 <br/>[KB4022242](https://support.microsoft.com/pt-BR/help/4022242) <br/><br/>  PU agosto de 2016 para Filtro de lixo eletrônico do Outlook 2013 <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Atualizações do Outlook 2010
 
