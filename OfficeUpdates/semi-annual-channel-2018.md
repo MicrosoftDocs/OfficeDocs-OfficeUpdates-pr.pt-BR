@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2018
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334431"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397964"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral em 2018
 
@@ -46,7 +46,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   **Configuração de recursos do LinkedIn:** vá para Arquivo \> Opções \> Geral para controlar a exibição dos recursos do LinkedIn nos aplicativos do Office. [Saiba mais](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **Modelos 3D:** Use o 3D para aumentar o impacto visual e criativo de suas pastas de trabalho.  Insira facilmente um modelo 3D: em seguida, você poderá girá-lo 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Novos efeitos de tinta:** expresse suas ideias com estilo usando efeitos de tinta e canetas metálicas, como arco-íris, galáxia, lava, oceano, ouro, prata e muito mais.
--   **Compartilhar arquivos da interface do usuário:** No caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
+-   **Compartilhar arquivos da interface do usuário:** no caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
 -   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Sons úteis melhoram a acessibilidade:** ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Saiba mais](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
@@ -331,7 +331,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ## <a name="version-1708-july-10"></a>Versão 1708: 10 de julho
 *Versão 1708 (build 8431.2280)*
 
-* Este é o lançamento do Canal Semestral Estendido que está disponível desde setembro de 2017. Ele continuará com suporte e receberá atualizações de segurança até julho de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral, a versão 1803 (build 16.0.9126.2259), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança*
+* Este é o lançamento do Canal Semestral que está disponível desde setembro de 2017. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral, a versão 1803 (build 16.0.9126.2259), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
