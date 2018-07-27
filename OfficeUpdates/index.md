@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fornece o conteúdo de versão de profissionais de TI com links para Office para o Office 365 ProPlus, Office para Mac, perpétua Office e Office Server produtos
-ms.openlocfilehash: 2fc974c6688f30f9198b0ada76e1e443e0e80d7f
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555837"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223379"
 ---
 # <a name="office-updates"></a>Atualizações do Office
 
@@ -64,7 +64,7 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                         <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Atualizações do Exchange Server</a></p>
                         <p><a href="project-server-updates.md">Atualização do Project Server</a></p>
                         <p><a href="sharepoint-updates.md">Atualizações do SharePoint Server</a></p>
-                        <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype para atualizações do servidor de negócios</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype para atualizações do servidor de negócios</a></p>
                </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                         <h3>Office (perpétua)</h3>
                             <p><a href="office-updates-msi.md">Atualizações do Office</a></p>
                             <p><a href="outlook-updates-msi.md">Atualizações do Outlook</a></p>
-                            <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype para atualizações de negócios</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype para atualizações de negócios</a></p>
                             <p><a href="msp-files-office-2016.md">Arquivos do Office 2016. msp</a></p>
                     </div>
                 </div>
@@ -95,8 +95,8 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                 <div class="card">
                     <div class="cardText">
                         <h3>Outros recursos do Office</h3>
-                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">O que há de novo no Office 365?</a></p>
-                            <p><a href="https://products.office.com/business/office-365-roadmap">Mapa do Office 365</a></p>
+                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Novidades no Office 365?</a></p>
+                            <p><a href="https://products.office.com/business/office-365-roadmap">Roteiro do Office 365</a></p>
                             <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">Mantenha-se na parte superior de alterações do Office 365</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Blog do Office</a></p>
                     </div>
@@ -112,7 +112,7 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                         <h3>Recursos da Microsoft</h3>
                             <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Informações de versão do Windows 10</a></p>
                             <p><a href="https://support.microsoft.com/lifecycle">Política de ciclo de vida da Microsoft</a></p>
-                            <p><a href="https://portal.msrc.microsoft.com/">Guia de atualização de segurança da Microsoft</a></p>
+                            <p><a href="https://portal.msrc.microsoft.com/">Guia de Atualização de Segurança da Microsoft</a></p>
                             <p><a href="https://techcommunity.microsoft.com/">Comunidade do Microsoft Tech</a></p>
                     </div>
                 </div>
