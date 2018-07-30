@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 7/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246251"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222942"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -25,6 +25,26 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
  
+## <a name="version-1807-july-25"></a>Versão 1807: 25 de julho
+*Versão 1807 (build 10325.20082)*
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+- **Avisos de suplemento do Outlook:** ocasionalmente, um suplemento do Outlook COM pode encontrar problemas que deixam mais lento o restante do Outlook. Esses problemas podem ser decorrentes da latência dos eventos, como alternar entre as pastas do Outlook, da chegada de novos emails, da abertura de itens do Calendário, entre outros. Quando problemas surgirem, o Outlook exibirá um aviso na barra de notificações.
+- **Ingresse em reuniões do Teams pela caixa de diálogo Lembretes do Outlook:** quando o Outlook lembrar os usuários de uma reunião, o botão Participar online será exibido se a futura reunião for online no Teams. Isso é semelhante à experiência de entrar em uma reunião do Skype for Business pela caixa de diálogo Lembretes do Outlook.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
+ - **Hiperlinks coloridos**: os hiperlinks deixaram de ser somente azuis. Aplique a cor da fonte que preferir. [Saiba mais](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+
+### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+ - **Use formas do Visio para criar um documento do Word:** adicione automaticamente o conteúdo de diagramas, incluindo formas e metadados, em um documento do Word. Personalize o documento para criar diretrizes de processo e manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word: atualizações de recursos
+ - **Controlar alterações com o IRM:** agora você pode usar o recurso Controlar Alterações no Word em documentos protegidos por IRM sem ser o proprietário.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+ - Correção de um conjunto de problemas que impedia alguns usuários de abrir emails e documentos protegidos por IRM que eram compartilhados com eles por pessoas de outras organizações.
+
+
 ## <a name="version-1806-july-10"></a>Versão 1806: 10 de julho
 *Versão 1806 (build 10228.20104)*
 
