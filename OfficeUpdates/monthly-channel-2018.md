@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222942"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772498"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -39,7 +39,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  - **Use formas do Visio para criar um documento do Word:** adicione automaticamente o conteúdo de diagramas, incluindo formas e metadados, em um documento do Word. Personalize o documento para criar diretrizes de processo e manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
- - **Controlar alterações com o IRM:** agora você pode usar o recurso Controlar Alterações no Word em documentos protegidos por IRM sem ser o proprietário.
+ - **Controlar alterações com o IRM:** agora você pode usar o recurso Controlar alterações no Word em documentos protegidos por IRM sem a necessidade de direito de uso de Controle Total.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
  - Correção de um conjunto de problemas que impedia alguns usuários de abrir emails e documentos protegidos por IRM que eram compartilhados com eles por pessoas de outras organizações.
@@ -420,3 +420,5 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção de um problema em que o código VBA perde-se dos projetos.
+
+OBSERVAÇÃO: se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft] (https://answers.microsoft.com/) ou na [Comunidade de Tecnologia] (https://techcommunity.microsoft.com/) ou contate o [suporte] (https://support.microsoft.com/contactus).
