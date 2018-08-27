@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece que aos profissionais de TI notas de versão do canal mensal libera do Office 365 ProPlus em 2017
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334441"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de versão para as versões de canal mensalmente no 2017
@@ -290,8 +290,8 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Novos efeitos de tinta:** expresse suas ideias com estilo usando efeitos de tinta e canetas metálicas, como arco-íris, galáxia, lava, oceano, ouro, prata e muito mais.
 -   **Melhorias "Adicionar Coluna de Exemplos":** Suporta mais transformações de Data/Hora, Matemática e Coluna de Índice.
 -   **Melhorias de desempenho:** O Excel abre pastas de trabalho complexas com várias planilhas mais rápido, para que você possa processar fórmulas com intervalos grandes, filtrar muitas linhas, ou copiar e colar mais rápido. 
--   **Compartilhar arquivos da interface do usuário:** No caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
--   **Bloquear extensões perigosas:** Extensões que são consideradas como alto risco e são inseridas como objetos de pacote OLE, são bloqueadas, por padrão, a partir de ativação. Por exemplo, .exe,. vbs e. js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Compartilhar arquivos da interface do usuário:** no caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
+-   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que as guias são ignoradas ao copiar e colar um texto delimitado por tabulação do Word, o que resulta na não análise do texto em colunas
@@ -305,8 +305,8 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 -   **Modelos 3D:** Use o 3D para aumentar o impacto visual e criativo das suas apresentações. Dê vida a modelos 3D nas suas apresentações com transições como Transformar, que criam animações espetaculares entre os slides. [Mais informações](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Novos efeitos de tinta:** expresse suas ideias com estilo usando efeitos de tinta e canetas metálicas, como arco-íris, galáxia, lava, oceano, ouro, prata e muito mais.
--   **Compartilhar arquivos da interface do usuário:** No caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
--   **Bloquear extensões perigosas:** Extensões que são consideradas como alto risco e são inseridas como objetos de pacote OLE, são bloqueadas, por padrão, a partir de ativação. Por exemplo, .exe,. vbs e. js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Compartilhar arquivos da interface do usuário:** no caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
+-   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: atualizações de recursos
 -   **Gerencie uma tarefa no Planner:** vincule uma tarefa do Project ao Planner e crie um plano para ela. Divida a tarefa em subtarefas, adicione uma equipe, atribua tarefas e gerencie o trabalho em um quadro de tarefas
@@ -320,7 +320,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o campo de status nem sempre é calculado corretamente para tarefas de resumo.
 
 ### <a name="publisher-feature-updates"></a>Publisher: atualizações de recursos
--   **Bloquear extensões perigosas:** Extensões que são consideradas como alto risco e são inseridas como objetos de pacote OLE, são bloqueadas, por padrão, a partir de ativação. Por exemplo, .exe,. vbs e. js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Adição de uma caixa de diálogo explicando por que um usuário não consegue ingressar em uma reunião quando determinadas portas estão bloqueadas ou os IPs não estão na lista de permissões.
@@ -334,13 +334,13 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que a notificação de compartilhamento na conversa de mensagem instantânea é ignorada antes da interrupção do compartilhamento.
 
 ### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
--   **Bloquear extensões perigosas:** Extensões que são consideradas como alto risco e são inseridas como objetos de pacote OLE, são bloqueadas, por padrão, a partir de ativação. Por exemplo, .exe,. vbs e. js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 -   **Modelos 3D:** Use o 3D para aumentar o impacto visual e criativo dos seus documentos. Insira facilmente um modelo 3D e, em seguida, você poderá girá-lo 360 graus. [Mais informações](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Novos efeitos de tinta:** expresse suas ideias com estilo usando efeitos de tinta e canetas metálicas, como arco-íris, galáxia, lava, oceano, ouro, prata e muito mais.
--   **Compartilhar arquivos da interface do usuário:** No caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
--   **Bloquear extensões perigosas:** Extensões que são consideradas como alto risco e são inseridas como objetos de pacote OLE, são bloqueadas, por padrão, a partir de ativação. Por exemplo, .exe,. vbs e. js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Compartilhar arquivos da interface do usuário:** no caso de arquivos do OneDrive for Business ou do SharePoint, clique no botão Compartilhar, no canto superior direito da faixa de opções, ou vá para Arquivo \> Compartilhar a fim de inicializar a caixa de diálogo Compartilhar aprimorada e simplificada. Para arquivos novos ou salvos localmente, a interface do usuário permite aos usuários enviar facilmente os arquivos para o OneDrive para começar a colaborar.
+-   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema que impede que a caixa de diálogo Novidades seja exibida.
@@ -451,7 +451,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 -   **Edição colaborativa:** trabalhe com outras pessoas em simultâneo na pasta de trabalho. [Mais informações](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **Salvamento automático:** As alterações são salvas automaticamente para pastas de trabalho armazenadas na nuvem e você pode ver as atualizações dos outros em segundos. [Obter mais informações](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **Salvamento automático:** As alterações são salvas automaticamente para pastas de trabalho armazenadas na nuvem e você pode ver as atualizações dos outros em segundos. [Mais informações](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
 
@@ -939,7 +939,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 -   **Estilo de notificação do Windows:** alterações na aparência das notificações de chamadas e conversas. [Mais informações](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **Transferência com consultoria:** De dentro de uma chamada, consulte com outro usuário por meio de uma mensagem Instantânea ou chamada antes de transferir a chamada para o usuário. [Obter mais informações](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **Transferência com consultoria:** De dentro de uma chamada, consulte com outro usuário por meio de uma mensagem Instantânea ou chamada antes de transferir a chamada para o usuário. [Mais informações](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notificações de microfone:** mostre uma notificação na janela da conversa quando o microfone estiver mudo no sistema operacional ou se o microfone não estiver captando nenhum áudio.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança

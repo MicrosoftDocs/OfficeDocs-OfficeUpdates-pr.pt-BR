@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece os profissionais de TI com notas de versão para as versões de canal delimitadas anual (multidifusão) do Office 365 ProPlus em 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555888"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de versão para as versões de canal delimitadas anual (multidifusão) no 2015
@@ -22,13 +22,13 @@ ms.locfileid: "19555888"
 Essas notas de versão fornecem informações sobre novos recursos, atualizações de segurança e atualizações não relacionadas à segurança são incluídas nas atualizações de canal delimitadas anual (multidifusão) para o Office 365 ProPlus em 2015.
  
 > [!NOTE]
-> - A seguir também fornece as informações sobre novos recursos, atualizações de segurança e não relacionadas à segurança atualizações para o Visio Pro para Office 365 e o cliente de Desktop do Project Online.
-> - Essas informações também se aplicam ao Office 365 Business, que é a versão do Office que vem com alguns planos do Office 365, como Business Premium.
+> - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
+> - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - Canal delimitadas anual (multidifusão) foi denominado primeiro lançamento para canal adiada antes de setembro de 2017.
 
 
 ## <a name="version-1509-december-8"></a>Versão 1509: 8 de dezembro
-*Versão 1509 (compilação 6001.1043)*
+*Versão 1509 (build 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema que faz com que impressões ou XPS criados usando o cliente Windows de área de trabalho apareçam como um X vermelho para clientes Windows que não sejam de área de trabalho, pois esses clientes não dão suporte à renderização XPS nativa.
@@ -46,7 +46,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-security-updates"></a>Word: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3116111)
 
-### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
 -   Correção de um problema que mostra o hífen não separável como um quadrado ao usar algumas fontes.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
@@ -57,15 +57,15 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 ## <a name="version-1509-november-10"></a>Versão 1509: 10 de novembro
-*Versão 1509 (compilação 6001.1038)*
+*Versão 1509 (build 6001.1038)*
 
-### <a name="access-security-updates"></a>Access: Atualizações de segurança
+### <a name="access-security-updates"></a>Access: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que gravar uma macro para criar uma consulta resulta em um erro de compilação.
 -   Correção de um problema em que, após excluir uma coluna no Editor de Consultas, uma coluna em branco aparece no final da tabela depois de atualizar a consulta.
 -   Correção de um problema em que um erro inesperado ocorre ao escolher a guia Minigráficos na Análise Rápida de uma tabela de consulta.
@@ -78,7 +78,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-security-updates"></a>OneNote: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema em que colar texto no Outlook não exibe o texto completo se a quantidade de texto colado for maior que a altura da janela.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Atualizações de segurança
@@ -94,7 +94,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 -   Boletim de Segurança da Microsoft [MS15-123](https://technet.microsoft.com/library/security/ms15-123): atualização de segurança do Skype for Business e Microsoft Lync para tratar da divulgação de informações (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Correção de um problema de ruído no áudio em dispositivos com dois microfones de entrada.
 -   Correção de um problema em que os usuários não conseguem ingressar em uma reunião após retirar um laptop do modo de suspensão e antes de o cliente do Skype entrar novamente.
 -   Adição de suporte para mensagens contextuais para ajudar a gerar conscientização sobre os recursos para os usuários.
@@ -107,7 +107,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
 -   Correção de um problema em que a numeração da nota de rodapé não corresponde entre a exibição no Word e a cópia impressa quando um documento que tem notas de rodapé definidas como "Reiniciar a numeração de cada página" for impresso em segundo plano.
 -   Correção de um problema em que a coautoria em tempo real não funciona com arquivos armazenados no OneDrive, incluindo a não exibição do usuário para outros usuários ao editar em tempo real e a falta de informações disponíveis.
 -   Correção de um problema em que o Word falha durante a coautoria em tempo real em um documento aberto a partir do SharePoint ou do OneDrive.
@@ -116,7 +116,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema em que o usuário é repetidamente solicitado a entrar ao tentar abrir arquivos a partir do SharePoint Online.
 -   Correção de um problema em que os atalhos fixados na barra de tarefas não são removidos para todos os usuários durante uma atualização manual.
 -   Adição ao processo de atualização manual do Clique para Executar da capacidade de detectar se o Outlook está conectado ao Exchange Server 2007 ou se o Business Contact Manager está instalado para avisar os usuários sobre possíveis problemas com a atualização.
@@ -126,7 +126,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 ## <a name="version-1509-october-21"></a>Versão 1509: 21 de outubro
-*Versão 1509 (compilação 6001.1034)*
+*Versão 1509 (build 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema que faz o OneNote falhar quando a mesma cor é selecionada duas vezes para uma borda no seletor de cores.
@@ -169,7 +169,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 ## <a name="version-1509-october-5"></a>Versão 1509: 5 de outubro
-*Versão 1509 (compilação 4229.1029)*
+*Versão 1509 (build 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema no Office 365 Business no qual usar o OneNote com o SharePoint resulta em uma mensagem de erro que informa aos usuários que eles têm que atualizar para uma versão diferente do Office.
@@ -178,7 +178,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Alteração daquilo que o visualizador vê quando o participante do compartilhamento bloqueia a tela no RDP. Agora o visualizador vê uma notificação em vez da imagem de pausa RDP.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema do Clique para Executar em que o serviço Clique para Executar do Office 2013 não é restaurado se a atualização automática do Office 2016 não for concluída devido a um erro ou cancelamento pelo usuário.
 -   Correção de problemas do Clique para Executar em que uma falha durante a atualização automática para o Office 2016 resulta em uma falha na atualização que não permite usar ou desinstalar os aplicativos do Office 2013.
 -   Correção de um problema de Clique para Executar em que tentar novamente a atualização automática do Office 2016 após reiniciar durante uma tentativa anterior resulta em uma falha na atualização e na incapacidade de desligar.
@@ -194,11 +194,11 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 ## <a name="version-1509-september-22"></a>Versão 1509: 22 de setembro
-*Versão 1509 (compilação 4229.1024)*
+*Versão 1509 (build 4229.1024)*
 
 Esta é a versão inicial para este canal. Esta versão oferece a primeira disponibilidade dos aplicativos do Office 2016.
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-099](https://technet.microsoft.com/library/security/ms15-099): vulnerabilidades do Microsoft Office poderão permitir a execução remota de código (3089664)
 -   Boletim de Segurança da Microsoft [MS15-110](https://technet.microsoft.com/library/security/ms15-110): atualizações de segurança do Microsoft Office para tratar da execução de código remoto (3096440)
 
@@ -208,6 +208,6 @@ Esta é a versão inicial para este canal. Esta versão oferece a primeira dispo
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): vulnerabilidades do Microsoft Office poderão permitir a execução remota de código (3080790)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-081](https://technet.microsoft.com/library/security/ms15-081): vulnerabilidades do Microsoft Office poderão permitir a execução remota de código (3080790)
 -   Boletim de Segurança da Microsoft [MS15-099](https://technet.microsoft.com/library/security/ms15-099): vulnerabilidades do Microsoft Office poderão permitir a execução remota de código (3089664)
