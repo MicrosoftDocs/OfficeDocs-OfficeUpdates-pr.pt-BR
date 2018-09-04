@@ -3,26 +3,26 @@ title: Histórico de atualizações do Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: dbb60a87c099c03bf0a92b0dbc93b8042b9821c2
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: fefb08e29c345c609b704585ebadfd978650416c
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246421"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520533"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5049.1000**, que foi lançada no dia 10 de julho de 2018. 
+> A versão atual do Office 2013 é **15.0.5059.1000**, que foi lançada no dia 14 de agosto de 2018. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -46,11 +46,12 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2018 |10 de julho   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/pt-BR/help/4340798)  |
-||12 de junho   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/pt-BR/help/4299875)  |
-||8 de maio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/pt-BR/help/4133083)  |
-||10 de abril   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/pt-BR/help/4098622)  |
-||13 de março   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/pt-BR/help/4090988)  |
+|2018 |14 de agosto   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
+||10 de julho   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
+||12 de junho   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
+||8 de maio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
+||10 de abril   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
+||13 de março   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
 ||13 de fevereiro   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||9 de janeiro   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017   |12 de dezembro   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
@@ -64,8 +65,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||11 de abril   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||14 de março   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||22 de fevereiro   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||10 de janeiro   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/pt-BR/kb/3214449)  |
-|2016   |13 de dezembro   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/pt-BR/kb/3208595)  |
+||10 de janeiro   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
+|2016   |13 de dezembro   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
 ||8 de novembro   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||11 de outubro   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||13 de setembro   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |

@@ -3,7 +3,7 @@ title: Atualizações do Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: b2aace5f2936b9adc546067940e065433d8a49c1
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246301"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520513"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -30,6 +30,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Agosto de 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Julho de 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |Junho de 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Maio de 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
@@ -78,6 +79,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Agosto de 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Julho de 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Junho de 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Maio de 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |

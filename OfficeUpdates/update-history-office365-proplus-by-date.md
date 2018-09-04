@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/25/2018
+ms.date: 8/15/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 408a4936d0e6da5710764cbc210647ea3d4ecb62
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 010cfa211dd4d7059222b3e3f12daa5a9af7f42b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772508"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520673"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -32,8 +32,10 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|25 de julho   |[**Versão 1807 (build 10325.20082)**](monthly-channel-2018.md#version-1807-july-25) | | |
-|2018|10 de julho   |[Versão 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versão 1803 (build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versão 1803 (build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|14 de agosto   |**[Versão 1807 (build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Versão 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versão 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versão 1708 (build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+||25 de julho   |[Versão 1807 (build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+||17 de Julho   |[Versão 1806 (build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+||10 de julho   |[Versão 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versão 1803 (build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versão 1803 (build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||25 de junho   |[Versão 1806 (build 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||13 de junho   |[Versão 1805 (build 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
 ||12 de junho   |[Versão 1805 (build 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[Versão 1803 (build 9126.2227)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[Versão 1708 (build 8431.2270)](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [Versão 1705 (build 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
@@ -56,19 +58,19 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 ||17 de janeiro   | [Versão 1712 (build 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
 ||9 de janeiro   | [Versão 1711 (build 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [Versão 1708 (build 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [Versão 1708 (build 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [Versão 1705 (build 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
 ||2 de janeiro   | [Versão 1711 (build 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017|12 de dezembro  <br/> | [Versão 1711 (build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Versão 1708 (build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Versão 1705 (build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [ Versão 1701 (build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+|2017|12 de dezembro  <br/> | [Versão 1711 (build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Versão 1708 (build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Versão 1705 (build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Versão 1701 (build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||6 de dezembro  <br/> | [Versão 1711 (build 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||27 de novembro  <br/> | [Versão 1710 (build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||24 de novembro  <br/> |  <br/> |  <br/> |[Versão 1705 (build 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
 ||20 de novembro  <br/> | [Versão 1710 (build 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |
-||14 de novembro  <br/> | [Versão 1710 (build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [Versão 1708 (build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Versão 1705 (build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [ Versão 1701 (build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
+||14 de novembro  <br/> | [Versão 1710 (build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [Versão 1708 (build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Versão 1705 (build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [Versão 1701 (build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
 ||2 de novembro  <br/> |[Versão 1710 (build 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |
 ||25 de outubro  <br/> | [Versão 1709 (build 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |
 ||16 de outubro  <br/> | [Versão 1709 (build 8528.2139)](monthly-channel-2017.md#version-1709-october-16)  <br/> |  <br/> |  <br/> |
-||10 de outubro  <br/> | [Versão 1708 (build 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [Versão 1708 (build 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [Versão 1705 (build 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [ Versão 1701 (build 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
+||10 de outubro  <br/> | [Versão 1708 (build 8431.2107)](monthly-channel-2017.md#version-1708-october-10)  <br/> | [Versão 1708 (build 8431.2107)](semi-annual-channel-targeted-2017.md#version-1708-october-10) <br/> | [Versão 1705 (build 8201.2200)](semi-annual-channel-2017.md#version-1705-october-10)  <br/>  [Versão 1701 (build 7766.2119)](semi-annual-channel-2017.md#version-1701-october-10)  <br/> |
 ||4 de outubro  <br/> | [Versão 1708 (build 8431.2094)](monthly-channel-2017.md#version-1708-october-4)  <br/> |  <br/> |  <br/> |
 ||18 de setembro  <br/> | [Versão 1708 (build 8431.2079)](monthly-channel-2017.md#version-1708-september-18)  <br/> |  <br/> |  <br/> |
-||12 de setembro  <br/> | [Versão 1707 (build 8326.2107)](monthly-channel-2017.md#version-1707-september-12)  <br/> | [Versão 1708 (build 8431.2079)](semi-annual-channel-targeted-2017.md#version-1708-september-12)  <br/> | [Versão 1705 (build 8201.2193)](semi-annual-channel-2017.md#version-1705-september-12)  <br/>  [ Versão 1701 (build 7766.2116)](semi-annual-channel-2017.md#version-1701-september-12)  <br/> |
+||12 de setembro  <br/> | [Versão 1707 (build 8326.2107)](monthly-channel-2017.md#version-1707-september-12)  <br/> | [Versão 1708 (build 8431.2079)](semi-annual-channel-targeted-2017.md#version-1708-september-12)  <br/> | [Versão 1705 (build 8201.2193)](semi-annual-channel-2017.md#version-1705-september-12)  <br/>  [Versão 1701 (build 7766.2116)](semi-annual-channel-2017.md#version-1701-september-12)  <br/> |
 ||29 de agosto  <br/> | [Versão 1707 (build 8326.2096)](monthly-channel-2017.md#version-1707-august-29)  <br/> |  <br/> |  <br/> |
 ||24 de agosto  <br/> | [Versão 1707 (build 8326.2087)](monthly-channel-2017.md#version-1707-august-24)  <br/> |  <br/> |  <br/> |
 ||18 de agosto  <br/> | [Versão 1707 (build 8326.2076)](monthly-channel-2017.md#version-1707-august-18)  <br/> |  <br/> |  <br/> |
@@ -77,15 +79,15 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 ||7 de agosto  <br/> | [Versão 1707 (build 8326.2070)](monthly-channel-2017.md#version-1707-august-7)  <br/> |  <br/> |  <br/> |
 ||31 de julho  <br/> | [Versão 1707 (build 8326.2062)](monthly-channel-2017.md#version-1707-july-31)  <br/> |  <br/> |  <br/> |
 ||28 de julho  <br/> | [Versão 1707 (build 8326.2059)](monthly-channel-2017.md#version-1707-july-28)  <br/> |  <br/> |  <br/> |
-||27 de julho  <br/> | [Versão 1707 (build 8326.2058)](monthly-channel-2017.md#version-1707-july-27)  <br/> |[Versão 1705 (build 8201.2158)](semi-annual-channel-targeted-2017.md#version-1705-july-27)  <br/> | [ Versão 1701 (build 7766.2099)](semi-annual-channel-2017.md#version-1701-july-27)  <br/>  [Versão 1609 (build 7369.2154)](semi-annual-channel-2017.md#version-1609-july-27)  <br/> |
+||27 de julho  <br/> | [Versão 1707 (build 8326.2058)](monthly-channel-2017.md#version-1707-july-27)  <br/> |[Versão 1705 (build 8201.2158)](semi-annual-channel-targeted-2017.md#version-1705-july-27)  <br/> | [Versão 1701 (build 7766.2099)](semi-annual-channel-2017.md#version-1701-july-27)  <br/>  [Versão 1609 (build 7369.2154)](semi-annual-channel-2017.md#version-1609-july-27)  <br/> |
 ||19 de julho  <br/> | [Versão 1706 (build 8229.2103)](monthly-channel-2017.md#version-1706-july-19)  <br/> |  <br/> |  <br/> |
-||13 de julho  <br/> | [Versão 1706 (build 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [Versão 1705 (build 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [ Versão 1701 (build 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [Versão 1609 (build 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
+||13 de julho  <br/> | [Versão 1706 (build 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [Versão 1705 (build 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [Versão 1701 (build 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [Versão 1609 (build 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
 ||28 de junho  <br/> | [Versão 1706 (build 8229.2073)](monthly-channel-2017.md#version-1706-june-28)  <br/> |  <br/> |  <br/> |
-||13 de junho  <br/> | [Versão 1705 (build 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [Versão 1705 (build 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [ Versão 1701 (build 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [Versão 1609 (build 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
+||13 de junho  <br/> | [Versão 1705 (build 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [Versão 1705 (build 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [Versão 1701 (build 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [Versão 1609 (build 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
 ||7 de junho  <br/> | [Versão 1705 (build 8201.2075)](monthly-channel-2017.md#version-1705-june-7)  <br/> |  <br/> |  <br/> |
 ||1 de junho  <br/> | [Versão 1704 (build 8067.2157)](monthly-channel-2017.md#version-1704-june-1)  <br/> |  <br/> |  <br/> |
 ||18 de maio  <br/> | [Versão 1704 (build 8067.2115)](monthly-channel-2017.md#version-1704-may-18)  <br/> |  <br/> |  <br/> |
-||9 de maio  <br/> | [Versão 1703 (build 7967.2161)](monthly-channel-2017.md#version-1703-may-9)  <br/> | [ Versão 1701 (build 7766.2084)](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [Versão 1609 (build 7369.2130)](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [Versão 1605 (build 6965.2150)](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
+||9 de maio  <br/> | [Versão 1703 (build 7967.2161)](monthly-channel-2017.md#version-1703-may-9)  <br/> | [Versão 1701 (build 7766.2084)](semi-annual-channel-targeted-2017.md#version-1701-may-9)  <br/> | [Versão 1609 (build 7369.2130)](semi-annual-channel-2017.md#version-1609-may-9)  <br/>  [Versão 1605 (build 6965.2150)](semi-annual-channel-2017.md#version-1605-may-9)  <br/> |
 ||21 de abril  <br/> | [Versão 1703 (build 7967.2139)](monthly-channel-2017.md#version-1703-april-21)  <br/> |  <br/> |  <br/> |
 ||11 de abril  <br/> | [Versão 1702 (build 7870.2038)](monthly-channel-2017.md#version-1702-april-11)  <br/> | [Versão 1701 (build 7766.2076)](semi-annual-channel-targeted-2017.md#version-1701-april-11)  <br/> | [Versão 1609 (build 7369.2127)](semi-annual-channel-2017.md#version-1609-april-11)  <br/>  [Versão 1605 (build 6965.2145)](semi-annual-channel-2017.md#version-1605-april-11)  <br/> |
 ||27 de março  <br/> | [Versão 1702 (build 7870.2031)](monthly-channel-2017.md#version-1702-march-27)  <br/> |  <br/> |  <br/> |
@@ -153,6 +155,6 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 - [Informações de versão das atualizações do Office 365 ProPlus](release-notes-office365-proplus.md)
 - [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
-
-OBSERVAÇÃO: se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft] (https://answers.microsoft.com/) ou na [Comunidade de Tecnologia] (https://techcommunity.microsoft.com/) ou contate o [suporte] (https://support.microsoft.com/contactus).
+> [!NOTE]
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
 
