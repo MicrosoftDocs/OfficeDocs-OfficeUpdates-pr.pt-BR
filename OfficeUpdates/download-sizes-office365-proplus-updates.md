@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520593"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839189"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -36,11 +36,21 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
 
+  ## <a name="september-5-2018"></a>5 de setembro de 2018
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1808 (Build 10730.20088).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1807 (build 10325.20082)  <br/> |25 de julho de 2018  <br/> |237  <br/> |
+|Versão 1807 (Build 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
   ## <a name="august-14-2018"></a>14 de agosto de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1807 (compilação 10325.20118).
+O lançamento mais atual é a versão 1807 (Build 10325.20118).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -50,21 +60,21 @@ O lançamento mais atual é a versão 1807 (compilação 10325.20118).
   
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1803 (compilação 9126.2275).
+O lançamento mais atual é a versão 1803 (Build 9126.2275).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (compilação 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
+|Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
 |Versão 1708 (build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (compilação 9126.2275).
+O lançamento mais atual é a versão 1803 (Build 9126.2275).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (compilação 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
+|Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
 |Versão 1803 (build 9126.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25 de julho de 2018
@@ -98,7 +108,7 @@ O lançamento mais atual é a versão 1803 (build 9126.2259).
 |Versão 1708 (build 8431.2270)  <br/> |12 de junho de 2018  <br/> |280  <br/> |
 |Versão 1708 (build 8431.2250)  <br/> |8 de maio de 2018  <br/> |280  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Canal Semestral (Direcionado)
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
 O lançamento mais atual é a versão 1803 (build 9126.2259).
   
@@ -156,12 +166,12 @@ O lançamento mais atual é a versão 1708 (build 8431.2270).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (compilação 9126.2275).
+O lançamento mais atual é a versão 1803 (Build 9126.2275).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (compilação 8431.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
-|Versão 1708 (compilação 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
+|Versão 1708 (Build 8431.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
+|Versão 1708 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
 |Versão 1708 (build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
 O lançamento mais atual é a versão 1803 (build 9126.2227).

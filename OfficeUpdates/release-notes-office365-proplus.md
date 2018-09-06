@@ -3,19 +3,19 @@ title: Informações de versão das atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/18
+ms.date: 9/5/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Office 365 ProPlus para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: b583775238a3ce42debbc35daaf56964532ae276
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520573"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839219"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informações de versão das atualizações do Office 365 ProPlus
 
@@ -26,6 +26,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
   
 |**Canal**|**Versão**|**Compilação**|**Data de lançamento**|**Versão suportada até**|
 |:-----|:-----|:-----|:-----|:-----|
+|Mensalmente  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5 de setembro de 2018  <br/> |Lançamos a versão 1809 <br/>|
 |Mensalmente  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14 de agosto de 2018  <br/> | Lançamos a versão 1808 <br/>|
 |Semestralmente (Direcionado)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14 de agosto de 2018  <br/> | 11 de setembro de 2018 <br/>|
 |Semestralmente <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14 de agosto de 2018  <br/> | 10 de setembro de 2019 <br/>|
