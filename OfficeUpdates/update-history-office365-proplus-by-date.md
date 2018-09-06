@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 010cfa211dd4d7059222b3e3f12daa5a9af7f42b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 02c3c000930ee25a98f1a96c0bb27ad12b639bae
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520673"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839199"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -28,13 +28,16 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 > - O número da versão e do build em negrito indica o número da versão e do build mais atual desse canal de atualização específico.
 > - Para saber mais sobre canais de atualização, confira o artigo [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-  
+
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|14 de agosto   |**[Versão 1807 (build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Versão 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versão 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versão 1708 (build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|5 de Setembro   |[**Versão 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
 ||25 de julho   |[Versão 1807 (build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-||17 de Julho   |[Versão 1806 (build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+|2018|10 de julho   |[Versão 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versão 1803 (build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versão 1803 (build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|2018|14 de agosto   |**[Versão 1807 (build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)** |**[Versão 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versão 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versão 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+||25 de julho   |[Versão 1807 (build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+||17 de Julho   |[Versão 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||10 de julho   |[Versão 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versão 1803 (build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versão 1803 (build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||25 de junho   |[Versão 1806 (build 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||13 de junho   |[Versão 1805 (build 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
@@ -156,5 +159,5 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 - [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou à [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
 
