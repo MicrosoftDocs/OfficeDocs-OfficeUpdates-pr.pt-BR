@@ -3,27 +3,57 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520683"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839209"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
 As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Canal Mensal para Office 365 ProPlus em 2018.
  
-> [!NOTE]
+ > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+## <a name="version-1808-september-5"></a>Versão 1808: 5 de setembro
+*Versão 1808 (Build 10730.20088)*
+
+### <a name="access-feature-updates"></a>Access: atualização de recursos
+ - **Atualizar, vincular novamente ou remover tabelas vinculadas** O Gerenciador de Tabelas Vinculadas atualizado é o local para o gerenciamento de todas as fontes de dados e tabelas vinculadas. [Saiba mais](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook: atualização de recursos
+ - **Desativar o encaminhamento de uma reunião** Impede que os participantes encaminhem sua reunião para outras pessoas. Vá para a faixa de opções e clique em Opções de resposta. [Saiba mais](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio: atualização de recursos
+ - **Desfrute de mais ícones em seu próximo diagrama** Escolha entre 26 novos estênceis com ícones para análise, artes, celebração, faces, esportes e muito mais. 
+ - **Crie um documento do Word com formas do Visio** Adicione automaticamente o conteúdo do diagrama, incluindo formas e metadados em um documento do Word. Em seguida, personalize o documento para criar diretrizes de processos e manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio e Power BI: melhores em conjunto** Com apenas alguns cliques, transforme seu diagrama do Visio em uma visualização interativa do Power BI. [Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project: atualização de recursos
+ - **Veja mais informações nos cartões do Painel de tarefas** Quando o título sozinho não for suficiente, personalize seus cartões do Painel de Tarefas para mostrar todos os detalhes mais importantes. [Saiba mais](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+- Corrige um problema no Excel no qual a linha pontilhada que marca o intervalo de células selecionadas para cópia não desaparece, permanecendo na área de transferência mesmo após uma operação subsequente do usuário como colar. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+ - Resolve um problema em que o link "Clique para exibir mais …" não aparecia na lista de resultados da pesquisa para alguns usuários com várias contas do Exchange configuradas.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+ - Corrigiu um problema que fazia com que a instalação da atualização demorasse muito tempo em determinados cenários.
+ 
+### <a name="lync-non-security-updates"></a>Lync: Atualizações não relacionadas à segurança
+ - Corrige um problema que impedia que emoticons fossem exibidos em mensagens instantâneas. 
+
 
 ## <a name="version-1807-august-14"></a>Versão 1807: 14 de agosto
 *Versão 1807 (Build 10325.20118)*
@@ -34,12 +64,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Vulnerabilidade de execução remota de código no Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Vulnerabilidade de execução remota de código no Microsoft Excel 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informações no Microsoft Excel 
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Atualização abrangente de segurança para o Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Vulnerabilidade de divulgação não autorizada de informações do Microsoft Office 
 
 ## <a name="version-1807-july-25"></a>Versão 1807: 25 de julho
@@ -71,12 +101,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1806 (build 10228.20104)*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Uso de execução de código remoto do Microsoft Access após a vulnerabilidade de liberação
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilidade de adulteração do Microsoft Office
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office
 
 
@@ -84,12 +114,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1806 (build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
- - **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.
+ - **Melhoria na edição de células e na barra de fórmulas:** Agora você pode usar CTRL+A para selecionar o texto em uma célula ou na barra de fórmulas. O suporte para emojis e outros caracteres complexos também foi aprimorado.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
  - **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
- - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis.
+ - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis. [Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
  - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -127,7 +157,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): vulnerabilidade de divulgação de informações confidenciais do Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
@@ -199,7 +229,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidade de divulgação de informações do Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -212,7 +242,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 -   **Ouça seus emails:** o Outlook pode ler o email em voz alta e realçar o texto conforme lê. [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Nunca mais perca um lembrete:** defina lembretes a serem abertos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook pisca na barra de ferramentas para chamar sua atenção.
+-   **Nunca mais perca um lembrete:** defina lembretes a serem abertos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook pisca na barra de tarefas para chamar a sua atenção.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marque itens excluídos como lidos:** agora você pode definir qualquer mensagem excluída como lida. Para isso, vá para Arquivo \> Opções \> Email \> Outras.
 -   **Opção de criptografia:** os usuários da Criptografia de Mensagens do Office 365 podem criptografar uma mensagem e enviá-la para qualquer pessoa, dentro ou fora da organização. A opção de criptografia é exibida em Opções \> Permissões ao criar uma mensagem. [Saiba mais](https://aka.ms/omeoverview)
 
@@ -324,7 +354,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): vulnerabilidade de execução remota de código do Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): vulnerabilidade de elevação de privilégio do Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): vulnerabilidade de corrupção de memória do Microsoft Outlook
 
@@ -408,7 +438,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): vulnerabilidade de execução remota de código do Microsoft Excel
 -   [Supervisão 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
 
@@ -444,4 +474,4 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   Correção de um problema em que o código VBA perde-se dos projetos.
 
 > [!NOTE]
-> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou à [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
