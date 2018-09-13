@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2018
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520653"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952441"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral em 2018
 
@@ -26,48 +26,78 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - O Canal Semestral era conhecido como Canal Adiado antes de janeiro de 2018.
 
+## <a name="version-1803-september-11"></a>Versão 1803: 11 de setembro
+*Versão 1803 (Compilação 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel
+
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Vulnerabilidade de execução remota de código de PDF para Word
+
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnerabilidade de execução de código remoto de elementos gráficos do Win32k
+
+
+## <a name="version-1708-september-11"></a>Versão 1708: 11 de setembro
+*Versão 1708 (Compilação 8431.2309)*
+
+*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral — a Versão 1803 (compilação 16.0.9126.2282) — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
+
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel
+
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Vulnerabilidade de execução remota de código de PDF para Word
+
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnerabilidade de execução de código remoto de elementos gráficos do Win32k
+
+
 ## <a name="version-1803-august-14"></a>Versão 1803: 14 de agosto
-*Versão 1803 (build 9126.2275)*
+*Versão 1803 (Compilação 9126.2275)*
 
-### <a name="access-security-updates"></a>Access: Atualizações de segurança
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Uso de execução de código remoto do Microsoft Access após a vulnerabilidade de liberação
+### <a name="access-security-updates"></a>Access: atualizações de segurança
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Vulnerabilidade de execução remota de código no Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Vulnerabilidade de execução remota de código no Microsoft Excel 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informação no Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Atualização abrangente de segurança para o Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Vulnerabilidade de divulgação não autorizada de informações do Microsoft Office 
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Office 
 
 
 ## <a name="version-1708-august-14"></a>Versão 1708: 14 de agosto
-*Versão 1708 (Build 8431.2299)*
+*Versão 1708 (Compilação 8431.2299)*
 
-*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral, a versão 1803 (build 16.0.9126.2275), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
+*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral — a Versão 1803 (compilação 16.0.9126.2275) — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
 
 ### <a name="access-security-updates"></a>Access: Atualizações de segurança
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Uso de execução de código remoto do Microsoft Access após a vulnerabilidade de liberação
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Vulnerabilidade de execução remota de código no Microsoft Excel 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Vulnerabilidade de execução remota de código no Microsoft Excel 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Vulnerabilidade de divulgação não autorizada de informação no Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Atualização abrangente de segurança para o Microsoft Office 
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Vulnerabilidade de divulgação não autorizada de informações do Microsoft Office 
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Office 
 
 
 ## <a name="version-1803-july-10"></a>Versão 1803: 10 de julho
 *Versão 1803 (build 9126.2259)*
 
-### <a name="access-security-updates"></a>Access: Atualizações de segurança
+### <a name="access-security-updates"></a>Access: atualizações de segurança
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): vulnerabilidade de execução remota de código do Microsoft Access
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Uso de execução de código remoto do Microsoft Access após a vulnerabilidade de liberação 
 
@@ -367,9 +397,9 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 
 ## <a name="version-1708-july-10"></a>Versão 1708: 10 de julho
-*Versão 1708 (Build 8431.2280)*
+*Versão 1708 (Compilação 8431.2280)*
 
-*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral, a Versão 1803 (Build 9126.2259), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
+*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral — a Versão 1803 (Compilação 9126.2259) — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
 
 ### <a name="access-security-updates"></a>Access: Atualizações de segurança
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Uso de execução de código remoto do Microsoft Access após a vulnerabilidade de liberação
@@ -770,7 +800,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnerabilidade de execução remota de código do Microsoft Office
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Vulnerabilidade de execução remota de código do Microsoft Office
--   [Supervisão 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): atualização de proteção abrangente do Microsoft Office
+-   [Supervisão 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): atualização de Proteção Abrangente do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Adição de suporte para logon único (SSO) para usuários do domínio de planos do Office 365 Germany em que a identidade for federada com um Active Directory local.
@@ -822,7 +852,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidade de execução remota de código do Microsoft Office
--   [Supervisão 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): atualização de proteção abrangente do Microsoft Office
+-   [Supervisão 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): atualização de Proteção Abrangente do Microsoft Office
 
 > [!NOTE]
-> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou à [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
