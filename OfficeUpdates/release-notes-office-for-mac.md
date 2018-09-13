@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/16/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 1ca096f0a4595eb8017f5af719a8d4b85bd58d73
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
+ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520733"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23959326"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -30,6 +30,24 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - Estas notas de versão também se aplicam ao Office 2016 para Mac, que é a versão de licença perpétua do Office para Mac e está disponível como uma compra única em uma loja de varejo ou por meio de um contrato de licenciamento por volume. Mas alguns recursos que aparecem nas notas de versão só estarão disponíveis se você tiver uma assinatura do Office 365.
 > - Os links para download são fornecidos apenas para as últimas versões.
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
+
+## <a name="september-2018-release"></a>Versão de setembro de 2018
+
+ **Data do lançamento:** 11 de setembro de 2018 
+  
+ *Versão 16.17.0 (Build 18090901)* 
+  
+Esta versão oferece as seguintes atualizações.
+
+  
+|**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|
+|Word  <br/> |**Obtenha a atenção deles com menções \@:** Use @mentions em comentários para informar seus colegas que você precisa da contribuição deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Desenhe com tinta:** Use o mouse ou o teclado sensível ao toque e as canetas na guia Desenho para escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Insira modelos 3D para ver todos os ângulos:** Insira facilmente um modelo 3D e, em seguida, gire-o em 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Desenhe com tinta:** Use o mouse ou o teclado sensível ao toque e as canetas na guia Desenho para escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insira modelos 3D para ver todos os ângulos:** Insira facilmente um modelo 3D e, em seguida, gire-o em 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Os atalhos personalizados do teclado estão de volta:** Escutamos vocês! Como vocês pediram, trouxemos de volta os atalhos personalizados. [Saiba mais](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Vulnerabilidade de divulgação não autorizada de informação do Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Vulnerabilidade de execução remota de código do Microsoft Excel <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Obtenha a atenção deles com menções \@:** Use @mentions em comentários para informar seus colegas que você precisa da contribuição deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Desenhe com tinta:** Use o mouse ou o teclado sensível ao toque e as canetas na guia Desenho para escrever, desenhar e realçar.[Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Insira modelos 3D para ver todos os ângulos:** Insira facilmente um modelo 3D e, em seguida, gire-o em 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**A fonte que você escolhe é a fonte que eles veem:** Incorpore suas fontes personalizadas em seus arquivos para que elas sigam junto com eles. [Saiba mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.2  <br/> |||[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Pacote do Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnerabilidade de execução de código remoto no Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Versão de agosto de 2018
 
@@ -48,7 +66,7 @@ Esta versão oferece as seguintes atualizações.
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): vulnerabilidade de elevação de privilégio do Office do Microsoft AutoUpdate  <br/>|[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
 |Pacote do Office  <br/> ||||
 
-## <a name="july-2018-release"></a>Versão de julho de 2018
+## <a name="july-2018-release"></a>Lançamento de julho de 2018
 
  **Data do lançamento:** 10 de julho de 2018 
   
@@ -73,10 +91,8 @@ Esta versão oferece as seguintes atualizações.
 *Versão 16.14.1 (build 18061302)*
 
 Este lançamento corrige um problema com os pacotes de atualização dos aplicativos individuais.
-
-Aqui estão os links para baixar os pacotes de atualização: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) e [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg).
-
 <br/><br/>
+
 
  **Data do lançamento:** 12 de junho de 2018 
   
