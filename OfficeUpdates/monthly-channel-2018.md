@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839209"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952421"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -24,6 +24,20 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
+*Versão 1808 (Build 10730.20102)*
+
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel
+
+### <a name="word-security-updates"></a>Word: atualizações de segurança
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): vulnerabilidade de execução remota de código do Microsoft Word
+
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidade de execução de código remoto de elementos gráficos do Win32k
+
 
 ## <a name="version-1808-september-5"></a>Versão 1808: 5 de setembro
 *Versão 1808 (Build 10730.20088)*
@@ -43,13 +57,13 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  - **Veja mais informações nos cartões do Painel de tarefas** Quando o título sozinho não for suficiente, personalize seus cartões do Painel de Tarefas para mostrar todos os detalhes mais importantes. [Saiba mais](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
-- Corrige um problema no Excel no qual a linha pontilhada que marca o intervalo de células selecionadas para cópia não desaparece, permanecendo na área de transferência mesmo após uma operação subsequente do usuário como colar. 
+-  Corrige um problema no Excel no qual a linha pontilhada que marca o intervalo de células selecionadas para cópia não desaparece, permanecendo na área de transferência mesmo após uma operação subsequente do usuário como colar. 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
  - Resolve um problema em que o link "Clique para exibir mais …" não aparecia na lista de resultados da pesquisa para alguns usuários com várias contas do Exchange configuradas.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
- - Corrigiu um problema que fazia com que a instalação da atualização demorasse muito tempo em determinados cenários.
+ - Corrigido um problema que fazia com que a instalação da atualização demorasse muito tempo em determinados cenários.
  
 ### <a name="lync-non-security-updates"></a>Lync: Atualizações não relacionadas à segurança
  - Corrige um problema que impedia que emoticons fossem exibidos em mensagens instantâneas. 
@@ -164,7 +178,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 - Correção de um problema em que, ao chamar a API de Mensagem, o aplicativo podia falhar.
 
-### <a name="project-non-security-updates"></a>Atualizações do Project não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 
 - Correção de um problema em que você era impedido de salvar um subprojeto ao trabalhar com eles por meio do contexto de um projeto mestre.
 

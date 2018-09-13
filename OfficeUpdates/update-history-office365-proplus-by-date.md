@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.openlocfilehash: 12cfa9021a7a5513c55ffec608daebda62cc1553
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848369"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952401"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -32,8 +32,9 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|5 de Setembro   |[**Versão 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018|14 de agosto   |[Versão 1807 (build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[Versão 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Versão 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Versão 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|11 de setembro   |[**Versão 1808 (Build 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**Versão 1808 (Build 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |**[Versão 1803 (build 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [**Versão 1708 (Build 8431.2309**)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018|5 de Setembro   |[Versão 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018|14 de agosto   |[Versão 1807 (build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[Versão 1803 (build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[Versão 1803 (build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [Versão 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25 de julho   |[Versão 1807 (build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||17 de Julho   |[Versão 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||10 de julho   |[Versão 1806 (build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Versão 1803 (build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Versão 1803 (build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Versão 1708 (build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
@@ -157,5 +158,5 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 - [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/), no site da [Tech Community](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou à [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
 
