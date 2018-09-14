@@ -3,7 +3,7 @@ title: Atualizações do SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Localize e gerencie as atualizações do SharePoint Server 2016, do SharePoint 2013 e do SharePoint 2010 em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
-ms.openlocfilehash: afdc90d617c0cdcb6261d5a0a177c2e330375491
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520563"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954837"
 ---
 # <a name="sharepoint-updates"></a>Atualizações do SharePoint
 
@@ -33,7 +33,8 @@ Confira as atualizações mais recentes do SharePoint Online e do Office 365 em 
 
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
-|SharePoint Server 2016  <br/> MUI/patch de idiomas do SharePoint Server 2016  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Agosto de 2018  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Setembro de 2018  <br/> |
+|SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Agosto de 2018  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Julho de 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |Junho de 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4018381](https://support.microsoft.com/en-us/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/en-us/help/4018386) <br/> |Maio de 2018  <br/> |
@@ -77,6 +78,7 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
     
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Setembro de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Agosto de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Julho de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/en-us/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/en-us/help/4022187) <br/> |Junho de 2018  <br/> |
@@ -136,6 +138,7 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
 
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Setembro de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Agosto de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Junho de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/en-us/help/4022143) <br/> |Maio de 2018  <br/> |
