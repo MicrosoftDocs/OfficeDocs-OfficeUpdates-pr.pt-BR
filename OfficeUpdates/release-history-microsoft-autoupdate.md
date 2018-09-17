@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936653"
+ms.locfileid: "23940302"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,7 +31,7 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
   
 |**Data de lançamento**|**Versão**|**Mais informações**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
-|11 de setembro de 2018  <br/> |4.3.0  <br/> |[Notas de versão](release-notes-office-for-mac.md#september-2018-release) <br/> |[Baixar o MAU 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
+|11 de setembro de 2018  <br/> |4.3.0  <br/> |[Notas de versão](release-notes-office-for-mac.md#september-2018-release) <br/> |[Baixar o MAU 4.3.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |14 de agosto de 2018  <br/> |4.2.0  <br/> |[Notas de versão](release-notes-office-for-mac.md#august-2018-release) <br/> |[Baixar o MAU 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |10 de julho de 2018  <br/> |4.1.0  <br/> |[Notas de versão](release-notes-office-for-mac.md#july-2018-release) <br/> |[Baixar o Microsoft AutoUpdate 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
 |12 de junho de 2018  <br/> |4.0.0  <br/> |||
