@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: a24200136bb968725bb78cc6df179932c8b35eed
+ms.sourcegitcommit: df20f4e7260515436bf69201c1e5e8a60b9b92e2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965137"
+ms.lasthandoff: 09/21/2018
+ms.locfileid: "24960941"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -36,6 +36,38 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
 
+  ## <a name="september-11-2018"></a>11 de setembro de 2018
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
+  
+|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (Build 10730.20088)  <br/> |5 de setembro de 2018  <br/> |96  <br/> |
+|Versão 1807 (Compilação 10325.20118)  <br/> |14 de agosto de 2018  <br/> |239 <br/> |
+|Versão 1807 (Compilação 10325.20082)  <br/> |25 de julho de 2018  <br/> |240  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+O lançamento mais atual é a Versão 1803 (Compilação 9126.2282).
+  
+|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/> |99  <br/> |
+|Versão 1708 (Compilação 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
+
+O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
+  
+|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1803 (Compilação 9126.2275)  <br/> |14 de agosto de 2018  <br/> |289 <br/> |
+|Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/>   |287  <br/>|
+
   ## <a name="september-5-2018"></a>5 de setembro de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
@@ -44,39 +76,39 @@ O lançamento mais atual é a versão 1808 (Build 10730.20088).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1807 (Build 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
-|Versão 1807 (Build 10325.20082)  <br/> |25 de julho de 2018  <br/> |237  <br/> |
+|Versão 1807 (Compilação 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
+|Versão 1807 (Compilação 10325.20082)  <br/> |25 de julho de 2018  <br/> |237  <br/> |
 
   ## <a name="august-14-2018"></a>14 de agosto de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-A versão mais atual é a 1807 (Build 10325.20118).
+A última versão é a 1807 (Compilação 10325.20118).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1807 (Build 10325.20082)  <br/> |25 de julho de 2018  <br/> |82  <br/> |
+|Versão 1807 (Compilação 10325.20082)  <br/> |25 de julho de 2018  <br/> |82  <br/> |
 |Versão 1807 (compilação 10228.20134)  <br/> |17 de julho de 2018  <br/> |183  <br/> |
 
   
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-A versão mais atual é a 1803 (Build 9126.2275).
+A última versão é a 1803 (Compilação 9126.2275).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
+|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-A versão mais atual é a 1803 (Build 9126.2275).
+A última versão é a 1803 (Compilação 9126.2275).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1803 (Build 9126.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
+|Versão 1803 (Compilação 9126.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25 de julho de 2018
 
@@ -107,7 +139,7 @@ O lançamento mais atual é a versão 1803 (build 9126.2259).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |280  <br/> |
+|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |280  <br/> |
 |Versão 1708 (build 8431.2250)  <br/> |8 de maio de 2018  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
@@ -116,8 +148,8 @@ O lançamento mais atual é a versão 1803 (Build 9126.2259).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (Build 9126.2227)  <br/> |12 de junho de 2018  <br/> |78  <br/> |
-|Versão 1803 (Build 9126.2210)  <br/> |18 de maio de 2018  <br/> |85  <br/> | 
+|Versão 1803 (Compilação 9126.2227)  <br/> |12 de junho de 2018  <br/> |78  <br/> |
+|Versão 1803 (Compilação 9126.2210)  <br/> |18 de maio de 2018  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>25 de junho de 2018
@@ -168,13 +200,13 @@ O lançamento mais atual é a versão 1708 (build 8431.2270).
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-A versão mais atual é a 1803 (Build 9126.2275).
+A última versão é a 1803 (Compilação 9126.2275).
   
 |**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (Build 8431.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
-|Versão 1708 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
+|Versão 1708 (Compilação 8431.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
+|Versão 1708 (Compilação 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
+|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
 O lançamento mais atual é a versão 1803 (build 9126.2227).
   
@@ -435,4 +467,4 @@ O lançamento mais atual é a versão 1801 (build 9001.2138).
 - [Histórico de atualização do Office 365 ProPlus (relacionado por versão)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que envie sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou à [Comunidade Tech](https://techcommunity.microsoft.com/) ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
+> Se você precisar de ajuda com um problema ao usar o Office, recomendamos que faça sua pergunta no [Fórum de respostas da Microsoft](https://answers.microsoft.com/) ou envie sua dúvida para a [Comunidade Tech](https://techcommunity.microsoft.com/), ou entre em contato com o [suporte](https://support.microsoft.com/contactus).
