@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fornece o conteúdo de versão de profissionais de TI com links para Office para o Office 365 ProPlus, Office para Mac, perpétua Office e Office Server produtos
-ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 1d4801133b50bd1de838c43afc564c88237a6c50
+ms.sourcegitcommit: 8153b40a75720fd5d01f43c898ea227f17f7fbec
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "21223379"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25018514"
 ---
 # <a name="office-updates"></a>Atualizações do Office
 
@@ -47,8 +47,9 @@ Obtenha informações sobre recursos, atualizações de segurança e não relaci
                 <div class="card">
                     <div class="cardText">
                         <h3>Office para Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">Notas de versão</a></p>
-                        <p><a href="update-history-office-for-mac.md">Histórico de atualizações</a></p>
+                        <p><a href="release-notes-office-for-mac.md">Notas de versão (Office 365, 2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">Atualizar histórico (Office 365, 2019)</a></p>
+                        <p><a href="release-notes-office-2016-mac.md">Notas de versão (2016)</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">Versões MAU</a></p>
                      </div>
                 </div>
