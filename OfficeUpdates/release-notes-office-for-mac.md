@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056140"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004448"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -23,12 +23,14 @@ ms.locfileid: "24056140"
 O Office para Mac que vem com uma assinatura do Office 365 é atualizado regularmente para fornecer novos recursos, atualizações de segurança e atualizações que não são de segurança.
   
 As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Microsoft AutoUpdate, inicie um aplicativo do Office, como o Word, e escolha **Ajuda** > **Verificar Atualizações**. Se você for um administrador e deseja atualizar os computadores em sua organização com as ferramentas de implantação de software existentes, é possível baixar e implantar os pacotes de atualização para cada aplicativo.
+
   
 > [!NOTE]
 > - Confira a lista completa de todas as versões do Office para Mac e links adicionais para download em [Histórico de atualizações do Office para Mac](update-history-office-for-mac.md). 
 > - Caso seja um Office Insider, confira as [Notas de versão para builds do Insider – Modo Rápido](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Essas informações não se aplicam mais ao Office 2016 para Mac, que é a versão perpétua do Office para Mac e está disponível como uma compra avulsa em uma loja de varejo ou por meio de um contrato de licenciamento por volume.  Versões mais antigas até e incluindo a 16.16 podem ser ativadas com um Licença de Volume do Office para Mac 2016. No entanto, a partir da 16.17, a Licença de Volume não é mais compatível.
-> - Os links para download são fornecidos apenas para as versões mais recentes.
+> - Iniciando com a versão 16.17 em setembro de 2018, essa informação também se aplica ao Office 2019 para Mac, que é uma versão do Office para Mac disponível como compra avulsa no varejo ou por meio de um contrato de licenciamento por volume. Mas, alguns recursos listados nas notas de versão só estarão disponíveis se você tiver uma assinatura do Office 365.
+> - As notas de versão para versão 16.16 e anteriores também se aplicam ao Office 2016 para Mac, que também é uma versão do Office para Mac que está disponível como uma compra avulsa. Versões mais antigas até e incluindo a 16.16 podem ser ativadas com uma licença de volume do Office 2016 para Mac. Você não pode ativar a versão 16.17 ou posterior com uma licença de volume do Office 2016 para Mac. 
+> - Os links para download são fornecidos apenas para as últimas versões.
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 ## <a name="september-2018-release"></a>Versão de setembro de 2018
