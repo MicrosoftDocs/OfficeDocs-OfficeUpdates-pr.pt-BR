@@ -3,38 +3,49 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/21/2018
+ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: a24200136bb968725bb78cc6df179932c8b35eed
-ms.sourcegitcommit: df20f4e7260515436bf69201c1e5e8a60b9b92e2
+description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download das atualizações do Office 365 ProPlus para cada canal de atualização
+ms.openlocfilehash: 0ea2d9e80271223dfe72bfa5871a1a25ba032939
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/21/2018
-ms.locfileid: "24960941"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346987"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
-As tabelas a seguir mostram o tamanho aproximado do download, por canal de atualização e data de lançamento, ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais atual. 
+As tabelas a seguir mostram o tamanho aproximado do download, por canal de atualizações e data de lançamento, ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais atual. 
   
-Fornecemos estas informações antes da data de lançamento real a fim de ajudar os clientes corporativos a planejar a utilização de largura de banda da rede para as futuras atualizações de canal. Como fornecemos essas informações com antecedência, podemos alterá-las na ocasião do lançamento real da versão.
+Fornecemos estas informações antes da data de lançamento real para ajudar os clientes corporativos a planejar a utilização de largura de banda da rede para essas futuras atualizações de canal. Como fornecemos essas informações com antecedência, é possível que haja alguma alteração por ocasião do lançamento real da versão.
   
-Nosso objetivo é fornecer informações sobre o tamanho das atualizações uma semana antes de um lançamento. Porém, às vezes, as informações não ficam disponíveis com antecedência. Os lançamentos do Canal Semestral e do Canal Semestral (direcionado) estão agendados para a segunda terça-feira de cada mês. Lançamentos do Canal Mensal não têm um cronograma definido.
+Nosso objetivo é fornecer informações sobre o tamanho das atualizações uma semana antes do lançamento de uma versão. Porém, às vezes, as informações são disponibilizadas com antecedência. Os lançamentos do Canal Semestral e do Canal Semestral (direcionado) são agendados para a segunda terça-feira de cada mês. Lançamentos do Canal Mensal não têm um cronograma definido.
 
-Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas a segurança incluídas em determinado lançamento, confira [Informações de versão das atualizações para o Office 365 ProPlus](release-notes-office365-proplus.md).
+Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas à segurança incluídas em determinado lançamento, confira [Informações de versão das atualizações do Office 365 ProPlus](release-notes-office365-proplus.md).
 
   
 > [!NOTE]
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão x86 em en-us do Office 365 ProPlus. 
-> - Os tamanhos de download são aproximados. Os tamanhos de download reais podem variar em até 50 MB. 
-> - Datas de lançamento e números de build em itálico e entre "\< \>" estão sujeitos a alterações. 
-> - Somente versões dos últimos quatro meses serão listadas.
-> - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
-> - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+> - Os tamanhos de download são aproximados. Os tamanhos reais de download podem variar em até 50 MB. 
+> - Datas de lançamento e números de build em itálico e entre "\< \>" estão sujeitos a alteração. 
+> - Estão listadas apenas versões dos últimos quatro meses.
+> - Relacionamos nas tabelas apenas as versões anteriores mais recentes. Se você estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
+> - Se você estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+
+  ## <a name="september-27-2018"></a>27 de setembro de 2018
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1809 (Build 10827.20138).
+  
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (Build 10730.20102)  <br/> |12 de setembro de 2018  <br/> |175  <br/> |
+|Versão 1808 (Build 10730.20088)  <br/> |5 de setembro de 2018  <br/> |170 <br/> |
 
   ## <a name="september-11-2018"></a>11 de setembro de 2018
 
@@ -42,7 +53,7 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 
 O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1808 (Build 10730.20088)  <br/> |5 de setembro de 2018  <br/> |96  <br/> |
 |Versão 1807 (Compilação 10325.20118)  <br/> |14 de agosto de 2018  <br/> |239 <br/> |
@@ -53,9 +64,9 @@ O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
 
 O lançamento mais atual é a Versão 1803 (Compilação 9126.2282).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/> |99  <br/> |
+|Versão 1803 (Compilação 9126.2259)  <br/> |10 de julho de 2018  <br/> |99  <br/> |
 |Versão 1708 (Compilação 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
 
   
@@ -63,10 +74,10 @@ O lançamento mais atual é a Versão 1803 (Compilação 9126.2282).
 
 O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Compilação 9126.2275)  <br/> |14 de agosto de 2018  <br/> |289 <br/> |
-|Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/>   |287  <br/>|
+|Versão 1803 (Compilação 9126.2259)  <br/> |10 de julho de 2018  <br/>   |287  <br/>|
 
   ## <a name="september-5-2018"></a>5 de setembro de 2018
 
@@ -74,7 +85,7 @@ O lançamento mais atual é a versão 1808 (Compilação 10730.20102).
 
 O lançamento mais atual é a versão 1808 (Build 10730.20088).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1807 (Compilação 10325.20118)  <br/> |14 de agosto de 2018  <br/> |231  <br/> |
 |Versão 1807 (Compilação 10325.20082)  <br/> |25 de julho de 2018  <br/> |237  <br/> |
@@ -85,7 +96,7 @@ O lançamento mais atual é a versão 1808 (Build 10730.20088).
 
 A última versão é a 1807 (Compilação 10325.20118).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1807 (Compilação 10325.20082)  <br/> |25 de julho de 2018  <br/> |82  <br/> |
 |Versão 1807 (compilação 10228.20134)  <br/> |17 de julho de 2018  <br/> |183  <br/> |
@@ -95,17 +106,17 @@ A última versão é a 1807 (Compilação 10325.20118).
 
 A última versão é a 1803 (Compilação 9126.2275).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
+|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
 A última versão é a 1803 (Compilação 9126.2275).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
 |Versão 1803 (Compilação 9126.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
@@ -114,106 +125,106 @@ A última versão é a 1803 (Compilação 9126.2275).
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1807 (build 10325.20082).
+O lançamento mais atual é a versão 1807 (Build 10325.20082).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1806 (build 10228.20314)  <br/> |17 de julho de 2018  <br/> |176  <br/> |
-|Versão 1805 (build 10228.20104)  <br/> |10 de julho de 2018  <br/> |176  <br/> |
+|Versão 1806 (Build 10228.20314)  <br/> |17 de julho de 2018  <br/> |176  <br/> |
+|Versão 1805 (Build 10228.20104)  <br/> |10 de julho de 2018  <br/> |176  <br/> |
 
  ## <a name="july-10-2018"></a>10 de julho de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1806 (build 10228.20104).
+O lançamento mais atual é a versão 1806 (Build 10228.20104).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1805 (build 10228.20080)  <br/> |25 de junho de 2018  <br/> |79  <br/> |
-|Versão 1805 (build 9330.2124)  <br/> |13 de junho de 2018  <br/> |149  <br/> |
-|Versão 1805 (build 9330.2118)  <br/> |12 de junho de 2018  <br/> |401  <br/> |
-|Versão 1805 (build 9330.2087)  <br/> |24 de maio de 2018  <br/> |150  <br/> |
+|Versão 1805 (Build 10228.20080)  <br/> |25 de junho de 2018  <br/> |79  <br/> |
+|Versão 1805 (Build 9330.2124)  <br/> |13 de junho de 2018  <br/> |149  <br/> |
+|Versão 1805 (Build 9330.2118)  <br/> |12 de junho de 2018  <br/> |401  <br/> |
+|Versão 1805 (Build 9330.2087)  <br/> |24 de maio de 2018  <br/> |150  <br/> |
   
 ### <a name="semi-annual-channel"></a>Canal Semestral
-O lançamento mais atual é a versão 1803 (build 9126.2259).
+O lançamento mais atual é a versão 1803 (Build 9126.2259).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |280  <br/> |
-|Versão 1708 (build 8431.2250)  <br/> |8 de maio de 2018  <br/> |280  <br/> |
+|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |280  <br/> |
+|Versão 1708 (Build 8431.2250)  <br/> |8 de maio de 2018  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
 O lançamento mais atual é a versão 1803 (Build 9126.2259).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Compilação 9126.2227)  <br/> |12 de junho de 2018  <br/> |78  <br/> |
-|Versão 1803 (Compilação 9126.2210)  <br/> |18 de maio de 2018  <br/> |85  <br/> | 
+|Versão 1803 (build 9126.2210)  <br/> |18 de maio de 2018  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>25 de junho de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1806 (build 10228.20080).
+O lançamento mais atual é a versão 1806 (Build 10228.20080).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1805 (build 9330.2124)  <br/> |13 de junho de 2018  <br/> |155  <br/> |
-|Versão 1805 (build 9330.2118)  <br/> |12 de junho de 2018  <br/> |402  <br/> |
-|Versão 1805 (build 9330.2087)  <br/> |24 de maio de 2018  <br/> |154  <br/> |
+|Versão 1805 (Build 9330.2124)  <br/> |13 de junho de 2018  <br/> |155  <br/> |
+|Versão 1805 (Build 9330.2118)  <br/> |12 de junho de 2018  <br/> |402  <br/> |
+|Versão 1805 (Build 9330.2087)  <br/> |24 de maio de 2018  <br/> |154  <br/> |
    
 ## <a name="june-13-2018"></a>13 de junho de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1805 (build 9330.2118).
+O lançamento mais atual é a versão 1805 (Build 9330.2118).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1805 (build 9330.2118)  <br/> |12 de junho de 2018  <br/> |57  <br/> |
-|Versão 1805 (build 9330.2087)  <br/> |24 de maio de 2018  <br/> |83  <br/> |
-|Versão 1805 (build 9330.2078)  <br/> |23 de maio de 2018  <br/> |262  <br/> |
-|Versão 1804 (build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
+|Versão 1805 (Build 9330.2118)  <br/> |12 de junho de 2018  <br/> |57  <br/> |
+|Versão 1805 (Build 9330.2087)  <br/> |24 de maio de 2018  <br/> |83  <br/> |
+|Versão 1805 (Build 9330.2078)  <br/> |23 de maio de 2018  <br/> |262  <br/> |
+|Versão 1804 (Build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
    
 ## <a name="june-12-2018"></a>12 de junho de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1805 (build 9330.2118).
+O lançamento mais atual é a versão 1805 (Build 9330.2118).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1805 (build 9330.2087)  <br/> |24 de maio de 2018  <br/> |95  <br/> |
-|Versão 1805 (build 9330.2078)  <br/> |23 de maio de 2018  <br/> |262  <br/> |
-|Versão 1804 (build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
+|Versão 1805 (Build 9330.2087)  <br/> |24 de maio de 2018  <br/> |95  <br/> |
+|Versão 1805 (Build 9330.2078)  <br/> |23 de maio de 2018  <br/> |262  <br/> |
+|Versão 1804 (Build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
    
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1708 (build 8431.2270).
+O lançamento mais atual é a versão 1708 (Build 8431.2270).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (build 8431.2250)  <br/> |8 de maio de 2018  <br/> |56  <br/> |
+|Versão 1708 (Build 8431.2250)  <br/> |8 de maio de 2018  <br/> |56  <br/> |
 |Versão 1708 (Build 8431.2242)  <br/> |10 de abril de 2018  <br/> |57  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
 A última versão é a 1803 (Compilação 9126.2275).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1708 (Compilação 8431.2227)  <br/> |12 de junho de 2018  <br/> |94  <br/> |
 |Versão 1708 (Compilação 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1708 (Compilação 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
+|Versão 1708 (Build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
 
-O lançamento mais atual é a versão 1803 (build 9126.2227).
+O lançamento mais atual é a Versão 1803 (Compilação 9126.2227).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (Build 9126.2210)  <br/> |18 de maio de 2018  <br/> |94  <br/> |
-|Versão 1803 (build 9126.2191)  <br/> |8 de maio de 2018  <br/> |96  <br/> |
+|Versão 1803 (Build 9126.2191)  <br/> |8 de maio de 2018  <br/> |96  <br/> |
 
 
 
@@ -221,13 +232,13 @@ O lançamento mais atual é a versão 1803 (build 9126.2227).
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1805 (build 9330.2087).
+O lançamento mais atual é a versão 1805 (Build 9330.2087).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1805 (build 9330.2078)  <br/> |23 de maio de 2018  <br/> |76  <br/> |
-|Versão 1804 (build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
-|Versão 1804 (build 9226.2126)  <br/> |8 de maio de 2018  <br/> |203  <br/> |
+|Versão 1805 (Build 9330.2078)  <br/> |23 de maio de 2018  <br/> |76  <br/> |
+|Versão 1804 (Build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
+|Versão 1804 (Build 9226.2126)  <br/> |8 de maio de 2018  <br/> |203  <br/> |
 
 
 
@@ -235,12 +246,12 @@ O lançamento mais atual é a versão 1805 (build 9330.2087).
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1805 (build 9330.2078).
+O lançamento mais atual é a versão 1805 (Build 9330.2078).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1804 (build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
-|Versão 1804 (build 9226.2126)  <br/> |8 de maio de 2018  <br/> |203  <br/> |
+|Versão 1804 (Build 9226.2156)  <br/> |14 de maio de 2018  <br/> |203  <br/> |
+|Versão 1804 (Build 9226.2126)  <br/> |8 de maio de 2018  <br/> |203  <br/> |
 
 
 
@@ -248,216 +259,216 @@ O lançamento mais atual é a versão 1805 (build 9330.2078).
 
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (build 9126.2210.)
+O lançamento mais atual é a versão 1803 (Build 9126.2210).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2191)  <br/> |8 de maio de 2018  <br/> |62  <br/> |
-|Versão 1803 (build 9126.2152)  <br/> |10 de abril de 2018  <br/> |91  <br/> |
+|Versão 1803 (Build 9126.2191)  <br/> |8 de maio de 2018  <br/> |62  <br/> |
+|Versão 1803 (Build 9126.2152)  <br/> |10 de abril de 2018  <br/> |91  <br/> |
 
  
 ## <a name="may-14-2018"></a>14 de maio de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1804 (build 9226.2156.)
+O lançamento mais atual é a versão 1804 (Build 9226.2156).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1804 (build 9226.2126)  <br/> |8 de maio de 2018  <br/> |67  <br/> |
-|Versão 1804 (build 9226.2114)  <br/> |25 de abril de 2018  <br/> |81  <br/> |
+|Versão 1804 (Build 9226.2126)  <br/> |8 de maio de 2018  <br/> |67  <br/> |
+|Versão 1804 (Build 9226.2114)  <br/> |25 de abril de 2018  <br/> |81  <br/> |
 
 
 ## <a name="may-8-2018"></a>8 de maio de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1804 (build 9226.2126).
+O lançamento mais atual é a versão 1804 (Build 9226.2126).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1804 (build 9226.2114)  <br/> |25 de abril de 2018  <br/> |80  <br/> |
-|Versão 1803 (build 9126.2152)  <br/> |11 de abril de 2018  <br/> |162  <br/> |
-|Versão 1803 (build 9126.2116)  <br/> |27 de março de 2018  <br/> |162  <br/> |
+|Versão 1804 (Build 9226.2114)  <br/> |25 de abril de 2018  <br/> |80  <br/> |
+|Versão 1803 (Build 9126.2152)  <br/> |11 de abril de 2018  <br/> |162  <br/> |
+|Versão 1803 (Build 9126.2116)  <br/> |27 de março de 2018  <br/> |162  <br/> |
    
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1708 (build 8431.2250).
+O lançamento mais atual é a versão 1708 (Build 8431.2250).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 | Versão 1708 (Build 8431.2242)  <br/> |10 de abril de 2018  <br/> |49  <br/> |
 |Versão 1708 (Build 8431.2236)  <br/> |13 de março de 2018  <br/> |53  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (build 9126.2191).
+O lançamento mais atual é a versão 1803 (Build 9126.2191).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2152)  <br/> |10 de abril de 2018  <br/> |90  <br/> |
-|Versão 1803 (build 9126.2098)  <br/> |20 de março de 2018  <br/> |114  <br/> |
+|Versão 1803 (Build 9126.2152)  <br/> |10 de abril de 2018  <br/> |90  <br/> |
+|Versão 1803 (Build 9126.2098)  <br/> |20 de março de 2018  <br/> |114  <br/> |
    
 ## <a name="april-25-2018"></a>25 de abril de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1804 (build 9226.2114).
+O lançamento mais atual é a versão 1804 (Build 9226.2114).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2152)  <br/> |11 de abril de 2018  <br/> |161  <br/> |
-|Versão 1803 (build 9126.2116)  <br/> |27 de março de 2018  <br/> |161  <br/> |
+|Versão 1803 (Build 9126.2152)  <br/> |11 de abril de 2018  <br/> |161  <br/> |
+|Versão 1803 (Build 9126.2116)  <br/> |27 de março de 2018  <br/> |161  <br/> |
    
 ## <a name="april-11-2018"></a>11 de abril de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1803 (build 9126.2152).
+O lançamento mais atual é a versão 1803 (Build 9126.2152).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2116)  <br/> |27 de março de 2018  <br/> |102  <br/> |
-|Versão 1802 (build 9029.2253)  <br/> |13 de março de 2018  <br/> |186  <br/> |
+|Versão 1803 (Build 9126.2116)  <br/> |27 de março de 2018  <br/> |102  <br/> |
+|Versão 1802 (Build 9029.2253)  <br/> |13 de março de 2018  <br/> |186  <br/> |
    
 ## <a name="april-10-2018"></a>10 de abril de 2018
 
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1708 (build 8431.2242).
+O lançamento mais atual é a versão 1708 (Build 8431.2242).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1708 (Build 8431.2236)  <br/> |13 de março de 2018  <br/> |54  <br/> |
-|Versão 1708 (build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |54  <br/> |
+|Versão 1708 (Build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |54  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (build 9126.2152).
+O lançamento mais atual é a versão 1803 (Build 9126.2152).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2098)  <br/> |20 de março de 2018  <br/> |111  <br/> |
-|Versão 1803 (build 9126.2072)  <br/> |13 de março de 2018  <br/> |113  <br/> |
+|Versão 1803 (Build 9126.2098)  <br/> |20 de março de 2018  <br/> |111  <br/> |
+|Versão 1803 (Build 9126.2072)  <br/> |13 de março de 2018  <br/> |113  <br/> |
    
 ## <a name="march-27-2018"></a>27 de março de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1803 (build 9126.2116).
+O lançamento mais atual é a versão 1803 (Build 9126.2116).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1802 (build 9029.2253)  <br/> |13 de março de 2018  <br/> |186  <br/> |
-|Versão 1802 (build 9029.2167)  <br/> |26 de fevereiro de 2018  <br/> |185  <br/> |
+|Versão 1802 (Build 9029.2253)  <br/> |13 de março de 2018  <br/> |186  <br/> |
+|Versão 1802 (Build 9029.2167)  <br/> |26 de fevereiro de 2018  <br/> |185  <br/> |
    
 ## <a name="march-20-2018"></a>20 de março de 2018
 
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (build 9126.2098).
+O lançamento mais atual é a versão 1803 (Build 9126.2098).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2072)  <br/> |13 de março de 2018  <br/> |92  <br/> |
-|Versão 1708 (build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |309  <br/> |
+|Versão 1803 (Build 9126.2072)  <br/> |13 de março de 2018  <br/> |92  <br/> |
+|Versão 1708 (Build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |309  <br/> |
    
 ## <a name="march-13-2018"></a>13 de março de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1802 (build 9029.2253).
+O lançamento mais atual é a versão 1802 (Build 9029.2253).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1802 (build 9029.2167)  <br/> |26 de fevereiro de 2018  <br/> |98  <br/> |
-|Versão 1801 (build 9001.2171)  <br/> |13 de fevereiro de 2018  <br/> |183  <br/> |
+|Versão 1802 (Build 9029.2167)  <br/> |26 de fevereiro de 2018  <br/> |98  <br/> |
+|Versão 1801 (Build 9001.2171)  <br/> |13 de fevereiro de 2018  <br/> |183  <br/> |
    
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1708 (build 8431.2236).
+O lançamento mais atual é a versão 1708 (Build 8431.2236).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |50  <br/> |
-|Versão 1708 (build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |54  <br/> |
+|Versão 1708 (Build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |50  <br/> |
+|Versão 1708 (Build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |54  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1803 (build 9126.2072).
+O lançamento mais atual é a versão 1803 (Build 9126.2072).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |320  <br/> |
-|Versão 1708 (build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |309  <br/> |
+|Versão 1708 (Build 8431.2215)  <br/> |13 de fevereiro de 2018  <br/> |320  <br/> |
+|Versão 1708 (Build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |309  <br/> |
    
 ## <a name="february-26-2018"></a>26 de fevereiro de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1802 (build 9029.2167).
+O lançamento mais atual é a versão 1802 (Build 9029.2167).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1801 (build 9001.2171)  <br/> |13 de fevereiro de 2018  <br/> |189  <br/> |
-|Versão 1801 (build 9001.2144)  <br/> |7 de fevereiro de 2018  <br/> |329  <br/> |
-|Versão 1801 (build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |193  <br/> |
+|Versão 1801 (Build 9001.2171)  <br/> |13 de fevereiro de 2018  <br/> |189  <br/> |
+|Versão 1801 (Build 9001.2144)  <br/> |7 de fevereiro de 2018  <br/> |329  <br/> |
+|Versão 1801 (Build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |193  <br/> |
    
 ## <a name="february-13-2018"></a>13 de fevereiro de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1801 (build 9001.2171).
+O lançamento mais atual é a versão 1801 (Build 9001.2171).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1801 (build 9001.2144)  <br/> |7 de fevereiro de 2018  <br/> |80  <br/> |
-|Versão 1801 (build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |83  <br/> |
-|Versão 1712 (build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |358  <br/> |
-|Versão 1712 (build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |174  <br/> |
+|Versão 1801 (Build 9001.2144)  <br/> |7 de fevereiro de 2018  <br/> |80  <br/> |
+|Versão 1801 (Build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |83  <br/> |
+|Versão 1712 (Build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |358  <br/> |
+|Versão 1712 (Build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |174  <br/> |
    
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-O lançamento mais atual é a versão 1708 (build 8431.2215).
+O lançamento mais atual é a versão 1708 (Build 8431.2215).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |53  <br/> |
-|Versão 1705 (build 8201.2213)  <br/> |12 de dezembro de 2017  <br/> |293  <br/> |
+|Versão 1708 (Build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |53  <br/> |
+|Versão 1705 (Build 8201.2213)  <br/> |12 de dezembro de 2017  <br/> |293  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-O lançamento mais atual é a versão 1708 (build 8431.2215).
+O lançamento mais atual é a versão 1708 (Build 8431.2215).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1708 (build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |53  <br/> |
-|Versão 1708 (build 8431.2131)  <br/> |12 de dezembro de 2017  <br/> |62  <br/> |
+|Versão 1708 (Build 8431.2153)  <br/> |9 de janeiro de 2018  <br/> |53  <br/> |
+|Versão 1708 (Build 8431.2131)  <br/> |12 de dezembro de 2017  <br/> |62  <br/> |
    
 ## <a name="february-7-2018"></a>7 de fevereiro de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1801 (build 9001.2144).
+O lançamento mais atual é a versão 1801 (Build 9001.2144).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1801 (build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |57  <br/> |
-|Versão 1712 (build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |174  <br/> |
-|Versão 1712 (build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |215  <br/> |
-|Versão 1711 (build 8730.2175)  <br/> |9 de janeiro de 2018  <br/> |233  <br/> |
+|Versão 1801 (Build 9001.2138)  <br/> |1 de fevereiro de 2018  <br/> |57  <br/> |
+|Versão 1712 (Build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |174  <br/> |
+|Versão 1712 (Build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |215  <br/> |
+|Versão 1711 (Build 8730.2175)  <br/> |9 de janeiro de 2018  <br/> |233  <br/> |
    
 ## <a name="february-1-2018"></a>1 de fevereiro de 2018
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a versão 1801 (build 9001.2138).
+O lançamento mais atual é a versão 1801 (Build 9001.2138).
   
-|**Lançamento do upgrade de**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1712 (build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |173  <br/> |
-|Versão 1712 (build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |213  <br/> |
-|Versão 1711 (build 8730.2175)  <br/> |9 de janeiro de 2018  <br/> |233  <br/> |
+|Versão 1712 (Build 8827.2179)  <br/> |30 de janeiro de 2018  <br/> |173  <br/> |
+|Versão 1712 (Build 8827.2148)  <br/> |17 de janeiro de 2018  <br/> |213  <br/> |
+|Versão 1711 (Build 8730.2175)  <br/> |9 de janeiro de 2018  <br/> |233  <br/> |
    
   
 ## <a name="related-topics"></a>Tópicos relacionados
