@@ -1,23 +1,8 @@
 ---
-title: Notas de versão para lançamentos do Canal Mensal em 2018
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347007"
+title: "Notas sobre a versão para lançamentos do Canal de Mensal em 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Fornece notas sobre a versão para lançamentos do Canal de Mensal em 2018 para profissionais de TI"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
+
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas sobre a versão para lançamentos do Canal Mensal em 2018
 
 As notas de versão fornecem informações sobre novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Canal Mensal do Office 365 ProPlus em 2018.
  
@@ -75,7 +60,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="visio-feature-updates"></a>Visio: Atualização de recursos
  - **Desfrute de mais ícones em seu próximo diagrama** Escolha entre 26 novos estênceis com ícones para análise, artes, celebração, faces, esportes e muito mais. 
  - **Crie um documento do Word com formas do Visio** Adicione automaticamente conteúdo de diagramas, incluindo formas e metadados em um documento do Word. Em seguida, personalize o documento para criar diretrizes de processos e manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio e Power BI: melhores em conjunto** Com apenas alguns cliques, transforme seu diagrama do Visio em uma visualização interativa do Power BI. [Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio e Power BI: melhores juntos** Com apenas alguns cliques, transforme seu diagrama do Visio em uma visualização interativa do Power BI. [Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: atualização de recursos
  - **Veja mais informações nos cartões do Painel de tarefas** Quando o título sozinho não for suficiente, personalize seus cartões do Painel de Tarefas para mostrar todos os detalhes mais importantes. [Saiba mais](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
@@ -191,7 +176,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1805-june-12"></a>Versão 1805: 12 de junho
 *Versão 1805 (Build 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Vulnerabilidade de divulgação não autorizada de informação no Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
 
@@ -261,7 +246,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1804-may-8"></a>Versão 1804: 8 de maio
 *Versão 1804 (Build 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Vulnerabilidade de execução remota de código do Microsoft Excel
@@ -299,7 +284,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1803-april-11"></a>Versão 1803: 11 de abril
 *Versão 1803 (Build 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
@@ -344,20 +329,20 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 -   Correção de um problema em que a adição de usuários escolhendo "Chamada pelo Skype" em uma reunião causava um erro.
 -   Remove o prompt que pede ao usuário para adicionar coordenadas do Skype a uma reunião se uma Sala de Skype for adicionada como o local e a reunião já contiver as coordenadas de reunião das Equipes.
 
-### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
--   **Suporte aprimorado para telas de alta definição**: se você usa vários monitores ou uma plataforma para laptop, os aplicativos do Office terão uma aparência mais nítida em cada tela, mesmo que elas tenham diferentes definições de dimensionamento. [Saiba mais](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
+-   **Suporte aprimorado para telas de alta definição**: Se você usa vários monitores ou uma plataforma para laptop, os aplicativos do Office terão uma aparência mais nítida em cada tela, mesmo que elas tenham diferentes configurações de ajuste de escala. [Saiba mais](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
--   **Suporte aprimorado para telas de alta definição**: se você usa vários monitores ou uma plataforma para laptop, os aplicativos do Office terão uma aparência mais nítida em cada tela, mesmo que elas tenham diferentes definições de dimensionamento. [Saiba mais](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+-   **Suporte aprimorado para telas de alta definição**: Se você usa vários monitores ou uma plataforma para laptop, os aplicativos do Office terão uma aparência mais nítida em cada tela, mesmo que elas tenham diferentes configurações de ajuste de escala. [Saiba mais](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>Versão 1802: 13 de março
 *Versão 1802 (Build 9029.2253)*
 
-### <a name="access-security-updates"></a>Access: atualizações de segurança
+### <a name="access-security-updates"></a>Access: Atualizações de segurança
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): vulnerabilidade de execução remota de código do Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): bypass de recursos de segurança do Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
@@ -389,7 +374,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1801-february-13"></a>Versão 1801: 13 de fevereiro
 *Versão 1801 (Build 9001.2171)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
@@ -453,7 +438,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 -   **Animações 3D:** dê vida aos modelos 3D com animações como balançar suavemente ou saltar e girar.
 -   **Converta ícones SVG em formas:** transforme todas as imagens e ícones SVG em formas do Office para que você possa alterar a cor, o tamanho ou a textura.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações não relacionadas à segurança
 -   Adição de um botão de transferência de chamada na interface do usuário do sistema para chamadas PSTN de entrada.
 -   Avisa aos usuários que as chamadas e o chat estão sendo enviados para o Teams quando ChatDefaultClient e CallDefaultClient estão definidos para o Teams.
 -   Mostra a presença do usuário como Offline quando o usuário não está em uma reunião e Desativado no Skype for Business e a experiência de ingresso da reunião está definida como Cliente Nativo Limitado.
@@ -472,7 +457,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1711-january-9"></a>Versão 1711: 9 de janeiro
 *Versão 1711 (Build 8730.2175)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [Supervisão 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
 
