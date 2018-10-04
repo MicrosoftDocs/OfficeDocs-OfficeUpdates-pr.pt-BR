@@ -1,8 +1,8 @@
 ---
-title: "Notas sobre a versão para lançamentos do Canal de Mensal em 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Fornece notas sobre a versão para lançamentos do Canal de Mensal em 2018 para profissionais de TI"
+Título: "Notas de versão para lançamentos do Canal Mensal em 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Fornece notas de versão para lançamentos do Canal Mensal do Office 365 ProPlus em 2018 aos profissionais de TI"
 ---
 
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas sobre a versão para lançamentos do Canal Mensal em 2018
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
 As notas de versão fornecem informações sobre novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Canal Mensal do Office 365 ProPlus em 2018.
  
@@ -14,8 +14,8 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 *Versão 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
-- **Pesquisa rápida** Aperfeiçoamos os cálculos PROCV, PROCH e CORRESPONDÊNCIA para que você possa obter respostas mais rapidamente.
-- **Descubra mais sobre os dados** Os aplicativos do Office 365 estão repletos de inteligência artificial (AI) para ajudá-lo a fazer o melhor trabalho. O painel Ideias usa AI para criar sugestões inteligentes e acionáveis, que economizem tempo e aprimorem o conteúdo.[Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Pesquisa rápida** Aperfeiçoamos os cálculos PROCV, PROCH e CORRESP para que você possa obter respostas mais rapidamente. [Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Descubra mais sobre os seus dados** Os aplicativos do Office 365 estão repletos de inteligência artificial (AI) para ajudá-lo a trabalhar melhor. O painel Ideias usa AI para criar sugestões inteligentes e acionáveis, que economizem tempo e aprimorem o conteúdo.[Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Atenção fãs de Obter e transformar** Se você usa muito o recurso Obter e transformar, ficará feliz em saber que o recurso Coluna de exemplos foi melhorado. E muitos conectores também foram melhorados. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
@@ -26,13 +26,14 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
+- **Veja os seus slides ganharem vida** Insira gráficos 3D animados para ver o coração batendo, a órbita dos planetas e um tiranossauro furioso saltar da tela.  [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Novas ferramentas de revisão** Não se preocupe com as palavras. Agora, o PowerPoint fornece sugestões de escrita e gramática. [Saiba mais](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 - **Atraia a atenção deles com \@ menções** Use @menções nos comentários para informar seus colegas que você precisa da contribuição deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Conversor do Editor de equações** O conversor permite aos usuários converter equações criadas com o editor Microsoft Equation para o formato Office Math ML para possibilitar a edição. 
+- **Conversor do Editor de equações** O conversor permite aos usuários converter equações criadas com o editor Microsoft Equation para o formato Office Math ML para possibilitar a edição.
 
 ## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
 *Versão 1808 (Build 10730.20102)*
@@ -176,7 +177,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1805-june-12"></a>Versão 1805: 12 de junho
 *Versão 1805 (Build 9330.2118)*
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Vulnerabilidade de divulgação não autorizada de informação no Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
 
@@ -246,7 +247,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1804-may-8"></a>Versão 1804: 8 de maio
 *Versão 1804 (Build 9226.2126)*
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Vulnerabilidade de execução remota de código do Microsoft Excel
@@ -284,7 +285,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1803-april-11"></a>Versão 1803: 11 de abril
 *Versão 1803 (Build 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
@@ -374,7 +375,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1801-february-13"></a>Versão 1801: 13 de fevereiro
 *Versão 1801 (Build 9001.2171)*
 
-### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
