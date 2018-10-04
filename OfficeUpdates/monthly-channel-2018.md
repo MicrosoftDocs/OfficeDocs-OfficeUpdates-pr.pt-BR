@@ -1,7 +1,22 @@
 ---
-Título: "Notas de versão para lançamentos do Canal Mensal em 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/3/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Critical ms.collection: RelNotes_ProPlus description: "Fornece notas de versão para lançamentos do Canal Mensal do Office 365 ProPlus em 2018 aos profissionais de TI"
+title: Notas de versão para lançamentos do Canal Mensal em 2018
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362706"
 ---
-
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
 As notas de versão fornecem informações sobre novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Canal Mensal do Office 365 ProPlus em 2018.
@@ -15,8 +30,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 - **Pesquisa rápida** Aperfeiçoamos os cálculos PROCV, PROCH e CORRESP para que você possa obter respostas mais rapidamente. [Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Descubra mais sobre os seus dados** Os aplicativos do Office 365 estão repletos de inteligência artificial (AI) para ajudá-lo a trabalhar melhor. O painel Ideias usa AI para criar sugestões inteligentes e acionáveis, que economizem tempo e aprimorem o conteúdo.[Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Atenção fãs de Obter e transformar** Se você usa muito o recurso Obter e transformar, ficará feliz em saber que o recurso Coluna de exemplos foi melhorado. E muitos conectores também foram melhorados. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Essa é para os fãs de obter e transformar** Se você usa muito o recurso obter e transformar, ficará feliz em saber que o recurso coluna de exemplo foi melhorado. E muitos conectores também foram melhorados. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualização de recursos
@@ -298,7 +312,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
 -   Correção de um problema que causa a exibição de uma mensagem de memória insuficiente.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Vulnerabilidade de divulgação não autorizada de informações no Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
