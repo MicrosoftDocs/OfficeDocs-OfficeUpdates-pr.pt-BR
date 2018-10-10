@@ -3,7 +3,7 @@
 ## [Histórico de atualização (por versão)](update-history-office365-proplus-by-version.md)
 ## [Tamanhos de atualização](download-sizes-office365-proplus-updates.md)
 
-## [Notas de versão](release-notes-office365-proplus.md)
+## [Notas sobre a versão](release-notes-office365-proplus.md)
 
 ### Canal Mensal
 #### [2018](monthly-channel-2018.md)
@@ -34,6 +34,7 @@
 ## [Skype para atualizações de negócios](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Arquivos do Office 2016. msp](msp-files-office-2016.md)
 ## [Arquivos. msp do Office 2013](msp-files-office-2013.md)
+## [Atualizações do Office 2019](update-history-office-2019.md)
 ## [Atualizações do Office 2013](update-history-office-2013.md)
 ## [Atualizações do Office 2010](update-history-office-2010-click-to-run.md)
 
