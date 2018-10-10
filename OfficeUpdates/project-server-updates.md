@@ -3,7 +3,7 @@ title: Atualizações do Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -12,24 +12,25 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: Encontre e gerencie as atualizações para Project Server 2013 e Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954787"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456695"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
-Use os links nesta página para saber mais sobre as atualizações do Project Server 2013 e o Project Server 2010 para baixá-las. 
+Use os links nesta página para saber mais sobre as atualizações do Project Server 2013 e do Project Server 2010 e para baixá-las. 
 > [!NOTE]
-> Para saber mais sobre atualizações do Project Server 2016, confira [Atualizações do SharePoint](sharepoint-updates.md), pois o Project Server 2016 faz parte do SharePoint Server 2016 Enteprise Edition.
+> Para saber mais sobre atualizações do Project Server 2016, confira [Atualizações do SharePoint](sharepoint-updates.md), pois o Project Server 2016 faz parte do SharePoint Server 2016 Enterprise Edition.
   
-## <a name="project-server-2013-update-history"></a>Histórico de atualização do Project Server 2013
+## <a name="project-server-2013-update-history"></a>Histórico de atualizações do Project Server 2013
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Outubro de 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |Setembro de 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |Agosto de 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Julho de 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -76,10 +77,11 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 |Novembro de 2014  <br/> |[KB2889949](https://support.microsoft.com/kb/2889949) <br/> |
 |Setembro de 2014  <br/>  |[KB2883072](https://support.microsoft.com/kb/2883072) <br/> |
    
-## <a name="project-server-2010-update-history"></a>Histórico de atualização do Project Server 2010
+## <a name="project-server-2010-update-history"></a>Histórico de atualizações do Project Server 2010
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Outubro de 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |Setembro de 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |Agosto de 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Julho de 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
