@@ -3,7 +3,7 @@ title: Atualizações do SharePoint
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -13,17 +13,17 @@ ms.collection:
 - IT_Sharepoint_Server_Top
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
-description: Localize e gerencie as atualizações do SharePoint Server 2016, do SharePoint 2013 e do SharePoint 2010 em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
-ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+description: Encontre e gerencie as atualizações do SharePoint Server 2016, do SharePoint 2013 e do SharePoint 2010 em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
+ms.openlocfilehash: d58388fdd2653eec09e3645853693faa0da88893
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954837"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456805"
 ---
 # <a name="sharepoint-updates"></a>Atualizações do SharePoint
 
-Localize e gerencie as atualizações do [SharePoint Server 2016](#sharepoint-2016-update-history), do [SharePoint 2013](#sharepoint-2013-update-history) e do [SharePoint 2010](#sharepoint-2010-update-history) em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
+Encontre e gerencie as atualizações do [SharePoint Server 2016](#sharepoint-2016-update-history), do [SharePoint 2013](#sharepoint-2013-update-history) e do [SharePoint 2010](#sharepoint-2010-update-history) em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
 
 Confira as atualizações mais recentes do SharePoint Online e do Office 365 em [Roteiro do Office 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
@@ -33,6 +33,7 @@ Confira as atualizações mais recentes do SharePoint Online e do Office 365 em 
 
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4461447](https://support.microsoft.com/en-us/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/en-us/help/4092463) <br/> |Outubro de 2018  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |Setembro de 2018  <br/> |
 |SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |Agosto de 2018  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |Julho de 2018  <br/> |
@@ -74,10 +75,11 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
   
 - SharePoint Foundation 2013
     
-- SharePoint Server 2013 (que também atualiza as instalações do SharePoint Foundation 2013)
+- SharePoint Server 2013 (também atualiza as instalações do SharePoint Foundation 2013)
     
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/en-us/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/en-us/help/4461458) <br/> |Outubro de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |Setembro de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |Agosto de 2018  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |Julho de 2018  <br/> |
@@ -110,7 +112,7 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114822](https://support.microsoft.com/kb/3114822) <br/> [KB3114827](https://support.microsoft.com/kb/3114827) <br/> |Março de 2016  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114722](https://support.microsoft.com/kb/3114722) <br/> [KB3114726](https://support.microsoft.com/kb/3114726) <br/> |Fevereiro de 2016  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114492](https://support.microsoft.com/kb/3114492) <br/> [KB3114497](https://support.microsoft.com/kb/3114497) <br/> |Janeiro de 2016  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114339](https://support.microsoft.com/kb/3114339) <br/> [KB3114345](https://support.microsoft.com/kb/3114345) <br/> |dezembro de 2015  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114339](https://support.microsoft.com/kb/3114339) <br/> [KB3114345](https://support.microsoft.com/kb/3114345) <br/> |Dezembro de 2015  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3101368](https://support.microsoft.com/kb/3101368) <br/> [KB3101373](https://support.microsoft.com/kb/3101373) <br/> |Novembro de 2015  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3085488](https://support.microsoft.com/kb/3085488) <br/> [KB3085492](https://support.microsoft.com/kb/3085492) <br/> |Outubro de 2015  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB2975894](https://support.microsoft.com/kb/2975894) <br/> [KB2986213](https://support.microsoft.com/kb/2986213) <br/> |Setembro de 2015  <br/> |
@@ -138,6 +140,7 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
 
 |**Nome do pacote**|**Número de KB**|**Data de lançamento**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/en-us/help/4461464) <br/> |Outubro de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |Setembro de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |Agosto de 2018  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |Junho de 2018  <br/> |
@@ -163,15 +166,15 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
 |SharePoint Server 2010  <br/> |[KB3114995](https://support.microsoft.com/kb/3114995) <br/> |Abril de 2016  <br/> |
 |SharePoint Server 2010  <br/> |[KB3114882](https://support.microsoft.com/kb/3114882) <br/> |Março de 2016  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3114567](https://support.microsoft.com/kb/3114567) <br/> [KB3114558](https://support.microsoft.com/kb/3114558) <br/> |Fevereiro de 2016  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3114418](https://support.microsoft.com/kb/3114418) <br/> [KB3114408](https://support.microsoft.com/kb/3114408) <br/> |dezembro de 2015  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3114418](https://support.microsoft.com/kb/3114418) <br/> [KB3114408](https://support.microsoft.com/kb/3114408) <br/> |Dezembro de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3101547](https://support.microsoft.com/kb/3101547) <br/> [KB3101534](https://support.microsoft.com/kb/3101534) <br/> |Novembro de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3085613](https://support.microsoft.com/kb/3085613) <br/> [KB3085603](https://support.microsoft.com/kb/3085603) <br/> |Outubro de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3085530](https://support.microsoft.com/kb/3085530) <br/> [KB3085521](https://support.microsoft.com/kb/3085521) <br/> |Setembro de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3055049](https://support.microsoft.com/kb/3055049) <br/> [KB3055040](https://support.microsoft.com/kb/3055040) <br/> |Agosto de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3054983](https://support.microsoft.com/kb/3054983) <br/> [KB3054975](https://support.microsoft.com/kb/3054975) <br/> |Julho de 2015  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização para junho.  <br/> [KB3054880](https://support.microsoft.com/kb/3054880) <br/> |Junho de 2015  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização para maio.  <br/> [KB3015569](https://www.microsoft.com/download/details.aspx?id=47135) <br/> |Maio de 2015  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização para abril.  <br/> [KB 2965294](https://support.microsoft.com/kb/2965294) <br/> |Abril de 2015  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização em junho.  <br/> [KB3054880](https://support.microsoft.com/kb/3054880) <br/> |Junho de 2015  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização em maio.  <br/> [KB3015569](https://www.microsoft.com/download/details.aspx?id=47135) <br/> |Maio de 2015  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |Nenhuma atualização em abril.  <br/> [KB 2965294](https://support.microsoft.com/kb/2965294) <br/> |Abril de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2956208](https://support.microsoft.com/kb/2956208) <br/> [KB 2956201](https://support.microsoft.com/kb/2956201) <br/> |Março de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2910904](https://support.microsoft.com/kb/2910904) <br/> [KB 2899558](https://support.microsoft.com/kb/2899558) <br/> |Fevereiro de 2015  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2899585](https://support.microsoft.com/kb/2899585) <br/> [KB 2899583](https://support.microsoft.com/kb/2899583) <br/> |Dezembro de 2014  <br/> |
@@ -189,26 +192,26 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
    
 ## <a name="additional-information"></a>Informações adicionais
 
-As atualizações de software incluem qualquer atualização, pacote cumulativo de atualizações, service pack, pacote de recursos, atualização crítica, atualização de segurança ou hotfix. Confira [KB 824684](https://support.microsoft.com/kb/824684) para obter uma descrição da terminologia padrão usada para descrever as atualizações de software da Microsoft. 
+As atualizações de software incluem qualquer atualização, pacote cumulativo de atualizações, service pack, pacote de recursos, atualização crítica, atualização de segurança ou hotfix. Confira o [KB 824684](https://support.microsoft.com/kb/824684) para obter uma descrição da terminologia padrão usada para descrever as atualizações de software da Microsoft. 
 
 Além das atualizações do SharePoint, recomendamos examinar as informações a seguir sobre produtos relacionados dos quais o SharePoint depende.
   
-- Windows Server AppFabric com o SharePoint
+- Windows Server AppFabric com SharePoint
   
   - [AppFabric](https://msdn.microsoft.com/en-us/library/aa139641.aspx)
   - [AppFabric com os principais conceitos do SharePoint](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
   - [Atualizações do AppFabric](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
   
-- Gerenciamento de fluxo de trabalho com o SharePoint 
+- Gerenciamento de Fluxos de Trabalho com o SharePoint 
   
   - [Instalar e configurar o fluxo de trabalho para o SharePoint Server](https://technet.microsoft.com/en-us/library/jj658588.aspx)
-  - [Atualizações do Workflow Manager](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [Atualizações do Gerenciador de Fluxos de Trabalho](https://blogs.msdn.microsoft.com/workflowteam/)
    
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Instalar uma atualização de software para SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
+- [Instalar uma atualização de software para o SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [Visão geral das atualizações de software do SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [Preparar a implantação de atualizações de software para o SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Preparar a implantação de atualizações de software do SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
 - [Atualizações do Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 - [Atualizações do Project Server](project-server-updates.md)
