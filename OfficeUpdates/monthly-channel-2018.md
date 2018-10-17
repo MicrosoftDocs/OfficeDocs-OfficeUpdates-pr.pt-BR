@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493867"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504983"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -37,7 +37,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Atualizações de segurança 
 -   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Vulnerabilidade de Execução Remota de Código do Microsoft PowerPoint
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança 
+### <a name="word-security-updates"></a>Word: atualizações de segurança 
 -   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Vulnerabilidade de Execução Remota de Código do Microsoft Word 
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Atualização de proteção abrangente para o Microsoft Office 
 
@@ -49,19 +49,18 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 *Versão 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
-- **Pesquisa rápida** Aperfeiçoamos os cálculos PROCV, PROCH e CORRESP para que você possa obter respostas mais rapidamente. [Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Essa é para os fãs de obter e transformar** Se você usa muito o recurso obter e transformar, ficará feliz em saber que o recurso coluna de exemplo foi melhorado. E muitos conectores também foram melhorados. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- |||UNTRANSLATED_CONTENT_START|||**Speedy Lookup** We've turbo-charged your VLOOKUP, HLOOKUP, and MATCH calculations so you can get answers faster. [Learn more](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)|||UNTRANSLATED_CONTENT_END|||
+- **Chamar todos obter & transformar ventilador** Se você usar Get & transformar muito, você ficará feliz em saber que o recurso de coluna de exemplo foi melhorado. Além disso, muitos conectores foram melhorados também. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Os ícones de faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas nas telas de todos os portes. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualização de recursos
-- **Saiba o que está por vir** Experimente novas experiências do usuário antes do lançamento e nos informe sobre a sua opinião. [Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Veja a URL por trás dos Links de seguros** Os Links seguros ajudam a proteger você de URLs mal-intencionadas recebidas por email, mas ocultam a URL original. Agora, basta passar o mouse sobre uma URL para ver a original, mesmo em links protegidos pelos Links seguros.
+- |||UNTRANSLATED_CONTENT_START|||**See what’s Coming Soon** Try out new user experiences before they’re released and let us know what you think. [Learn more](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)|||UNTRANSLATED_CONTENT_END|||
+- **Consulte a URL por trás de Links de seguros** Links seguros ajuda a proteger você de URLs mal-intencionadas recebidos em email, mas eles ocultem a URL original. Agora, simplesmente passe o mouse sobre uma URL para ver o original, mesmo em links protegido por Links de seguros.
 - **Obtenha sugestões de ortografia de pesquisa** Depois de realizar uma pesquisa, o Outlook fornecerá uma consulta de pesquisa sugerida com correções ortográficas.
-- **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Os ícones de faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas nas telas de todos os portes. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
-- **Veja os seus slides ganharem vida** Insira gráficos 3D animados para ver o coração batendo, a órbita dos planetas e um tiranossauro furioso saltar da tela.  [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Novas ferramentas de revisão** Não se preocupe com as palavras. Agora, o PowerPoint fornece sugestões de escrita e gramática. [Saiba mais](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- |||UNTRANSLATED_CONTENT_START|||**Watch your slides come alive** Insert animated 3D graphics to see hearts beat, planets orbit, and T-Rex rampage across the screen.  [Learn more](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)|||UNTRANSLATED_CONTENT_END|||
 - **Os ícones da faixa de opções receberam uma nova aparência** Mas não se preocupe, tudo funciona da mesma maneira. Além disso, ficam ótimos em qualquer tamanho de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
@@ -215,7 +214,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Vulnerabilidade de divulgação não autorizada de informação no Microsoft Excel
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
@@ -287,7 +286,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Vulnerabilidade de execução remota de código do Microsoft Excel
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidade de divulgação de informações do Microsoft Excel
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -319,7 +318,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1803-april-11"></a>Versão 1803: 11 de abril
 *Versão 1803 (Build 9126.2152)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
@@ -332,7 +331,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
 -   Correção de um problema que causa a exibição de uma mensagem de memória insuficiente.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Vulnerabilidade de divulgação não autorizada de informações no Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
@@ -377,7 +376,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="access-security-updates"></a>Access: Atualizações de segurança
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): vulnerabilidade de execução remota de código do Microsoft Access
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): bypass de recursos de segurança do Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
@@ -416,7 +415,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Vulnerabilidade de elevação de privilégio do Microsoft Outlook
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Vulnerabilidade de corrupção de memória do Microsoft Outlook
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 
@@ -492,7 +491,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ## <a name="version-1711-january-9"></a>Versão 1711: 9 de janeiro
 *Versão 1711 (Build 8730.2175)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Vulnerabilidade de Execução Remota de Código do Microsoft Excel
 -   [Supervisão 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
 
