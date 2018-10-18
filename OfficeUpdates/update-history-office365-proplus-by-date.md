@@ -1,23 +1,23 @@
 ---
-title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
+title: Histórico de atualização do Office 365 ProPlus (listados por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas sobre a versão
-ms.openlocfilehash: b43645d1ee37144af913529d421986550776471a
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459398"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607318"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
+# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (listados por data)
 
 A tabela a seguir fornece uma lista dos números de build e versão de cada atualização do Office 365 ProPlus lançada através dos seguintes canais: Mensal, Semestral (direcionado) e Semestral. Cada item da tabela é vinculado diretamente às notas sobre a versão desse lançamento. As notas sobre a versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas na atualização do Office 365 ProPlus.
 
@@ -30,9 +30,10 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 
 
-|**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
+|**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|9 de Outubro |[**Versão 1809 (Build 10827.20150)**](monthly-channel-2018.md#version-1809-october-9)|[**Versão 1808 (Build 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Versão 1803 (Build 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versão 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018|16 de outubro |[**Versão 1809 (Build 10827.20138)**](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018|9 de Outubro |[Versão 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**Versão 1808 (Build 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Versão 1803 (Build 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versão 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27 de setembro   |[Versão 1809 (Build 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018|11 de setembro   |[Versão 1808 (Build 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Versão 1808 (Build 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Versão 1803 (Compilação 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Versão 1708 (Compilação 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018|5 de Setembro   |[Versão 1808 (Build 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
