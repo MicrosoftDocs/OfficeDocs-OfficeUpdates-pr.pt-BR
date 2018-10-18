@@ -3,19 +3,19 @@ title: Histórico de atualizações do Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
-ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
+ms.openlocfilehash: 07fe8ff246504b0723b86f796bfa8a7f00b6cdb0
+ms.sourcegitcommit: 5626bb716f12dd31eccb33bf0e0e8ed024392017
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/17/2018
-ms.locfileid: "25578932"
+ms.locfileid: "25597824"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
 
@@ -29,7 +29,7 @@ A tabela a seguir resume as informações sobre a versão atual do Office para M
 16.18 (18101400)  <br/> |16 de outubro de 2018  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Notas sobre a versão](release-notes-office-for-mac.md#october-2018-release) <br/> |
   
 > [!NOTE]
-> - Por motivos de segurança, a Microsoft tem preterido o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
+> - Por motivos de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
 > - Iniciando com a versão 16.17 de setembro de 2018, essa informação também se aplica ao Office 2019 para Mac, que é uma versão do Office para Mac disponível como compra avulsa no varejo ou por meio de um contrato de licenciamento por volume.
 > - As informações de histórico de atualização da versão 16.16 e anteriores também se aplicam ao Office 2016 para Mac, que também é uma versão do Office para Mac que está disponível como compra avulsa. Versões mais antigas até e incluindo a 16.16 podem ser ativadas com uma licença de volume do Office 2016 para Mac. Você não pode ativar uma versão 16.17 ou posterior com uma licença de volume do Office 2016 para Mac. Para obter informações sobre versões do Office 2016 para Mac de setembro em diante, confira[Notas de versão do Office 2016 para Mac](release-notes-office-2016-mac.md)
 > - Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas à segurança incluídas em determinada versão do Office para Mac, confira [Notas de versão do Office para Mac](release-notes-office-for-mac.md).
@@ -44,19 +44,19 @@ A tabela a seguir lista os pacotes mais recentes do Office para Mac e para aplic
 |:-----|:-----|:-----|:-----|
 |Pacote do Office (todos os aplicativos)  <br/> |16.18 (18101400)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |8FE6258B09FCE370E73F1CCCF5ADD7C3655EED016511B9B91B2E42CC6B343016 <br/> |
 |Word  <br/> |16.18 (18101400)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/> |8DFC0CF63AFE1BA2FE42F422EFB21D6CC5DF67F836650326E8A92C7F32B22F71 <br/> |
-|Excel  <br/> |16.18 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/> |3015EED14959467545A6EF67C9FF61F6CD46721AAD3E87989AB066C458E5ABBA  <br/> |
-|PowerPoint  <br/> |16.18 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/> |EC6B10A988E51B9F0F5A708F0A7518EC2CFAD5335D2EA807296F9CE2DF6DC561<br/> |
-|Outlook  <br/> |16.18 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/> |42BC668427ABE22555BBDD5BB987A203B5973918584BE22B176EDE102136EADE  <br/> |
-|OneNote  <br/> |16.18 (18101400)   <br/> |[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |Não aplicável  <br/> |
+|Excel  <br/> |16.18.0 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/> |3015EED14959467545A6EF67C9FF61F6CD46721AAD3E87989AB066C458E5ABBA  <br/> |
+|PowerPoint  <br/> |16.18.0 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/> |EC6B10A988E51B9F0F5A708F0A7518EC2CFAD5335D2EA807296F9CE2DF6DC561<br/> |
+|Outlook  <br/> |16.18.0 (18101400)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/> |42BC668427ABE22555BBDD5BB987A203B5973918584BE22B176EDE102136EADE  <br/> |
+|OneNote  <br/> |16.18.0 (18101400)   <br/> |[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |Não aplicável  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Pacotes mais recentes para outros programas da Microsoft para Mac
 
 A tabela a seguir fornece informações sobre os pacotes mais recentes, incluindo um link de download para outros programas da Microsoft para Mac que podem ser interessantes para profissionais de TI. A data do build é listada entre parênteses, no formato AAMMDD, após o número de versão. 
   
-|**Programa**|**Versão**|**Pacote**|**Hash SHA-1**|**Mais informações**|
+|**Programa**|**Versão**|**Pacote**|**Hash SHA-1 / SHA-256**|**Mais informações**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate  <br/> |4.3 (18090901)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Este pacote de atualização é para 64 bits. <br/><br/>[Histórico de versões do MAU](release-history-microsoft-autoupdate.md) |
+|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/> | Este pacote de atualização é para 64 bits. <br/><br/>[Histórico de versões do MAU](release-history-microsoft-autoupdate.md) |
 |Skype for Business  <br/> |16.22.0.160 <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |Lançamos a versão mais recente em 12 de outubro de 2018. <br/><br/>[Últimas atualizações](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |Área de Trabalho Remota | 10.2.2 (1291)  | [Baixar](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Este pacote de instalação é para 64 bits. <br/> <br/>[Novidades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Portal da Empresa do Intune |1.5 (52.1805002.000) [180509] | [Baixar](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novidades do Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
