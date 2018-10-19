@@ -10,32 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Office 365 ProPlus para cada canal de atualizações, e links para notas sobre a versão e o histórico de atualizações
-ms.openlocfilehash: f4b6580d0466a6a04bba6f22f98ccdfa0859d1b4
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607308"
+ms.locfileid: "25638151"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informações de versão das atualizações do Office 365 ProPlus
 
-O Office 365 ProPlus é atualizado regularmente com novos recursos, atualizações de segurança e atualizações que não são de segurança. Essas atualizações são lançadas usando os [canais de atualização](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada lançamento em cada canal de atualizações contém um número de versão e de build atribuído. 
-
-A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualizações. O número de build é vinculado diretamente às notas sobre a versão desse lançamento. 
-
-  
-|**Canal**|**Versão**|**Build**|**Data de lançamento**|**Versão suportada até**|
-|:-----|:-----|:-----|:-----|:-----|
-|Mensal  <br/> |1809  <br/> |[10827.20181](monthly-channel-2018.md#version-1809-october-16)  <br/> | 16 de outubro de 2018  <br/> |A versão 1810 foi lançada <br/>|
-|Semestral (Direcionado)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 9 de outubro de 2018  <br/> | 13 de março de 2019 <br/>|
-|Semestral <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |9 de outubro de 2018  <br/> | 10 de dezembro de 2019 <br/>|
-|Semestral <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |9 de outubro de 2018  <br/> | 13 de março de 2019 <br/>|
-
-Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais recente, confira [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
-
 > [!NOTE]
-> - Os números de build e versão também se aplicam ao Office 365 Business, ao Visio Pro para Office 365 e ao Project Online Desktop Client. O Office 365 Business é a versão que acompanha alguns planos do Office 365, como o Business Premium.
-> - Não há mais suporte para as versões de canais de atualizações que não estão listadas na tabela. Por exemplo, não há mais suporte para a versão 1704 do Canal Mensal. 
+> - A tabela que lista as versões com suporte para cada canal de atualizações foi movida para o [Histórico de atualização do Office 365 ProPlus (relacionado por data)](update-history-office365-proplus-by-date.md).
+
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Histórico de atualização para lançamentos do Office 365 ProPlus

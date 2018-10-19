@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: 07fe8ff246504b0723b86f796bfa8a7f00b6cdb0
-ms.sourcegitcommit: 5626bb716f12dd31eccb33bf0e0e8ed024392017
+ms.openlocfilehash: 7c01797a8cc02e08e70acab9daa2e9dcdb376bc8
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25597824"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25638161"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
 
@@ -54,16 +54,16 @@ A tabela a seguir lista os pacotes mais recentes do Office para Mac e para aplic
 
 A tabela a seguir fornece informações sobre os pacotes mais recentes, incluindo um link de download para outros programas da Microsoft para Mac que podem ser interessantes para profissionais de TI. A data do build é listada entre parênteses, no formato AAMMDD, após o número de versão. 
   
-|**Programa**|**Versão**|**Pacote**|**Hash SHA-1 / SHA-256**|**Mais informações**|
+|**Programa**|**Versão**|**Pacote**|**Mais informações**|**Hash SHA-1 / SHA-256**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/> | Este pacote de atualização é para 64 bits. <br/><br/>[Histórico de versões do MAU](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.22.0.160 <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |Lançamos a versão mais recente em 12 de outubro de 2018. <br/><br/>[Últimas atualizações](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Área de Trabalho Remota | 10.2.2 (1291)  | [Baixar](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Este pacote de instalação é para 64 bits. <br/> <br/>[Novidades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Portal da Empresa do Intune |1.5 (52.1805002.000) [180509] | [Baixar](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Novidades do Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
-|Plug-in do navegador Safari do Microsoft SharePoint local para Office 2016 para Mac  <br/> |15.32.0 (170309)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Este pacote de instalação é para 64 bits.  <br/> |
+|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Este pacote de atualização é para 64 bits. <br/><br/>[Histórico de versões do MAU](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|Skype for Business  <br/> |16.22.0.160 <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |Lançamos a última versão em 12 de outubro de 2018. <br/><br/>[Últimas atualizações](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
+|Área de Trabalho Remota | 10.2.2 (1291)  | [Baixar](https://go.microsoft.com/fwlink/?linkid=868963) | Este pacote de instalação é para 64 bits. <br/> <br/>[Novidades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|Portal da Empresa do Intune |1.5 (52.1805002.000) [180509] | [Baixar](https://go.microsoft.com/fwlink/?linkid=869655)| [Novidades do Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
+|Plug-in do navegador Safari do Microsoft SharePoint local para Office 2016 para Mac  <br/> |15.32.0 (170309)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Este pacote de instalação é para 64 bits.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
-## <a name="release-history-for-office-for-mac"></a>Histórico de versão do Office para Mac
+## <a name="release-history-for-office-for-mac"></a>Histórico de versões do Office para Mac
 
 A tabela a seguir fornece links para download e informações de histórico de versão do Office para Mac. A tabela é classificada por data de lançamento em ordem cronológica descendente. A data do build é listada entre parênteses, no formato AAMMDD, após o número de versão. Todas as versões posteriores a 22 de agosto de 2016 são apenas para 64 bits. Todas as versões anteriores a 22 de agosto de 2016 são apenas para 32 bits.
 
