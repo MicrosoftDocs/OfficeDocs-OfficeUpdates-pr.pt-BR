@@ -1,39 +1,51 @@
 ---
-title: Histórico de atualização do Office 365 ProPlus (listados por data)
+title: Histórico de atualizações do Office 365 ProPlus (listadas por data)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas sobre a versão
-ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607318"
+ms.locfileid: "25638171"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (listados por data)
+# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualizações do Office 365 ProPlus (listadas por data)
 
-A tabela a seguir fornece uma lista dos números de build e versão de cada atualização do Office 365 ProPlus lançada através dos seguintes canais: Mensal, Semestral (direcionado) e Semestral. Cada item da tabela é vinculado diretamente às notas sobre a versão desse lançamento. As notas sobre a versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas na atualização do Office 365 ProPlus.
+O Office 365 ProPlus é atualizado regularmente com novos recursos, atualizações de segurança e outras. Essas atualizações são lançadas usando os [canais de atualização](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada lançamento em cada canal de atualizações contém um número de versão e de build atribuído. 
 
 
 > [!NOTE]
 > - Os números de build e versão também se aplicam ao Office 365 Business, ao Visio Pro para Office 365 e ao Project Online Desktop Client. O Office 365 Business é a versão que acompanha alguns planos do Office 365, como o Business Premium.
 > - A tabela é ordenada por data de lançamento, com a versão mais recente listada no início. 
-> - O número da versão e do build em negrito indica o número da versão e do build mais atual para aquele canal de atualizações específico.
 > - Para saber mais sobre canais de atualização, confira o artigo [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
+A tabela a seguir lista a versão com suporte e o número de build mais recente para cada canal de atualização. 
+ 
+|**Canal**|**Versão**|**Build**|**Data de lançamento**|**Versão suportada até**|
+|:-----|:-----|:-----|:-----|:-----|
+|Mensal  <br/> |1809  <br/> |10827.20181 <br/> | 16 de outubro de 2018  <br/> |A versão 1810 foi lançada <br/>|
+|Semestral (Direcionado)  <br/> |1808  <br/> |10730.20155 <br/> | 9 de outubro de 2018  <br/> | 13 de março de 2019 <br/>|
+|Semestral <br/> |1803  <br/> | 9126.2295<br/> |9 de outubro de 2018  <br/> | 10 de dezembro de 2019 <br/>|
+|Semestral <br/> |1708  <br/> |8431.2316  <br/> |9 de outubro de 2018  <br/> | 13 de março de 2019 <br/>|
+
+Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Office 365 ProPlus para a última versão, confira [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
+
+
+A tabela a seguir fornece uma lista dos números de build e versão de cada atualização do Office 365 ProPlus lançada através dos seguintes canais: Mensal, Semestral (direcionado) e Semestral. Cada item da tabela é vinculado diretamente às notas sobre a versão desse lançamento. As notas sobre a versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações incluídas na atualização do Office 365 ProPlus.
 
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|16 de outubro |[**Versão 1809 (Build 10827.20138)**](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018|9 de Outubro |[Versão 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**Versão 1808 (Build 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Versão 1803 (Build 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versão 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018|16 de outubro |[Versão 1809 (Build 10827.20138)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018|9 de Outubro |[Versão 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Versão 1808 (Build 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Versão 1803 (Build 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Versão 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27 de setembro   |[Versão 1809 (Build 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018|11 de setembro   |[Versão 1808 (Build 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Versão 1808 (Build 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Versão 1803 (Compilação 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Versão 1708 (Compilação 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018|5 de Setembro   |[Versão 1808 (Build 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
