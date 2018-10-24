@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607348"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718965"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -24,6 +24,8 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
  > [!NOTE]
 > - A seguir, fornecemos informações sobre os novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança do Visio Pro para Office 365 e do Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, que é a versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+> - Geralmente liberamos recursos (e, às vezes, até algumas correções) no Canal Mensal durante um certo período. Isso nos permite garantir que as coisas estão funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você acabará recebendo. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1809-october-16"></a>Versão 1809: 16 de outubro
 *Versão 1809 (Build 10827.20138)* 
@@ -57,14 +59,14 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 - **Pesquisa rápida** Aperfeiçoamos os cálculos PROCV, PROCH e CORRESP para que você possa obter respostas mais rápidas. [Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Essa é para os fãs de obter e transformar** Se você usa muito o recurso obter e transformar, ficará feliz em saber que o recurso Coluna de exemplo foi melhorado. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Essa é para os fãs do recurso Obter e transformar** Se você usa muito o recurso Obter e transformar, ficará feliz em saber que o recurso Coluna de exemplo foi melhorado. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Os ícones de faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="outlook-feature-updates"></a>Outlook: atualização de recursos
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 - **Saiba o que está vindo por aí** Experimente novas experiências do usuário antes do lançamento e nos diga o que achou. [Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **Veja a URL por trás de Links seguros** Os Links seguros ajudam a proteger você de URLs mal-intencionadas recebidas em emails, mas eles ocultam a URL original. Agora, basta passar o mouse sobre uma URL para ver o link original, mesmo em links protegidos por Links seguros.
 - **Receba sugestões de ortografia na pesquisa** Depois de realizar uma pesquisa, o Outlook fornecerá uma consulta de pesquisa sugerida com correções ortográficas.
-- **Os ícones de faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Os ícones da faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 - **Veja seus slides ganharem vida** Insira gráficos 3D animados para ver o coração batendo, a órbita dos planetas e um tiranossauro furioso saltar da tela. [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
@@ -72,7 +74,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 - **Atraia a atenção deles com \@ menções** Use @menções nos comentários para informar seus colegas que você precisa da contribuição deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Os ícones de faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Os ícones da faixa de opções têm uma nova aparência** Não se preocupe, tudo funciona da mesma maneira. Além disso, eles se ajustam a todos os tamanhos de tela. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Conversor do Editor de Equações** O conversor permite que os usuários convertam equações criadas com o editor do Microsoft Equation para o formato Office Math ML para possibilitar a edição.
 
 ## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
@@ -338,7 +340,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
 -   Correção de um problema que causa a exibição de uma mensagem de memória insuficiente.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Vulnerabilidade de divulgação não autorizada de informações no Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
