@@ -21,7 +21,7 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
-# Office for Mac
+# Office para Mac
 ## [Atualizar histórico (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Notas de versão (Office 365, 2019)](release-notes-office-for-mac.md)
 ## [Notas de versão (2016)](release-notes-office-2016-mac.md)
@@ -38,7 +38,7 @@
 ## [Atualizações do Office 2010](update-history-office-2010-click-to-run.md)
 
 # Produtos de servidor do Office
-## [Atualizações do Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Atualizações do Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Atualizações do Project Server](project-server-updates.md)
 ## [Atualizações do SharePoint](sharepoint-updates.md)
 ## [Skype para atualizações do servidor de negócios](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
