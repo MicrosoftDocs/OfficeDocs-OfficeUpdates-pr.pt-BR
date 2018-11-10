@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 51e73f96f003e915c46031c0e39ccfda17abc885
-ms.sourcegitcommit: 6658c0f5db7d3600c6c6a3dd8030ee1f1d5c72a4
+ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857149"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031660"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Somente versões dos últimos quatro meses serão listadas.
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+
+
+## <a name="november-11-2018"></a>11 de novembro de 2018
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão provisória é a Versão 1810 <(build 11001.20094)>. 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1809 (build 10827.20181)  <br/> |16 de outubro de 2018  <br/> |188<br/> |
+|Versão 1809 (build 11001.20074)  <br/> |29 de outubro de 2018  <br/> |61<br/> |
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+A versão provisória é a Versão <1803 (build 9126.2315)>.
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1803 (build 9126.2282) <br/> |9 de outubro de 2018  <br/> |61 <br/> |
+|Versão 1803 (build 9126.2282)  <br/> |11 de setembro de 2018  <br/> |58<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
+
+A versão provisória é a Versão <1808 (build 10730.20205)>.
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1803 (build 10730.20102)  <br/> |9 de outubro de 2018  <br/> |92 <br/> |
+|Versão 1808 (build 10730.20102)  <br/> |11 de setembro de 2018  <br/>   |84  <br/>|
 
 ## <a name="october-29-2018"></a>29 de outubro de 2018
 

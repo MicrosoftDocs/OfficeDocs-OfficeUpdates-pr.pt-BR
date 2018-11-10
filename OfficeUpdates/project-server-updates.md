@@ -12,21 +12,21 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: Encontre e gerencie as atualizações para Project Server 2013 e Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
+ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456695"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024585"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
-Use os links nesta página para saber mais sobre as atualizações do Project Server 2013 e do Project Server 2010 e para baixá-las. 
+Use os links nesta página para saber mais sobre as atualizações do Project Server 2013 e o Project Server 2010 para baixá-las. 
 > [!NOTE]
-> Para saber mais sobre atualizações do Project Server 2016, confira [Atualizações do SharePoint](sharepoint-updates.md), pois o Project Server 2016 faz parte do SharePoint Server 2016 Enterprise Edition.
+> Para saber mais sobre atualizações do Project Server 2016, confira [Atualizações do SharePoint](sharepoint-updates.md), pois o Project Server 2016 faz parte do SharePoint Server 2016 Enteprise Edition.
   
-## <a name="project-server-2013-update-history"></a>Histórico de atualizações do Project Server 2013
+## <a name="project-server-2013-update-history"></a>Histórico de atualização do Project Server 2013
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
@@ -77,7 +77,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 |Novembro de 2014  <br/> |[KB2889949](https://support.microsoft.com/kb/2889949) <br/> |
 |Setembro de 2014  <br/>  |[KB2883072](https://support.microsoft.com/kb/2883072) <br/> |
    
-## <a name="project-server-2010-update-history"></a>Histórico de atualizações do Project Server 2010
+## <a name="project-server-2010-update-history"></a>Histórico de atualização do Project Server 2010
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
@@ -132,5 +132,5 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Atualizações do Exchange Server](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Atualizações do Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [Atualizações do SharePoint](sharepoint-updates.md)
