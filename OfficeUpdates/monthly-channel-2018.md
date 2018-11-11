@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 10/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
+ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031640"
+ms.lasthandoff: 10/29/2018
+ms.locfileid: "25841247"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -33,7 +33,6 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos 
 
 - **Colaborar com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada. [Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Cotações de ações ao seu alcance:** receba a cotação das ações, alterações no preço mais recentes e muito mais com o novo tipo de dados de Ações. Também há um novo tipo de dados de Geografia. [Saiba mais](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência.. Isso é tudo. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Facilitar a edição na barra de fórmulas:** agora você pode usar CTRL + A para selecionar o texto em uma célula ou na barra de fórmulas. Também aumentou o suporte para emojis e outros caracteres complexos. [Saiba mais](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
