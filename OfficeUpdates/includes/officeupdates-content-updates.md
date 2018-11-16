@@ -74,3 +74,18 @@
 | 10/30/2018 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
 | 10/31/2018 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
 | 10/31/2018 | Histórico de atualização do Office 365 ProPlus (relacionado por versão) | removido |
+
+
+## <a name="week-of-november-05-2018"></a>Semana de 05 de novembro de 2018
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 11/6/2018 | [Atualizações do Office](/OfficeUpdates/index) | modificado |
+| 11/6/2018 | [Atualizações mais recentes para versões do Outlook que usam o Windows Installer (MSI)](/OfficeUpdates/outlook-updates-msi) | modificado |
+| 11/6/2018 | [Atualizações do Project Server](/OfficeUpdates/project-server-updates) | modificado |
+| 11/6/2018 | [Atualizações do SharePoint](/OfficeUpdates/sharepoint-updates) | modificado |
+| 11/6/2018 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
+| 11/6/2018 | [Histórico de atualização do Office 365 ProPlus (relacionado por data)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificado |
+| 11/6/2018 | [Notas de versão para lançamentos do Canal Mensal em 2018](/OfficeUpdates/monthly-channel-2018) | modificado |
+| 11/9/2018 | [Histórico de versões do Microsoft AutoUpdate](/OfficeUpdates/release-history-microsoft-autoupdate) | modificado |
