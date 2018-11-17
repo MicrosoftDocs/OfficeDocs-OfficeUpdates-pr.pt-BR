@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031640"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526386"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -24,47 +24,81 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
-> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo. Isso permite a nós garantir que tudo está funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente. 
-  [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1810-november-13"></a>Versão 1810: 13 de novembro
+*Versão 1810 (build 11001.20108)* 
+
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): Vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): Vulnerabilidade de execução remota de código do Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
+
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8522): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8524): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8558): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8576): vulnerabilidade de Execução Remota de Código do Microsoft Outlook 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8579): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8582): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+
+### <a name="project-security-updates"></a>Project: Atualizações de segurança 
+
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8575): Vulnerabilidade de execução remota de código do Microsoft Project 
+
+### <a name="word-security-updates"></a>Word: atualizações de segurança  
+
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8573): Vulnerabilidade de execução remota de código do Microsoft Word 
+
+### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança 
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8546): Vulnerabilidade de negação de serviço do Microsoft Skype for Business 
+
+ ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+
+ - Corrigido um problema em que ao salvar/publicar um projeto no Project Online, a barra de status nem sempre era atualizada para mostrar o status mais recente.
+ - Corrigido um problema em que, se você estivesse trabalhando com arquivos do projeto em uma biblioteca de documentos do SharePoint que estava na nova experiência moderna, as ações Check-Out obrigatório e somente leitura não estavam sendo seguidas corretamente.
+
 
 ## <a name="version-1810-october-29"></a>Versão 1810: 29 de outubro
 *Versão 1810 (build 11001.20074)* 
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos 
 
-- **Colaborar com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada. [Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Cotações de ações ao seu alcance:** receba a cotação das ações, alterações no preço mais recentes e muito mais com o novo tipo de dados de Ações. Também há um novo tipo de dados de Geografia. [Saiba mais](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
-- **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência.. Isso é tudo. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Facilitar a edição na barra de fórmulas:** agora você pode usar CTRL + A para selecionar o texto em uma célula ou na barra de fórmulas. Também aumentou o suporte para emojis e outros caracteres complexos. [Saiba mais](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
+- **Colaborar com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **Cotações de ações ao seu alcance:** receba a cotação das ações, alterações no preço mais recentes e muito mais com o novo tipo de dados de Ações. Há também um novo tipo de dados de Geografia. [Sabia mais](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Facilitar a edição na barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos 
 
-- **sugestões de pessoas no Assistente de Agendamento:** Confira recomendações para os participantes adicionarem quando agendarem uma reunião. Não é mais preciso alternar entre o Assistente de agendamento e a linha. [Saiba mais](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
+- **Sugestões de pessoas no Assistente de Agendamento:** Confira recomendações para adicionar participantes quando agendar uma reunião. Não é mais preciso alternar entre a linha e o Assistente de agendamento. [Saiba mais](https://support.office.com/article/d284c6d9-206e-4926-92b4-5addc0fcbefb)
 - **Reservar uma sala acabou de ficar mais fácil:** procure uma sala de conferência usando mais de uma lista de salas e troque as listas sem perder as salas que você selecionou.
-- **Continuar a ver lembretes de eventos anteriores:** Você pode configurar seu calendário para ignorar lembretes de eventos depois que você terminou automaticamente. [Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **Continuar a ver lembretes de eventos anteriores:** Você pode configurar seu calendário para ignorar lembretes de eventos depois que você terminou automaticamente.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos 
 
-- **Ver o que está atrás de uma imagem:** coloque um slide em uma planilha, selecione o valor predefinido e observe a alteração de transparência.. Isso é tudo. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Novas ferramentas de revisão:** não se preocupe com suas palavras. Agora, o PowerPoint fornece sugestões de gramática e ortografia.
-- **Você esboça, nós melhoramos:** alteramos textos e formas desenhado à mão e para diagramas refinados. Basta selecionar os traços de tinta para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Ver o que está atrás de uma imagem:** coloque uma imagem em um slide, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Novas ferramentas de revisão:** não se preocupe com as palavras. Agora, o PowerPoint fornece sugestões de gramática e ortografia.
+- **Você esboça, nós melhoramos:** transformamos textos e formas desenhadas em diagramas refinados. Basta selecionar seus traços de tinta para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos 
 
-- **Ver o que está atrás de uma imagem:** coloque uma imagem em um documento, selecione o valor predefinido e observe a alteração de transparência.. Isso é tudo. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Ver o que está atrás de uma imagem:** coloque uma imagem em um documento, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Assista seus documentos ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a página. [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
 ### <a name="access-feature-updates"></a>Access: atualizações de recursos 
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="publisher-feature-updates"></a>Publisher: atualizações de recursos 
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="project-feature-updates"></a>Project: atualizações de recursos 
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: atualizações de recursos 
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 
 ## <a name="version-1809-october-16"></a>Versão 1809: 16 de outubro
@@ -98,23 +132,23 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1809 (build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
-- **Pesquisa rápida** Nós carregamos seus cálculos VLOOKUP, HLOOKUP e MATCH para que você possa obter respostas mais rápidas. [Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
-- **Chame todos os fãs do Obter e Transformar** se você usa muito o Obter e Transformar, ficará feliz em saber que o recurso da coluna de exemplo foi aprimorado. E muitos conectores foram melhorados também. [Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Pesquisa rápida** Nós carregamos seus cálculos VLOOKUP, HLOOKUP e MATCH para que você possa obter respostas mais rápidas.[Saiba mais](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Chame todos os fãs do Obter e Transformar** se você usa muito o Obter e Transformar, ficará feliz em saber que o recurso da coluna de exemplo foi aprimorado. E muitos conectores também foram melhorados.[Saiba mais](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
-- **Veja o que será lançado em breve** experimente novas experiências de usuários antes do lançamento e informe-nos o que achou. [Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Confira a URL atrás de Links seguros** Os links seguros ajudam a proteger você contra URLs mal-intencionadas recebidas por email, mas eles ocultam a URL original. Agora basta passar o mouse sobre uma URL para ver o original, mesmo em links protegidos por Links seguros.
+- **Veja o que será lançado em breve** experimente novas experiências de usuários antes do lançamento e informe-nos o que achou.[Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **Confira a URL do Links seguros** Links seguros ajudam a proteger você contra URLs mal-intencionadas recebidos por email, mas eles ocultam a URL original. Agora basta passar o mouse sobre uma URL para ver o original, mesmo em links protegido por Links seguros.
 - **Obter pesquisa com sugestões de ortografia ** após executar uma pesquisa, o Outlook oferece uma consulta de pesquisa sugerida com correções de ortografia.
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
-- **Assista seus slides ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a tela.  [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Assista seus slides ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a tela.[Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
-- **Chamar a atenção com \@menções** usar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **Ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Chamar a atenção com \@menções** usar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Conversor do Editor de equações** o conversor permite aos usuários converter equações criadas usando o Microsoft Equation editor formato Office matemática ML para habilitar a edição.
 
 ## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
@@ -135,18 +169,18 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1808 (build 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access: Atualizações de recursos
- - **Atualizar, vincular novamente ou remover tabelas vinculadas** O gerenciador de tabelas vinculadas atualizado é o local para gerenciar todas as fontes de dados e tabelas vinculadas. [Saiba mais](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **Atualizar, vincular novamente ou remover tabelas vinculadas** O gerenciador de tabelas vinculadas atualizado é o local para gerenciar todas as fontes de dados e tabelas vinculadas.[Saiba mais](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
- - **Desabilitar o encaminhamento para uma reunião** Impede que os participantes encaminhem a reunião para outras pessoas. Basta acessar a faixa de opções e clicar em opções de resposta. [Saiba mais](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **Desabilitar o encaminhamento para uma reunião** Impede que os participantes encaminhem a reunião para outras pessoas. Basta acessar a faixa de opções e clicar em Opções de Resposta. [Saiba mais](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
  - **Aproveite um momento icônico no seu próximo diagrama** escolha entre 26 estênceis novos com ícones de análise, artes, comemoração, rostos, esportes e muito mais. 
- - **Criar um documento do Word sem formas do Visio** Adicionar automaticamente o conteúdo do diagrama, incluindo formas e os metadados, para um documento do Word. Personalize o documento para criar as diretrizes de processo e os manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio e o Power BI: melhor juntos** Em apenas alguns cliques, transforme o seu diagrama do Visio em uma visualização interativa do Power BI. [Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Use formas do Visio para criar um documento do Word:** adicione automaticamente o conteúdo de diagramas, incluindo formas e metadados, em um documento do Word. Personalize o documento para criar diretrizes de processo e manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio e o Power BI: melhor juntos** Em apenas alguns cliques, transforme o seu diagrama do Visio em uma visualização interativa do Power BI.[Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: atualizações de recursos
- - **Confira mais informações nos cartões do quadro de tarefas** Quando apenas o título não conta a história, personalize seus cartões de quadro de tarefas para mostrar a todos os detalhes mais importantes. [Saiba mais](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **Confira mais informações nos cartões do quadro de tarefas** Quando apenas o título não conta a história, personalize seus cartões de quadro de tarefas para mostrar a todos os detalhes mais importantes.[Saiba mais](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -  Corrige um problema no Excel em que a linha pontilhada que marca o intervalo de células que um usuário selecionou para copiar não desaparece e permanece na área de transferência, mesmo depois de uma operação de usuário subsequente, como colar. 
@@ -220,12 +254,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1806 (build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
- - **Barra de edição de fórmulas e células aprimoradas:** Agora você pode usar CTRL + A para selecionar o texto em uma célula ou na barra de fórmulas. Também aumentou o suporte para emojis e outros caracteres complexos. [Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
  - **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
- - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis. [Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis.[Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
  - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -289,7 +323,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  - **Visualizar dados com gráficos novos:** escolha entre 11 gráficos e adicione um deles aos formulários e relatórios para visualizar melhor os dados e tomar decisões informadas. [Saiba mais](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
- - **Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Excel. Observe que este recurso não está disponível em algumas regiões. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Excel. Observe que esse recurso não está disponível em algumas regiões [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
  - **Digitação sem mãos:** use sua voz para criar emails simplesmente ditando. Não é preciso digitar. [Saiba mais](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -348,7 +382,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 -   **Ouça seus emails:** o Outlook pode ler o email em voz alta e realçar o texto conforme lê. [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Nunca mais perca um lembrete:** definir lembrete para aparecer nas janelas em que você está trabalhando. Caso contrário, o Outlook pisca na barra de ferramentas para chamar sua atenção.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **Nunca mais perca um lembrete:** defina lembretes a serem abertos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook pisca na barra de ferramentas para chamar sua atenção.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marque itens excluídos como lidos:** agora você pode definir qualquer mensagem excluída como lida. Para isso, vá para Arquivo \> Opções \> Email \> Outras.
 -   **Opção de criptografia:** os usuários da Criptografia de Mensagens do Office 365 podem criptografar uma mensagem e enviá-la para qualquer pessoa, dentro ou fora da organização. A opção de criptografia é exibida em Opções \> Permissões ao criar uma mensagem. [Saiba mais](https://aka.ms/omeoverview)
 
@@ -383,8 +417,9 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0950): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
--   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave.  Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) e [aqui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1030): Vulnerabilidade de execução remota de código do Microsoft Office
+-   
+  **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Versão 1803: 27 de março
 *Versão 1803 (build 9126.2116)*
