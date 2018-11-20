@@ -3,26 +3,26 @@ title: Histórico de atualizações do Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
-description: Fornece aos profissionais de TI um histórico de atualizações para versões perpétuas do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
+ms.openlocfilehash: 12f398ed28d41cda77c3bb6395bb34bd0d9bd9d8
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456705"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296601"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
-A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se está com a última versão, verifique o número de versão do Office e atualize-o manualmente se for necessário.
+A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão atual do Office 2013 é **15.0.5075.1001**, que foi lançada em 9 de junho de 2018. 
+> A versão mais recente do Office 2013 é **15.0.5085.1000**, que foi lançada no dia 13 de novembro de 2018. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -32,28 +32,29 @@ Para verificar sua versão do Office, faça o seguinte:
     
 3. Em **Informações do Produto**, anote o número da versão abaixo de **Atualizações do Office**.
     
-    Se o número da versão corresponder à versão atual, está tudo atualizado. Caso contrário, atualize manualmente para obter a última versão do Office 2013. Para atualizar o Office, [siga estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
+    Se o número da versão corresponder à versão mais recente, tudo estará atualizado. Caso contrário, atualize manualmente para obter a versão mais recente do Office 2013. Para atualizar o Office, [execute estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Lista de datas de lançamento, números de versão e informações de correção para atualizações do Office 2013
 
-A tabela a seguir fornece uma lista de atualizações do Office 2013 em ordem cronológica descendente. A tabela inclui o número da versão e um link para o artigo da Base de Dados de Conhecimento Microsoft (KB), se estiver disponível, contendo informações sobre as correções incluídas na atualização.
+A tabela a seguir fornece uma lista com as atualizações do Office 2013, e contém a data de lançamento mais recente primeiro. A tabela inclui o número da versão do lançamento e um link para o artigo da Base de Dados de Conhecimento Microsoft (KB), se houver um disponível, contendo informações sobre as correções que estão incluídas na atualização.
   
 As novas versões contêm todas as atualizações presentes nas versões anteriores.
 
 > [!NOTE]
-> Os artigos de KB listados abaixo são apenas para referência. As atualizações Clique para Executar incluem todas as correções listadas nos artigos de KB. Não é necessário baixar essas as atualizações em separado.
+> Os artigos da KB listados abaixo são apenas para referência. As atualizações de Clique para Executar incluem todas as correções listadas nos artigos da KB. Não é necessário baixar as atualizações separadas listadas nos artigos da base de dados.
 
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2018 |9 de Outubro   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
-| |11 de setembro   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
-||14 de agosto   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
-||10 de julho   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
-||12 de junho   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
-||8 de maio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
-||10 de abril   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
-||13 de março   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
+|2018 |13 de novembro   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/pt-BR/help/4469617)  |
+||9 de outubro   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/pt-BR/help/4464656)  |
+| |11 de setembro   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/pt-BR/help/4459402)  |
+||14 de agosto   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/pt-BR/help/4346823)  |
+||10 de julho   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/pt-BR/help/4340798)  |
+||12 de junho   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/pt-BR/help/4299875)  |
+||8 de maio   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/pt-BR/help/4133083)  |
+||10 de abril   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/pt-BR/help/4098622)  |
+||13 de março   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/pt-BR/help/4090988)  |
 ||13 de fevereiro   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||9 de janeiro   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
 |2017   |12 de dezembro   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
@@ -67,8 +68,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||11 de abril   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||14 de março   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||22 de fevereiro   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||10 de janeiro   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
-|2016   |13 de dezembro   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
+||10 de janeiro   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/pt-BR/kb/3214449)  |
+|2016   |13 de dezembro   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/pt-BR/kb/3208595)  |
 ||8 de novembro   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||11 de outubro   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||13 de setembro   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
@@ -80,7 +81,7 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||10 de maio   |15.0.4823.1002   |[KB 3158453](https://support.microsoft.com/kb/3158453 )  |
 ||12 de abril   |15.0.4815.1002   |[KB 3150264](https://support.microsoft.com/kb/3150264)  |
 ||8 de março   |15.0.4805.1003   |[KB 3143491](https://support.microsoft.com/kb/3143491)  |
-||17 de fevereiro   |15.0.4797.1003   |Esta versão corrige um problema que pode causar o congelamento ou lentidão dos aplicativos do Office, como Word, Excel ou Outlook, ao rolar a tela ou copiar e colar um texto.   |
+||17 de fevereiro   |15.0.4797.1003   |Esta versão corrige um problema que pode causar o congelamento ou lentidão dos aplicativos do Office, como Word, Excel ou o Outlook, ao rolar a tela ou copiar e colar um texto.   |
 ||9 de fevereiro   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||12 de janeiro   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
 |2015   |8 de dezembro   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
