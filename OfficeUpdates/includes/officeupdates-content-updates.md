@@ -70,13 +70,13 @@
 | 10/29/2018 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
 | 10/29/2018 | [Notas de versão para lançamentos do Canal Mensal em 2018](/OfficeUpdates/monthly-channel-2018) | modificado |
 | 10/29/2018 | [Histórico de atualização do Office 365 ProPlus (relacionado por data)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificado |
-| 10/30/2018 | [Notas de versão do Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificado |
-| 10/30/2018 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
+| 30/10/2018 | [Notas de versão do Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificado |
+| 30/10/2018 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
 | 10/31/2018 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
 | 10/31/2018 | Histórico de atualização do Office 365 ProPlus (relacionado por versão) | removido |
 
 
-## <a name="week-of-november-05-2018"></a>Semana de 05 de novembro de 2018
+## <a name="week-of-november-05-2018"></a>Semana de 5 de novembro de 2018
 
 
 | Publicado em |Título do tópico | Alteração |
@@ -121,3 +121,13 @@
 | 14/11/2018 | [Notas de versão do Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | modificado |
 | 14/11/2018 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
 | 15/11/2018 | [Notas de versão do Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificado |
+
+
+## <a name="week-of-november-19-2018"></a>Semana de 19 de novembro de 2018
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 11/19/2018 | [Notas de versão do Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificado |
+| 11/19/2018 | [Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018](/OfficeUpdates/semi-annual-channel-targeted-2018) | modificado |
+| 11/19/2018 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
