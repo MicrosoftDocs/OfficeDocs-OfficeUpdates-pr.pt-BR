@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526386"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706645"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -26,30 +26,52 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="version-1811-november-27"></a>Versão 1811: 27 de novembro
+*Versão 1811 (Build 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: atualizações de recursos
+
+- **Pinte de preto, pinte de cinza:** Altere a aparência do Access quantas vezes quiser. Quatro temas para escolher: colorido, cinza escuro, preto ou branco. [Saiba mais](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+
+- **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Mover mensagens no Outlook de modo assíncrono:** Executar movimentos de mensagens de modo assíncrono para aumentar a produtividade para os usuários do Outlook.
+- **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária: ** Os emails não lidos aparecem em todas as pastas, e não apenas na Caixa de Entrada quando a Caixa de Entrada Prioritária está desativada. Classifique com os status dos sinalizadores adicionados. Melhor interação da Caixa de Entrada Prioritária com a Pesquisa: a Caixa de Entrada Prioritária permanece até que uma pesquisa seja iniciada. O texto dos “resultados” é exibido após a conclusão da pesquisa.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
+
+- **Ver o número do slide em folhetos impressos:** adicionar o número do slide à cópia impressa de seus folhetos. [Saiba mais](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
+
+- **Compartilhe e carregue seus documentos com novos botões expostos no Local de Informações:** os botões Compartilhar Previamente, Copiar Caminho na Área de Transferência e Abrir Local de Arquivo só estavam acessíveis atrás do caminho de salvamento do documento. Agora, são botões que você pode ver claramente no Local de Informações! Acesse Arquivo > Informações, como você faria normalmente para ver esses novos botões.
+
+
 ## <a name="version-1810-november-13"></a>Versão 1810: 13 de novembro
 *Versão 1810 (build 11001.20108)* 
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): Vulnerabilidade de execução remota de código do Microsoft Excel 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): Vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8522): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8522): vulnerabilidade de execução remota de código do Microsoft Outlook 
 -   [CVE-2018-8524](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8524): Vulnerabilidade de execução remota de código do Microsoft Outlook 
 -   [CVE-2018-8558](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8558): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
 -   [CVE-2018-8576](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8576): vulnerabilidade de Execução Remota de Código do Microsoft Outlook 
 -   [CVE-2018-8579](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8579): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8582): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8582): vulnerabilidade de execução remota de código do Microsoft Outlook 
 
-### <a name="project-security-updates"></a>Project: Atualizações de segurança 
+### <a name="project-security-updates"></a>Project: atualizações de segurança 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8575): Vulnerabilidade de execução remota de código do Microsoft Project 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8575): vulnerabilidade de execução remota de código do Microsoft Project 
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança  
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8573): Vulnerabilidade de execução remota de código do Microsoft Word 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8573): vulnerabilidade de execução remota de código do Microsoft Word 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança 
 
