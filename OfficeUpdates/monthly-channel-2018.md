@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706645"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987091"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -37,7 +37,8 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 - **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Mover mensagens no Outlook de modo assíncrono:** Executar movimentos de mensagens de modo assíncrono para aumentar a produtividade para os usuários do Outlook.
-- **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária: ** Os emails não lidos aparecem em todas as pastas, e não apenas na Caixa de Entrada quando a Caixa de Entrada Prioritária está desativada. Classifique com os status dos sinalizadores adicionados. Melhor interação da Caixa de Entrada Prioritária com a Pesquisa: a Caixa de Entrada Prioritária permanece até que uma pesquisa seja iniciada. O texto dos “resultados” é exibido após a conclusão da pesquisa.
+- **Veja detalhes do LinkedIn das pessoas no Outlook:** agora, quando você abre um cartão de perfil de um contato, pode saber mais sobre ele visualizando seu perfil do LinkedIn.
+- **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
