@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 61658846d208ec0acc99474df99100724670377a
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
+ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526416"
+ms.lasthandoff: 12/01/2018
+ms.locfileid: "27124022"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -61,7 +61,7 @@ Esta versão oferece as seguintes atualizações:
 
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|
-|Word  <br/>|**Torne suas Imagens Acessíveis:** Quando você insere uma imagem, o Office sugere legendas ocultas que podem ser lidas por pessoas com deficiências visuais.  <br/> ||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Word  <br/>|||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
 |Excel  <br/>|**Colaborar com os Comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas.  [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **Preenchimento automático mais “automático”:** Ao digitar uma fórmula, o menu de preenchimento automático útil aparecerá mostrando opções de argumento disponíveis.  <br/><br/> **Agora aprimorado: navegação com o VoiceOver:** Usando o VoiceOver no Excel? Mova entre planilhas, pressionando VO + U. Você pode habilitar macOS Commander Trackpad para fazer isso também. <br/> ||[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Torne suas Imagens Acessíveis:** Quando você insere uma imagem, o Office sugere legendas ocultas que podem ser lidas por pessoas com deficiências visuais.  <br/><br/> **Os gatilhos de animação estão aqui:** você pediu! Os gatilhos de animação não são mais apenas para Windows. Encontre-os na guia animações [Saiba mais](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Pesquisa Melhoradas:** Marque a caixa de pesquisa para sugestões rápidas com base em seu histórico de pesquisa recente. Não é necessário digitar. [Saiba mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
