@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
-ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
+ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
+ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "27124022"
+ms.lasthandoff: 12/04/2018
+ms.locfileid: "27134262"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -82,7 +82,7 @@ Esta versão oferece as seguintes atualizações:
 |Excel  <br/> |**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Os atalhos personalizados estão de volta:** Nós ouvimos você! Você solicitou, trouxemos de volta teclas de atalho personalizado. [Saiba mais](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |<br/>**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**A fonte escolhida é a fonte que eles veem:** Inserir as fontes personalizadas em seus arquivos para que onde quer que estejam, as fontes estejam também. [Saiba mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.3  <br/> |||[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.3  <br/> |||| 
 |Pacote do Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8332): vulnerabilidade de execução remota de código remoto do Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Versão de agosto de 2018
@@ -99,7 +99,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8375): vulnerabilidade de execução remota de código do Microsoft Excel  <br/>[/CVE-2018-8382](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8382): vulnerabilidade de divulgação de informações do Microsoft Excel  <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8412): Vulnerabilidade de elevação de privilégios do Microsoft AutoUpdate Office  <br/>|[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8412): vulnerabilidade de elevação de privilégios do Microsoft AutoUpdate Office  <br/>| | 
 |Pacote do Office  <br/> ||||
 
 ## <a name="july-2018-release"></a>Lançamento de julho de 2018
@@ -116,7 +116,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> |||[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Dê vida a sua apresentação em vídeo:** adicione ação ao vivo no slide com um vídeo do YouTube e visualize-o sem precisar sair do aplicativo. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**Segurança aprimorada para contas do Google:** os aprimoramentos de segurança significam que você não precisa mais conceder acesso a "aplicativos menos seguros" ou definir uma senha de aplicativo para adicionar sua conta do Google ao Outlook. [Saiba mais](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.1  <br/> |Atualização do Aria SDK 8.4. Corrige um problema de perda de memória.<br/><br/>Alterações no registro do aplicativo. Agora é compatível com a Visualização do Office 2019.||[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.1  <br/> |Atualização do Aria SDK 8.4. Corrige um problema de perda de memória.<br/><br/>Alterações no registro do aplicativo. Agora é compatível com o Office 2019 Preview.|| | 
 |Pacote do Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office  <br/> ||
 
 
@@ -142,7 +142,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> |**Preencha os dados instantaneamente**: adicione alguns exemplos ao Preenchimento Relâmpago e o programa preencherá os dados para você. [Saiba mais](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Quebre a barreira do idioma**: traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**Quebre a barreira do idioma**: traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Hiperlinks em cores vibrantes**: os hiperlinks deixaram de ser somente azuis. Aplique a cor da fonte desejada. [Saiba mais](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**Crie uma assinatura fácil de ser lembrada**: expresse seu perfil com estilos de fonte sofisticados, cores, imagens, links e muito mais. [Saiba mais](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Crie e colabore com os Grupos**: criar um Grupo do Office 365 no Outlook é muito simples, bem como adicionar e remover membros. Colaborar no Mac ficou muito mais fácil. [Saiba mais](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> | |  
 
 ## <a name="may-2018-release"></a>Lançamento de maio de 2018
 
@@ -178,7 +178,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Excel. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua pasta de trabalho inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**Use uma linha do tempo para filtrar seus dados:** filtre com facilidade uma Tabela Dinâmica deslizando o intervalo de datas em um filtro de linha do tempo. [Saiba mais](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8147): vulnerabilidade de execução remota de código do Microsoft Excel   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> ||
 |PowerPoint  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do PowerPoint. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua apresentação inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8176): vulnerabilidade de execução remota de código do Microsoft PowerPoint  <br/> ||
 |Outlook  <br/> |**Personalizar os gestos de deslizar o dedo:** defina os gestos de deslizar o dedo para a direita e para a esquerda como as ações que você mais usa. Escolha entre Excluir, Arquivar, Marcar como Lido, Sinalizar ou Nenhum. [Saiba mais](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **Suporte para Google Calendar e Contatos:** gerencie o Google Calendar e Contatos sem sair do Outlook.* [Saiba mais](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**Implementaremos esse recurso ao longo do tempo para os assinantes do Office 365. Pode ser que ele ainda não esteja disponível para você.* |||
-|Microsoft AutoUpdate 4.0  <br/> |||[Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
+|Microsoft AutoUpdate 4.0  <br/> || <br/> |
    
 ## <a name="april-2018-release"></a>Versão de abril de 2018
 
