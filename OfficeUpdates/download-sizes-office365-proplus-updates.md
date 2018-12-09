@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
+ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706635"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "27180771"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,31 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Somente versões dos últimos quatro meses serão listadas.
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+
+
+## <a name="december-11-2018"></a>11 de dezembro de 2018
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão esperada é a versão 1811 (build 11029.20090). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1811 (Build 11001.20108)  <br/> |13 de novembro de 2018  <br/> |168<br/> |
+|Versão 1810 (build 11029.20079)  <br/> |27 de novembro de 2018  <br/> |84<br/> |
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+Tamanho aproximado do download TBD
+  
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
+
+A versão esperada é a versão 1808 (build 10730.20234).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1803 (build 10730.20155)  <br/> |9 de outubro de 2018  <br/> |90 <br/> |
+|Versão 1808 (build 10730.20205)  <br/> |13 de novembro de 2018  <br/>   |83  <br/>|
 
 ## <a name="november-27-2018"></a>27 de novembro de 2018
 
