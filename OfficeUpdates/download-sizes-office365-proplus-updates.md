@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180771"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194912"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -90,7 +90,7 @@ O lançamento mais atual é a versão 1803 (build 9126.2315).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 9126.2282) <br/> |9 de outubro de 2018  <br/> |61 <br/> |
+|Versão 1803 (build 9126.2295) <br/> |9 de outubro de 2018  <br/> |61 <br/> |
 |Versão 1803 (build 9126.2282)  <br/> |11 de setembro de 2018  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
@@ -192,7 +192,7 @@ O lançamento mais atual é a versão 1803 (build 9126.2282).
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/> |99  <br/> |
-|Versão 1708 (build 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
+|Versão 1803 (build 9126.2275)  <br/> |14 de agosto de 2018  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
@@ -233,8 +233,8 @@ O lançamento mais atual é a versão 1803 (build 9126.2275).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1803 (build 8431.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
-|Versão 1708 (build 8431.2270)  <br/> |12 de junho de 2018  <br/> |279  <br/> |
+|Versão 1803 (build 9126.2259)  <br/> |10 de julho de 2018  <br/> |86  <br/> |
+|Versão 1708 (build 8431.2280)  <br/> |10 de julho de 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (Direcionado)
