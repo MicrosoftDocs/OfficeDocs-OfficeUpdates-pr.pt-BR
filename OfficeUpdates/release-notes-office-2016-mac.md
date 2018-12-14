@@ -3,19 +3,19 @@ title: Notas de versão do Office 2016 para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/15/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office 2016 para Mac a partir de setembro de 2018
-ms.openlocfilehash: 20c7fa686db9f41396fff213c5098b10350399bb
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: b8cb6bab1926df1803f210df04ab8885066d1e6e
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618391"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241332"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Notas de versão do Office 2016 para Mac
 
@@ -34,14 +34,33 @@ As atualizações do Office 2016 para Mac estão disponíveis no Microsoft AutoU
 
 A tabela a seguir lista os pacotes mais recentes do Office 2016 para Mac e para os aplicativos individuais, como o Word e o Excel. Todos os pacotes são 64 bits apenas. A data da build está listada entre parênteses, no formato AAMMDD, após o número da versão. O pacote de instalação é usado se o aplicativo não estiver instalado, enquanto o pacote de atualização é usado para atualizar uma instalação existente.
 
-|**Aplicativo**|**Versão**|**Links para download**|Hashes SHA256 para o pacote de instalação**|
+|**Aplicativo**|**Versão**|**Links para download**|**Hashes SHA256 para o pacote de instalação**|
 |:-----|:-----|:-----|:-----|
-|Pacote do Office (todos os aplicativos)  <br/> |16.16.4 (18111001)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  <br/>182C7F59C4D8D0F55F944979AE9B2E85BBB1269B4E1A542BFF1BD9BD79A6C235 |
-|Word  <br/> |16.16.4 (18111001)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/> | <br/>F55404A753ECBDE445E0DD90232CBCC447CC5F119BF63FE6DF410B11E7B0FE5E|
-|Excel  <br/> |16.16.4 (18111001)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/> |<br/> BDF0E309E097607AE098E997D16D4581084E26A1BD265AFC268D764C74089A64 |
-|PowerPoint  <br/> |16.16.4 (18111001)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18111001_Updater.pkg) <br/> | <br/> 9109B22D0AC362C922740674D4CF14FE97E3A1BCAA65EB33486CB0B63F7F56F3|
-|Outlook  <br/> |16.16.4 (18111001)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18111001_Updater.pkg) <br/> | <br/> 670671EA7C69DD86F0371486C7862848469B782727E3FD2219A990F8E20E727B|
-|OneNote  <br/> |16.16.4 (18111001)   <br/> |[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18111001_Updater.pkg) <br/> |Não aplicável  <br/> |
+|Pacote do Office (todos os aplicativos)  <br/> |16.16.5 (18120901) <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |0EDCD514D578FFF9A998B117B8BCD7E2C34F3111DFBB83842D975CE6D85766DF  <br/> |
+|Word  <br/> |16.16.5 (18120901)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18120901_Updater.pkg) <br/> |DFFDE425F9D113D2718C4227E974BFC4FB07D160CAEA611FB6FC18230AB3E2DF <br/>|
+|Excel  <br/> |16.16.5 (18120901)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/> |6851775F9B0C3F6D23A182861C63578DFF70167D413A70910D76281317BDAD25 <br/>  |
+|PowerPoint  <br/> |16.16.5 (18120901)   <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/> | 9BE23E5ECD9B0EECB940E36FCF78DB42A958DEC97D897F6890F999426FE754F4<br/> |
+|Outlook  <br/> |16.16.5 (18120901)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/> | FB6A29B8EF79B987FA5F0D843F7EA0493554807CA64CAA8E9180BE34A1CF43D5 <br/> |
+|OneNote  <br/> |16.16.5 (18120901)   <br/> |[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18120901_Updater.pkg) <br/> |Não aplicável <br/> |
+
+
+## <a name="december-2018-release"></a>Versão de dezembro de 2018
+
+ **Data do lançamento:** 11 de dezembro de 2018 
+  
+ *Versão 16.16.5 (build 18120801)* 
+  
+Esta versão oferece as seguintes atualizações.
+  
+|**Aplicativo**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|
+|Word  <br/> ||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18120901_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint  <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
+|Outlook  <br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/>|
+|OneNote <br/> ||[Pacote de atualização do OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18120901_Updater.pkg)|
+|Pacote do Office  <br/> | <br/>||
+
 
 ## <a name="november-2018-release"></a>Versão de novembro de 2018
 
