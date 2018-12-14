@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (direcionado) do Office 365 ProPlus em 2018
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618431"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241512"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018
 
@@ -24,6 +24,55 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+ 
+> [!NOTE]
+> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente na [Atualizações de segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1808-december-11"></a>Versão 1808: 11 de dezembro
+*Versão 1808 (build 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel: atualizações de segurança 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8598): vulnerabilidade de divulgação de informações do Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8636): vulnerabilidade de execução remota de código do Microsoft Excel 
+
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8587): vulnerabilidade de execução remota de código do Microsoft Outlook 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: atualizações de segurança 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint 
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança 
+
+- Corrigido um problema de sessões de coautoria em que uma segmentação de dados não é corretamente atualizada após outro usuário aplicar um filtro de coluna para os dados na segmentação de dados.
+- Correção de um problema em uma sessão de co-autoria em que um dos usuários limpa a legenda de uma segmentação de dados e isso faz com que outro usuário na sessão de co-autoria experiencie uma falha do Excel.
+- Correção de possível falha ao criar várias segmentações de dados de tabela vinculadas à mesma coluna de dados e excluir essa coluna de dados.
+- Corrigido um problema em que o Excel às vezes travava ao atualizar uma tabela de consulta filtrada que contém texto agrupado nas células quando a opção de ajustar automaticamente as larguras das colunas estava desativada.
+- Correção de um problema em que as segmentações de dados salvas no Excel 2007 podem disparar uma falha quando abertas em versões mais recentes do Excel, se o número de itens mostrados na segmentação de dados for alterado.
+- Corrigido um problema que fazia com que os usuários experimentassem interrupções ao abrir a pasta Histórico de Conversas.
+- Introduz o suporte para o botão obter diagnóstico para simplificar a investigação de solicitações de suporte.
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: atualizações não relacionadas à segurança
+
+- Corrigido um problema que fazia com que os usuários vissem um erro ao iniciar a caixa de diálogo "Gerenciar regras e alertas".
+- Corrigido um problema que fazia com que os usuários não conseguissem conectar suas caixas de correio pelo DirectAccess ao usar uma conexão limitada.
+- Corrigido um problema que fazia com que os usuários visualizassem documentos gratuitos armazenados em Pastas Públicas erroneamente abertos na "Modo de Exibição Protegido".
+- Corrigido um problema que fazia com que os usuários vissem anexos inesperados ao encaminhar itens com anexos embutidos.
+- Corrigido um problema que fazia com que os arquivos OFT apresentassem problemas após serem enviados como anexos.
+- Corrigido um problema que fazia com que alguns usuários experienciem falhas ao adicionar uma reunião a um calendário compartilhado.
+
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+
+- Corrigido um problema em torno do suporte a uma nova moeda venezuelana no Project.
+- Corrigido um problema onde o projeto pode responder ao usar um Surface 4 que está conectado a um monitor externo.
+- Corrigido um problema onde o Project pode falhar ao salvar o projeto em formato XML.
+- Corrigido um problema em que os campos personalizados de recursos da empresa podem ser excluídos após a edição do calendário do recurso.
+- Corrigido um problema que levava os usuários a enfrentar falhas ao pesquisar nomes em coreano.
 
 ## <a name="version-1808-november-13"></a>Versão 1808: 13 de novembro
 *Versão 1808 (build 10730.20205)*
