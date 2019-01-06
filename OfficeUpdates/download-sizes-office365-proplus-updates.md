@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 01/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 52394a5132cc5a2a2dc2a0d691976a6a11851b62
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241352"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525782"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -36,6 +36,16 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
 
+## <a name="january-3-2019"></a>3 de janeiro de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a Versão 1812 (build 11126.20188). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1810 (build 11029.20079)  <br/> |27 de novembro de 2018  <br/> |179<br/> |
+|Versão 1811 (build 11029.20108)  <br/> |11 de dezembro de 2018  <br/> |176<br/> |
 
 ## <a name="december-11-2018"></a>11 de dezembro de 2018
 
