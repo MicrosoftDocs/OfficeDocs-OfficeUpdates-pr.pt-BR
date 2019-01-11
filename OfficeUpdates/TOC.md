@@ -51,5 +51,3 @@
 # Links relacionados
 ## [Versões do Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Política de ciclo de vida da Microsoft](https://support.microsoft.com/lifecycle)
-
-
