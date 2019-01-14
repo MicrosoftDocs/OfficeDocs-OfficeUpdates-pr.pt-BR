@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241482"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992125"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -191,11 +191,13 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 - **Assista seus slides ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a tela.[Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Saiba a opinião de seu público através de um questionário ou pesquisa:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 - **Chamar a atenção com \@menções** usar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Conversor do Editor de equações** o conversor permite aos usuários converter equações criadas usando o Microsoft Equation editor formato Office matemática ML para habilitar a edição.
+- **Conversor do Editor de equações** O conversor permite aos usuários converter equações criadas com o Editor de Equações da Microsoft para o formato Math ML do Office para habilitar a edição.
+- **Transforme seu documento de estático para incrível: ** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
 *Versão 1808 (build 10730.20102)*
