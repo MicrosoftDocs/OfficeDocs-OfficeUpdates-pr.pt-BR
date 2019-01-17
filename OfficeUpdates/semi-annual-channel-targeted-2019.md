@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 54c9b62bebb657ade63b8c72f1ce0430611dfee6
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773170"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325411"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -36,6 +36,10 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança 
 
 - Correção um problema que levava os usuários a enfrentar problemas de sincronização do calendário.
+
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
+
+- Melhore o desempenho abrir.
 
 
 > [!NOTE]
