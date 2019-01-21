@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325451"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726704"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -44,14 +44,17 @@ Esta versão oferece as seguintes atualizações:
 
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|
-|Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de execução remota de código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de Execução Remota do Código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/> | <br/><br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimir números de slide em folhetos:** quando você imprime uma apresentação em folhetos, cada slide mostrará um número de acompanhamento do slide. <br/><br/> **Aplique rótulos de confidencialidade às suas apresentações:** aplique rótulos de confidencialidade às suas apresentações para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplique rótulos de confidencialidade às suas mensagens:** aplique rótulos de confidencialidade às suas mensagens para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.7 <br/>| O Daemon AutoUpdate agora é inicializado como parte do processo de instalação. Isso elimina caixas de diálogo de segurança confusas que foram mostradas anteriormente aos usuários. <br/><br/> Os recursos de segurança do Microsoft AutoUpdate foram aprimorados para oferecer suporte a certificados SHA256. <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
+> [!NOTE]
+> Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
-## <a name="december-2018-release"></a>Versão de dezembro de 2018
+
+## <a name="december-2018-release"></a>Lançamento de dezembro de 2018
 
  **Data do lançamento:** 11 de dezembro de 2018 
   
