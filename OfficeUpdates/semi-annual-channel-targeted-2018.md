@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (direcionado) do Office 365 ProPlus em 2018
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241512"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258497"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018
 
@@ -54,19 +54,19 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 - Correção de possível falha ao criar várias segmentações de dados de tabela vinculadas à mesma coluna de dados e excluir essa coluna de dados.
 - Corrigido um problema em que o Excel às vezes travava ao atualizar uma tabela de consulta filtrada que contém texto agrupado nas células quando a opção de ajustar automaticamente as larguras das colunas estava desativada.
 - Correção de um problema em que as segmentações de dados salvas no Excel 2007 podem disparar uma falha quando abertas em versões mais recentes do Excel, se o número de itens mostrados na segmentação de dados for alterado.
-- Corrigido um problema que fazia com que os usuários experimentassem interrupções ao abrir a pasta Histórico de Conversas.
-- Introduz o suporte para o botão obter diagnóstico para simplificar a investigação de solicitações de suporte.
+- Introduz o suporte para o botão Obter Diagnóstico para simplificar a investigação de solicitações de suporte.
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 
-- Corrigido um problema que fazia com que os usuários vissem um erro ao iniciar a caixa de diálogo "Gerenciar regras e alertas".
+- Correção de um problema que fazia com que os usuários vissem um erro ao iniciar a caixa de diálogo "Gerenciar regras e alertas".
 - Corrigido um problema que fazia com que os usuários não conseguissem conectar suas caixas de correio pelo DirectAccess ao usar uma conexão limitada.
 - Corrigido um problema que fazia com que os usuários visualizassem documentos gratuitos armazenados em Pastas Públicas erroneamente abertos na "Modo de Exibição Protegido".
 - Corrigido um problema que fazia com que os usuários vissem anexos inesperados ao encaminhar itens com anexos embutidos.
 - Corrigido um problema que fazia com que os arquivos OFT apresentassem problemas após serem enviados como anexos.
-- Corrigido um problema que fazia com que alguns usuários experienciem falhas ao adicionar uma reunião a um calendário compartilhado.
+- Correção de um problema que fazia com que alguns usuários experienciem falhas ao adicionar uma reunião a um calendário compartilhado.
+- Correção de um problema que fazia com que os usuários experimentassem interrupções ao abrir a pasta Histórico de Conversas.
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Projeto: Atualizações não relacionadas à segurança
 
 - Corrigido um problema em torno do suporte a uma nova moeda venezuelana no Project.
 - Corrigido um problema onde o projeto pode responder ao usar um Surface 4 que está conectado a um monitor externo.

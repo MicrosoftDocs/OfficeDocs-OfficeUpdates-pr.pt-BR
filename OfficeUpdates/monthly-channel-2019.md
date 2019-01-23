@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724911"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723124"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -27,13 +27,16 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md). 
+> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md). 
+
+## <a name="version-1812-january-8"></a>Versão 1812: 8 de janeiro
+*Versão 1812 (Build 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+- Correção de um problema que não deixava desmarcar os estilos de barra Crítico, Atrasado e Margem de Atraso para o gráfico de Gantt após terem sido marcados.
 
 ## <a name="version-1812-january-3"></a>Versão 1812: 3 de janeiro
 *Versão 1812 (Build 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access: atualizações de recursos
-- **Saiba tudo com o Microsoft Graph:** importe ou vincule dados inteligentes e reinvente seu banco de dados da área de trabalho com tecnologia inteligente. [Saiba mais](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
@@ -61,3 +64,5 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 
 
+> [!NOTE]
+> Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).

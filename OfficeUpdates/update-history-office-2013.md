@@ -3,26 +3,26 @@ title: Histórico de atualizações do Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/20/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
-ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
+ms.openlocfilehash: 681c3077e784f7ae9ab0b6855fbdd91533967225
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "27378531"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770132"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5093.1001**, que foi lançada no dia 19 de dezembro de 2018. 
+> A versão mais recente do Office 2013 é **15.0.5101.1002**, lançada no dia 8 de janeiro de 2019. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -46,6 +46,7 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
+|2019|8 de janeiro   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/pt-BR/help/4484800)  |
 |2018|19 de dezembro   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/pt-BR/help/4477615)  |
 ||13 de novembro   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/pt-BR/help/4469617)  |
 ||9 de outubro   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/pt-BR/help/4464656)  |
