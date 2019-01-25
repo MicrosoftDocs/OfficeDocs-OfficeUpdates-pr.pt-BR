@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/04/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
-ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
+ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27733108"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442077"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -36,11 +36,22 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
 
+## <a name="january-14-2019"></a>14 de janeiro de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1812 (Build 11126.20266). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1812 (Build 11126.20188)  <br/> |3 de janeiro de 2019  <br/> | A definir<br/> |
+|Versão 1812 (Build 11126.20196)  <br/> |8 de janeiro de 2019 <br/> |A definir<br/> |
+
 ## <a name="january-8-2019"></a>8 de janeiro de 2019
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
-A versão esperada é a versão 1812 (Build 11126.20196). 
+O lançamento mais atual é a versão 1812 (Build 11126.20196). 
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -49,7 +60,7 @@ A versão esperada é a versão 1812 (Build 11126.20196).
 
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-A versão esperada é a versão 1808 (Build 10730.20264).
+O lançamento mais atual é a versão 1808 (Build 10730.20264).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -58,7 +69,7 @@ A versão esperada é a versão 1808 (Build 10730.20264).
   
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-A versão esperada é a versão 1808 (Build 10730.20264).
+O lançamento mais atual é a versão 1808 (Build 10730.20264).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
