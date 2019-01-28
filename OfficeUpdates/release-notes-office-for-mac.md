@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726704"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530286"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -35,6 +35,25 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="january-2019-release"></a>Versão de janeiro de 2019
+
+ **Data de lançamento:** 24 de janeiro de 2019 
+  
+ *Versão 16.21.0 (Build 19011700)*
+
+ Esta versão oferece as seguintes atualizações:
+
+|**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|
+|Word  <br/>| Corrigido um problema com a localização em chinês.<br/><br/>| |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| Corrigido um problema com a localização em chinês.<br/><br/>  | |[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **Data de lançamento:** 23 de janeiro de 2019 
+  
+ *Versão 16.21.0 (Build 190102303)* Esta versão oferece as seguintes atualizações:
+ 
+|**Aplicativo**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| Corrigida uma regressão no espaçamento entre caracteres ao misturar Unicode e não Unicode. <br/><br/> | <br/><br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
  **Data de lançamento:** 16 de janeiro de 2019 
   
