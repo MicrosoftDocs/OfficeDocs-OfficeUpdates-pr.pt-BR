@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325431"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647016"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -109,7 +109,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 - **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Evitar edições indesejadas:** configurar as pastas de trabalho abertos como somente leitura para impedir alterações acidentais. Acessar Arquivo > Informações > Proteger Pasta de Trabalho > Sempre Aberto Como Somente Leitura
 - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as apresentações mais acessíveis.[Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **Conheça a opinião do público com questionários ou pesquisas:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações não relacionadas à segurança
 - Correção de um problema de possível corrupção de arquivo ao salvar arquivos com o conteúdo do ActiveX.
