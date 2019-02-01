@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 3d3d89e04afc5b1db95e740c5064173bb5e465c2
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530246"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690673"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -29,11 +29,30 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente na [Atualizações de segurança](office365-proplus-security-updates.md). 
 
+## <a name="version-1901-january-31"></a>Versão 1901: 31 de janeiro
+*Versão 1901, (build 11231.20130)* 
+
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+
+- **Colaborar com os comentários:** mantenha a conversa em andamento na planilha com a caixa de resposta interna. [Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+
+- **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B).
+ 
+### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+
+- **Estênceis criados diretamente no Azure:** Crie um aplicativo de nuvem ou planeje uma arquitetura usando dezenas de estênceis do Azure. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
+
+- **Os aplicativos de terceiros do Office agora têm suporte para inserir imagens em SVG usando a API do Office.js:** agora, os aplicativos de terceiros, também conhecidos como suplementos do Office, têm a capacidade de inserir imagens em SVG. Os usuários já podem conectar a coleção pessoal de imagens em SVG ao Office e os desenvolvedores podem usar esse recurso com a API do Office.js.
+
+
 ## <a name="version-1812-january-14"></a>Versão 1812: 14 de janeiro
 *Versão 1812 (Build 11126.20266)* 
 
 Apenas atualizações não relacionadas à segurança, tratando de problemas de desempenho.
-
 
 ## <a name="version-1812-january-8"></a>Versão 1812: 8 de janeiro
 *Versão 1812 (Build 11126.20196)* 

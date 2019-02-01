@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
-ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
+ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29647016"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690723"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -40,7 +40,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
  - **Edição colaborativa:** trabalhe com outras pessoas em simultâneo na pasta de trabalho.[Saiba mais](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **O Salvamento Automático de arquivos da nuvem agora está habilitado por padrão:** Essa mudança significa que os usuários não precisarão se preocupar em perder as alterações em documentos armazenados no OneDrive ou no SharePoint Online. As alterações serão salvas na nuvem automaticamente e os usuários não terão mais que pressionar Ctrl + S ou o botão Salvar. No entanto, será necessário entender essa alteração de comportamento para que não façam alterações acidentais nos documentos. Observe que os usuários podem desativar o salvamento automático usando a alternância de salvamento automático na parte superior da tela. É recomendável notificar os usuários sobre essa mudança futura e informar sobre como tirar o melhor proveito desse novo recurso do Office 365. [Saiba mais sobre o Salvamento Automático](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) e [Saiba mais sobre o que os administradores de TI devem saber sobre o Salvamento Automático](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos. [Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as pastas de trabalho mais acessíveis.[Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Evitar edições indesejadas:** configurar as pastas de trabalho abertos como somente leitura para impedir alterações acidentais. Acessar Arquivo > Informações > Proteger Pasta de Trabalho > Sempre Aberto Como Somente Leitura
 
@@ -74,12 +74,12 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 - **Acessibilidade integrada no:** Torna suas mensagens acessíveis para todos, adicionando texto alt descritivo às suas imagens.
 - **Avisos de suplemento do Outlook:** ocasionalmente, um suplemento do Outlook COM pode encontrar problemas que deixam mais lento o restante do Outlook. Esses problemas podem ser decorrentes da latência dos eventos, como alternar entre as pastas do Outlook, da chegada de novos emails, da abertura de itens do Calendário, entre outros. Quando problemas surgirem, o Outlook exibirá um aviso na barra de notificações.
 - **Saiba com quem você vai se encontrar:** agora é possível ver as respostas de outras pessoas a uma solicitação de reunião, mesmo se você não for o organizador.
-- **Nunca mais perca um lembrete:** defina lembretes a serem abertos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook pisca na barra de ferramentas para chamar sua atenção.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **Nunca mais perca um lembrete:** defina lembretes a serem exibidos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook piscará na barra de ferramentas para chamar a atenção. [Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **Marque itens excluídos como lidos:** agora você pode definir qualquer mensagem excluída como lida. Para isso, vá para Arquivo \> Opções \> Email \> Outras.
 - **Veja três fusos horários:** Precisa agendar uma reunião em diferentes fusos horários? Adicione vários fusos ao seu calendário para ver facilmente a disponibilidade dos participantes e escolha um horário que funcione para todos. [Saiba mais](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
-- **Experiência refinada do usuário para criação de um grupo:** Aperfeiçoamos a experiência do usuário para criar o  grupo para torná-la mais moderna e organizada.[ Saiba Mais](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+- **Experiência refinada do usuário para criação de um grupo:** aperfeiçoamos a experiência do usuário para criação de grupos para torná-la mais moderna e organizada. [ Saiba mais](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 - Correção um problema que levava os usuários a enfrentar problemas de sincronização do calendário.
 - Correção de um problema que fazia com que os usuários vissem um erro ao iniciar a caixa de diálogo "Gerenciar regras e alertas".
 - Corrigido um problema que fazia com que os usuários não conseguissem conectar suas caixas de correio pelo DirectAccess ao usar uma conexão limitada.
@@ -103,7 +103,7 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos 
 - **O Salvamento Automático de arquivos da nuvem agora está habilitado por padrão:** Essa mudança significa que os usuários não precisarão se preocupar em perder as alterações em documentos armazenados no OneDrive ou no SharePoint Online. As alterações serão salvas na nuvem automaticamente e os usuários não terão mais que pressionar Ctrl + S ou o botão Salvar. No entanto, será necessário entender essa alteração de comportamento para que não façam alterações acidentais nas apresentações. Observe que os usuários podem desativar o salvamento automático usando a alternância de salvamento automático na parte superior da tela. É recomendável notificar os usuários sobre essa mudança futura e informar sobre como tirar o melhor proveito desse novo recurso do Office 365. [Saiba mais sobre o Salvamento Automático](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) e [Saiba mais sobre o que os administradores de TI devem saber sobre o Salvamento Automático](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos. [Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Converta suas notas escritas:** faça anotações e desenhos e converta-os em texto legível e formas simples para criar uma apresentação elegante. [Saiba mais](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)

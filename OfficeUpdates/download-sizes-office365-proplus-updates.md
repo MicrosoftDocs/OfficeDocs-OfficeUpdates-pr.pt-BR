@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: 41d5ebe34a4fac1b6588578b49a5dfe92b28592b
+ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530256"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690713"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,17 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Somente versões dos últimos quatro meses serão listadas.
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+
+## <a name="january-31-2019"></a>31 de janeiro de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1901 (build 11231.20130). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1812 (build 11126.20266)  <br/> |14 de janeiro de 2019 <br/> |159<br/> |
+|Versão 1812 (build 11126.20196)  <br/> |8 de janeiro de 2019 <br/> |159<br/> |
 
 ## <a name="january-14-2019"></a>14 de janeiro de 2019
 
