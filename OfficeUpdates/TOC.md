@@ -26,6 +26,10 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
+### Programa Office Insider
+#### [Histórico de atualização do canal do programa Office Insider](update-history-office-insider.md)
+#### [Histórico de atualização do Canal Mensal (direcionado)](update-history-monthly-channel-targeted.md)
+
 # Office para Mac
 ## [Histórico de atualizações (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Notas de versão (Office 365, 2019)](release-notes-office-for-mac.md)
