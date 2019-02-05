@@ -72,3 +72,18 @@
 | 1/24/2019 | [Notas de versão para lançamentos do Canal Mensal em 2019](/OfficeUpdates/monthly-channel-2019) | modificado |
 | 1/24/2019 | [Notas de versão do Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | modificado |
 | 1/24/2019 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
+
+
+## <a name="week-of-january-28-2019"></a>Semana de 28 de janeiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 1/31/2019 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
+| 1/31/2019 | [Notas de versão para lançamentos do Canal Mensal em 2019](/OfficeUpdates/monthly-channel-2019) | modificado |
+| 1/31/2019 | [Notas de versão para lançamentos do Canal Semestral em 2019](/OfficeUpdates/semi-annual-channel-2019) | modificado |
+| 1/31/2019 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
+| 1/31/2019 | [Histórico de atualização do Office 365 ProPlus (relacionado por data)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificado |
+| 2/1/2019 | [Histórico de atualizações do Office – Canal Mensal (direcionado)](/OfficeUpdates/update-history-monthly-channel-targeted) | adicionado |
+| 2/1/2019 | [Histórico de atualização para o canal de Insider do Office](/OfficeUpdates/update-history-office-insider) | adicionado |
+| 2/1/2019 | [Histórico de atualização do Office 365 ProPlus (relacionado por data)](/OfficeUpdates/update-history-office365-proplus-by-date) | modificado |
