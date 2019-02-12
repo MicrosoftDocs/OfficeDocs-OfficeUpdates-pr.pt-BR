@@ -1,12 +1,41 @@
 ---
-título: "Release Notes for Office internas" ms.author: andrewmo autor: mikho manager: andrewmo ms.date: 1/28/2019 ms.audience: Win32 Fast ms.topic: referência ms.service: o365 proplus localization_priority: ms.collection crítico: RelNotes_ProPlus Descrição: "fornece internas Fast público com a lista mais recente dos principais recursos novos, correções ou problemas conhecidos
+título: "Release Notes for Office internas" ms.author: andrewmo autor: mikho manager: andrewmo ms.date: 2/11/2019 ms.audience: Win32 Fast ms.topic: referência ms.service: o365 proplus localization_priority: ms.collection crítico: RelNotes_ProPlus Descrição: "fornece internas Fast público com a lista mais recente dos principais recursos novos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office internas
 
 Este artigo contém as notas de versão para compilações Insider da área de trabalho do Word, Excel, PowerPoint, Outlook, Access e projeto para Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que queremos saber sobre. Observe que podemos frequentemente distribuir recursos (e às vezes até mesmo correções) aos invasores internos durante um período de tempo. Isso permite que certifique-se de que as coisas estão funcionando suavemente antes de liberar o recurso para um público maior. Portanto, se você não vir algo descritos abaixo, não se preocupe você obterá ele eventualmente.  
 
-## <a name="february-1-2019-version-1902-build-1132620000"></a>1 de fevereiro de 2019 versão 1902 (compilação 11326.20000)
+## <a name="february-9-2019-version-1902-build-1133020014"></a>9 de fevereiro de 2019 versão 1902 (compilação 11330.20014)
+
+
+## <a name="notable-fixes"></a>Correções notáveis
+
+### <a name="word"></a>Word 
+- Podemos fixa um problema onde alguns estilos personalizados não pôde ser aplicados ao word online
+- Podemos fixa problemas de visualização de contexto com objetos ricos no Word
+- Podemos fixa um problema onde colar listas for resultar indisponibilizando do Word
+
+### <a name="excel"></a>Excel
+- Podemos fixa um problema onde acrescentados espaços depois formatos de número não mais são mostrando quando não houver nenhum símbolo de moeda
+- Podemos fixa um problema com auto detectar referentes a ações
+
+### <a name="powerpoint"></a>PowerPoint
+- Várias correções de desempenho e a estabilidade
+
+### <a name="outlook"></a>Outlook
+- Várias correções de desempenho e a estabilidade
+
+### <a name="access"></a>Acessar
+- Várias correções de desempenho e a estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e a estabilidade
+
+
+
+
+## <a name="january-30-2019-version-1902-build-1132620000"></a>30 de janeiro de 2019 versão 1902 (compilação 11326.20000)
 
 
 ## <a name="notable-fixes"></a>Correções notáveis
