@@ -3,19 +3,19 @@ title: Histórico de atualizações do Office – Canal Mensal (direcionado)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/01/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 0541583a6f29669e876b4cbdd97aa34a479b9e86
-ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
+ms.openlocfilehash: c449a12e4146d47f564b81fd3b8b43164aef3975
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29708729"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964533"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -24,6 +24,8 @@ Olá, Insiders! Se você quer saber se tem a versão mais recente instalada ou e
 ## <a name="office-insider-versions-and-builds"></a>Versões do office Insider e compilações
 
 Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente chamado de Insider – modo lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além de builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Mensal (Direcionado) com **os builds mais recente listados primeiro**. Novos builds contêm todas as atualizações presentes nas versões anteriores. Para saber as notas de versão, confira [quais são as novidades para participantes do programa Office Insider](https://support.office.com/pt-BR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**12 de fevereiro de 2019**<br/> Versão 1901 (Build 11231.20174)<br/>
 
 **31 de janeiro de 2019**<br/> Versão 1901, (build 11231.20130)<br/> 
 
