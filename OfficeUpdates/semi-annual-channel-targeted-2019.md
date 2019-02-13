@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325411"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29953993"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -28,6 +28,24 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  
 > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1808-february-12"></a>Versão 1808: 12 de fevereiro
+*Versão 1808 (build 10730.20280)* 
+
+### <a name="access-non-security-updates"></a>Access: atualizações não relacionadas à segurança 
+
+- Esta atualização adiciona suporte para as novas eras japonesas no Access.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança 
+
+- Corrige o problema que levava os usuários que possuem regras que fazem referência a uma pasta que não existe mais a ver um erro ao tentar gerenciar as regras e ver as regras do lado cliente não funcionarem.
+- Corrige o problema que levava os usuários com o caixas de correio delegadas em cache a encontrar paradas frequentes em intervalos imprevisíveis.
+- Corrige o problema que fazia com que todas as Reuniões de Dia Inteiro abrangesse um dia a mais do que desejado em alguns modos de exibição, por a hora de término da reunião ser configurada para meia-noite do dia seguinte.
+- Corrigiu o travamento durante a criação de novos compromissos ou reuniões que fazem referência ás eras japonesas.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
+
+- Corrigiu o problema em que os Suplementos, implantados usando [implantação centralizada do O365 Office ](https://docs.microsoft.com/pt-BR/office/dev/add-ins/publish/centralized-deployment), foram congelados e inutilizáveis.
 
 
 ## <a name="version-1808-january-8"></a>Versão 1808: 8 de janeiro

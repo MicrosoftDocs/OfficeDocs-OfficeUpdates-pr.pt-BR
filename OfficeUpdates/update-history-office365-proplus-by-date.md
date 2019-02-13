@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 1/31/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: e39cadc41e8403ab656a5d04ba403dea6b99ca2f
-ms.sourcegitcommit: 9b75c404f340d948b6d9bae867b45ee7ee55f43f
+ms.openlocfilehash: db2bed48e0dac96835dabbf846bda8c4326ed541
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29705842"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954073"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -31,11 +31,11 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
  
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensalmente  <br/> |1901  <br/> |11231.20130<br/> | 31 de janeiro de 2019 <br/> |A versão 1902 foi lançada <br/>|
-|Semestral (Direcionado)  <br/> |1808  <br/> |10730.20264 <br/> |  8 de janeiro de 2019 <br/> | 12 de março de 2019 <br/>|
-|Semestralmente <br/> |1808  <br/> | 10730.20264<br/> | 8 de janeiro de 2019  <br/> |  10 de março de 2020 <br/>|
-|Semestralmente <br/> |1803  <br/> | 9126.2351  <br/> | 8 de janeiro de 2019  <br/> |  10 de setembro de 2019 <br/>|
-|Semestralmente <br/> |1708  <br/> | 8431.2366  <br/> | 8 de janeiro de 2019  <br/> |  12 de março de 2019 <br/>|
+|Mensalmente  <br/> |1901  <br/> |11231.20174 <br/> | 12 de fevereiro de 2019 <br/> |A versão 1902 foi lançada <br/>|
+|Semestral (Direcionado)  <br/> |1808  <br/> |10730.20280 <br/> |  12 de fevereiro de 2019 <br/> | 12 de março de 2019 <br/>|
+|Semestralmente <br/> |1808  <br/> | 10730.20280<br/> | 12 de fevereiro de 2019  <br/> |  10 de março de 2020 <br/>|
+|Semestralmente <br/> |1803  <br/> | 9126.2356  <br/> | 12 de fevereiro de 2019  <br/> |  10 de setembro de 2019 <br/>|
+|Semestralmente <br/> |1708  <br/> | 8431.2372  <br/> | 12 de fevereiro de 2019  <br/> |  12 de março de 2019 <br/>|
 
 Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais recente, confira [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -45,6 +45,7 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|12 de fevereiro |[Versão 1901 (Build 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[Versão 1808 (Build 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Versão 1808 (Build 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Versão 1803 (Build 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Versão 1708 (Build 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|31 de janeiro   |[Versão 1901, (build 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
 |2019|14 de janeiro   |[Versão 1812 (Build 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
 |2019|8 de janeiro |[Versão 1812 (Build 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[Versão 1808 (Build 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Versão 1808 (Build 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Versão 1803 (Build 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Versão 1708 (build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |

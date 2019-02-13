@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325371"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954023"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -24,6 +24,26 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 > [!NOTE]
 > - Fornecem também informações sobre atualizações de segurança do Visio Pro para Office 365 e do Cliente de Desktop do Project Online.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+## <a name="february-12-2019"></a>12 de fevereiro de 2019
+Canal Mensal: Versão 1901 (Build 11231.20174)  
+Canal Semestral (Direcionado): Versão 1808 (Build 10730.20280)   
+Canal semestral: Versão 1808 (Build 10730.20280)  
+Canal semestral: Versão 1803 (Build 9126.2356)  
+Canal semestral: Versão 1708 (Build 8431.2372)  
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0669)
+
+### <a name="office-suite"></a>Pacote do Office
+
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>8 de janeiro de 2019
 
