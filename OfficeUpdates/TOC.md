@@ -27,9 +27,9 @@
 
 
 ### Programa Office Insider  
-#### [Histórico de atualização do canal do programa Office Insider](update-history-office-insider.md)
-#### [Histórico de atualização do Canal Mensal (direcionado)](update-history-monthly-channel-targeted.md)
-####[Notas de lançamento do Canal Insider](release-notes-office-insider.md)
+#### [Histórico de Atualização do canal do Insider](update-history-office-insider.md)
+#### [Histórico de Atualização do Canal Mensal (Direcionado)](update-history-monthly-channel-targeted.md)
+####[Notas de Lançamento do Canal do Insider](release-notes-office-insider.md)
 
 # Office para Mac
 ## [Histórico de atualizações (Office 365, 2019)](update-history-office-for-mac.md)
