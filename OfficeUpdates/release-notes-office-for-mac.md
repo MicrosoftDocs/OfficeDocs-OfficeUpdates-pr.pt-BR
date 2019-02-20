@@ -1,21 +1,21 @@
 ---
 title: Notas de versão do Office para Mac
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 01/24/2019
+ms.date: 2/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
-ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
+ms.openlocfilehash: ff9655bce5ea379f9164c249f8d17c17c27b61da
+ms.sourcegitcommit: 7c98e6f5ca63da673f6c86b348ab620d351018b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/25/2019
-ms.locfileid: "29530286"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "29954093"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -34,7 +34,24 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="january-2019-release"></a>Versão de janeiro de 2019
+## <a name="february-2019-release"></a>Lançamento de fevereiro de 2019
+
+ **Data do lançamento:** 12 de fevereiro de 2019 
+  
+ *Versão 16.22.0 (build 19021100)*
+
+ Esta versão oferece as seguintes atualizações:
+
+|**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|
+|Palavra  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/> | <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|Outlook  <br/>|  <br/><br/>  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
+|Atualização automática do Microsoft 4.7 <br/>| <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+
+## <a name="january-2019-release"></a>Lançamento de janeiro de 2019
 
  **Data de lançamento:** 24 de janeiro de 2019 
   
