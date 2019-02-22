@@ -37,15 +37,15 @@
 ## [Notas de versão (2016)](release-notes-office-2016-mac.md)
 ## [Histórico de versões do MAU](release-history-microsoft-autoupdate.md)
 
-# Office (permanente)
-## [Atualizações do Office 2019](update-history-office-2019.md)
+# Office (perpétuo)
+## [Atualizações do Office 2016 e 2019 (Clique para Executar)](update-history-office-2019.md)
+## [Atualizações do Office 2013 (Clique para Executar)](update-history-office-2013.md)
+## [Atualizações do Office 2010 (Clique para Executar)](update-history-office-2010-click-to-run.md)
 ## [Atualizações do Office 2010, 2013 e 2016 (MSI)](office-updates-msi.md)
 ## [Atualizações do Outlook 2010, 2013 e 2016 (MSI)](outlook-updates-msi.md)
-## [Atualizações do Office 2013 (C2R)](update-history-office-2013.md)
-## [Atualizações do Office 2010 (C2R)](update-history-office-2010-click-to-run.md)
-## [Atualizações do Skype for Business (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Arquivos .msp do Office 2016](msp-files-office-2016.md)
 ## [Arquivos .msp do Office 2013](msp-files-office-2013.md)
+## [Atualizações do Skype for Business (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 
 # Produtos de servidor do Office
 ## [Atualizações do Exchange Server](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
