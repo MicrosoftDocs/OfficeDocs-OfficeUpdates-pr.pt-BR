@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-january-14-2019"></a>Semana de 14 de janeiro de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 1/16/2019 | [Notas de versão do Office 2016 para Mac](/OfficeUpdates/release-notes-office-2016-mac) | modificado |
-| 1/16/2019 | [Notas de versão do Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | modificado |
-| 1/16/2019 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
-| 1/16/2019 | [Notas de versão das Atualizações de Segurança do Office 365 ProPlus](/OfficeUpdates/office365-proplus-security-updates) | modificado |
-| 1/16/2019 | [Histórico de versões do Microsoft AutoUpdate](/OfficeUpdates/release-history-microsoft-autoupdate) | modificado |
-| 1/16/2019 | [Notas de versão para lançamentos do Canal Semestral em 2019](/OfficeUpdates/semi-annual-channel-2019) | modificado |
-| 1/16/2019 | [Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificado |
-| 1/17/2019 | [Notas de versão para lançamentos do Canal Mensal em 2019](/OfficeUpdates/monthly-channel-2019) | modificado |
-| 1/17/2019 | [Notas de versão do Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | modificado |
-| 1/17/2019 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
-
-
 ## <a name="week-of-january-21-2019"></a>Semana de 21 de janeiro de 2019
 
 
@@ -87,3 +70,15 @@
 | 2/15/2019 | [Histórico de atualização para os produtos clique para executar do Office 2010](/OfficeUpdates/update-history-office-2010-click-to-run) | modificado |
 | 2/15/2019 | [Notas de versão para insiders do Office](/OfficeUpdates/release-notes-office-insider) | modificado |
 | 2/15/2019 | [Histórico de atualizações para o canal do Office inSider](/OfficeUpdates/update-history-office-insider) | modificado |
+
+
+## <a name="week-of-february-18-2019"></a>Semana de 18 de fevereiro de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 2/20/2019 | [Notas de versão do Office para Mac](/OfficeUpdates/release-notes-office-for-mac) | modificado |
+| 2/20/2019 | [Histórico de atualizações do Office para Mac](/OfficeUpdates/update-history-office-for-mac) | modificado |
+| 2/21/2019 | [Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019](/OfficeUpdates/update-history-office-2019) | modificado |
+| 2/22/2019 | [Histórico de atualizações do Office – Canal Mensal (direcionado)](/OfficeUpdates/update-history-monthly-channel-targeted) | modificado |
+| 2/22/2019 | [Histórico de atualizações para o canal do Office inSider](/OfficeUpdates/update-history-office-insider) | modificado |
