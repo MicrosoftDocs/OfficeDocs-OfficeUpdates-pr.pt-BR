@@ -3,19 +3,19 @@ title: Histórico de atualizações do Canal do Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 02/22/2019
+ms.date: 02/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: fb5f040f93f0ef3a05665d644a8cc7b94d6059ee
-ms.sourcegitcommit: f681559832b0ed0c65ba450ddf2c735c6ac33e90
+ms.openlocfilehash: 457201db47b2c4adcca335d8d24078af6a4acf30
+ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210485"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30247693"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
@@ -26,6 +26,8 @@ Olá, Insiders! Se você quer saber se tem a versão mais recente instalada ou e
 Se você estiver inscrito no nível do Insider você receberá frequentes atualizações com novos recursos e melhorias. A lista a seguir mostra um histórico de versões e builds recentes do Insider, com **Build mais recente listado primeiro**. Os novos builds contêm todas as atualizações presentes nas versões anteriores. 
 
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://support.office.com/pt-BR/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433).
+
+**25 de fevereiro de 2019**<br/> Versão 1902 (Build 11414.20014)<br/> 
 
 **12 de fevereiro de 2019**<br/> Versão 1902 (build 11406.20002)<br/> 
 
