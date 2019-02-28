@@ -3,19 +3,19 @@ title: Histórico de versões do Microsoft AutoUpdate
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 02/26/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 8f29d5238e8b759a54c90ff4390e720f1d855f2c
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 81becaf41e9d3d7c478dddb80c2c5e2382cfca51
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325401"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294624"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,7 +31,8 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
   
 |**Data de lançamento**|**Versão**|**Mais informações**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
-|16 de janeiro de 2019 <br/>|4.7.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#january-2019-release) <br/> |[Baixar MAU 4.7.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|26 de fevereiro de 2019 <br/>|4.8.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#january-2019-release) <br/> |[Baixar MAU 4.8.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16 de janeiro de 2019 <br/>|4.7.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11 de dezembro de 2018 <br/>|4.6.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |14 de novembro de 2018 <br/> |4.5.0 <br/> |[Notas de versão](release-notes-office-for-mac.md#november-2018-release) <br/> | |
 |16 de outubro de 2018 <br/> |4.4.0 <br/> |[Notas de versão](release-notes-office-for-mac.md#october-2018-release) <br/> | |
