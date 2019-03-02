@@ -1,12 +1,44 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 2/15/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
+Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/1/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
 
 Este artigo contém notas de versão do inSider compilações do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que desejamos que você saiba. Observe que freqüentemente os recursos são distribuídos (e às vezes até mesmo correções) para insiders por um período de tempo. Isso nos permite garantir que as coisas estejam funcionando suavemente antes de liberar o recurso para um público mais amplo. Portanto, se você não vir algo descrito abaixo, não se preocupe em fazê-lo eventualmente.  
 
-## <a name="february-12-2019-version-1902-build-1133020014"></a>Versão 1902 de fevereiro de 12 2019 (Build 11330,20014)
+## <a name="february-25-2019-version-1903-build-1133020014"></a>25 de fevereiro de 2019 versão 1903 (Build 11330,20014)
+
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="word"></a>Word 
+- Corrigimos um problema de falha que ocorreu ao pressionar ' ESC ' enquanto estiver em opções
+- Corrigimos um problema com Copy & Paste from Word para PowerPoint online
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que a cópia de uma célula no Excel causou o uso de CPU alta quando o documento protegido e o documento editável foram abertos
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema com o tamanho da imagem do slide ao usar @Mentions no PowerPoint
+
+### <a name="outlook"></a>Outlook
+- Corrigido um problema em que a pesquisa do Outlook não estava respeitando a classificação cronológica selecionada
+- Corrigido um problema em que o botão de faixa de opções de fluxo de trabalho "abrir esta tarefa" não estava respondendo a certos emails
+- Corrigimos um problema em que o Outlook não limpou as salas precedidas depois que os usuários selecionavam uma sala disponível no localizador de salas
+
+### <a name="access"></a>Acessar
+- Atualizamos o texto de prompt que mostrou ao confirmar as tabelas de revinculação com uma fonte de sistema de origem
+- Corrigimos a caixa de diálogo de importação/exportação salva que tinha texto branco em fundo branco no tema escuro
+- Correção de um problema em que os usuários não puderam definir a propriedade de controle de exibição para um campo Sim/não para TextBox no design da tabela
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
+
+
+
+## <a name="february-12-2019-version-1903-build-1133020014"></a>Versão 1903 de fevereiro de 12 2019 (Build 11330,20014)
 
 ## <a name="whats-new"></a>O que há de novo:
 
@@ -73,6 +105,7 @@ Use a morph da mesma forma que faria com tabelas
 O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em um único local e coloca você no controle da troca entre elas. Essa experiência atualizada torna claro como você está conectado, e agora você pode alternar entre as contas de trabalho e pessoais sem ter que desconectar primeiro ou lidar com caixas de diálogo complexas.
 
 
+![MeMock. png](Images/MeMock.png)
 
 #### <a name="scenarios-to-try"></a>Cenários para tentar:
 - Alternar entre contas
@@ -103,7 +136,7 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1902-build-1133020014"></a>Versão 1902 de fevereiro de 9 2019 (Build 11330,20014)
+## <a name="february-9-2019-version-1903-build-1133020014"></a>Versão 1903 de fevereiro de 9 2019 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correções notáveis:
