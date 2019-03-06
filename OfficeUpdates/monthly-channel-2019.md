@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 02/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
+ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954003"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379356"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -28,6 +28,44 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
  > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md). 
+
+## <a name="version-1902-march-4"></a>Versão 1902: 4 de março
+*Versão 1902 (Build 11328.20146)* 
+
+### <a name="access-feature-updates"></a>Access: Atualizações de recursos
+
+- **Manter as guias dos objetos de banco de dados:** Veja as guias ativas, arraste as guias facilmente para reorganizá-las, e feche os objetos de banco de dados com apenas um clique.
+- **Aplicar zoom com mais espaço:** Aumente a caixa Zoom, altere a fonte e o Zoom lembrará de tudo. [Saiba mais](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+
+- **Chamar a atenção com \@menções** sar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+- **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
+
+- **Construir no intervalo entre reuniões back-to-back:** Dê aos participantes tempo para respirar ou ir entre locais definindo as reuniões para encerrar de 5 a 10 minutos mais cedo por padrão.[Saiba mais aqui](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [e aqui](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- **Usar Ler em Voz Alta para ouvir seu email** O Outlook pode ler seu email em voz alta, realçando o texto conforme lê. para ativar Ler em Voz Alta, vá para as configurações de facilidade de acesso [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+- **Criptografia de mensagem: política de criptografia somente IRM:** Nova opção de somente criptografar aparece em Opções > menu Permissões para Usuários de Criptografia de Mensagem do Office 365. Essa opção permite que você criptografe e envie uma mensagem a qualquer pessoa dentro ou fora da sua organização. [Saiba mais](https://aka.ms/omeoverview)
+- **Novo padrão de intervalo da recorrência:** Na caixa de diálogo de Recorrência, o intervalo de recorrência usado como padrão é "Sem data de término". Isso facilita a criação de série recorrente, que pode ficar corrompida ao longo do tempo. Estamos atualizando o padrão da caixa de diálogo Recorrência para "Terminar em,", para que nosso valor padrão corresponda às melhores práticas recomendadas para o calendário.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
+
+- **Inserir um vídeo online está mais fácil do que nunca:** Deseja colocar um vídeo do Vimeo ou YouTube no slide? O link da página de vídeo é tudo o que você precisa. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+- **Hiperlinks em cor vibrante**: os hiperlinks deixaram de ser somente azuis. Aplique a cor da fonte desejada. [Saiba mais](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) ALTERAR 24843
+
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+
+- **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+- **Descubra por que o Salvamento Automático não está ativo! ** Clicar no botão de Salvamento Automático quando estiver desativado agora exibirá um balão muito útil com os motivos pelos quais o Salvamento Automático pode está desativado. No caso em que o único motivo para impedir o salvamento automático é o fato do documento não estar no OneDrive ou SharePoint, vamos oferecer a opção de mover o documento convenientemente com apenas um clique no botão!
+ 
+### <a name="office-suite-feature-updates"></a>Pacote do Office: Atualizações de recursos
+
+- **Instalação do Microsoft Teams:**  O Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versão 1901: 12 de fevereiro
 *Versão 1901 (Build 11231.20174)* 
