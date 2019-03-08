@@ -1,12 +1,17 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/1/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
+Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/07/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
 
-Este artigo contém notas de versão do inSider compilações do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que desejamos que você saiba. Observe que freqüentemente os recursos são distribuídos (e às vezes até mesmo correções) para insiders por um período de tempo. Isso nos permite garantir que as coisas estejam funcionando suavemente antes de liberar o recurso para um público mais amplo. Portanto, se você não vir algo descrito abaixo, não se preocupe em fazê-lo eventualmente.  
+Este artigo contém notas de versão do inSider compilações do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que desejamos que você saiba. Observe que freqüentemente os recursos são distribuídos (e às vezes até mesmo correções) para insiders por um período de tempo. Isso permite a nós garantir que tudo está funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
 
-## <a name="february-25-2019-version-1903-build-1133020014"></a>25 de fevereiro de 2019 versão 1903 (Build 11330,20014)
+> [!NOTE]
+> - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações. 
+> - A data de publicação das notas de versão pode não corresponder à data de lançamento real da compilação.
+
+## <a name="march-1-2019"></a>1 de março de 2019 
+Versão 1903 (Build 11414,20014)
 
 
 ## <a name="notable-fixes"></a>Correções notáveis:
@@ -26,7 +31,7 @@ Este artigo contém notas de versão do inSider compilações do Word, Excel, Po
 - Corrigido um problema em que o botão de faixa de opções de fluxo de trabalho "abrir esta tarefa" não estava respondendo a certos emails
 - Corrigimos um problema em que o Outlook não limpou as salas precedidas depois que os usuários selecionavam uma sala disponível no localizador de salas
 
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 - Atualizamos o texto de prompt que mostrou ao confirmar as tabelas de revinculação com uma fonte de sistema de origem
 - Corrigimos a caixa de diálogo de importação/exportação salva que tinha texto branco em fundo branco no tema escuro
 - Correção de um problema em que os usuários não puderam definir a propriedade de controle de exibição para um campo Sim/não para TextBox no design da tabela
@@ -38,7 +43,8 @@ Este artigo contém notas de versão do inSider compilações do Word, Excel, Po
 
 
 
-## <a name="february-12-2019-version-1903-build-1133020014"></a>Versão 1903 de fevereiro de 12 2019 (Build 11330,20014)
+## <a name="february-15-2019"></a>15 de fevereiro de 2019 
+Versão 1903 (Build 11310,20016)
 
 ## <a name="whats-new"></a>O que há de novo:
 
@@ -53,7 +59,7 @@ Especificar as formas que você deseja transformar
 
 - Para fazer com que Morph trate dois objetos como o mesmo objeto, o usuário pode renomear as formas usando o painel de seleção.
 - O nome deve ser precedida por "!!" (dois pontos de exclamação) para transformar para usá-lo para substituir o comportamento de correspondência padrão, por exemplo, "!! Tdomínio
-- Os usuários podem continuar a renomear formas com qualquer nome que não comece com "!!", sem se preocupar que alterará a forma como o Morph Works
+- Os usuários podem continuar a renomear formas com qualquer nome que não comece com "!!" sem se preocupar que ele mudará a forma como o Morph Works
 
 #### <a name="scenarios-to-try"></a>Cenários para tentar:
 
@@ -128,7 +134,7 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema com a exibição do botão enviar para o OneNote
 
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 - Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
@@ -136,7 +142,8 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1903-build-1133020014"></a>Versão 1903 de fevereiro de 9 2019 (Build 11330,20014)
+## <a name="february-11-2019"></a>11 de fevereiro de 2019
+Versão 1903 (Build 11330,20014)
 
 
 ## <a name="notable-fixes"></a>Correções notáveis:
@@ -156,7 +163,7 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 ### <a name="outlook"></a>Outlook
 - Várias correções de desempenho e estabilidade
 
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 - Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
@@ -165,7 +172,8 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 </BR></BR>
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>30 de janeiro de 2019 versão 1902 (Build 11326,20000)
+## <a name="february-1-2019"></a>1 de fevereiro de 2019 
+Versão 1902 (Build 11326,20000)
 
 
 ## <a name="notable-fixes"></a>Correções notáveis
@@ -187,7 +195,7 @@ O novo gerente de contas mostra todas as suas contas pessoais e de trabalho em u
 ### <a name="outlook"></a>Outlook
 - Correção de um problema em que o modo de exibição de tarefa no calendário não estava mostrando corretamente o assunto da tarefa
 
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 - Corrigimos um problema de dimensionamento com gráficos
 
 ### <a name="project"></a>Project
