@@ -1,5 +1,5 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/07/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
+Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/08/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
@@ -7,8 +7,56 @@ Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author:
 Este artigo contém notas de versão do inSider compilações do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que desejamos que você saiba. Observe que freqüentemente os recursos são distribuídos (e às vezes até mesmo correções) para insiders por um período de tempo. Isso permite a nós garantir que tudo está funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
 
 > [!NOTE]
-> - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações. 
-> - A data de publicação das notas de versão pode não corresponder à data de lançamento real da compilação.
+> - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações
+> - A data de publicação das notas de versão pode não corresponder à data de lançamento real da compilação
+
+
+## <a name="march-8-2019"></a>8 de março de 2019 
+Versão 1903 (Build 11425,20036)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Encontre o que você está procurando com o Microsoft Search
+
+Com o Microsoft Search, você pode encontrar todos os arquivos, ações, pessoas e ajuda de que precisa para realizar o trabalho.
+
+#### <a name="getting-started"></a>Introdução:
+
+- O recurso é exibido proeminentemente na parte superior da interface do usuário no cabeçalho.
+
+#### <a name="scenarios-to-try"></a>Cenários para tentar:
+
+- Procure uma faculdade, um documento recente ou pesquise os comandos da faixa de opções que você usa com mais frequência
+- Procurar um tópico ou assunto para obter mais informações sobre ele
+
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="word"></a>Word 
+- Corrigimos um problema de falha que ocorreu ao pressionar ' ESC ' enquanto estiver em opções
+- Corrigidos um problema de falha ao responder a comentários
+- Corrigimos um problema com Copy & Paste from Word para PowerPoint online
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que a cópia de uma célula no Excel causou o uso de CPU alta quando o documento protegido e o documento editável foram abertos
+
+### <a name="powerpoint"></a>PowerPoint
+- Várias correções de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Corrigido um problema em que a pesquisa do Outlook não estava respeitando a classificação cronológica selecionada
+- Corrigido um problema em que o botão de faixa de opções de fluxo de trabalho "abrir esta tarefa" não estava respondendo a certos emails
+- Corrigimos um problema em que o Outlook não limpou as salas precedidas depois que os usuários selecionavam uma sala disponível no localizador de salas
+
+### <a name="access"></a>Access
+- Corrigimos a caixa de diálogo de importação/exportação salva que tinha texto branco em fundo branco no tema escuro
+- Correção de um problema em que os usuários não puderam definir a propriedade DisplayControl para um campo Sim/não para TextBox no design da tabela
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
 
 ## <a name="march-1-2019"></a>1 de março de 2019 
 Versão 1903 (Build 11414,20014)
