@@ -3,23 +3,29 @@ title: Histórico de atualizações do Canal do Office Insider
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
-ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
+ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30482444"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512790"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
 Olá, Insiders! Se você quer saber se tem a versão mais recente instalada ou está procurando por uma lista de builds recentes do Insider, você está no lugar certo.                                                                  Clique [aqui](https://insider.office.com/) para saber mais sobre o programa Insiders.
+
+> [!NOTE]
+> - O Histórico de Atualizações lista todos os builds lançados
+> - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão.
+
+
 
 ## <a name="office-insider-versions-and-builds"></a>Versões do office Insider e compilações
 
