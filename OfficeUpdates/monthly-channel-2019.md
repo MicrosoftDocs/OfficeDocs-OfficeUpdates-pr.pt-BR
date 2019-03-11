@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379356"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509294"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -46,10 +46,10 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 
-- **Construir no intervalo entre reuniões back-to-back:** Dê aos participantes tempo para respirar ou ir entre locais definindo as reuniões para encerrar de 5 a 10 minutos mais cedo por padrão.[Saiba mais aqui](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [e aqui](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- 
+  **Criar intervalos entre reuniões consecutivas:** dê um tempo para que os participantes descansem ou se desloquem entre os locais definindo o término antecipado das reuniões para entre cinco a 10 minutos por padrão. [Saiba mais](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Usar Ler em Voz Alta para ouvir seu email** O Outlook pode ler seu email em voz alta, realçando o texto conforme lê. para ativar Ler em Voz Alta, vá para as configurações de facilidade de acesso [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Criptografia de mensagem: política de criptografia somente IRM:** Nova opção de somente criptografar aparece em Opções > menu Permissões para Usuários de Criptografia de Mensagem do Office 365. Essa opção permite que você criptografe e envie uma mensagem a qualquer pessoa dentro ou fora da sua organização. [Saiba mais](https://aka.ms/omeoverview)
-- **Novo padrão de intervalo da recorrência:** Na caixa de diálogo de Recorrência, o intervalo de recorrência usado como padrão é "Sem data de término". Isso facilita a criação de série recorrente, que pode ficar corrompida ao longo do tempo. Estamos atualizando o padrão da caixa de diálogo Recorrência para "Terminar em,", para que nosso valor padrão corresponda às melhores práticas recomendadas para o calendário.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
@@ -65,7 +65,8 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
  
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: Atualizações de recursos
 
-- **Instalação do Microsoft Teams:**  O Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/DeployOffice/teams-install)
+- 
+  **Instalação do Microsoft Teams:**  O Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Versão 1901: 12 de fevereiro
 *Versão 1901 (Build 11231.20174)* 
