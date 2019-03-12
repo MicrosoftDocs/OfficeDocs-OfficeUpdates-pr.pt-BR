@@ -3,19 +3,19 @@ title: Histórico de atualizações do Office para Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 2/26/2018
+ms.date: 3/4/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: ae14ceca103fb8ebfabb0cbb97403a0e564b638d
-ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
+ms.openlocfilehash: a7b94c4085c8b7c6e7c8ac34580b6e3134788198
+ms.sourcegitcommit: 3107ba2d99cd1654e126164b34f101bda2ba85cd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2019
-ms.locfileid: "30294594"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30374002"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
 
@@ -60,7 +60,7 @@ A tabela a seguir fornece informações sobre os pacotes mais recentes, incluind
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.8 (19022003)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   Este pacote de atualização é para 64 bits. <br/><br/>[Histórico de versões do MAU](release-history-microsoft-autoupdate.md)<br/> |CEC4E8458027571E69BACE1424079E0C883CCB944398EFA3A8D35ABCB28935B6 <br/>|
 |Skype for Business  <br/> |16.24.0.191 <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |Lançamos a versão mais recente em 31 de janeiro de 2019. <br/><br/>[Últimas atualizações](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
-|Área de Trabalho Remota | 10.2.7  | [Baixar](https://go.microsoft.com/fwlink/?linkid=868963) | Este pacote de instalação é para 64 bits. <br/> <br/>[Novidades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  f6d33f6573d9d274a4f8b17b5c998f523d440a038e8748e899af274a8b5cf911 <br/> |
+|Área de Trabalho Remota | 10.2.8  | [Baixar](https://go.microsoft.com/fwlink/?linkid=868963) | Este pacote de instalação é para 64 bits. <br/> <br/>[Novidades](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   dfc45b7850e22853938981415f537dbcb32a14d78ac43c6b45b13ed35e4636d1 <br/> |
 |Portal da Empresa do Intune |1.5 (52.1805002.000) [180509] | [Baixar](https://go.microsoft.com/fwlink/?linkid=869655)| [Novidades do Microsoft Intune](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |Plug-in do navegador Safari local do Microsoft SharePoint para Office 2016 para Mac  <br/> |15.32.0 (170309)  <br/> |[Baixar](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |Este pacote de instalação é para 64 bits.  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
