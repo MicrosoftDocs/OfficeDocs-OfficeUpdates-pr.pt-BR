@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 3/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 9a12200522acbb2f46f7a814affa4b2be5d8d7b9
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992125"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568374"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -57,7 +57,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 
-- **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Mover mensagens no Outlook de modo assíncrono:** Executar movimentos de mensagens de modo assíncrono para aumentar a produtividade para os usuários do Outlook.
 - **Veja detalhes do LinkedIn das pessoas no Outlook:** agora, quando você abre um cartão de perfil de um contato, pode saber mais sobre ele visualizando seu perfil do LinkedIn.
 - **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
