@@ -1,5 +1,5 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: Mikho Manager: andrewmo MS. Date: 3/08/2019 MS. Audience: Win32 rápido MS. Topic: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ProPlus Description: "fornece aos participantes um público rápido com a lista mais recente dos principais novos recursos, correções ou problemas conhecidos
+Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: almuzz Manager: andrewmo MS. Date: 3/15/2019 MS. Audience: Win32 Fast MS. tópico: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ ProPlus Descrição: "fornece aos insiders o público-alvo rápido, com a lista mais recente de novos recursos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
@@ -10,6 +10,32 @@ Este artigo contém notas de versão do inSider compilações do Word, Excel, Po
 > - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento real da compilação
 
+## <a name="march-15-2019"></a>15 de março de 2019 
+Versão 1904 (Build 11504,20000)
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que as imagens em um documento salvo como PDF teriam o DPI incorreto
+
+### <a name="excel"></a>Excel
+- Várias correções de desempenho e estabilidade
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigido um problema em que o painel de comentários não abre ou fechou corretamente
+- Correção de um problema em que o aplicativo pode falhar ao excluir um vídeo
+- Corrigimos um problema em algumas instâncias que o aplicativo falha ao iniciar
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema em que as confirmações de leitura estavam incorretas quando visualizadas em Japonês
+
+### <a name="access"></a>Access
+- Várias correções de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>8 de março de 2019 
 Versão 1903 (Build 11425,20036)
