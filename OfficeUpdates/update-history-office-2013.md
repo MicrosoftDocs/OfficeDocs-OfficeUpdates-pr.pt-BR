@@ -3,26 +3,26 @@ title: Histórico de atualizações do Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: fc89aee709a5b14fabde1ae9439c2b6a17c61307
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 42418530bb24ea1edc8e30b368c2d09a494e990a
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964583"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568154"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5111.1001**, lançada no dia 12 de janeiro de 2019. 
+> A versão mais recente do Office 2013 é **15.0.5119.1000**, que já foi lançada no dia 12 de março de 2019. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -46,7 +46,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2019|12 de fevereiro   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/pt-BR/help/4488446)  |
+|2019|12 de março   |15.0.5119.1000   |[KB 4491754](https://support.microsoft.com/pt-BR/help/4491754)  |
+||12 de fevereiro   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/pt-BR/help/4488446)  |
 ||8 de janeiro   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/pt-BR/help/4484800)  |
 |2018|19 de dezembro   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/pt-BR/help/4477615)  |
 ||13 de novembro   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/pt-BR/help/4469617)  |

@@ -3,19 +3,19 @@ title: Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 1/16/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 395767b1ebd1208c54e2bd07f6b75216d8b7fe24
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954023"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568184"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -24,6 +24,10 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 > [!NOTE]
 > - Fornecem também informações sobre atualizações de segurança do Visio Pro para Office 365 e do Cliente de Desktop do Project Online.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
+
+## <a name="march-12-2019"></a>12 de março de 2019
+Não há atualizações de segurança para nenhum canal este mês.
+
 ## <a name="february-12-2019"></a>12 de fevereiro de 2019
 Canal Mensal: Versão 1901 (Build 11231.20174)  
 Canal Semestral (Direcionado): Versão 1808 (Build 10730.20280)   

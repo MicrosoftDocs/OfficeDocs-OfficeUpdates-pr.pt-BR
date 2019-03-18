@@ -3,7 +3,7 @@ title: Atualizações do Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: befaaa2d69bfacbde84fa65774a21846135e7a55
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: 5ed56e7ec406da4cb89c40aa42abab46dadffe87
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964603"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568344"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -30,6 +30,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Março de 2019  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
 |Fevereiro de 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
 |Janeiro de 2019  <br/> |[KB4461604](https://support.microsoft.com/kb/4461604) <br/>|
 |Dezembro de 2018  <br/> |[KB4461553](https://support.microsoft.com/kb/4461553) <br/>|
@@ -85,6 +86,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Março de 2019  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
 |Fevereiro de 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
 |Janeiro de 2019  <br/>  |[KB4461618](https://support.microsoft.com/kb/4461618) <br/>|
 |Dezembro de 2018  <br/>  |[KB4461572](https://support.microsoft.com/kb/4461572) <br/>|

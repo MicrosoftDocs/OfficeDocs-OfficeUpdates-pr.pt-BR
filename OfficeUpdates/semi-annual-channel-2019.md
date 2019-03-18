@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466108"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568354"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -29,6 +29,25 @@ As notas de versão fornecem informações sobre novos recursos, atualizações 
 > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md).
 > - O OneNote 2016 não será incluído por padrão, quando um usuário no Canal Semestral baixar e instalar o Office 365 no Windows 10 do Portal do Office.
+
+## <a name="version-1808-march-12"></a>Versão 1808: 12 de março
+*Versão 1808 (Build 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
+
+- Correção do problema que ocorria quando o VBA retornava um número de página incorreto.
+- Melhorar o tempo para salvar no arquivo do Word local. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+
+- Foi fornecida uma regkey para desativar a opção "Somente Criptografar" no menu Criptografia de Mensagens do Office 365.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+
+- Correção de um problema em que a atualização do Office pode ficar parada por algum tempo tentando fazer o download.
+
+## <a name="version-1803-march-12"></a>Versão 1803: 12 de março 
+Não há atualizações este mês.
 
 ## <a name="version-1808-february-12"></a>Versão 1808: 12 de fevereiro
 *Versão 1808 (build 10730.20280)*

@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/4/2019
+ms.date: 3/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: a9860958b4d093b72d84b68b3681094cb3b2f19d
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379346"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568194"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Somente versões dos últimos quatro meses serão listadas.
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB. 
+
+## <a name="march-12-2019"></a>12 de março de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a versão 1902 (build 11328.20158). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1901, (build 11231.20130)  <br/> |31 de janeiro de 2019  <br/> |179<br/> |
+|Versão 1901 (Build 11231.20174)  <br/> |12 de fevereiro de 2019  <br/> |177<br/> |
+|Versão 1902 (Build 11328.20146)  <br/> |4 de março de 2019  <br/> |278<br/> |
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+O lançamento mais atual é a versão 1808 (build 10730.20304)
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (build 10730.20264)  <br/> |8 de janeiro de 2019  <br/> |84<br/> |
+|Versão 1808 (Build 10730.20280) <br/> |12 de fevereiro de 2019  <br/> |74<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
+
+O lançamento mais atual é a versão 1902 (build 11328.20158).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (build 10730.20264)  <br/> |8 de janeiro de 2019  <br/> |257 <br/> |
+|Versão 1808 (Build 10730.20280)  <br/> |12 de fevereiro de 2019  <br/> |256 <br/> |
 
 ## <a name="march-4-2019"></a>4 de março de 2019
 
