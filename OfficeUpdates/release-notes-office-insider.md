@@ -1,5 +1,5 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: almuzz Manager: andrewmo MS. Date: 3/15/2019 MS. Audience: Win32 Fast MS. tópico: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ ProPlus Descrição: "fornece aos insiders o público-alvo rápido, com a lista mais recente de novos recursos, correções ou problemas conhecidos
+Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: almuzz Manager: andrewmo MS. Date: 3/22/2019 MS. Audience: Win32 Fast MS. tópico: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ ProPlus Descrição: "fornece aos insiders o público-alvo rápido, com a lista mais recente de novos recursos, correções ou problemas conhecidos
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
@@ -10,7 +10,36 @@ Este artigo contém notas de versão do inSider compilações do Word, Excel, Po
 > - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento real da compilação
 
-## <a name="march-15-2019"></a>15 de março de 2019 
+## <a name="march-22-2019"></a>22 de março de 2019
+Versão 1904 (Build 11514,20004)
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que a interface do usuário exibe constantemente "verificar alterações"
+
+### <a name="excel"></a>Excel
+- Correção de um problema em que o aplicativo pode falhar após mover uma planilha
+- Corrigimos um problema em que o aplicativo podia falhar após salvar como um PDF
+- Correção de um problema em que a caixa de diálogo Salvar não aceitaria alguns caracteres coreanos
+
+### <a name="powerpoint"></a>PowerPoint
+- Várias correções de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Várias correções de desempenho e estabilidade
+
+### <a name="access"></a>Access
+- Corrigimos a mensagem de erro no Access onde um atalho adicional para o Access foi criado
+- Corrigimos um problema em que os dados de um SharePoint vinculado são exibidos incorretamente
+
+### <a name="project"></a>Project
+- Corrigimos um problema em que as configurações de idioma mudaram de chinês para inglês
+- Corrigimos um problema em que o aplicativo pode falhar durante a sincronização com o SharePoint
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>15 de março de 2019
 Versão 1904 (Build 11504,20000)
 
 ## <a name="notable-fixes"></a>Correções notáveis:
