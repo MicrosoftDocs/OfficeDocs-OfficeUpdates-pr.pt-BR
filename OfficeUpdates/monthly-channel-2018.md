@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697619"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737561"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -184,7 +184,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 - **Veja o que será lançado em breve** experimente novas experiências de usuários antes do lançamento e informe-nos o que achou.[Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Confira a URL do Links seguros** Links seguros ajudam a proteger você contra URLs mal-intencionadas recebidos por email, mas eles ocultam a URL original. Agora basta passar o mouse sobre uma URL para ver o original, mesmo em links protegido por Links seguros.
+- **Consulte a URL atrás de Links seguros** Os links seguros protegem você contra URLs mal-intencionadas recebidas por email, mas ocultam a URL original. Para ver o original, passe o mouse sobre a URL. Requer uma licença da Proteção Avançada Contra Ameaças. [Saiba mais](https://products.office.com/pt-BR/exchange/advance-threat-protection)
 - **Obter pesquisa com sugestões de ortografia ** após executar uma pesquisa, o Outlook oferece uma consulta de pesquisa sugerida com correções de ortografia.
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
