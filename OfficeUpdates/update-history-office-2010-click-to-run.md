@@ -1,5 +1,5 @@
 ---
-title: Histórico de atualização para os produtos clique para executar do Office 2010
+title: Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
@@ -9,17 +9,17 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: Fornece aos profissionais de ti um histórico de atualizações para versões perpétuas do Office 2010 que usam clique para executar
+description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
 ms.openlocfilehash: b069b4ccaaf6c3750d9ef162961b108f419e8984
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
-ms.translationtype: MT
+ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2019
+ms.lasthandoff: 03/19/2019
 ms.locfileid: "30568174"
 ---
-# <a name="update-history-for-office-2010-click-to-run-products"></a>Histórico de atualização para os produtos clique para executar do Office 2010
+# <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
-Os seguintes produtos do Office 2010 são atualizados automaticamente usando uma tecnologia chamada clique para executar.
+Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente usando uma tecnologia chamada Clique para Executar.
   
 - Office Home and Business 2010
     
@@ -27,24 +27,24 @@ Os seguintes produtos do Office 2010 são atualizados automaticamente usando uma
     
 - Office Starter 2010
     
-Se você estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize manualmente o Office se necessário.
+Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7230.5000**, que foi lançado em 12 de março de 2019. 
+> A versão mais recente do Office 2010 é **14.0.7230.5000**, que foi lançada no dia 12 de março de 2019. 
   
 Para verificar sua versão do Office, faça o seguinte:
   
 1. Abra qualquer aplicativo do Office 2010, como Word ou Excel.
     
-2. Escolha **** > **ajuda**de arquivo.
+2. Escolha **arquivo** > **Ajuda**.
     
-3. Em **atualizações de produtos clique para executar**, anote o número da versão que está listado.
+3. Em **Atualizações de Produtos Clique para Executar**, observe o número da versão que está listado.
     
-    Se o número da versão corresponder à versão mais recente, você estará atualizado. Caso contrário, você pode atualizar manualmente para obter a versão mais recente do Office 2010. Para atualizar o Office, [siga estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
+    Se o número da versão é compatível com a versão mais recente, você está atualizado. Caso contrário, é possível atualizar manualmente para obter a versão mais recente do Office 2010. Para atualizar o Office, [siga estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
-### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Lista de datas de lançamento, números de versão e informações de correção para atualizações do Office 2010
+### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Lista com as datas de lançamento, números de compilação e informações de correção para atualizações do Office 2010
 
-A tabela a seguir fornece uma lista de atualizações para o Office 2010, com a data de lançamento mais recente listada primeiro. A tabela inclui o número de versão para a versão e os links, se disponível, para artigos da base de dados de conhecimento da Microsoft (KB) ou boletins de segurança da Microsoft que contêm informações sobre as correções incluídas na atualização.
+A tabela a seguir mostra uma lista de atualizações do Office 2010, começando pela data de lançamento mais recente. Ela contém o número da versão e links, se disponível, para os artigos da Base de Dados de Conhecimento (KB) da Microsoft ou Boletins de Segurança da Microsoft que contêm informações sobre as correções que estão incluídas na atualização.
   
 As novas versões contêm todas as atualizações presentes nas versões anteriores.
 
@@ -54,18 +54,18 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2019|12 de março  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
-||15 de fevereiro  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
-||8 de janeiro  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
-|2018|13 de novembro  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
-||9 de outubro  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
-| |11 de setembro  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
-||14 de agosto  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
-||10 de julho  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
-||12 de junho  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
-||8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
-||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
-||13 de março  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
+|2019|12 de março  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/pt-BR/help/4491754) <br/> |
+||15 de fevereiro  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/pt-BR/help/4488446) <br/> |
+||8 de janeiro  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/pt-BR/help/4484800) <br/> |
+|2018|13 de novembro  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/pt-BR/help/4469617) <br/> |
+||9 de outubro  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/pt-BR/help/4464656) <br/> |
+| |11 de setembro  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/pt-BR/help/4459402) <br/> |
+||14 de agosto  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/pt-BR/help/4346823) <br/> |
+||10 de julho  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/pt-BR/help/4340798) <br/> |
+||12 de junho  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/pt-BR/help/4299875) <br/> |
+||8 de maio  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/pt-BR/help/4133083) <br/> |
+||10 de abril  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/pt-BR/help/4098622) <br/> |
+||13 de março  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/pt-BR/help/4090988) <br/> |
 ||13 de fevereiro  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||9 de janeiro  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12 de dezembro  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
@@ -78,7 +78,7 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||9 de maio  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||11 de abril  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||14 de março  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |13 de dezembro  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+|2016  <br/> |13 de dezembro  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/pt-BR/kb/3208595) <br/> |
 ||8 de novembro  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||11 de outubro  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||13 de setembro  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
@@ -110,20 +110,20 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||8 de abril  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 de fevereiro  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |14 de maio  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |9 de outubro  <br/> |14.0.6126.5003  <br/> |[Boletim de segurança da Microsoft MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Boletim de segurança da Microsoft MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Atualização de definição para o Office 2010  <br/> |
-||13 de março  <br/> |14.0.6117.5002  <br/> |Atualização de definição para o Office 2010  <br/> |
-|2011  <br/> |13 de dezembro  <br/> |14.0.6114.5002  <br/> |[Boletim de segurança da Microsoft MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Atualização para o filtro de lixo eletrônico do Outlook 2010  <br/> |
-||12 de abril  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Atualização de definição para o Office 2010  <br/> |
-||9 de fevereiro  <br/> |14.0.5130.5004  <br/> |Atualização de definição para o Office 2010  <br/> |
-|2010  <br/> |14 de dezembro  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Atualização de definição para o Office 2010  <br/> |
-||9 de novembro  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> Atualização de definição para o Office 2010  <br/> |
-||12 de outubro  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> Atualização de definição para o Office 2010  <br/> |
-||14 de setembro  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> Atualização para o Outlook Social Connector 2010  <br/> Atualização de definição para o Office 2010  <br/> |
-||13 de julho  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> Atualização de definição para o Office 2010  <br/> |
+|2012  <br/> |9 de outubro  <br/> |14.0.6126.5003  <br/> |[Boletim de Segurança da Microsoft MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Boletim de Segurança da Microsoft MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Atualização de definição do Office 2010  <br/> |
+||13 de março  <br/> |14.0.6117.5002  <br/> |Atualização de definição do Office 2010  <br/> |
+|2011  <br/> |13 de dezembro  <br/> |14.0.6114.5002  <br/> |[Boletim de Segurança da Microsoft MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Atualização para o Filtro de Lixo Eletrônico do Outlook 2010  <br/> |
+||12 de abril  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Atualização de definição do Office 2010  <br/> |
+||9 de fevereiro  <br/> |14.0.5130.5004  <br/> |Atualização de definição do Office 2010  <br/> |
+|2010  <br/> |14 de dezembro  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Atualização de definição do Office 2010  <br/> |
+||9 de novembro  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> Atualização de definição do Office 2010  <br/> |
+||12 de outubro  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> Atualização de definição do Office 2010  <br/> |
+||14 de setembro  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> Atualização para o Outlook Social Connector 2010  <br/> Atualização de definição do Office 2010  <br/> |
+||13 de julho  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> Atualização de definição do Office 2010  <br/> |
 ||15 de abril  <br/> |14.0.4763.1000  <br/> |Esta é a versão RTM (Release to Manufacturing) do Office 2010.  <br/> |
-||11 de fevereiro  <br/> |14.0.4545.1000  <br/> |Esta é uma versão beta do Office 2010.  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
-|2009  <br/> |8 de dezembro  <br/> |14.0.4541.1000 (beta)  <br/> |Esta é uma versão beta do Office 2010.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
-||18 de novembro  <br/> |14.0.4536.1000  <br/> |Esta é uma versão beta do Office 2010.  <br/> |
+||11 de fevereiro  <br/> |14.0.4545.1000  <br/> |Esta é a versão beta do Office 2010.  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
+|2009  <br/> |8 de dezembro  <br/> |14.0.4541.1000 (Beta)  <br/> |Esta é a versão beta do Office 2010.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
+||18 de novembro  <br/> |14.0.4536.1000  <br/> |Esta é a versão beta do Office 2010.  <br/> |
    
   
 
