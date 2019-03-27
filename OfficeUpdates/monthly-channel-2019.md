@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 3/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568304"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800521"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -27,7 +27,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md). 
+> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md). 
+
+## <a name="version-1902-march-25"></a>Versão 1902: 25 de março
+*Versão 1902 (Build 11328.20222)*
+
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-1902-march-12"></a>Versão 1902: 12 de março
 *Versão 1902 (Build 11328.20158)* 
