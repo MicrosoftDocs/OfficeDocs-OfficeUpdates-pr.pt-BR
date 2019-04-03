@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: dab70023b36ea0e6456db4c7b9b969f0b59c656d
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936851"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027891"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -31,7 +31,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
  
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensal  <br/> |1902 <br/> |11328.20222 <br/> | 25 de março de 2019 <br/> |A versão 1903 foi lançada <br/>|
+|Mensal  <br/> |1903 <br/> |11425.20202 <br/> | 1º de abril de 2019 <br/> |A versão 1904 foi lançada <br/>|
 |Semestral (Direcionado)  <br/> |1902  <br/> |11328.20158 <br/> |  12 de março de 2019 <br/> | 10 de setembro de 2019 <br/>|
 |Semestralmente <br/> |1808  <br/> | 10730.20304<br/> | 12 de março de 2019  <br/> |  10 de março de 2020 <br/>|
 |Semestralmente <br/> |1803  <br/> | 9126.2356  <br/> | 12 de fevereiro de 2019  <br/> |  10 de setembro de 2019 <br/>|
@@ -44,6 +44,7 @@ A tabela a seguir fornece uma lista dos números de build e versão de cada atua
 
 |**Ano**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|1º de abril |[Versão 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|25 de março |[Versão 1902 (Build 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12 de março |[Versão 1902 (Build 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Versão 1902 (Build 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Versão 1808 (Build 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019|4 de março  |[Versão 1902 (Build 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
