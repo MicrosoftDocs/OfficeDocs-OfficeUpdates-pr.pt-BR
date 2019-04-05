@@ -1,7 +1,22 @@
 ---
-Título: "notas de versão para insiders do Office" MS. Author: andrewmo Author: almuzz Manager: andrewmo MS. Date: 3/22/2019 MS. Audience: Win32 Fast MS. tópico: referência MS. Service: o365-ProPlus-localization_priority: Critical MS. Collection: RelNotes_ ProPlus Descrição: "fornece aos insiders o público-alvo rápido, com a lista mais recente de novos recursos, correções ou problemas conhecidos
+title: Notas de versão para insiders do Office
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Oferece uma audiência rápida para o público com a lista mais recente de novos recursos, correções ou problemas conhecidos
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478538"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Notas de versão para insiders do Office
 
 Este artigo contém notas de versão do inSider compilações do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos recursos interessantes, correções importantes e quaisquer problemas significativos que desejamos que você saiba. Observe que freqüentemente os recursos são distribuídos (e às vezes até mesmo correções) para insiders por um período de tempo. Isso permite a nós garantir que tudo está funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
@@ -127,7 +142,7 @@ Versão 1903 (Build 11414,20014)
 - Corrigimos um problema em que a cópia de uma célula no Excel causou o uso de CPU alta quando o documento protegido e o documento editável foram abertos
 
 ### <a name="powerpoint"></a>PowerPoint
-- Corrigimos um problema com o tamanho da imagem do slide ao usar @Mentions no PowerPoint
+- Corrigimos um problema com o tamanho da imagem do @Mentions slide ao usar no PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - Corrigido um problema em que a pesquisa do Outlook não estava respeitando a classificação cronológica selecionada
