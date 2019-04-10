@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027881"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516456"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -33,7 +33,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
-- **Aumentar o alcance do seu conteúdo:** Precisa tornar suas planilhas acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
+- **Aumentar o alcance do seu conteúdo:** Precisa tornar suas planilhas acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisar > Verificar acessibilidade; informaremos quando encontrarmos algo que você precise ver na barra de status.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
@@ -58,14 +58,14 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1902-march-4"></a>Versão 1902: 4 de março
 *Versão 1902 (Build 11328.20146)* 
 
-### <a name="access-feature-updates"></a>Access: Atualizações de recursos
+### <a name="access-feature-updates"></a>Access: atualizações de recursos
 
 - **Manter as guias dos objetos de banco de dados:** Veja as guias ativas, arraste as guias facilmente para reorganizá-las, e feche os objetos de banco de dados com apenas um clique.
 - **Aplicar zoom com mais espaço:** Aumente a caixa Zoom, altere a fonte e o Zoom lembrará de tudo. [Saiba mais](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
-### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
-- **Chamar a atenção com \@menções** sar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chame a atenção de outras pessoas com o recurso \@menções** Use @mentions nos comentários para que colegas de trabalho saibam quando você precisar da contribuição deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)

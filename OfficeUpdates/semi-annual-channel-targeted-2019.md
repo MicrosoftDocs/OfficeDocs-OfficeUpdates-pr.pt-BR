@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478548"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751492"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -26,7 +26,27 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
  
 > [!NOTE]
-> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de Segurança](office365-proplus-security-updates.md).
+> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1902-april-9"></a>Versão 1902: 9 de abril
+*Versão 1902 (Build 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+
+- Soluciona um problema que fazia com que os clientes sofressem uma falha ao carregar fotos no cartão de contato.
+- Soluciona um problema que fazia com que alguns clientes sofressem falhas ao iniciar aplicativos do Office.
+- Corrigimos um problema no qual o Windows não aparecia no local correto quando a barra de tarefas do sistema era mantida à esquerda ou no topo da tela.
+
+### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
+
+- Se um arquivo for aberto no modo somente leitura e você clicar em 'Salvar como' no painel 'Informações', o problema será corrigido para que a interface do usuário de salvar seja exibida.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+
+- Corrigimos um problema que estava causando prompts de login excessivos nos dispositivos Windows 10 (versão 1803 ou posterior).
+- Corrigimos a regressão que causava interrupções durante o download de imagens vinculadas.
+- Corrigimos o desfoque de arquivos EMF grandes colados no Word, Excel, PowerPoint.
+- Corrigimos o erro na lógica de análise do histórico de versões que, em alguns casos, fazia com que os documentos fossem abertos em modo somente leitura.
 
 ## <a name="version-1902-march-12"></a>Versão 1902: 12 de março
 *Versão 1902 (Build 11328.20158)*
