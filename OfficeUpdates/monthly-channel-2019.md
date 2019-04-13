@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
-ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
+ms.openlocfilehash: 4a8c42ea3cfc6e80aea0d898854398c150f1b9f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/10/2019
-ms.locfileid: "31751522"
+ms.locfileid: "31763729"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -45,6 +45,8 @@ Atualizações de segurança listadas [aqui](office365-proplus-security-updates.
 - **Melhoria na mudança de formas:** Nomeie suas formas para ter mais controle sobre como elas são transformadas. [Saiba mais](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Aumente o alcance do seu conteúdo:** Precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
+
+- **Por que reinventar quando você pode reutilizar?**  Economize tempo reutilizando os slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 
@@ -77,7 +79,7 @@ Atualizações de segurança listadas [aqui](office365-proplus-security-updates.
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
-- **Chame a atenção de outras pessoas com o recurso \@menções:** use @mentions nos comentários para que colegas de trabalho saibam quando você precisar da contribuição deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chame a atenção de outras pessoas com o recurso \@menções** Use @mentions nos comentários para que colegas de trabalho saibam quando você precisar da contribuição deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
