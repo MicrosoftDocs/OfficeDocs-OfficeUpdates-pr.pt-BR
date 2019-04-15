@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516066"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818508"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -25,7 +25,38 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
 
-## <a name="april-5th-2019"></a>5 de abril de 2019
+## <a name="april-11-2019"></a>11 de abril de 2019
+Versão 1905 (build 11601.20042)
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all-applications"></a>Todos os Aplicativos
+ - Corrigimos um problema que impedia que alguns usuários salvassem arquivos em locais de nuvem
+ - Corrigimos um problema em que o painel errado abria a partir da faixa de opções
+
+### <a name="word"></a>Word 
+- Correções diversas de desempenho e estabilidade
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que os usuários viam uma mensagem de erro para tipos de dados vinculados quando a pasta de trabalho não continha tipos de dados vinculados
+- Corrigimos um problema em que os links de URL em um documento do Word eram alterados quando visualizados localmente versus online.
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema em que o aplicativo travava depois de desfazer as alterações da guia "animações"
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema que impedia que alguns usuários modificassem o campo de Anotações para contatos em uma Pasta Pública.
+- Corrigimos um problema em que um conflito ocorria entre as datas de expiração e as datas de exclusão
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>5 de abril de 2019
 Versão 1904 (build 11527.20014)
 
 ## <a name="notable-fixes"></a>Correções notáveis:
