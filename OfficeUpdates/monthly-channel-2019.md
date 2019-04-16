@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 4a8c42ea3cfc6e80aea0d898854398c150f1b9f2
-ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31763729"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818498"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -46,7 +46,7 @@ Atualizações de segurança listadas [aqui](office365-proplus-security-updates.
 
 - **Aumente o alcance do seu conteúdo:** Precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
 
-- **Por que reinventar quando você pode reutilizar?**  Economize tempo reutilizando os slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- **Por que reinventar quando você pode reutilizar?**  Economize tempo reutilizando os slides que você criou ou que outras pessoas compartilharam com você.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 
