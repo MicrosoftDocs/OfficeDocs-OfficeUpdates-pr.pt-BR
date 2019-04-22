@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818498"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912567"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -27,6 +27,16 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
  > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md). 
+
+## <a name="version-1903-april-17"></a>Versão 1903: 17 de abril
+*Versão 1903 (Build 11425.20228)*
+
+- Várias correções de bugs e desempenho.
+
+## <a name="version-1903-april-16"></a>Versão 1903: 16 de abril
+*Versão 1903 (Build 11425.20218)*
+
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-1903-april-9"></a>Versão 1903: 9 de abril
 *Versão 1903 (Build 11425.20204)* 
@@ -72,14 +82,14 @@ Atualizações de segurança listadas [aqui](office365-proplus-security-updates.
 ## <a name="version-1902-march-4"></a>Versão 1902: 4 de março
 *Versão 1902 (Build 11328.20146)* 
 
-### <a name="access-feature-updates"></a>Access: atualizações de recursos
+### <a name="access-feature-updates"></a>Access: Atualizações de recursos
 
 - **Manter as guias dos objetos de banco de dados:** Veja as guias ativas, arraste as guias facilmente para reorganizá-las, e feche os objetos de banco de dados com apenas um clique.
 - **Aplicar zoom com mais espaço:** Aumente a caixa Zoom, altere a fonte e o Zoom lembrará de tudo. [Saiba mais](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
-### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 
-- **Chame a atenção de outras pessoas com o recurso \@menções** Use @mentions nos comentários para que colegas de trabalho saibam quando você precisar da contribuição deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chamar a atenção com \@menções** sar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
