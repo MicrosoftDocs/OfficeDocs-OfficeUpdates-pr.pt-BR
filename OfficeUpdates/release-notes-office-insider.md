@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818508"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958132"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -25,7 +25,61 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
 
-## <a name="april-11-2019"></a>11 de abril de 2019
+## <a name="april-19-2019"></a>19 de abril de 2019
+Versão 1905 (build 11609.20002)
+
+## <a name="whats-new"></a>Novidades:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>Experiência de Mapas Preenchidos aprimorados usando Tipos de Dados
+
+
+Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade.
+
+##### <a name="getting-started"></a>Introdução:
+
+- Este recurso é uma melhoria dos recursos existentes no Excel. Para usar a melhoria - Converta locais em Entidades Avançadas e plotagem com Mapas Preenchidos. 
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+- Os usuários podem experimentar o mapeamento de cidades, estados, municípios, países/regiões e códigos postais. 
+
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all-applications"></a>Todos os Aplicativos
+- Corrigimos um problema em que a caixa de diálogo de Primeira Execução era exibida sempre que um aplicativo era iniciado
+- Corrigimos um problema em que um link do SharePoint na caixa de diálogo "salvar como" poderia estar ausente.
+- Corrigimos um problema em que os usuários poderiam ver incorretamente uma caixa de diálogo "Corrigir Agora"
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que alguns usuários poderiam receber um erro de memória insuficiente ou de espaço em disco ao solicitar uma fonte
+- Corrigimos um problema em que uma janela poderia perder o foco ao migrar do painel de comentários
+
+### <a name="excel"></a>Excel
+- Correções diversas de desempenho e estabilidade
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema impedindo o redimensionamento de formas com marca
+- Corrigimos um problema em que o PowerPoint poderia falhar ao abrir um arquivo no modo de exibição protegido
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema que impedia alguns usuários de selecionar palavras em chinês.
+- Corrigimos um problema em que as datas de expiração não eram calculadas corretamente
+
+### <a name="access"></a>Access
+- Corrigimos um problema que impedia alguns usuários de usar o Construtor de Macros
+- Corrigimos um problema em que ao imprimir um relatório só era impresso a primeira página
+- Corrigimos um problema em que o aplicativo poderia falhar ao focalizar um hiperlink
+- Corrigimos um problema que fazia com que alguns itens aparecessem fora da tela ao usar a exibição de relações
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>12 de abril de 2019
 Versão 1905 (build 11601.20042)
 
 ## <a name="notable-fixes"></a>Correções notáveis:
@@ -213,7 +267,7 @@ Versão 1903 (build 11414.20014)
 - Corrigimos um problema no qual, quando uma célula do Excel era copiada de um documento protegido e um documento editável estavam abertos, isso levava ao alto uso da CPU 
 
 ### <a name="powerpoint"></a>PowerPoint
-- Corrigimos um problema com o tamanho da imagem do slide ao se usar @Mentions no PowerPoint
+- Corrigimos um problema com o tamanho de imagem do slide ao usar @menções no PowerPoint
 
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema em que a Pesquisa do Outlook não executava a classificação cronológica selecionada
