@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de ti uma lista dos arquivos. msp mais recentes para versões perpétuas do Office 2016 que usam o Windows Installer (MSI)
 ms.openlocfilehash: 8ccebf9a8eee47a862d8e3cf3847a8bac4538c2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438816"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Lista dos arquivos. msp mais recentes para os produtos do Office 2016
 
