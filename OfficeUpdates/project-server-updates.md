@@ -14,11 +14,11 @@ ms.collection:
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
 ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745473"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438785"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -28,7 +28,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 ## <a name="project-server-2013-update-history"></a>Histórico de atualização do Project Server 2013
   
-|**Data do lançamento**|**Número KB**|
+|**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
 |Abril de 2019  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
 |Março de 2019  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
@@ -85,7 +85,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
    
 ## <a name="project-server-2010-update-history"></a>Histórico de atualização do Project Server 2010
 
-|**Data do lançamento**|**Número KB**|
+|**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
 |Abril de 2019  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
 |Março de 2019  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
