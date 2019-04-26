@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958042"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33235241"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -31,18 +31,36 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1902-april-9"></a>Versão 1902: 9 de abril
 *Versão 1902 (Build 11328.20230)*
 
+### <a name="excel-non-security-updates"></a>Excel: Atualizações não relacionadas à segurança
+
+- Resolvido um problema em que pressionar a tecla Tab não movia para a próxima célula quando em uma célula com uma fórmula que terminava em um nome definido.
+- Resolvido um problema em que a formatação das células estava fazendo com que o tamanho do arquivo expandisse desnecessariamente.
+- Resolvido um problema em que recortar e colar uma tabela dinâmica entre pastas de trabalho podia resultar em dados sendo colados sem uma tabela dinâmica para outras pessoas com as quais você está colaborando.
+
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
 
+- Corrigimos um problema no qual o Windows não aparecia no local correto quando a barra de tarefas do sistema era mantida à esquerda ou no topo da tela.
 - Soluciona um problema que fazia com que os clientes sofressem uma falha ao carregar fotos no cartão de contato.
 - Soluciona um problema que fazia com que alguns clientes sofressem falhas ao iniciar aplicativos do Office.
 - Corrigimos um problema no qual o Windows não aparecia no local correto quando a barra de tarefas do sistema era mantida à esquerda ou no topo da tela.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+
+- Corrigido um problema no Lync (Skype for Business) onde para qualquer reunião online com mais de 7 participantes, a janela da reunião poderia desaparecer.
+
+### <a name="visio-non-security-updates"></a>Visio: Atualizações não relacionadas à segurança
+
+- Corrigido um problema que estava causando problemas de hierarquia de janela quebrada para o Visio extendido a soluções de terceiros desabilitando o recurso de DPI dinâmico.
 
 ### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
 
 - Se um arquivo for aberto no modo somente leitura e você clicar em 'Salvar como' no painel 'Informações', o problema será corrigido para que a interface do usuário de salvar seja exibida.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
 
+- Corrigido um problema em que partes de uma atualização do Office não usava o cache de pares de Otimização de Entrega. 
+  [Saiba mais]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Corrigido um bug que pode levar a remoção ou não ativação se o Office foi instalado usando a Ferramenta de Implantação do Office e houve uma incompatibilidade de caso.
 - Corrigimos um problema que estava causando prompts de login excessivos nos dispositivos Windows 10 (versão 1803 ou posterior).
 - Corrigimos a regressão que causava interrupções durante o download de imagens vinculadas.
 - Corrigimos o desfoque de arquivos EMF grandes colados no Word, Excel, PowerPoint.

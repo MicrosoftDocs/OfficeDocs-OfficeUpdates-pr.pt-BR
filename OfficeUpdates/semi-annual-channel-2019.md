@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745543"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234893"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -31,6 +31,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1808-april-9"></a>Versão 1808: 9 de abril
 *Versão 1808 (Build 10730.20334)*
 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+- Corrigido um problema no Lync (Skype for Business) onde para qualquer reunião online com mais de 7 participantes, a janela da reunião poderia desaparecer.
+
 ### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
 
 - Corrigimos um problema em que os usuários não conseguiam abrir documentos anonimamente no IE ou no Edge.
@@ -38,12 +41,12 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - Adicionamos suporte ao suplemento do assistente de cartão postal japonês do Word para a nova era japonesa. 
 
 ## <a name="version-1803-april-9"></a>Versão 1803: 9 de abril
-Não há atualizações este mês.
+- Atualizações de segurança listadas [aqui](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-march-12"></a>Versão 1808: 12 de março
 *Versão 1808 (Build 10730.20304)*
 
-### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
 
 - Correção do problema que ocorria quando o VBA retornava um número de página incorreto.
 - Melhorar o tempo para salvar no arquivo do Word local. 
@@ -57,10 +60,10 @@ Não há atualizações este mês.
 - Correção de um problema em que a atualização do Office pode ficar parada por algum tempo tentando fazer o download.
 
 ## <a name="version-1803-march-12"></a>Versão 1803: 12 de março 
-Não há atualizações este mês.
+- Atualizações de segurança listadas [aqui](office365-proplus-security-updates.md)
 
 ## <a name="version-1808-february-12"></a>Versão 1808: 12 de fevereiro
-*Versão 1808 (Build 10730.20280)*
+*Versão 1808 (build 10730.20280)*
 
 ### <a name="access-non-security-updates"></a>Access: Atualizações não relacionadas à segurança 
 
@@ -81,7 +84,7 @@ Não há atualizações este mês.
 ## <a name="version-1803-february-12"></a>Versão 1803: 12 de fevereiro
 *Versão 1803 (Build 9126.2356)*
 
-*Este é o lançamento do Canal Semestral que está disponível desde julho de 2018. Ele continuará tendo suporte e receberá atualizações de segurança até setembro de 2019. Porém, uma nova versão do Canal Semestral está disponível agora — Versão 1808 (Build 10730.20280) —, que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este lançamento do Canal Semestral está disponível desde julho de 2018. Ele continuará com suporte e receberá atualizações de segurança até setembro de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral — Versão 1808 (Build 10730.20280) — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
 
 ### <a name="access-non-security-updates"></a>Access: Atualizações não relacionadas à segurança 
 
@@ -113,15 +116,15 @@ Não há atualizações este mês.
 ## <a name="version-1708-february-12"></a>Versão 1708: 12 de fevereiro
 *Versão 1708 (Build 8431.2372)*
 
-*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará tendo suporte e receberá atualizações de segurança até março de 2019. Porém, uma nova versão do Canal Semestral está disponível agora — Versão 1808 (Build 10730.20280) —, que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do Canal Semestral que está disponível desde janeiro de 2018. Ele continuará com suporte e receberá atualizações de segurança até março de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral, a — versão 1808 (Build 10730.20280) — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
 
 - Corrigiu o problema em que os Suplementos, implantados usando [implantação centralizada do O365 Office ](https://docs.microsoft.com/pt-BR/office/dev/add-ins/publish/centralized-deployment), foram congelados e inutilizáveis.
 
 
 ## <a name="version-1808-january-8"></a>Versão 1808: 8 de janeiro
-*Versão 1808 (build 10730.20264)*
+*Versão 1808 (Build 10730.20264)*
 
 ### <a name="access-feature-updates"></a>Access: Atualizações de recursos
 
@@ -272,7 +275,7 @@ Não há atualizações este mês.
 ## <a name="version-1803-january-8"></a>Versão 1803: 8 de janeiro
 *Versão 1803 (Build 9126.2351)*
 
-*Este é o lançamento do Canal Semestral que está disponível desde julho de 2018. Ele continuará tendo suporte e receberá atualizações de segurança até setembro de 2019. Porém, uma nova versão do Canal Semestral está disponível agora — a Versão 1808 — contendo novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este lançamento do Canal Semestral que está disponível desde julho de 2018. Ele continuará com suporte e receberá atualizações de segurança até setembro de 2019. No entanto, já está disponível um novo lançamento do Canal Semestral — Versão 1808 — que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas à segurança.*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações não relacionadas à segurança
 - Correção de um problema para garantir a paridade de recursos da opção LinkedIn entre aplicativos do Office.
