@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438646"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234883"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -46,9 +46,12 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1903-april-9"></a>Versão 1903: 9 de abril
 *Versão 1903 (Build 11425.20204)* 
 
-Atualizações de segurança listadas [aqui](office365-proplus-security-updates.md)
+- Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1903-april-01"></a>Versão 1903: 1 de abril 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+- Corrigido um problema no Lync (Skype for Business) onde para qualquer reunião online com mais de 7 participantes, a janela da reunião poderia desaparecer.
+
+## <a name="version-1903-april-01"></a>Versão 1903: 1 de abril
 *Versão 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
