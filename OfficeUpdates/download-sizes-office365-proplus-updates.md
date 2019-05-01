@@ -3,19 +3,19 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/24/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 4d636864a4fc00efcdd232e47bd36cb5e7401ce2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370213"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480113"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,18 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Somente versões dos últimos quatro meses serão listadas.
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
+
+## <a name="april-29-2019"></a>29 de abril de 2019
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a Versão 1904 (Build 11601.20144). 
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1903 (Build 11425.20228)  <br/> |17 de abril de 2019  <br/> |156<br/> |
+|Versão 1903 (Build 11425.20244)  <br/> |22 de abril de 2019  <br/> |146<br/> |
+
+
 
 ## <a name="april-22-2019"></a>22 de abril de 2019
 ### <a name="monthly-channel"></a>Canal Mensal
