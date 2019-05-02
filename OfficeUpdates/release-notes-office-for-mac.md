@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 6cb4866a65ad45e54a13f62e1b422675d8e4ede4
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 57e30df61e42547b0c23cdb797142dcf87666a56
+ms.sourcegitcommit: b3d71e9fbbece2bba40b6b71f2ad3f4bbbee7a55
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370253"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33527776"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -36,7 +36,24 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ## <a name="april-2019-release"></a>Versão de abril de 2019
 
- **Data do lançamento:** 16 de abril de 2019 
+**Data do lançamento:** 29 de abril de 2019 
+  
+ *Versão 16.24.1 (build 19042400)*
+
+
+ Esta versão oferece as seguintes atualizações:
+
+|**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|:-----|
+|Word<br/>|Atualizações do pacote de fontes inclui glifo da nova era japonesa.<br/>|<br/>|[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19042400_Updater.pkg)<br/>|
+|Excel<br/>|Atualizações do pacote de fontes inclui glifo da nova era japonesa.<br/>|<br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19042400_Updater.pkg)<br/>|
+|PowerPoint<br/>|Atualizações do pacote de fontes inclui glifo da nova era japonesa.<br/>|<br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19042400_Updater.pkg)<br/>|
+|Outlook<br/>|Atualizações do pacote de fontes inclui glifo da nova era japonesa.<br/>|<br/>|[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19042400_Updater.pkg)<br/>|
+|OneNote<br/>|Atualizações do pacote de fontes inclui glifo da nova era japonesa.<br/>|<br/>|[Pacote de atualização do OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Onenote_16.24.19042400_Updater.pkg)<br/>|
+
+
+
+ **Data do lançamento:** 16 de abril de 2019
   
  *Versão 16.24 (build 19041401)*
 
