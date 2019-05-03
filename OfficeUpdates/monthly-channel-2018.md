@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
+ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438716"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "33568601"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -59,7 +59,6 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 - **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Continue trabalhando enquanto move mensagens:** Agora, o Outlook move mensagens em segundo plano para que você pode continuar trabalhando enquanto move uma grande quantidade de mensagens entre pastas.
-- **Veja detalhes do LinkedIn das pessoas no Outlook:** agora, quando você abre um cartão de perfil de um contato, pode saber mais sobre ele visualizando seu perfil do LinkedIn.
 - **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
 - **Bloquear o download de conteúdo externo por padrão em emails criptografados e assinados SMIME:** devido a uma vulnerabilidade de protocolo SMIME, o Outlook bloqueia o download de conteúdo externo em mensagens criptografadas ou assinadas em SMIME. Os usuários não poderão clicar em download de conteúdo externo por meio da interface do usuário do Outlook para se proteger da vulnerabilidade de segurança. Há uma nova opção na caixa de diálogo Opções para permitir que os usuários retornem ao comportamento antigo. 
 
