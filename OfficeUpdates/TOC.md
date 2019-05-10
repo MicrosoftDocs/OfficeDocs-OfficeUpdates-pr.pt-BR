@@ -43,6 +43,7 @@
 ## [Atualizações do Office 2010 (Clique para Executar)](update-history-office-2010-click-to-run.md)
 ## [Atualizações do Office 2010, 2013 e 2016 (MSI)](office-updates-msi.md)
 ## [Atualizações do Outlook 2010, 2013 e 2016 (MSI)](outlook-updates-msi.md)
+## [Atualizações não relacionadas à segurança do Office (MSI)](office-MSI-non-security-updates.md)
 ## [Arquivos .msp do Office 2016](msp-files-office-2016.md)
 ## [Arquivos .msp do Office 2013](msp-files-office-2013.md)
 ## [Atualizações do Skype for Business (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
