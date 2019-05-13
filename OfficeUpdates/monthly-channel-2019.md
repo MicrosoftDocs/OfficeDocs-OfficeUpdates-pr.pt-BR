@@ -3,19 +3,18 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480083"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834810"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -28,6 +27,11 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md). 
 
+## <a name="version-1904-may-08"></a>Versão 1904: 08 de maio 
+*Versão 1904 (Build 11601.20178)* 
+
+ - Várias correções de bugs e desempenho.
+
 ## <a name="version-1904-april-29"></a>Versão 1904: 29 de abril
 *Versão 1904 (Build 11601.20144)* 
 
@@ -35,15 +39,25 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
 
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+
+- **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
 - **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 
+- **Exporte diagramas de processo para o Word:** Adicione automaticamente conteúdo de diagrama, como formas e metadados, a um documento do Word. Personalize o documento para criar as diretrizes de processo e os manuais de operação. [Saiba mais](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **Cores sincronizadas para Acompanhar Alterações, Comentários e Colaboração em Tempo Real:** Correções em nosso produto agora garantem que os comentários, o acompanhamento de alterações e o cursor de um colaborador apareçam na mesma cor.
+
 - **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
 
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
+
+- **Novos ícones:** adicionamos mais de 300 novos ícones com base nos seus comentários. Você os encontrará usando o botão Ícones na guia Inserir da faixa de opções.
 
 - **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -79,6 +93,8 @@ Corrigido um problema de identificação incorreta do nome da nova era "Reiwa" e
 *Versão 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+
+- **Insights no Excel:** o Insights agrega valor para vários usuários. O Insights proporciona uma abordagem mais suave à análise de dados, bem como uma perspectiva diferente para seus dados. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **Aumentar o alcance do seu conteúdo:** Precisa tornar suas planilhas acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisar > Verificar acessibilidade; informaremos quando encontrarmos algo que você precise ver na barra de status.
 
@@ -166,6 +182,8 @@ Atualizações de segurança listadas [aqui](office365-proplus-security-updates.
 - **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B).
  
 ### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+
+- **Captura dupla em fluxogramas de dados:** os novos e deslumbrantes layouts para os fluxogramas do Visualizador de Dados são limpos, nítidos e fáceis de entender. [Saiba mais](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Estênceis criados diretamente no Azure:** Crie um aplicativo de nuvem ou planeje uma arquitetura usando dezenas de estênceis do Azure. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
