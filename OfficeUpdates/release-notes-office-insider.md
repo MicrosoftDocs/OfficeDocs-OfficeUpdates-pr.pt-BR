@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370183"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882760"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -24,6 +24,65 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
+
+## <a name="may-10-2019"></a>10 de maio de 2019
+Versão 1906 (build 11702.20000)
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all"></a>Todos
+- Corrigimos um problema em que a caixa de diálogo Salvar Como exibia o caminho incorreto
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que algumas seleções do Diga-me não eram inseridas
+
+### <a name="excel"></a>Excel
+- Correções diversas de desempenho e estabilidade
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Correções diversas de desempenho e estabilidade
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Corrigimos um problema em que os IDs de tarefas poderiam exigir ser destacados para exibição
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>3 de maio de 2019
+Versão 1906 (build 11629.20008)
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all"></a>Todos
+- Corrigimos um problema em que alguns usuários enfrentavam problemas ao sincronizar com o OneDrive for Business
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que os links externos às vezes eram removidos das pastas de trabalho após a atualização para uma versão mais recente do Excel
+- Corrigimos um problema em que alguns usuários podiam ter dificuldade em selecionar células em uma nova pasta de trabalho.
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema em que os tamanhos de fonte não eram consistentes ao converter desenhos em texto
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema em que salvar um contato de um arquivo .VCF resultava em campos vazios
+- Corrigimos um problema em que uma mensagem ficava presa na pasta de caixa de saída, embora ela tivesse sido enviada
+- Corrigimos um problema em que o Outlook falhava ao exibir uma mensagem DRM
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Corrigimos um problema em que o editor mudava de chinês para inglês
+- Corrigimos um problema em que tarefas não publicadas apareciam na cópia publicada de um projeto principal
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>26 de abril de 2019
 Versão 1905 (build 11617.20002)
