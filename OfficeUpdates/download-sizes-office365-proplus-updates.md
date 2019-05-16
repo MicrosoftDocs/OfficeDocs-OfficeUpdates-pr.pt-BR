@@ -3,19 +3,18 @@ title: Tamanhos de download para atualizações do Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480113"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034472"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -27,7 +26,7 @@ Nosso objetivo é fornecer informações sobre o tamanho das atualizações uma 
 
 Para saber mais sobre recursos, atualizações de segurança e atualizações não relacionadas a segurança incluídas em determinado lançamento, confira [Informações de versão das atualizações para o Office 365 ProPlus](release-notes-office365-proplus.md).
 
-  
+ 
 > [!NOTE]
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão x64 em en-us do Office 365 ProPlus. (Todas as versões anteriores a 13 de março de 2019 mostram tamanhos de x86.)
 > - Os tamanhos de download são aproximados. Os tamanhos de download reais podem variar em até 50 MB. 
@@ -36,6 +35,34 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
 
+## <a name="may-14-2019"></a>14 de maio de 2019
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1904 (Build 11601.20204).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1904 (Build 11601.20178)  <br/> |8 de maio de 2019  <br/> |185<br/> |
+|Versão 1904 (Build 11601.20144)  <br/> |29 de abril de 2019  <br/> |188<br/> |
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+A versão mais atual é a Versão 1808 (Build 10730.20344).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (Build 10730.20334) <br/> |9 de abril de 2019  <br/> |72<br/> |
+|Versão 1808 (Build 10730.20304)  <br/> |12 de março de 2019  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal semestral (direcionado)
+
+A versão mais atual é a Versão 1902 (Build 11328.20286).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20230)  <br/> |9 de abril de 2019  <br/> |72 <br/> |
+|Versão 1902 (Build 11328.20158)  <br/> |12 de março de 2019  <br/> |76 <br/> |
+
 ## <a name="april-29-2019"></a>29 de abril de 2019
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -43,15 +70,14 @@ O lançamento mais atual é a Versão 1904 (Build 11601.20144).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
+|Versão 1904 (Build 11425.20244)  <br/> |22 de abril de 2019  <br/> |151<br/> |
 |Versão 1903 (Build 11425.20228)  <br/> |17 de abril de 2019  <br/> |156<br/> |
-|Versão 1903 (Build 11425.20244)  <br/> |22 de abril de 2019  <br/> |146<br/> |
-
 
 
 ## <a name="april-22-2019"></a>22 de abril de 2019
 ### <a name="monthly-channel"></a>Canal Mensal
 
-O lançamento mais atual é a Versão 1903 (Build 11425.20244). 
+O lançamento mais atual é a Versão 1903 (Build 11425.20244).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
