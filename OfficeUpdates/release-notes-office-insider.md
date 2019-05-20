@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882760"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161560"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -24,6 +24,117 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
+
+## <a name="may-17-2019"></a>17 de maio de 2019
+Versão 1906 (build 11708.20006)
+
+## <a name="whats-new"></a>Novidades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>Atualizações da Experiência do Usuário
+
+As atualizações que estiveram em Em Breve agora estão prontas, apresentando a Faixa Simplificada e uma atualização visual do painel de pastas, lista de mensagens e painel de leitura.
+
+##### <a name="getting-started"></a>Introdução:
+
+Essas alterações farão parte da nova interface do usuário padrão; está disponível sob a opção "Em Breve" desde meados de dezembro para 100% prod
+
+#### <a name="customizable-simplified-ribbon"></a>Faixa Simplificada Personalizável
+
+Facilmente personalizável para alternar entre visualizações clássicas e simplificadas e comandos de fixar/desafixar.
+
+##### <a name="getting-started"></a>Introdução:
+
+Os usuários podem acessar a faixa simplificada ativando Em Breve (inicialmente) e clicando na divisa na faixa de opções para alternar entre a faixa clássica de várias linhas e a nova faixa simplificada de linha única.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Mudar de faixa clássica para faixa simplificada
+
+#### <a name="pick-your-favorite-action"></a>Escolha sua ação favorita
+
+Não usar Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos que você mais usa.
+
+##### <a name="getting-started"></a>Introdução:
+
+Para selecionar suas Ações Rápidas, clique com o botão direito do mouse em um email na lista de mensagens para abrir o Menu de Contexto. Em seguida, clique em "Definir ações rápidas..."
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Altere os padrões de sinalizar e excluir para ou arquivar, mover, marcar como lido, ou nenhum, para obter uma lista de mensagens mais limpa
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>Layout espaçado ou mais ajustado? Você escolhe
+
+Usar Espaçamento Menor permite que você decida se quer mais espaço entre os itens ou um layout mais justo para ver mais.
+
+##### <a name="getting-started"></a>Introdução:
+
+Guia Exibir, caixa de seleção usar espaçamento menor - no grupo de Mensagens para a faixa de opções clássica, configurações da Exibição Atual para faixa de opções simplificada
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Use o Outlook para fazer triagem e escrever emails com e sem a configuração habilitada. Com o uso do espaçamento menor, mais mensagens cabem por página e os controles nos formulários de redação são mais simplificados.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Eliminar entradas duplicadas de MRU ao usar o cliente de sincronização do OneDrive
+
+Permita uma melhor integração com o cliente de sincronização do OneDrive com anexos na nuvem, eliminando as entradas duplicadas de MRU e permitindo anexar como cópia mais rapidamente para dados sincronizados.
+
+##### <a name="getting-started"></a>Introdução:
+
+Se você usar o cliente de sincronização do OneDrive, não verá mais duplicatas de arquivo no MRU de Anexo de Arquivos.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Habilite o cliente de sincronização do OneDrive e use o menu Anexar Arquivo no Outlook para a área de trabalho
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>Sincronização de pastas compartilhadas aprimorada para caixas de correio com muitas pastas
+
+Por anos, o Outlook foi limitado a um máximo de 500 pastas ao sincronizar caixas de correio compartilhadas. Com essa alteração, a sincronização do Outlook foi aprimorada, de maneira que não se encontrará mais esse limite de 500 pastas.
+
+##### <a name="getting-started"></a>Introdução:
+
+Crie 1000 pastas em uma caixa de correio, dê a outra pessoa acesso à caixa de correio, crie um perfil do Outlook para "outra pessoa" e verifique se a sincronização funciona.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>Apague só um pouquinho
+
+##### <a name="getting-started"></a>Introdução:
+
+Vá para a guia Desenhar. Selecione o menu suspenso Borracha. Escolha Borracha Pequena ou Borracha Média.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Vá para a guia Desenhar. Selecione uma caneta. Desenhe um traço de tinta. Selecione o menu suspenso Borracha. Escolha Borracha Pequena ou Borracha Média. Apague apenas pedaços do traço de tinta.
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all"></a>Todos 
+- Corrigimos um problema que impedia que alguns usuários salvassem como PDF
+- Corrigimos um problema que afetava os usuários salvando arquivos grandes em um sistema de 32 bits
+
+### <a name="word"></a>Word 
+- Melhoramos significativamente a capacidade de resposta do recurso de ditado
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que os eventos de duplo clique falhavam nos dispositivos de tela sensível ao toque
+- Corrigimos um problema que impedia que alguns usuários pudessem editar macros do VBA
+- Corrigimos um problema que afetava o desempenho ao usar segmentações de dados
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema em que o modelo errado era exibido a partir do que estava selecionado
+
+### <a name="access"></a>Access
+- Corrigimos um problema em que o construtor de zoom para exibir rich text longo era difícil de ler
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>10 de maio de 2019
 Versão 1906 (build 11702.20000)
@@ -62,6 +173,7 @@ Versão 1906 (build 11629.20008)
 - Corrigimos um problema em que alguns usuários enfrentavam problemas ao sincronizar com o OneDrive for Business
 
 ### <a name="word"></a>Word 
+- Corrigimos um problema em que, em alguns casos, o Word levava muito tempo para começar
 
 ### <a name="excel"></a>Excel
 - Corrigimos um problema em que os links externos às vezes eram removidos das pastas de trabalho após a atualização para uma versão mais recente do Excel
@@ -201,7 +313,7 @@ Versão 1904 (build 11527.20014)
 ## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="all-applications"></a>Todos os Aplicativos
- - Corrigimos um problema em que um ícone incorreto do aplicativo aparecia em menus contextuais no Excel
+- Corrigimos um problema em que um ícone incorreto do aplicativo aparecia em menus contextuais no Excel
 - Corrigimos um problema em que o botão do menu Arquivo desaparecia após a instalação de uma atualização
 - Corrigimos um problema que poderia alterar sua licença de usuário
 
