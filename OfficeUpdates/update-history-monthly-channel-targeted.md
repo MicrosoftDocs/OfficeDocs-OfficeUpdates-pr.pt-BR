@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
+ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834800"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34107670"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -30,6 +30,12 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão
 
 [//]: # (NÃO REMOVA)
+
+**16 de maio de 2019**<br/>
+Versão 1905 (Build 11629.20136)<br/>
+
+**14 de maio de 2019**<br/>
+Versão 1904 (Build 11601.20204)<br/>
 
 **08 de maio de 2019**<br/>
 Versão 1904 (Build 11601.20178)<br/>
@@ -99,7 +105,7 @@ Versão 1903 (Build 11425.20204)<br/>
 
 
   [
-  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/pt-BR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Obter novos recursos primeiro**
