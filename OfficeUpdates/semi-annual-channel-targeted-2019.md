@@ -3,18 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034492"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337105"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -32,6 +33,13 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
  -  Corrigido um problema em que o uso da ferramenta Câmera no Excel fazia com que a planilha fosse interrompida.
+ - Um problema que causava uma falha ao usar a roda de rolagem do mouse em uma janela inativa com uma planilha de gráfico foi corrigido.
+ - Foi solucionado um problema que causava a mensagem "Erro inesperado" ao importar uma planilha no SharePoint.
+ - Um problema que causava a falha do Excel ao abrir uma pasta de trabalho contendo formatação condicional que usa um Nome para sua regra e uma exibição personalizada é aplicada foi resolvido.
+ - Macros usando validação de dados com fórmulas com mais de 255 caracteres podem ter produzido erros de tempo de execução. Esse problema foi agora corrigido.
+ - Um problema que fazia com que arquivos contendo Tabelas Dinâmicas vinculadas a outras pastas de trabalho fossem carregados lentamente. Esse problema foi resolvido.
+ - Um problema com a abertura de arquivos HTML e o recebimento do erro "o formato de arquivo e a extensão não correspondem" foi solucionado.
+ - Uma alteração foi feita para resolver problemas com a rolagem da roda do mouse em janelas inativas.  
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
  - Soluciona um problema que fazia com que os clientes não conseguissem editar alguns campos em itens que foram migrados.
