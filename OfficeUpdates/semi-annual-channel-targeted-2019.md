@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337105"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432419"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -60,7 +60,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  - Corrigido um problema em que aparecia a caixa de diálogo "Falha ao carregar recurso" ao abrir o Word.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
- - Corrigido um problema de identificação incorreta do nome da nova era "Reiwa" em Hiragana e Kanji como uma expressão de erros ortográfico ou gramatical.
+ - Esta é uma correção para um problema em que os arquivos não podem ser salvos em pastas Apache WebDAV.
+ - Corrige um problema em que o Office é fechado abruptamente quando os clientes abrem alguns arquivos armazenados na nuvem.
+ - Corrigiu um problema de identificação incorreta do nome da nova era "Reiwa" em Hiragana e Kanji como uma expressão de erros ortográfico ou gramatical.
  - Corrigido um problema em que a lista de arquivos recentes parecia ter sido limpa para muitos usuários no Windows 10.
  - Corrigido um problema que fazia com que um usuário final visse uma barra de negócios de Atualização do Office, mesmo que houvesse uma atualização acionada pelo administrador em andamento.
  - Correção de problemas relacionados a avisos de logon em branco intermitentes.
