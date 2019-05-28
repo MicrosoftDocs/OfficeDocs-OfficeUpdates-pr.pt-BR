@@ -3,19 +3,19 @@ title: Histórico de versões do Microsoft AutoUpdate
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 9f162b040f05b1fb845bef0a0d3a8de251abe3a4
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: b33d9718ce92494b25b294de4618ec6dd8132c7c
+ms.sourcegitcommit: 38b3f8be8686cd853e481c1e93b89040637a9748
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438780"
+ms.lasthandoff: 05/23/2019
+ms.locfileid: "34419145"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,7 +31,8 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
   
 |**Data de lançamento**|**Versão**|**Mais informações**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
-|16 de abril de 2019 <br/>|4.10 <br/> | [Notas de versão](release-notes-office-for-mac.md#April-2019-release) <br/> |[Baixar MAU 4.10](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14 de maio de 2019 <br/>|4.11 <br/> | [Notas de versão](release-notes-office-for-mac.md#May-2019-release) <br/> |[Baixar MAU 4.11](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16 de abril de 2019 <br/>|4.10 <br/> | [Notas de versão](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
 |14 de março de 2019 <br/>|4.9.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |26 de fevereiro de 2019 <br/>|4.8.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |16 de janeiro de 2019 <br/>|4.7.0 <br/> | [Notas de versão](release-notes-office-for-mac.md#january-2019-release) <br/> | |
