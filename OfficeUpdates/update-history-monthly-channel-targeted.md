@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 29252d82acf2c8c87ac422c9dde48a34d7c3a728
-ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
+ms.openlocfilehash: 0a1503de7b2e6c12d7d3f44b926165cda8734109
+ms.sourcegitcommit: 01db1a12c902cc22867e31c1636e12c023b3f515
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34403556"
+ms.lasthandoff: 05/27/2019
+ms.locfileid: "34487542"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -30,6 +30,9 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão
 
 [//]: # (NÃO REMOVA)
+
+**25 de maio de 2019**<br/>
+Versão 1905 (Build 11629.20196)<br/>
 
 **22 de maio de 2019**<br/> Versão 1905 (Build 11629.20164)<br/>
 

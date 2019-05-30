@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161560"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432409"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -24,6 +24,42 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
+
+## <a name="may-24-2019"></a>24 de maio de 2019
+Versão 1906 (Build 11715.20002)
+
+## <a name="whats-new"></a>Novidades:
+
+#### <a name="user-experience-updates"></a>Atualizações da Experiência do Usuário
+
+As atualizações que estiveram em Em Breve agora estão prontas, apresentando a Faixa Simplificada e uma atualização visual do painel de pastas, lista de mensagens e painel de leitura.
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all"></a>Todos
+
+- Corrigimos um problema em que o painel de chat não era exibido.
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que, em alguns casos, o Word realçava o texto incorretamente para erros gramaticais
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que um ícone incorreto foi usado nos Elementos do Gráfico.
+- Corrigimos um problema em que a pasta de trabalho incorreta poderia ser ativada em um script VBA quando a mesma pasta de trabalho já estava aberta
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Correções diversas de desempenho e estabilidade
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Corrigimos um problema onde o Project podia falhar após alternar para a barra de tarefas.
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>17 de maio de 2019
 Versão 1906 (build 11708.20006)
@@ -279,7 +315,23 @@ Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preench
 ## <a name="april-12-2019"></a>12 de abril de 2019
 Versão 1905 (build 11601.20042)
 
-## <a name="notable-fixes"></a>Correções notáveis:
+## <a name="whats-new"></a>Novidades:
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Novo no Access - Conector de Dados para o Microsoft Graph
+
+Vincula ou importa formulário serviços do Microsoft Graph para criar aplicativos que podem utilizar os dados contextuais inteligentes armazenados no Graph
+
+#### <a name="getting-started"></a>Introdução:
+
+Guia de Dados Externos na faixa de opções, clique em Novas Fontes de Dados e localize o novo conector do Graph no menu Serviços Online
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Importar de ou vincular a vários serviços do Graph, incluindo Pessoas, Grupos e Itens do OneDrive.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
 
 ### <a name="all-applications"></a>Todos os Aplicativos
  - Corrigimos um problema que impedia que alguns usuários salvassem arquivos em locais de nuvem
@@ -310,7 +362,56 @@ Versão 1905 (build 11601.20042)
 ## <a name="april-5-2019"></a>5 de abril de 2019
 Versão 1904 (build 11527.20014)
 
-## <a name="notable-fixes"></a>Correções notáveis:
+## <a name="whats-new"></a>Novidades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Outlook for Windows:  definir e compartilhar as configurações da Caixa de Entrada Destaques
+
+Suas preferências da Caixa de Entrada Destaques são armazenadas na nuvem para que você possa aproveitar a mesma experiência consistente ao usar o Outlook para Windows e o Outlook na Web em qualquer computador.
+
+#### <a name="getting-started"></a>Introdução:
+
+Na guia Arquivo > Opções > Geral, há uma nova preferência para 'Armazenar minhas configurações do Outlook na nuvem'. Os usuários precisarão marcar a caixa para permitir que sua configuração da Caixa de Entrada Destaques seja transferida para outras instalações do Outlook para Área de Trabalho e para o OWA.
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Altere a Caixa de Entrada Destaques na máquina que esteja com a preferência de configurações de nuvem ativada. Navegue até OWA e confira a preferência aplicada também. Alterar a Caixa de Entrada Destaques no OWA e iniciar o Office para Área de Trabalho para ver a preferência refletida.
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>O modo Ferramentas de Aprendizagem tem suporte adicional para mais cores de página
+
+As ferramentas de aprendizagem no Word adicionam suporte para mais cores de tema de página, o que permite a alteração da cor da tela de fundo da página.  Várias pessoas têm desafios de leitura com um plano de fundo todo branco ou preto, então ampliamos as opções de cores no Word para PC e para Mac.
+
+#### <a name="getting-started"></a>Introdução:
+
+Para experimentar isso, vá para a guia Exibir e escolha Ferramentas de Aprendizagem e, em seguida, Cor da Página.
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Para experimentar isso, vá para a guia Exibir e escolha Ferramentas de Aprendizagem e, em seguida, Cor da Página.
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>Elevar a Criatividade com Modelos 3D Animados
+
+O Office agora dá suporte a modelos animados, que serão reproduzidos no editor, para que você possa dar vida às suas planilhas!
+
+#### <a name="getting-started"></a>Introdução:
+
+1. Abra o Excel.
+2. Insira um Modelo 3D animado (chegará em breve ao Remix, mas por enquanto, acesse os modelos animados aqui: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. O modelo animado será reproduzido no editor! Verificar o Modo de Apresentação de slides - ele também será reproduzido!
+4. Na Faixa de Opções do formato 3D, explore mais cenas de animação no modelo
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+1. Inserir um modelo animado e ver a reprodução no editor
+2. Explore as cenas de animação disponíveis no modelo animado através da Galeria de Cenas, disponível na Faixa de Opções de Formato 3D.
+3. Reproduza/pause facilmente a animação pela faixa de opções, barra flutuante ou barra de espaço.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
 
 ### <a name="all-applications"></a>Todos os Aplicativos
 - Corrigimos um problema em que um ícone incorreto do aplicativo aparecia em menus contextuais no Excel
@@ -379,6 +480,22 @@ Versão 1904 (build 11514.20004)
 ## <a name="march-15-2019"></a>15 de março de 2019
 Versão 1904 (build 11504.20000)
 
+## <a name="whats-new"></a>Novidades:
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>Modo Foco
+
+Alterne para o modo Foco no menu Exibir para remover distrações e se concentrar no trabalho. Somente para assinantes do Office 365.
+
+#### <a name="getting-started"></a>Introdução:
+
+Botão "Foco" na guia exibição no Botão "Foco" na Barra de Status da Faixa de Opções
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Entrar no Modo Foco e experimentar uma Experiência Focalizada
+
 ## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="word"></a>Word 
@@ -422,7 +539,19 @@ Com a Pesquisa da Microsoft, você pode encontrar todos os arquivos, ações, pe
 
 - Pesquisar uma faculdade, um documento recente ou pesquisar os comandos da faixa de opções que você usa com mais frequência
 - Procure um tópico ou assunto para obter mais informações
+- 
+#### <a name="coauthoring"></a>Coautoria
 
+Cansado de ser bloqueado em documentos que contêm macros? Agora, os arquivos docm no OneDrive for Business permitem edição simultânea por vários autores.
+
+#### <a name="getting-started"></a>Introdução:
+
+O usuário não precisa pressionar nenhum botão da interface de usuário para acessar este recurso. Ela está habilitada por padrão em arquivos docm do OneDrive for Business.
+Portanto, o usuário deve salvar um arquivo docm no OneDrive for Business para experimentar.
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Crie um arquivo docm no OneDrive for Business, compartilhe-o com seus colegas e colabore!
 
 ## <a name="notable-fixes"></a>Correções notáveis:
 
@@ -453,6 +582,21 @@ Com a Pesquisa da Microsoft, você pode encontrar todos os arquivos, ações, pe
 ## <a name="march-1-2019"></a>1º de março de 2019 
 Versão 1903 (build 11414.20014)
 
+## <a name="whats-new"></a>Novidades
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>Cores sincronizadas para Controlar Alterações, Comentários e Colaboração em Tempo Real
+
+Correções em nosso produto agora garantem que os comentários, o acompanhamento de alterações e o cursor de um colaborador apareçam na mesma cor.
+
+#### <a name="getting-started"></a>Introdução:
+
+Abrir um documento do SharePoint ou do OneDrive que outras pessoas abriram. Verifique se a cor da opção controlar alterações e dos comentários do usuário corresponde à cor do cursor desse usuário.
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Abrir um documento do SharePoint ou do OneDrive que outras pessoas abriram. Verifique se a cor da opção controlar alterações e dos comentários do usuário corresponde à cor do cursor desse usuário.
 
 ## <a name="notable-fixes"></a>Correções notáveis:
 
