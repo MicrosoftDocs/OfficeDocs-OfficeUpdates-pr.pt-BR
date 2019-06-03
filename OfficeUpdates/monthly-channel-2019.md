@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549738"
+ms.locfileid: "34550892"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -77,6 +77,14 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - **O modo Ferramentas de Aprendizagem tem suporte adicional para mais cores de página:** as Ferramentas de Aprendizagem no Word adicionam suporte para mais cores de tema de página, o que permite a alteração da cor da tela de fundo da página.  Várias pessoas têm dificuldade para ler com um plano de fundo todo branco ou preto, então ampliamos as opções de cores no Word para PC e para Mac.
 
 - **Em breve:** confira as alterações incríveis que estão chegando em breve no Office, experimente-as e envie seus comentários. [Saiba mais](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+
+- Oferece a opção para os usuários do Skype for Business Online de desativar a dica contextual "Adicionar foto - isso ajudará as pessoas a conhecer você". Para habilitar essa correção, veja em [Saiba mais](https://support.microsoft.com/help/4503469).
+
+- Impede que a configuração de uma campainha secundária seja sempre habilitada após a reinicialização do Skype for Business. Para habilitar essa correção, veja em [Saiba mais](https://support.microsoft.com/help/4503470).
+
+ - Correção de um problema em que o Skype for Business parava de responder ao ingressar em uma reunião grande, ao mesmo tempo em que usava um aplicativo baseado no SDK do Lync. Para habilitar essa correção, veja em [Saiba mais](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Versão 1904: 22 de maio
 *Versão 1904 (Build 11601.20230)*
