@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432409"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659778"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -24,6 +24,112 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
+
+
+## <a name="may-31-2019"></a>31 de maio de 2019
+Versão 1906 (build 11722.20008)
+
+## <a name="whats-new"></a>Novidades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>Caixa de diálogo para Entrar em Contato com o Suporte agora é acoplável e aparece à direita
+
+A caixa de diálogo usada para Entrar em contato com o suporte aparecerá em um painel à direita e iniciará como uma janela acoplável.
+
+#### <a name="ink-in-your-email"></a>Tinta em seu email!
+
+Agora, você pode desenhar e fazer anotações em seus emails do Outlook.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Abrir links de documentos no Word
+
+Ao clicar em um link de documento no office, você pode atualizar suas preferências para abrir o aplicativo do Word por padrão.  Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introdução:
+
+O recurso padrão será desativado. Os usuários podem habilitá-lo por meio de configuração Opções->Avançado->Tratamento de Links ou podem aceitar quando os aplicativos Win32 WXP os levam em uma experiência de aceitação.
+Quando os usuários clicam em links para arquivos do Word/PowerPoint/Excel armazenados no OneDrive/OneDrive for Business/SharePoint do Outlook/Word/PowerPoint/Excel, esses links serão abertos no aplicativo apropriado do Office, em vez do navegador, por padrão.
+
+Para alterar esse padrão, os usuários podem atualizar a configuração a seguir no Outlook/Word/Excel/PowerPoint:
+
+Arquivo->Opções->Avançado->Tratamento de Links
+
+Essa configuração é compartilhada entre o Outlook/Word/PowerPoint/Excel e pode ser definida em qualquer um desses aplicativos.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Para acionar a experiência de aceitação: abrir um link tot um documento do Word armazenado no OneDrive/SharePoint do Outlook/Word/PowerPoint/Excel; clique em abrir no cliente do Office Online. Faça isso duas vezes em um período de 30 dias. Após aceitar, os links serão abertos nos aplicativos Win32 por padrão.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>Abrir links de apresentação no PowerPoint
+
+Ao clicar em um link de apresentação no Office, você pode atualizar suas preferências para abrir o aplicativo do PowerPoint por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introdução:
+
+O recurso padrão será desativado. Os usuários podem habilitá-lo por meio de configuração Opções->Avançado->Tratamento de Links ou podem aceitar quando os aplicativos Win32 WXP os levam em uma experiência de aceitação.
+Quando os usuários clicam em links para arquivos do Word/PowerPoint/Excel armazenados no OneDrive/OneDrive for Business/SharePoint do Outlook/Word/PowerPoint/Excel, esses links serão abertos no aplicativo apropriado do Office, em vez do navegador, por padrão.
+
+Para alterar esse padrão, os usuários podem atualizar a configuração a seguir no Outlook/Word/Excel/PowerPoint:
+
+Arquivo->Opções->Avançado->Tratamento de Links
+
+Essa configuração é compartilhada entre o Outlook/Word/PowerPoint/Excel e pode ser definida em qualquer um desses aplicativos.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Para acionar a experiência de aceitação: abra um link para uma apresentação do PowerPoint armazenada no OneDrive/SharePoint do Outlook/Word/PowerPoint/Excel; clique em abrir no cliente do Office Online. Faça isso duas vezes em um período de 30 dias. Após aceitar, os links serão abertos nos aplicativos Win32 por padrão.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Abrir links de pasta de trabalho no Excel
+
+Ao clicar em um link de pasta de trabalho no Office, você pode atualizar suas preferências para abrir o aplicativo do Excel por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Introdução:
+
+O recurso padrão será desativado. Os usuários podem habilitá-lo por meio de configuração Opções->Avançado->Tratamento de Links ou podem aceitar quando os aplicativos Win32 WXP os levam em uma experiência de aceitação.
+Quando os usuários clicam em links para arquivos do Word/PowerPoint/Excel armazenados no OneDrive/OneDrive for Business/SharePoint do Outlook/Word/PowerPoint/Excel, esses links serão abertos no aplicativo apropriado do Office, em vez do navegador, por padrão.
+
+Para alterar esse padrão, os usuários podem atualizar a configuração a seguir no Outlook/Word/Excel/PowerPoint:
+
+Arquivo->Opções->Avançado->Tratamento de Links
+
+Essa configuração é compartilhada entre o Outlook/Word/PowerPoint/Excel e pode ser definida em qualquer um desses aplicativos.
+
+##### <a name="scenarios-to-try"></a>Cenários possíveis:
+
+Para acionar a experiência de aceitação: abra um link para uma pasta de trabalho do Excel armazenada no OneDrive/SharePoint do Outlook/Word/PowerPoint/Excel; clique em abrir no cliente do Office Online. Faça isso duas vezes em um período de 30 dias. Após aceitar, os links serão abertos nos aplicativos Win32 por padrão.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
+
+### <a name="all"></a>Todos
+- Corrigimos um problema onde, às vezes, os arquivos poderiam ser salvos automaticamente mesmo quando o salvamento automático estava desabilitado
+
+### <a name="word"></a>Word 
+- Corrigimos um problema que pode ter impedido alguns usuários de salvar no SharePoint
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema onde um ícone incorreto poderia ser exibido para filtros inativos
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema onde alguns usuários apareciam incorretamente como Offline em um modo de exibição de Agenda de Grupo
+- Corrigimos um problema que impediu que o SafeLink analisasse uma URL com espaços à direita
+- Corrigimos um problema onde salas eram exibidas como disponíveis em períodos de folga
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>24 de maio de 2019
 Versão 1906 (Build 11715.20002)
