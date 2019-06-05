@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550892"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683987"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -26,6 +26,11 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
  > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1905-june-03"></a>Versão 1905: 03 de junho
+*Versão 1905 (Build 11629.20214)*
+
+ - Corrigido um problema onde alguns suplementos produziam erros inesperados ao redor das formas nos gráficos.
 
 ## <a name="version-1905-may-29"></a>Versão 1905: 29 de maio
 *Versão 1905 (Build 11629.20196)*
