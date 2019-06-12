@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659778"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773747"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -25,6 +25,35 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
 
+
+## <a name="june-7-2019"></a>7 de junho de 2019
+Versão 1907 (build 11727.20064)
+
+## <a name="notable-fixes"></a>Correções Notáveis:
+
+### <a name="word"></a>Word 
+- Corrigimos um problema em que o Word às vezes travava quando a correção automática estava definida para colocar em maiúscula a primeira letra de uma frase.
+- Melhoramos o desempenho ao editar um documento no SharePoint
+- Corrigimos um problema em que imagens baseadas em vetores criadas no Adobe Illustrator não eram exibidas corretamente
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que os campos de classificação às vezes não eram definidos corretamente ao gravar uma macro
+- Corrigimos um problema que causa travamento ou falha durante o recálculo de uma fórmula de matriz
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema em que os anexos embutidos às vezes eram dimensionados incorretamente
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Corrigimos um problema em que quadros de horários em um período fixo às vezes alteravam a data de término da atribuição
+- Corrigimos um problema em que os valores de Porcentagem Concluída poderiam estar errados ao abrir um projeto de uma versão anterior
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>31 de maio de 2019
 Versão 1906 (build 11722.20008)
