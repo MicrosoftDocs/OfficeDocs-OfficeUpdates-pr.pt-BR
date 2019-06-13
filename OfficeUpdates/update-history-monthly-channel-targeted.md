@@ -1,21 +1,21 @@
 ---
 title: Histórico de atualizações do Office – Canal Mensal (direcionado)
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
-ms.date: 05/22/2019
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 2f5a739184c4064197538cba0cfe251604b06dd9
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 524ad5498491e1e5a9f7d130bf5514ba6e99d4a3
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684017"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857761"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -29,7 +29,13 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 > - O Histórico de Atualizações lista todos os builds lançados
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão
 
+ > [!NOTE]
+> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
 [//]: # (NÃO REMOVA)
+
+**11 de junho de 2019**<br/>
+Versão 1906 (Build 11727.20104)<br/>
 
 **03 de junho de 2019**<br/>
 Version 1905 (Build 11629.20214)<br/>
