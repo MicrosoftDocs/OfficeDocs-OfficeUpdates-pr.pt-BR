@@ -3,18 +3,19 @@ title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 3eae3d3143d7e774ae785ce56f7934eb35dfac0e
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34683997"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935903"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -31,10 +32,10 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensal<br/>|1905<br/>|11629.20214<br/>|3 de junho de 2019<br/>|A versão 1906 foi lançada<br/>|
-|Semestral (Direcionado)<br/>|1902<br/>|11328.20286<br/>|14 de maio de 2019<br/>|10 de setembro de 2019<br/>|
-|Semestralmente<br/>|1808<br/>|10730.20344<br/>|14 de maio de 2019<br/>|10 de março de 2020<br/>|
-|Semestralmente<br/>|1803<br/>|9126.2387<br/>|14 de maio de 2019<br/>|10 de setembro de 2019<br/>|
+|Mensal<br/>|1905<br/>|11629.20246<br/>|11 de junho de 2019<br/>|A versão 1906 foi lançada<br/>|
+|Semestral (Direcionado)<br/>|1902<br/>|11328.20318<br/>|11 de junho de 2019<br/>|10 de setembro de 2019<br/>|
+|Semestralmente<br/>|1808<br/>|10730.20348<br/>|11 de junho de 2019<br/>|10 de março de 2020<br/>|
+|Semestralmente<br/>|1803<br/>|9126.2388<br/>|11 de junho de 2019<br/>|10 de setembro de 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -47,6 +48,7 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 
 |**Year**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|11 de junho|[Versão 1905 (Build 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[Versão 1902 (Build 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[Versão 1808 (Build 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[Versão 1803 (Build 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|03 de junho|[Versão 1905 (Build 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|29 de maio |[Versão 1905 (Build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|22 de maio |[Versão 1904 (Build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
@@ -184,12 +186,6 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 ||9 de fevereiro  <br/> |[Versão 1511 (build 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |[Versão 1509 (build 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[Versão 1509 (build 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||25 de janeiro  <br/> |[Versão 1511 (build 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||12 de janeiro  <br/> |[Versão 1511 (build 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |[Versão 1509 (build 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015|11 de dezembro  <br/> |[Versão 1511 (build 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
-||8 de dezembro  <br/> |[Versão 1509 (build 6001.1043)](monthly-channel-2015.md#version-1509-december-8)  <br/> |[Versão 1509 (build 6001.1043)](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
-||10 de novembro  <br/> |[Versão 1509 (build 6001.1038)](monthly-channel-2015.md#version-1509-november-10)  <br/> |[Versão 1509 (build 6001.1038)](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
-||21 de outubro  <br/> |[Versão 1509 (build 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[Versão 1509 (build 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
-||5 de outubro  <br/> |[Versão 1509 (build 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[Versão 1509 (build 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
-||22 de setembro  <br/> |[Versão 1509 (build 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[Versão 1509 (build 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
 
 [//]: # (HISTORYTABLEEND)
 
