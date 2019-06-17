@@ -3,19 +3,19 @@ title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432419"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910391"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -27,6 +27,31 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  
 > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1902-june-11"></a>Versão 1902: 11 de junho
+*Versão 1902 (Build 11328.20318)*
+<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+ - Foi resolvido um problema que causava uma falha ao salvar um arquivo contendo um mapa XML em PDF.
+ - Foi resolvido um problema que fazia com que links externos fossem removidos quando pastas de trabalho contendo nomes de planilha inválidos eram carregadas.
+ - Foi corrigido um problema em que o uso da ferramenta Câmera no Excel fazia com que a planilha fosse interrompida.
+ - Foi resolvido um problema que fazia com que os gráficos de Cascata e Funil ficassem dessincronizados com as tabelas quando as células eram inseridas ou excluídas.
+ - Foi resolvida uma falha de quando uma tabela de dados é recalculada durante o cálculo da planilha com uma fórmula de matriz em outra planilha, dependendo da tabela. 
+ - Foi resolvido um problema que impedia que pastas de trabalho protegidas por senha fossem abertas a partir do SharePoint sem fazer o check-out do arquivo primeiro.
+ - Foi feita uma alteração para garantir que o evento BeforeSave seja tratado ao compartilhar ou alternar o recurso AutoSalvar.
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+ - Foi solucionado um problema que fazia com que as tarefas dos clientes aparentemente desaparecessem ao adicionar uma segunda condição a "Agrupar por".
+
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
+ - Foi corrigido um problema em que, ao compartilhar um documento no momento em que este recebia colaborações, o documento produzia anexos com a extensão .asd.
+ - Foi corrigido um problema com comentários atribuídos a autores aleatórios.
+ - Foi corrigido um problema na remoção de assinatura ao finalizar um documento.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
+ - Isso corrigiu um erro no VBA relatando um estado incorreto de preenchimento de forma após uma ação de "desfazer".
+
 
 ## <a name="version-1902-may-14"></a>Versão 1902: 14 de maio
 *Versão 1902 (Build 11328.20286)*
