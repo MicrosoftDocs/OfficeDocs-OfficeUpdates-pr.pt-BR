@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Office 365 ProPlus para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: 739f393f003db9d0486013158109f16cb1c2b666
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770092"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948777"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Informações de versão das atualizações do Office 365 ProPlus
 
@@ -32,8 +32,8 @@ Para obter uma lista completa dos lançamentos, confira estes artigos:
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Notas de versão de lançamentos do Office 365 ProPlus
 
 Para obter uma lista completa das notas de versão por canal de atualização e ano, confira estes artigos:
- - Mensal: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md), [2015](monthly-channel-2015.md)
- - Semestral (Direcionado): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md), [2015](semi-annual-channel-targeted-2015.md)
+ - Mensal: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Semestral (direcionado): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semestral:: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Informações de versão do Office para Mac
@@ -45,7 +45,7 @@ Para saber mais sobre as atualizações do Office para Mac, que está incluído 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Implantação do Office](https://docs.microsoft.com/deployoffice/)
 - [Novidades no Office 365?](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roteiro do Office 365](https://products.office.com/business/office-365-roadmap)
