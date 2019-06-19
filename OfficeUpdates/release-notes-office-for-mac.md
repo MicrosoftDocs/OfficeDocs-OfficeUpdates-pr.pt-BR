@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935873"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060293"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -48,7 +48,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 |**Application**|**Atualização**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas. |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Vulnerabilidade de Execução Remota de Código do Microsoft Word<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Vulnerabilidade de Execução Remota de Código do Microsoft Word<br/>|[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.|<br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.<br/><br/>**Agrupar ou Não Agrupar:** as datas da tabela dinâmica não devem ser agrupadas. Desativar o agrupamento automático no: Excel > Preferências > Tabelas & Filtros.<br/><br/>**Subscrito e Sobrescrito em um Relance:** Se subscrito, sobrescrito e tachado forem seus formatos ideais, adicione-os à sua faixa de opções e à Barra de Ferramentas de Acesso Rápido para acessá-los com facilidade.| |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |PowerPoint<br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.<br/><br/>**Os vídeos online têm um novo lar:** salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo.<br/><br/>**Legendas e legendas ao vivo:** suas palavras são mostradas automaticamente como legendas, ou são traduzidas para outro idioma como legendas enquanto você faz a apresentação. Para obter melhores resultados, use microfone e fone de ouvido.||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**Do Outlook para o OneNote em apenas um clique:** com o clique de um botão, você pode salvar suas mensagens do Outlook e anotações de reuniões em um bloco de anotações do OneNote. Use-o como um arquivo ou como um local conveniente para guardar suas coisas. <br/> | |[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
