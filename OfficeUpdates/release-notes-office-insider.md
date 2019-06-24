@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948787"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130640"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,76 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
  > [!NOTE]
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="june-21-2019"></a>21 de junho de 2019
+Versão 1907 (build 11815.20002)
+
+## <a name="whats-new"></a>Novidades:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Modo Escuro para Tema Preto no Outlook Desktop
+
+Com o modo escuro, usuários com o tema preto conseguirão ver o painel de leitura em uma tela de fundo escura ao ler emails, e a experiência de composição em uma tela de fundo escura ao escrever emails. Há um botão de alternância sol/lua no painel de leitura e na faixa de opções, caso os usuários queiram visualizar como a mensagem ficaria em um fundo claro.
+
+#### <a name="getting-started"></a>Introdução:
+
+1. Ative o tema preto e o modo escuro será habilitado por padrão.
+2. Uso o botão de alternância lua/sol (no painel de leitura e na faixa de opções) para visualizar como a mensagem ficaria para usuários que não estão no modo escuro
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis
+
+1. Ler emails no modo escuro. Se você não conseguir ler algo, use o botão de alternância de sol no Painel de Leitura para alternar para uma tela de fundo clara. 
+2. Escrever emails no modo escuro. Visualize como a mensagem ficará em uma tela de fundo clara usando o botão de alternância na faixa de opções. 
+
+Se você encontrar emails que não foram processados corretamente, envie-os (como anexo) a OutlookDarkModeFail,
+
+#### <a name="get-location-suggestions"></a>Obter sugestões de local
+
+Comece a digitar e o Outlook procurará por locais correspondentes.
+
+Isso se aplica ao campo Local ao criar Compromissos e Reuniões.
+
+#### <a name="getting-started"></a>Introdução:
+
+- Criar um Compromisso ou Reunião em um O365 ou calendário Outlook.com no Outlook. 
+- Clique no campo Local e comece a digitar...
+
+#### <a name="scenarios-to-try"></a>Cenários possíveis
+
+Ao adicionar uma sala de conferência a uma reunião, clique no campo Local em vez de usar o suplemento Localizador de Salas ou Catálogo de Endereços.
+Para compromissos em um local físico com um local público como um restaurante, cafeteria ou até mesmo o consultório do dentista, tente encontrar o local exato usando o novo seletor. Dessa forma, você poderá receber notificações no Outlook Mobile quando chegar a hora de sair.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
+
+### <a name="all"></a>Todos
+- Corrigimos um problema que mantinha a Caixa de Pesquisa habilitada enquanto offline
+
+### <a name="word"></a>Word 
+- Corrigimos um problema onde o foco do teclado ficava difícil de ver
+- Corrigimos um problema onde o texto copiado em um novo documento ficava com o alinhamento de texto errado
+- Corrigimos um problema que impedia que alguns usuários salvassem alterações depois de suspender o computador
+- Corrigimos um problema em que em determinados casos um documento inteiro era impresso em vez do intervalo selecionado
+- Corrigimos um problema que tornava comentários difíceis de ler em telas menores
+- Corrigimos um problema que causava uma falha ao capturar um dispositivo.
+
+### <a name="excel"></a>Excel
+- Correções diversas de desempenho e estabilidade
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema onde o foco do teclado ficava difícil de ver
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema que exibia um suplemento incorretamente como habilitado quando não estava.
+- Corrigimos um problema que impedia que um cliente visualizasse todas as políticas de retenção se houvesse um grande número delas
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>14 de junho de 2019
 Versão 1907 (build 11807.20000)
@@ -486,23 +556,7 @@ Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preench
 ## <a name="april-12-2019"></a>12 de abril de 2019
 Versão 1905 (build 11601.20042)
 
-## <a name="whats-new"></a>Novidades:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Novo no Access - Conector de Dados para o Microsoft Graph
-
-Vincula ou importa formulário serviços do Microsoft Graph para criar aplicativos que podem utilizar os dados contextuais inteligentes armazenados no Graph
-
-#### <a name="getting-started"></a>Introdução:
-
-Guia de Dados Externos na faixa de opções, clique em Novas Fontes de Dados e localize o novo conector do Graph no menu Serviços Online
-
-#### <a name="scenarios-to-try"></a>Cenários possíveis:
-
-Importar de ou vincular a vários serviços do Graph, incluindo Pessoas, Grupos e Itens do OneDrive.
-
-## <a name="notable-fixes"></a>Correções Notáveis:
+## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="all-applications"></a>Todos os Aplicativos
  - Corrigimos um problema que impedia que alguns usuários salvassem arquivos em locais de nuvem
