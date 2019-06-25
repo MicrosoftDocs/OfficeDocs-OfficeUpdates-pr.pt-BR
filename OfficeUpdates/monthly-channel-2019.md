@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
-ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
+ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2019
-ms.locfileid: "35017361"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203710"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -26,7 +26,51 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1906-june-24"></a>Versão 1906: 24 de junho
+*Versão 1906 (Build 11727.20210)*
+* Várias correções de bugs e desempenho.
+
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+
+- **Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T.rex na pasta de trabalho. 
+  [Saiba mais](https://support.office.com/pt-BR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+
+- **Uma faixa de opções simplificada também personalizável:** desfrute de uma única linha simplificada com os botões usados com mais frequência. Alterne facilmente entre visualizações clássicas e simplificadas e comandos para fixar/desafixar. 
+  [Saiba mais](https://support.office.com/pt-BR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **Escolha a sua ação favorita:** não use Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos que você mais usa.
+
+- **Sincronização de pastas compartilhadas aprimorada para caixas de correio com muitas pastas:** por muitos anos, o Outlook ficou limitado a um número máximo de 500 pastas ao sincronizar caixas de correio compartilhadas. Com esta alteração, a sincronização do Outlook foi aprimorada, de maneira que não se encontrará mais este limite de 500 pastas.
+
+- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da Caixa de Entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. 
+  [Saiba mais](https://support.office.com/pt-BR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Layout espaçado ou mais ajustado? Você escolhe:** um Espaçamento Menor permite que você decida se quer mais espaço entre itens ou um layout mais justo para poder ver mais.
+
+- **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. 
+  [Saiba mais](https://support.office.com/pt-BR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **Tinta no seu email!** Agora você pode desenhar e fazer anotações nos seus emails do Outlook. 
+  [Saiba mais](https://support.office.com/pt-BR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+
+### <a name="word-feature-updates"></a>Word: atualizações de recursos
+
+- **Coautoria**: cansado de ser bloqueado em documentos que contêm macros? Agora, os arquivos docm no OneDrive for Business permitem a edição simultânea por vários autores.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança 
+
+ - Defina para exibir todos os fluxos de câmera do Polycom CX5500 e dispositivos relacionados em uma reunião quando o monitor é dimensionado para mais de 100%
+
+- Recorte vídeos corretamente em uma reunião em um monitor 4K quando a configuração “Recortar e Centralizar meu vídeo em reuniões" estiver habilitada
+
+- Permita a transferência de arquivos para clientes do Office Communicator herdados de um computador com Windows 10 com vários adaptadores de rede. [Saiba mais] (https://support.microsoft.com/help/4508477)
+
+- Melhor experiência de comunicação entre participantes do Skype for Business e Microsoft Teams
+
 
 ## <a name="version-1905-june-11"></a>Versão 1905: 11 de junho
 *Versão 1905 (Build 11629.20246)*

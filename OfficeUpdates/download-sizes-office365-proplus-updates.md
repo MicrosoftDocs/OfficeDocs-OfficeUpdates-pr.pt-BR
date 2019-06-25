@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 5112dbbe6587b2301207d59a9f485f792dd3421a
-ms.sourcegitcommit: 2223813cb55c65a6bec9a6afce3eb1d8c6ddc2f3
+ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34737943"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203690"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -34,10 +34,38 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Relacionamos nas tabelas apenas os lançamentos anteriores mais recentes. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
 
-## <a name="jun-5-2019"></a>5 de junho de 2019
+[//]: # (NÃO REMOVA)
+
+## <a name="june-24-2019"></a>24 de Junho de 2019
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 24 de Junho de 2019)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1906 (Build 11727.20210).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1905 (Build 11629.20246) <br/> |11 de junho de 2019 <br/> |171<br/> |
+|Version 1905 (Build 11629.20214) <br/> |3 de junho de 2019 <br/> |175<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 24 de Junho de 2019)
+
+## <a name="jun-11-2019"></a>11 de junho de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1905 (Build 11629.20246).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1905 (Build 111629.20214)  <br/> |3 de junho de 2019  <br/> |72<br/> |
+|Versão 1904 (Build 11629.20196)  <br/> |29 de maio de 2019  <br/> |71<br/> |
+|
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-A versão esperada é a 1808 (build 10730.20348).
+A versão mais atual é a Versão 1808 (Build 10730.20348).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +74,7 @@ A versão esperada é a 1808 (build 10730.20348).
 
 ### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
 
-A versão esperada é a 1902 (Build 11328.20318).
+A versão mais atual é a Versão 1902 (Build 11328.20318).
   
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
