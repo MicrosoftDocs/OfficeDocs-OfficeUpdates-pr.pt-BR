@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203710"
+ms.locfileid: "35226861"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -26,7 +26,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+> - O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de julho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business) durante atualizações dessas instalações. A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
 
 ## <a name="version-1906-june-24"></a>Versão 1906: 24 de junho
 *Versão 1906 (Build 11727.20210)*
@@ -54,7 +54,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. 
   [Saiba mais](https://support.office.com/pt-BR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Tinta no seu email!** Agora você pode desenhar e fazer anotações nos seus emails do Outlook. 
+- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. 
   [Saiba mais](https://support.office.com/pt-BR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
@@ -67,7 +67,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - Recorte vídeos corretamente em uma reunião em um monitor 4K quando a configuração “Recortar e Centralizar meu vídeo em reuniões" estiver habilitada
 
-- Permita a transferência de arquivos para clientes do Office Communicator herdados de um computador com Windows 10 com vários adaptadores de rede. [Saiba mais] (https://support.microsoft.com/help/4508477)
+- Permita a transferência de arquivos para clientes do Office Communicator herdados de um computador com Windows 10 com vários adaptadores de rede. [Saiba mais](https://support.microsoft.com/help/4508477)
 
 - Melhor experiência de comunicação entre participantes do Skype for Business e Microsoft Teams
 
