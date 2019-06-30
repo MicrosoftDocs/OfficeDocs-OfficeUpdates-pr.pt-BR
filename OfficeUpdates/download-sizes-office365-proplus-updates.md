@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203690"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345558"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -36,7 +36,39 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 
 [//]: # (NÃO REMOVA)
 
-## <a name="june-24-2019"></a>24 de Junho de 2019
+## <a name="june-27-2019"></a>27 de junho de 2019
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 27 de junho de 2019)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1906 (Build 11727.20230).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1906 (Build 11727.20224) <br/> |26 de junho de 2019 <br/> |187<br/> |
+|Versão 1906 (Build 11727.20210) <br/> |24 de Junho de 2019 <br/> |287<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 27 de junho de 2019)
+
+## <a name="june-26-2019"></a>26 de junho de 2019
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 26 de Junho de 2019)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1906 (Build 11727.20224).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1906 (Build 11727.20210) <br/> |24 de junho de 2019 <br/> |60<br/> |
+|Versão 1905 (Build 11629.20246) <br/> |11 de junho de 2019 <br/> |170<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 26 de junho de 2019)
+
+## <a name="june-24-2019"></a>24 de junho de 2019
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 24 de Junho de 2019)
 
