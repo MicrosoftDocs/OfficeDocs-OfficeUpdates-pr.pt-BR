@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226861"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345578"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -27,6 +27,25 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
  > [!NOTE]
 > - O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de julho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business) durante atualizações dessas instalações. A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1906-june-27"></a>Versão 1906: 27 de junho
+*Versão 1906 (Build 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+
+- Corrige um problema que fazia com que um subconjunto de usuários POP3 visualizasse todos os seus e-mails formatados em texto simples, independentemente das configurações.  Essa correção restaurará o modo de exibição das mensagens formatadas como HTML.
+
+## <a name="version-1906-june-26"></a>Versão 1906: 26 de junho
+*Versão 1906 (Build 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+
+- Corrigiu um problema no Excel em que as macros atribuídas a formas ou controles de formulário podem mostrar mensagem de erro incorreta ou podem funcionar em intervalos de destino incorretos.
+- Resolveu um problema que fazia com que as operações de recortar e colar próximas de uma tabela falhassem durante coautoria com outras pessoas.
+
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+
+- Corrigiu um problema que causava ambiguidade para os gerentes em que um representante já havia ou não respondido a uma determinada solicitação de reunião.
 
 ## <a name="version-1906-june-24"></a>Versão 1906: 24 de junho
 *Versão 1906 (Build 11727.20210)*
