@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393335"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575162"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,60 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
  > [!NOTE]
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="july-5-2019"></a>5 de julho de 2019
+Versão 1908 (build 11901.20002)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>Formas de Esboço!
+
+Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que você ainda está trabalhando nele. Ele fornece um toque pessoal para os objetos sem transformá-los em uma forma livre e desenhadas à mão.
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="all"></a>Todos
+- Melhoramos significativamente o desempenho das dicas de ferramentas da faixa de opções.
+- Corrigimos um problema que impedia que a caixa de diálogo “Veja as novidades que chegam em breve” fosse exibida corretamente.
+- Corrigimos um problema que pode fazer com que as fotos ficassem desalinhadas no submenu da Galeria de coautenticação
+
+### <a name="word"></a>Word 
+- Corrigimos um problema que, às vezes, podia impedir que novos comentários fossem adicionados
+- Corrigimos um problema em que as tabelas poderiam causar falha
+- Corrigimos um problema em que os dados inválidos podiam, às vezes, ser adicionados ao final de uma mala direta.
+- Corrigimos um problema que podia fazer que algumas equações LaTeX fossem processadas incorretamente
+
+### <a name="excel"></a>Excel
+- Corrigimos um problema em que alteração dos tipos de gráfico poderia resultar uma exceção de tempo de execução
+- Corrigimos um problema em que a faixa de opções incorreta poderia ser exibida quando várias janelas eram abertas
+- Corrigimos um problema que poderia causar um erro quando uma macro abria uma segunda instância da pasta de trabalho
+- Corrigimos um problema que poderia causar uma falha ao abrir ou criar uma pasta de trabalho ou ao alternar entre pastas de trabalho
+- Corrigimos um problema que impedia que os usuários abrissem um PDF criado no Word no Teams
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema que podia prejudicar a qualidade de um gráfico quando exportado como um pdf
+- Corrigimos um problema que impedia a exibição de uma dica de ferramenta indicando a distância até o centro
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema que poderia impedir a exibição de um erro de Disco Cheio
+- Corrigimos um problema que poderia causar a duplicação de anexos durante a atualização de uma solicitação de reunião
+
+### <a name="access"></a>Access
+- Corrigimos um problema que impedia algumas consultas de retornar valores inteiros grandes
+- Corrigimos um problema que poderia tornar a caixa de texto SQL não editável
+- Corrigimos um problema em que as dicas de ferramentas poderiam ser difíceis de ver em alguns monitores de DPI Alto
+
+### <a name="project"></a>Project
+- Corrigimos um problema que poderia fazer com que os valores de sinalizador se tornassem não editáveis em novas tarefas
+- Corrigimos um problema que poderia fazer que uma atualização de status definisse incorretamente a Data de Início Real em Atribuições e Tarefas
+- Corrigimos um problema que poderia fazer com que alguns recursos aparecessem incorretamente como superalocados
+- Corrigimos um problema em que o método Adicionar TaskDependencies poderia falhar quando o Retardo era adicionado, quando o separador decimal era uma vírgula e quando conectado a um servidor
+- Corrigimos um problema em que a atualização de valores de tabela de pesquisa do campo personalizado local por meio do CSOM poderia ser PCS
+- Corrigimos um problema em que os valores de trabalho total apareciam incorretos se contivessem um número decimal
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>28 de junho de 2019
 Versão 1907 (build 11819.20002)
