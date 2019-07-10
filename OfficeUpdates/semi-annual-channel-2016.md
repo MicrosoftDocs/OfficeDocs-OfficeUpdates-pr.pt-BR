@@ -1,5 +1,5 @@
 ---
-title: Notas de versão do canal anual delimitadas versões em 2016
+title: Notas de versão para lançamentos do canal semestral no 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,52 +9,52 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Fornece que aos profissionais de TI notas de versão do canal anual delimitadas libera do Office 365 ProPlus em 2016
+description: Fornece notas de versão aos profissionais de ti para lançamentos de canais semestral para o Office 365 ProPlus em 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19555864"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439086"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de versão do canal anual delimitadas versões em 2016
+# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de versão para lançamentos do canal semestral no 2016
 
-Essas notas de versão fornecem informações sobre novos recursos, atualizações de segurança e atualizações não relacionadas à segurança são incluídas nas atualizações de canal delimitadas anual para Office 365 ProPlus em 2016. 
+Estas notas de versão fornecem informações sobre novos recursos, atualizações de segurança e atualizações que não são de segurança incluídas nas atualizações do canal semestral para o Office 365 ProPlus em 2016. 
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - O Canal Semestral era conhecido como Canal Adiado antes de janeiro de 2018.
 
 
-## <a name="version-1605-december-13"></a>Versão 1605: 13 de dezembro
+## <a name="version-1605-december-13"></a>Versão 1605:13 de dezembro
 *Versão 1605 (build 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de segurança do Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Correção de um problema em que ocorre uma falha no Skype for Business ao ampliar o conteúdo compartilhado quando o compartilhador está usando uma implementação de terceiros do RDP.
 -   Correção de um problema em que ocorre uma falha no Skype for Business quando o leitor de tela JAWS está sendo executado e o usuário navega para uma lista, como a lista de contatos.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 
 
-## <a name="version-1602-december-13"></a>Versão 1602: 13 de dezembro
+## <a name="version-1602-december-13"></a>Versão 1602:13 de dezembro
 *Versão 1602 (build 6741.2098)*
 
-*Esta é a versão de canal adiada que está disponível desde junho de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2017 fevereiro. Mas, agora está disponível uma nova versão do canal adiada — versão 1605 (Build 6965.2115) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2115), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de segurança do Microsoft Office (3204068)
+-   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 
 
-## <a name="version-1605-november-8"></a>Versão 1605: 8 de novembro
+## <a name="version-1605-november-8"></a>Versão 1605:8 de novembro
 *Versão 1605 (build 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
@@ -68,20 +68,20 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1602-november-8"></a>Versão 1602: 8 de novembro
+## <a name="version-1602-november-8"></a>Versão 1602:8 de novembro
 *Versão 1602 (build 6741.2088)*
 
-*Esta é a versão de canal adiada que está disponível desde junho de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2017 fevereiro. Mas, agora está disponível uma nova versão do canal adiada — versão 1605 (Build 6965.2105) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2105), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de segurança do Microsoft Office (3199168)
+-   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de Segurança do Microsoft Office (3199168)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de Segurança do Microsoft Office (3199168)
 
 
 
-## <a name="version-1605-october-11"></a>Versão 1605: 11 de outubro
+## <a name="version-1605-october-11"></a>Versão 1605:11 de outubro
 *Versão 1605 (build 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: atualizações não relacionadas à segurança
@@ -89,13 +89,13 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema no qual o menu suspenso Tamanho do Campo para tipos de dados Número não exibe valores, o que impede o usuário de especificar o tipo de campo Número ao criar ou modificar tabelas.
 
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
--   **Obter & transformar aprimoramentos:** Transformação de dados novos ou aprimorados e os recursos de conectividade de dados para consulta de energia. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Obter & aprimoramentos de transformação:** Recursos novos ou aprimorados de transformação de dados e conectividade de dados para a consulta de energia. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Conexões de dados adicionais:** Consultar dados de fontes JSON e Azure SQL Data Warehouse.
 -   **Melhorias do Power Query:** Recursos novos e aprimorados de transformação de dados e conectividade de dados. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Suporte de reconhecimento de endereço grande:** As versões de 32 bits do Excel podem usar mais memória, se disponível.[Mais informações](https://support.microsoft.com/kb/3160741)
 -   **Melhorias do Power Query:** Recursos de conectividade avançada e novas transformações adicionadas. [Mais informações](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Atualização de segurança do Microsoft Office (3148775)
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
@@ -157,7 +157,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Coautoria com elemento gráfico inteligente:** Vários usuários podem editar diferentes elementos em um elemento gráfico SmartArt ao mesmo tempo.
 -   **Melhorias do PowerPoint Designer:** Sugestões de design para várias imagens, extrator de cor e reconhecimento de rostos.[Mais informações](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
 -   Correção de um problema em que um usuário não consegue salvar um arquivo aberto e com check-out realizado a partir de uma biblioteca de documentos do SharePoint que tem a opção "Exigir check-out de documentos antes de serem editados?" definida como "Sim" no site.
 -   Correção de um problema no qual o salvamento automático de uma apresentação que inclui gráficos causa falha no PowerPoint.
 -   Correção de um problema em que o usuário recebe uma mensagem de erro informando que o documento não pode ser atualizado quando o usuário está trabalhando em coautoria em tempo real em uma apresentação que contém um suplemento de conteúdo.
@@ -171,12 +171,12 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Mensagens offline:** Envie mensagens para contatos mesmo se eles ainda não tiverem entrado. [Mais informações](https://support.office.com/article/ffdc6a43-71a1-40ee-bfcc-640d21324a3d)
 -   **Carregar anexos de reuniões com antecedência:** Adicionar anexos ao configurar a reunião online no Outlook. [Mais informações](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-039](https://technet.microsoft.com/library/security/ms16-039): atualização de segurança do componente Microsoft Graphics (3148522)
 -   Boletim de Segurança da Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Atualização de Segurança do Componente Microsoft Graphics (3177393)
 -   Boletim de Segurança da Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): atualização de segurança do componente Microsoft Graphics (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Correção de um problema em que, quando o usuário adiciona um representante ao Exchange Server, ele não é exibido no Skype for Business mesmo depois de reiniciá-lo.
 -   Correção de um problema no qual o Cliente do Skype for Business se conecta ao Skype for Business Server na rede externa, embora a rede corporativa interna esteja disponível.
 -   Correção de um problema em que o Skype falha para alguns usuários em reuniões grandes, como reuniões com mais de 30 participantes.
@@ -217,12 +217,12 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema com listas de numeração de contexto em persa, árabe, hindi e hebraico.
 
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: Atualizações de recursos
--   **Configuração de modelo de diretiva de direitos do AD RMS:** Garante que a configuração para "Grant proprietário (autor) controle total à direita com nenhum vencimento" é respeitada quando aplicado a novos de documentos do Word, Excel e PowerPoint, especialmente se a configuração estiver desativada. Se a configuração estiver desativada, o usuário vê um aviso de que a aplicação do modelo pode restringir o acesso ao documento.
- 
+-   **AD RMS rights policy template setting:** Ensures that the setting for "Grant owner (author) full control right with no expiration" is honored when applied to new Word, Excel, and PowerPoint documents, especially if the setting is disabled. If setting is disabled, the user sees a warning that applying the template might restrict access to the document.
+ 
 
     Observação: Documentos existentes já protegidos com um modelo que tinha essa configuração não serão alterados. O proprietário ainda terá o controle total ininterrupto sobre esses documentos.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Atualização de segurança do Microsoft Office (3155544)
 -   Boletim de Segurança da Microsoft [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Atualização de segurança do Microsoft Office (3163610)
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
@@ -239,26 +239,26 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1602-october-11"></a>Versão 1602: 11 de outubro
+## <a name="version-1602-october-11"></a>Versão 1602:11 de outubro
 *Versão 1602 (build 6741.2081)*
 
-*Esta é a versão de canal adiada que está disponível desde junho de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2017 fevereiro. Mas, agora está disponível uma nova versão do canal adiada — versão 1605 (Build 6965.2092) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2092), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): atualização de segurança do componente Microsoft Graphics (3192884)
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança
+### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 121](https://technet.microsoft.com/library/security/ms16-121): Atualização de segurança do Microsoft Office (3194063)
 
 
 
-## <a name="version-1602-september-13"></a>Versão 1602: 13 de setembro
+## <a name="version-1602-september-13"></a>Versão 1602:13 de setembro
 *Versão 1602 (build 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
@@ -267,28 +267,28 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="visio-security-updates"></a>Visio: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 
 
-## <a name="version-1509-september-13"></a>Versão 1509: 13 de setembro
+## <a name="version-1509-september-13"></a>Versão 1509:13 de setembro
 *Versão 1509 (build 6001.1090)*
 
-*Esta é a versão de canal adiada que tenha sido disponível desde fevereiro de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2016 outubro. No entanto, uma nova versão do canal adiada agora está disponível — versão 1602 (Build 6741.2071) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2071), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 
 
-## <a name="version-1602-august-9"></a>Versão 1602: 9 de agosto
+## <a name="version-1602-august-9"></a>Versão 1602:9 de agosto
 *Versão 1602 (build 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
@@ -300,21 +300,21 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
+### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Atualização de Segurança do Componente Microsoft Graphics (3177393)
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança
+### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
 
 
-## <a name="version-1509-august-9"></a>Versão 1509: 9 de agosto
+## <a name="version-1509-august-9"></a>Versão 1509:9 de agosto
 *Versão 1509 (build 6001.1087)*
 
-*Esta é a versão de canal adiada que tenha sido disponível desde fevereiro de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2016 outubro. No entanto, uma nova versão do canal adiada agora está disponível — versão 1602 (Build 6741.2063) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2063), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema causado por uma atualização recente de segurança, que faz com que a abertura de um arquivo HTML de um local não confiável abra o Excel com uma tela em branco (vazia) sem exibição de erros, em vez de permitir que o usuário abra o arquivo no Modo de Exibição Protegido.
@@ -322,7 +322,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-security-updates"></a>OneNote: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -336,7 +336,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1602-july-12"></a>Versão 1602: 12 de julho
+## <a name="version-1602-july-12"></a>Versão 1602:12 de julho
 *Versão 1602 (build 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
@@ -345,15 +345,15 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança
+### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 
 
-## <a name="version-1509-july-12"></a>Versão 1509: 12 de julho
+## <a name="version-1509-july-12"></a>Versão 1509:12 de julho
 *Versão 1509 (build 6001.1085)*
 
-*Esta é a versão de canal adiada que tenha sido disponível desde fevereiro de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2016 outubro. No entanto, uma nova versão do canal adiada agora está disponível — versão 1602 (Build 6741.2056) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2056), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
@@ -361,12 +361,12 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança
+### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 
 
-## <a name="version-1602-june-14"></a>Versão 1602: 14 de junho
+## <a name="version-1602-june-14"></a>Versão 1602:14 de junho
 *Versão 1602 (build 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
@@ -382,7 +382,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Opções de enviar como**: envie um documento como anexo ou PDF pelo painel Compartilhar. [Mais informações](https://support.office.com/article/8d8a52bb-03c3-4933-ab6c-330aabf1e589)
 -   **Modelos de BI**: três novos modelos que se beneficiam dos recursos de BI (business intelligence) do Excel. [Informações do Calendário](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Análise de Ações](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [Meu Fluxo de Caixa](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb).
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-099](https://technet.microsoft.com/library/security/ms15-099): vulnerabilidades do Microsoft Office poderão permitir a execução remota de código (3089664)
 -   Boletim de Segurança da Microsoft [MS15-110](https://technet.microsoft.com/library/security/ms15-110): atualizações de segurança do Microsoft Office para tratar da execução de código remoto (3096440)
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
@@ -451,7 +451,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema no qual os itens da lista suspensa De não eram completamente realçados no modo de alto contraste.
 -   Correção de um problema no qual somente o primeiro anexo era selecionado ao usar Shift+clique para selecionar vários anexos.
 -   Correção de um problema em que, quando configuradas para usar POP3, todas as mensagens de email no servidor são excluídas da Caixa de Entrada depois de o Outlook baixá-las. [Mais informações sobre este problema](https://support.microsoft.com/kb/3145116)
--   Corrigi um problema em que, quando configurado para usar o POP3, as mensagens de email são baixadas várias vezes, causando itens duplicados. [Mais informações sobre este problema](https://support.microsoft.com/kb/3145116)
+-   Correção de um problema em que, quando configurado para usar POP3, as mensagens de email são baixadas várias vezes, causando itens duplicados. [Mais informações sobre este problema](https://support.microsoft.com/kb/3145116)
 -   Correção de um problema no qual os usuários não conseguem acessar pastas públicas hospedadas no Exchange Server 2010.
 -   Correção de um problema em que imagens são exibidas no tamanho errado ao enviar um email entre um dispositivo de dpi alto e um monitor de dpi normal.
 -   Correção de um problema em que arrastar a barra de rolagem na lista de mensagens faz avançar para o final da lista.
@@ -465,7 +465,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Transição Transformar:** crie transições perfeitas entre slides e dê movimento às apresentações para transmitir conceitos e informações de maneira mais eficaz. [Mais informações](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **Designer do PowerPoint:** um novo serviço que permite que você pegue o seu conteúdo e crie automaticamente várias ideias que podem ser escolhidas para melhorar a aparência de seus slides. [Mais informações](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Este serviço requer conectividade com a Internet. Para desabilitar esse recurso, [use os arquivos de modelo administrativo de diretiva de grupo mais recentes](https://www.microsoft.com/download/details.aspx?id=49030) e habilitar a configuração de opções de Designer do PowerPoint. Você pode encontrar esta configuração de política em Configurações do Usuário\\Modelos Administrativos\\Microsoft Office 2016\\Ferramentas | Opções | Geral | Opções de Serviço…\\Designer do PowerPoint.
+    Este serviço requer conectividade com a Internet. Para desabilitar esse recurso, [use os arquivos mais recentes do modelo administrativo da política de grupo](https://www.microsoft.com/download/details.aspx?id=49030) e habilite a configuração opções do designer do PowerPoint. Você pode encontrar esta configuração de política em Configurações do Usuário\\Modelos Administrativos\\Microsoft Office 2016\\Ferramentas | Opções | Geral | Opções de Serviço…\\Designer do PowerPoint.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
@@ -597,7 +597,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema de cache que fez com que algumas informações de licenciamento e de instalação de programas do Office 2013 fossem excluídas antes de uma atualização iniciada pela Microsoft do Office 2013 de um cliente do Office 365, como o Office 365 ProPlus, para o Office 2016.
 -   Correção de um problema em que o painel de tarefas Recuperação de Documentos não aparece na próxima vez em que você abrir o aplicativo do Office após ele ter falhado, especialmente se você abrir o aplicativo novamente logo após ele falhar.
 -   Correção da atualização do OfficeC2RClient.exe para usar "channel" em vez de "branch" como uma opção de linha de comando.
--   Corrigir um problema em que, ao usar o compartilhamento em um aplicativo do Office para compartilhar um arquivo do Office no computador local que foram sincronizado com o OneDrive for Business, o usuário obtém a mensagem "Estamos ainda está carregando seu arquivo. Você pode pular novamente tão logo terminamos"e o que impede o usuário de compartilhamento do documento.
+-   Fix an issue where, when using Share in an Office app to share an Office file on the local computer that has been synced with OneDrive for Business, the user gets the message "We're still uploading your file. You can jump back in as soon as we're finished" and that prevents the user from sharing the document.
 -   Correção de um problema em que um problema com uma DLL de recurso causa falha no aplicativo do Office quando é aberto pela primeira vez após a instalação, ao imprimir um documento ou ao desfazer uma operação de edição.
 -   Correção de uma opção em Arquivo \> Opções \> Avançado no Word, no Excel e no PowerPoint para permitir que os usuários definam o comportamento padrão para usar uma caneta como emulação de mouse em vez de anotações à tinta.
 -   Correção de um problema que causa falhas de aplicativo se o usuário tentar converter o arquivo para PDF usando o Adobe Acrobat PDFMaker.
@@ -638,10 +638,10 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1509-june-14"></a>Versão 1509: 14 de junho
+## <a name="version-1509-june-14"></a>Versão 1509:14 de junho
 *Versão 1509 (build 6001.1082)*
 
-*Esta é a versão de canal adiada que tenha sido disponível desde fevereiro de 2016. Ele continuará a ter suporte e receber atualizações de segurança até de 2016 outubro. No entanto, uma nova versão do canal adiada agora está disponível — versão 1602 (Build 6741.2056) — que contém novos recursos, atualizações de segurança e atualizações não relacionadas à segurança.*
+*Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2056), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Correção de um problema no qual o usuário recebia uma mensagem de erro quando tentava usar recursos de conferência, como um quadro de comunicações ou o compartilhamento de anotações. [Mais informações sobre este problema](https://support.microsoft.com/kb/3165438)
@@ -660,18 +660,18 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1509-may-10"></a>Versão 1509: 10 de maio
+## <a name="version-1509-may-10"></a>Versão 1509:10 de maio
 *Versão 1509 (build 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Atualização de segurança do Microsoft Office (3155544)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Atualização de segurança do Microsoft Office (3155544)
 
 
 
-## <a name="version-1509-april-12"></a>Versão 1509: 12 de abril
+## <a name="version-1509-april-12"></a>Versão 1509:12 de abril
 *Versão 1509 (build 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
@@ -682,23 +682,23 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 
 
-## <a name="version-1509-march-8"></a>Versão 1509: 8 de março
+## <a name="version-1509-march-8"></a>Versão 1509:8 de março
 *Versão 1509 (build 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3141806)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3141806)
 
 
 
-## <a name="version-1509-february-9"></a>Versão 1509: 9 de fevereiro
+## <a name="version-1509-february-9"></a>Versão 1509:9 de fevereiro
 *Versão 1509 (build 6001.1061)*
 
 Esta é a versão inicial para este canal. Esta versão contém os mesmos recursos que acompanham o Office 2016 em 22 de setembro de 2015.
 
-### <a name="access-security-updates"></a>Access: atualizações de segurança
+### <a name="access-security-updates"></a>Access: Atualizações de segurança
 -   Boletim de Segurança da Microsoft MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
