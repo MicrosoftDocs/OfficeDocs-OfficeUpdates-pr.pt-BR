@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
+ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345558"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "35585559"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -35,6 +35,34 @@ Para saber mais sobre recursos, atualizações de segurança e atualizações n�
 > - Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
 
 [//]: # (NÃO REMOVA)
+## <a name="july-8-2019"></a>8 de julho de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A Versão de lançamento esperada 1906 (Build 11727.20244).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1906 (Build 11727.20230) <br/> |27 de junho de 2019 <br/> |202<br/> |
+|Versão 1906 (Build 11727.20224) <br/> |26 de junho de 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+A Versão de lançamento esperada 1902 (Build 11328.20368).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1808 (Build 10730.20348) <br/> |11 de junho de 2019  <br/> |307<br/> |
+|Versão 1808 (Build 10730.20344) <br/> |14 de maio de 2019  <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Canal Semestral (Direcionado)
+
+A Versão de lançamento esperada 1902 (Build 11328.20368).
+  
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20318)  <br/> |11 de junho de 2019  <br/> |71 <br/> |
+|Versão 1902 (Build 11328.20286)  <br/> |14 de maio de 2019  <br/> |74 <br/> |
 
 ## <a name="june-27-2019"></a>27 de junho de 2019
 

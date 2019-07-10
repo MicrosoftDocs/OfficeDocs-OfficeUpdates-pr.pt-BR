@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575162"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587892"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -136,9 +136,9 @@ Com o modo escuro, usuários com o tema preto conseguirão ver o painel de leitu
 #### <a name="scenarios-to-try"></a>Cenários possíveis
 
 1. Ler emails no modo escuro. Se você não conseguir ler algo, use o botão de alternância de sol no Painel de Leitura para alternar para uma tela de fundo clara. 
-2. Escrever emails no modo escuro. Visualize como a mensagem ficará em uma tela de fundo clara usando o botão de alternância na faixa de opções. 
+2. Escrever emails no modo escuro. Visualize como a mensagem ficará em uma tela de fundo clara usando o botão de alternância sol na faixa de opções. 
 
-Se você encontrar emails que não foram processados corretamente, envie-os (como anexo) a OutlookDarkModeFail,
+Se você encontrar emails que não foram processados corretamente, envie-os (como anexo) para OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>Obter sugestões de local
 
