@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605580"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612140"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -29,8 +29,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ## <a name="version-1902-july-09"></a>Versão 1902: 09 de julho
 *Versão 1902 (Build 11328.20368)*
-
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access: atualizações de recursos
@@ -196,6 +195,26 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - Corrigimos a regressão que causava interrupções durante o download de imagens vinculadas.
 - Corrigimos o desfoque de arquivos EMF grandes colados no Word, Excel, PowerPoint.
 - Corrigimos o erro na lógica de análise do histórico de versões que, em alguns casos, fazia com que os documentos fossem abertos em modo somente leitura.
+
+
+## <a name="version-1808-july-09"></a>Versão 1808: 09 de julho
+*Versão 1808 (Build 10730.20360)*
+<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="word-non-security-updates"></a>Word: Atualizações não relacionadas à segurança
+
+- Melhor desempenho durante a habilitação de Partes Rápidas de propriedades do documento.
+- Corrigido um problema na remoção de assinatura ao finalizar um documento.
+
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
+
+- Corrigido um problema que afeta os aplicativos do Office que estão sendo executados no Windows virtualizado. 
+
+
+## <a name="version-1803-july-09"></a>Versão 1803: 09 de julho
+*Versão 1803 (Build 9126.2428)*
+<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>Versão 1808: 11 de junho
