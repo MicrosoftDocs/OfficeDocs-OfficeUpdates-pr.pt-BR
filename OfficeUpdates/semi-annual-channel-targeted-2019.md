@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910391"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607355"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -27,6 +27,49 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  
 > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md).
+
+## <a name="version-1902-july-09"></a>Versão 1902: 09 de julho
+*Versão 1902 (Build 11328.20368)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+- Problema de extrema lentidão corrigido na exclusão das linhas filtradas do Excel.
+- A rolagem de dois dedos fixos faz com que os retângulos cinzas sejam desenhados na planilha e o Excel congele.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+- Aborda um problema que fazia com que os usuários vejam ocasionalmente o Outlook inserindo letras do piniyn em inglês, em vez de manter a janela do candidato a IME aberta para permitir a seleção de palavras em chinês.
+- Aborda um problema que fazia com que os usuários vissem sugestões de salas que não estavam disponíveis sendo agendadas para reuniões.
+- Aborda um problema que fazia com que os usuários tentassem abrir uma exceção a uma série de reuniões para, ao invés disso, abrir a série principal.
+- Aborda um problema que fazia com que os usuários vissem datas de vencimento sendo calculadas incorretamente para itens da pasta de Itens Excluídos.
+
+
+### <a name="teams-non-security-updates"></a>Teams: Atualizações não relacionadas à segurança
+
+- O instalador do Teams agora tem Política disponível para desativar o recurso de iniciar automaticamente após a conclusão da instalação.
+
+
+### <a name="visio-non-security-updates"></a>Visio: Atualizações não relacionadas à segurança
+
+- Aborda problemas relacionados a soluções ActiveX para o Visio não funcionando no Office 365, expresso como uma mensagem de erro informando que o riched20.dll não pode ser localizado.
+
+
+### <a name="word--non-security-updates"></a>Word:  Atualizações não relacionadas à segurança
+
+- Configuração de GPO fixo para desabilitar a barra de pesquisa de modelos
+- Correção de um problema em que os usuários podem perder algumas de suas alterações após estar offline e editar um documento que era somente de servidor.
+- Melhor desempenho durante a habilitação de Partes Rápidas de propriedades do documento
+- Correção de um problema em que a primeira revisão baixada do servidor pode falhar
+
+
+### <a name="office-suite--non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
+
+- Aborda um problema em que os dispositivos que usam a ativação de computador compartilhado podem reverter inesperadamente para a ativação baseada no usuário durante a instalação de outros produtos do Office ou de pacotes de idiomas.
+- Correção de um problema que bloqueou as atualizações do Office quando a autenticação de proxy é executada como SISTEMA.
+- As correções para lidar com os suplementos do Office desaparecem nas alterações de perfil do usuário.
+
 
 ## <a name="version-1902-june-11"></a>Versão 1902: 11 de junho
 *Versão 1902 (Build 11328.20318)*
