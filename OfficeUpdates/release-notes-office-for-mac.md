@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060293"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390969"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -26,33 +26,48 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
   
 > [!NOTE]
-> - Confira a lista completa de todas as versões do Office para Mac e links adicionais para download em [Histórico de atualizações do Office para Mac](update-history-office-for-mac.md). 
+> - Para obter uma lista de todas as versões do Office para Mac, pacotes de atualização e links de download adicionais, consulte [histórico de atualizações do Office para Mac](update-history-office-for-mac.md). 
 > - Caso seja um Office Insider, confira as [Notas de versão para builds do Insider – Modo Rápido](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Começando com a versão 16.17, lançada em setembro de 2018, estas notas de versão também se aplicam ao Office 2019 para Mac, que é a versão do Office para Mac que está disponível como uma compra única em uma loja de varejo ou por meio de um contrato de licenciamento por volume. Mas alguns recursos que aparecem nas notas de versão só estarão disponíveis se você tiver uma assinatura do Office 365.
 > - As notas da versão 16.16 e anteriores também se aplicam ao Office 2016 para Mac, que também é uma versão do Office para Mac disponível como uma compra única. Versões mais antigas, até 16.16, inclusive, podem ser ativadas com uma licença de volume do Office 2016 para Mac. Não é possível ativar a versão 16.17 ou posterior com uma licença de volume do Office 2016 para Mac. Para obter informações sobre o Office 2016 para Mac e versões de setembro em diante, confira [Notas de versão do Office 2016 para Mac](release-notes-office-2016-mac.md).
-> - Os links para download são fornecidos apenas para as últimas versões.
-> - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
+> 
+> 
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
   **Observação:** as informações de versão do Microsoft AutoUpdate (MAU) foram movidas para a página [Histórico de Versões do MAU](https://docs.microsoft.com/pt-BR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
-## <a name="june-2019-release"></a>Versão de junho de 2019
-
-**Data de lançamento:** 11 de junho de 2019
-
+## <a name="june-11-2019-release"></a>Lançamento de 11 de junho de 2019
 *Versão 16.26 (Build 19060901)*
 
- Esta versão oferece as seguintes atualizações:
 
-|**Application**|**Atualização**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas. |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Vulnerabilidade de Execução Remota de Código do Microsoft Word<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Vulnerabilidade de Execução Remota de Código do Microsoft Word<br/>|[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.<br/><br/>**Agrupar ou Não Agrupar:** as datas da tabela dinâmica não devem ser agrupadas. Desativar o agrupamento automático no: Excel > Preferências > Tabelas & Filtros.<br/><br/>**Subscrito e Sobrescrito em um Relance:** Se subscrito, sobrescrito e tachado forem seus formatos ideais, adicione-os à sua faixa de opções e à Barra de Ferramentas de Acesso Rápido para acessá-los com facilidade.| |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|PowerPoint<br/>|Ganhe a atenção das pessoas com @Menções: Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.<br/><br/>**Os vídeos online têm um novo lar:** salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo.<br/><br/>**Legendas e legendas ao vivo:** suas palavras são mostradas automaticamente como legendas, ou são traduzidas para outro idioma como legendas enquanto você faz a apresentação. Para obter melhores resultados, use microfone e fone de ouvido.||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**Do Outlook para o OneNote em apenas um clique:** com o clique de um botão, você pode salvar suas mensagens do Outlook e anotações de reuniões em um bloco de anotações do OneNote. Use-o como um arquivo ou como um local conveniente para guardar suas coisas. <br/> | |[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word: Atualizações de recurso
 
-## <a name="may-2019-release"></a>Versão de maio de 2019      
+- **Chame a atenção das pessoas com \@Menções:** Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.
+
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
+
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+
+- **Chame a atenção das pessoas com \@Menções:** Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.
+- **Agrupar ou Não Agrupar:** as datas da tabela dinâmica não devem ser agrupadas. Desativar o agrupamento automático no: Excel > Preferências > Tabelas & Filtros.
+- **Subscrito e Sobrescrito em um Relance:** Se subscrito, sobrescrito e tachado forem seus formatos ideais, adicione-os à sua faixa de opções e à Barra de Ferramentas de Acesso Rápido para acessá-los com facilidade.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
+
+- **Chame a atenção das pessoas com \@Menções:** Use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.
+- **Os Vídeos Online Têm um Novo Lar:** Salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo.
+- **Legendas e legendas ao vivo:** suas palavras são mostradas automaticamente como legendas, ou são traduzidas para outro idioma como legendas enquanto você faz a apresentação. Para obter melhores resultados, use microfone e fone de ouvido.
+
+### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
+
+- **Do Outlook para o OneNote em Apenas um Clique:** Com o clique de um botão, você pode salvar suas mensagens do Outlook e anotações de reuniões em um bloco de anotações do OneNote. Use-o como um arquivo ou como um local conveniente para guardar suas coisas.<br/><br/>
+
+
+## <a name="may-2019-release"></a>Lançamento de maio de 2019      
 
 **Data do lançamento:** 14 de maio de 2019 
 

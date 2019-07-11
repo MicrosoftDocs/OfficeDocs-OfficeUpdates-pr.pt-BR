@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: 5cba7eb79cf38354f25f3ebc71464695400445fc
-ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
+ms.openlocfilehash: 6adf19fbc0136c6d5e48bc564d8b0119c6666d21
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "35585569"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601491"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -26,9 +26,34 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usado para o espaçamento)  
 
+## <a name="july-09-2019"></a>09 de julho de 2019
+Canal Mensal: Versão 1906 (Build 11727.20244)  
+Canal Semestral (Direcionado): Versão 1902 (Build 11328.20368)  
+Canal Semestral: Versão 1902 (Build 11328.20368)  
+Canal Semestral: Versão 1808 (Build 10730.20360)  
+Canal Semestral: Versão 1803 (Build 9126.2428)   
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1112](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1112)
+-   [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)
+-   [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+
+### <a name="skype-for-business"></a>Skype for Business
+
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+
+### <a name="office-suite"></a>Pacote do Office
+
+-   [CVE-2019-1109](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1109)
+
 ## <a name="june-11-2019"></a>11 de junho de 2019
 Canal Mensal: Versão 1905 (Build 11629.20246)  
-Canal Semestral (direcionado): versão 1902 (Build 11328.20318)  
+Canal Semestral (direcionado): versão 1902 (Build 11328.20318)   
 Canal Semestral: Versão 1808 (Build 10730.20348)  
 Canal Semestral: Versão 1803 (Build 9126.2388)  
 
