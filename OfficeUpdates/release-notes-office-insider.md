@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607365"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643033"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,39 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
  > [!NOTE]
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="july-12-2019"></a>12 de julho de 2019
+Versão 1907 (build 11901.20038)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>Usar a reprodução de tinta em suas apresentações
+ 
+Aplique uma animação de reprodução para tinta no PowerPoint para se expressar e se comunicar mais nas apresentações. 
+
+## <a name="notable-fixes"></a>Correções notáveis:
+
+### <a name="word"></a>Word 
+- Correções diversas de desempenho e estabilidade
+
+### <a name="excel"></a>Excel
+- Correções diversas de desempenho e estabilidade
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Correções diversas de desempenho e estabilidade
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>5 de julho de 2019
 Versão 1907 (build 11901.20018)
