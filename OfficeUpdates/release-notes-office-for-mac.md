@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390969"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759451"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -35,8 +35,40 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
-  **Observação:** as informações de versão do Microsoft AutoUpdate (MAU) foram movidas para a página [Histórico de Versões do MAU](https://docs.microsoft.com/pt-BR/officeupdates/release-history-microsoft-autoupdate).<br/>
+  **Observação:** As informações de versão do Microsoft AutoUpdate (MAU) foram movidas para a página [Histórico de Versões do MAU](https://docs.microsoft.com/pt-BR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
+## <a name="july-16-2019-release"></a>Lançamento de julho de 16, 2019
+*Versão 16.27 (Build 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+
+- Correção de vários problemas de desempenho.
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+
+- Correção de vários problemas de desempenho.
+
+
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
+
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
+
+- Correção de vários problemas de desempenho.
+
+
+### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
+
+- **Compartilhar Anexos de Arquivos da Nuvem:** Anexe facilmente arquivos da nuvem às suas mensagens de email para obter colaboração aprimorada.<br/>
+
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Vulnerabilidade de divulgação de informações do Microsoft Exchange<br/><br/>
 ## <a name="june-11-2019-release"></a>Lançamento de 11 de junho de 2019
 *Versão 16.26 (Build 19060901)*
 
