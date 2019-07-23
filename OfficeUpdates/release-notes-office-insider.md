@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643033"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803158"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,50 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
  > [!NOTE]
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="july-19-2019"></a>19 de julho de 2019
+Versão 1908 (Build 11911.20000)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>Saiba o significado de Acrônimos ao ler no Word Online
+
+Quando houver um acrônimo, tentaremos defini-lo usando dados de dentro da sua organização.
+
+#### <a name="coauthoring-improvements"></a>Melhorias de coautoria
+
+Melhor experiência de coautoria, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
+
+### <a name="word"></a>Word 
+- Consertamos um problema em que a marca BookMarkEnd estava ausente.
+- Consertamos um problema que poderia fazer com que a seleção de fonte mudasse enquanto o usuário digitava caracteres especiais.
+- Consertamos um problema que poderia gerar respostas em branco a um novo cartão de comentário.
+- Consertamos um problema que poderia causar a perda de formatação durante o compartilhamento de um email.
+
+### <a name="excel"></a>Excel
+- Consertamos um problema em que uma matriz com um intervalo grande poderia causar falha.
+- Melhoramos significativamente o desempenho da cópia de dados de intervalos filtrados.
+- Resolvemos um problema que impedia que alguns arquivos fossem abertos, caso seus nomes possuíssem caracteres especiais.
+
+### <a name="powerpoint"></a>PowerPoint
+- Consertamos um problema em que o nome da seção não houvesse sido selecionado por padrão para a seção recém-criada no PowerPoint.
+- Consertamos um problema que poderia fazer com que a IU se tornasse difícil de usar em uma exibição 4:3.
+
+### <a name="outlook"></a>Outlook
+- Consertamos um problema que poderia impedir a listagem de salas disponíveis.
+- Consertamos um problema que impedia a formatação HTML para alguns usuários POP3.
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>12 de julho de 2019
 Versão 1907 (build 11901.20038)
