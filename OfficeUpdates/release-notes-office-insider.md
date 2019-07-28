@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803158"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916964"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,7 +26,45 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
 
  > [!NOTE]
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Consulte [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="july-26-2019"></a>26 de julho de 2019
+Versão 1908 (Build 11916.20000)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>Criar PDFs mais acessíveis
+
+Crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar.
+
+## <a name="notable-fixes"></a>Correções Notáveis:
+
+### <a name="all"></a>Todos
+
+- Consertamos um problema em que a associação de tipo de arquivo e os ícones do Office poderiam, às vezes, quebrar após uma atualização do Office.
+
+### <a name="word"></a>Word 
+- Correções diversas de desempenho e estabilidade
+
+### <a name="excel"></a>Excel
+- Consertamos um problema em que uma mudança de gráfico poderia resultar em uma falha.
+- Consertamos um problema onde obter o objeto de pasta de trabalho do objeto de Gráfico após alterar os tipos de gráfico, algumas vezes poderia resultar em um erro
+
+### <a name="powerpoint"></a>PowerPoint
+- Correções diversas de desempenho e estabilidade
+
+### <a name="outlook"></a>Outlook
+- Consertamos um problema em que, na faixa de opções simplificada, um controle desabilitado poderia, às vezes, não estar acinzentado na faixa de opções.
+
+### <a name="access"></a>Access
+- Correções diversas de desempenho e estabilidade
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>19 de julho de 2019
 Versão 1908 (Build 11911.20000)
