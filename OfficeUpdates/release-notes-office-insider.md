@@ -3,19 +3,19 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916964"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168326"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,97 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
  > [!NOTE]
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+[//]: # (NÃO REMOVA)
+
+
+## <a name="august-02-2019br"></a>**2 de agosto de 2019**<br/>
+Versão 1908 (Build 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Atualizações de recursos do Excel:
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+
+### <a name="outlook-feature-updates"></a>Atualizações de recursos do Outlook:
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+
+### <a name="powerpoint-feature-updates"></a>Atualizações de recursos do PowerPoint:
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+
+### <a name="word-feature-updates"></a>Atualizações de recursos do Word:
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+
+- **Reescrita salva seu dia:** quer dizer outra maneira? Use a Reescrita para ver sugestões diferentes para transmitir sua mensagem.
+
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+
+
+
+## <a name="non-security-updates"></a>Atualizações não relacionadas à segurança:
+
+### <a name="access"></a>Access
+- Várias correções de desempenho e estabilidade
+
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema que exibia &quot;repetir todos os rótulos&quot; como se tivesse sido aplicado durante a impressão em um PDF.</span></div>
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Corrigimos um problema que poderia impedir os usuários de abrir um documento da área de trabalho</span></div>
+
+- <div><span>Corrigimos um problema que uma atualização poderia ser impedida por uma mensagem de erro incorreta de &quot;Outra instalação em andamento&quot;</span></div>
+
+- <div><span>Corrigimos um problema que um usuário poderia ver mensagens de erro quando as atualizações de segurança eram instaladas.</span></div>
+
+- <div><span>Corrigimos um problema que poderia fazer com que o cursor desaparecesse.</span></div>
+
+- <div><span>Corrigimos um problema que um usuário poderia ser padronizado para a guia Desenhar, em vez da guia Página Inicial</span></div>
+
+- <div><span>Corrigimos um problema que grandes modos de exibição em árvore poderiam resultar em falha.</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Corrigimos um problema que poderia causar solicitações de senha.</span>
+
+- <div><span>Corrigimos um problema que poderia impedir que um endereço de email fosse consultado corretamente.</span></div>
+
+- <div><span>Corrigimos um problema que poderia impedir que os usuários abrissem os itens de calendário criados pelas versões herdadas do Outlook.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Corrigimos um problema que poderia impedir a inicialização de algumas animações.</span></div>
+
+### <a name="project"></a>Project
+- Várias correções de desempenho e estabilidade
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema que as respostas aos comentários poderiam ser exibidas fora de ordem.</span></div>
+
+- <div><span>Corrigimos um problema que, em algumas situações, as dicas eram exibidas em vez de comentários.</span></div>
+
+- <div><span>Corrigimos um problema que o painel Revisões poderia ser exibido quando o usuário tentasse adicionar um novo comentário.</span></div>
+
+- <div><span>Corrigimos um problema que poderia impedir a exibição de desfazer lista suspensa.</span></div>
+
+- <div><span>Corrigimos um problema que poderia impedir a adição de novos comentários</span></div>
+
 
 ## <a name="july-26-2019"></a>26 de julho de 2019
 Versão 1908 (Build 11916.20000)
