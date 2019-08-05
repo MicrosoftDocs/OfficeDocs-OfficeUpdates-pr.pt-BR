@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
+ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924908"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044993"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -27,8 +27,8 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
  
 > [!NOTE]
-> - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão x64 em en-us do Office 365 ProPlus. (Todas as versões anteriores a 13 de março de 2019 mostram tamanhos de x86.)
-> - Somente versões dos últimos quatro meses serão listadas.
+> - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão de 64 bits em pt-br do Office 365 ProPlus.
+> - Somente versões dos últimos quatro meses estão listadas.
 
 
 [//]: # (NÃO REMOVA)
@@ -305,60 +305,6 @@ A versão mais atual é a Versão 1903 (Build 11425.20202).
 |:-----|:-----|:-----|
 |Versão 1902 (Build 11328.20158)  <br/> |12 de março de 2019  <br/> |204<br/> |
 |Versão 1902 (Build 11328.20222)  <br/> |25 de março de 2019  <br/> |205<br/> |
-
-## <a name="march-25-2019"></a>25 de março de 2019
-
-### <a name="monthly-channel"></a>Canal Mensal
-
-O lançamento mais atual é a versão 1902 (Build 11328.20222). 
-  
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 1902 (Build 11328.20158)  <br/> |12 de março de 2019  <br/> |67<br/> |
-|Versão 1901 (Build 11328.201460)  <br/> |04 de março de 2019  <br/> |67<br/> |
-|Versão 1901 (Build 11328.20146)  <br/> |12 de fevereiro de 2019  <br/> |307<br/> |
-
-## <a name="march-12-2019"></a>12 de março de 2019
-
-### <a name="monthly-channel"></a>Canal Mensal
-
-O lançamento mais atual é a versão 1902 (build 11328.20158). 
-  
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 1901, (build 11231.20130)  <br/> |31 de janeiro de 2019  <br/> |179<br/> |
-|Versão 1901 (Build 11231.20174)  <br/> |12 de fevereiro de 2019  <br/> |177<br/> |
-|Versão 1902 (Build 11328.20146)  <br/> |4 de março de 2019  <br/> |278<br/> |
-
-### <a name="semi-annual-channel"></a>Canal Semestral
-
-O lançamento mais atual é a versão 1808 (build 10730.20304)
-
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 1808 (build 10730.20264)  <br/> |8 de janeiro de 2019  <br/> |84<br/> |
-|Versão 1808 (Build 10730.20280) <br/> |12 de fevereiro de 2019  <br/> |74<br/> |
-
-### <a name="semi-annual-channel-targeted"></a>Canal Semestral (direcionado)
-
-O lançamento mais atual é a versão 1902 (build 11328.20158).
-  
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 1808 (build 10730.20264)  <br/> |8 de janeiro de 2019  <br/> |257 <br/> |
-|Versão 1808 (Build 10730.20280)  <br/> |12 de fevereiro de 2019  <br/> |256 <br/> |
-
-## <a name="march-4-2019"></a>4 de março de 2019
-
-### <a name="monthly-channel"></a>Canal Mensal
-
-O lançamento mais atual é a Versão 1902 (Build 11328.20146). 
-  
-|**Atualizando da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 1901, (build 11231.20130)  <br/> |31 de janeiro de 2019  <br/> |180<br/> |
-|Versão 1901 (Build 11231.20174)  <br/> |12 de fevereiro de 2019  <br/> |178<br/> |
-
 
 ## <a name="related-topics"></a>Tópicos relacionados
 

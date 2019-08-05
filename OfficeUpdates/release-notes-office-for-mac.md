@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759451"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937619"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -65,7 +65,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 
 - **Compartilhar Anexos de Arquivos da Nuvem:** Anexe facilmente arquivos da nuvem às suas mensagens de email para obter colaboração aprimorada.<br/>
-
+- **Suporte ao Modo Escuro no Painel de Leitura:** os emails que você receber agora têm um plano de fundo escuro para facilitar a visualização em ambientes com pouca iluminação. Exige o Mojave macOS.  
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Vulnerabilidade de divulgação de informações do Microsoft Exchange<br/><br/>
