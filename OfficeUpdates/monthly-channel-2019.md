@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: b9e3c357eb120e488249f5688b2bdd72876d9508
+ms.sourcegitcommit: 953b8e82778004b820cb31152ff52fe3c8781f96
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936332"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204333"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -36,8 +36,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
 
-- **Códifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros. 
-  [Saiba mais](https://support.office.com/pt-BR/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Códifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
 
 - **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. 
   [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
