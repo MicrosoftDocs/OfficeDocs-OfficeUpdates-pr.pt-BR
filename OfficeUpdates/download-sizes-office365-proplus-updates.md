@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
-ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
+ms.openlocfilehash: 5b5f4f92db3b767c557506bc755c5755bdd0f938
+ms.sourcegitcommit: b8462ca4bb2759e492f6dac4b1f9e9e32fa5aa0e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044993"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36210679"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -32,6 +32,32 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 
 [//]: # (NÃO REMOVA)
+
+## <a name="august-6-2019"></a>6 de agosto de 2019
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+<i>A versão esperada é a versão 1902 (Build 11328,20388).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |61<br/> |
+|Versão 1808 (Build 10730.20348) <br/> |11 de junho de 2019 <br/> |307<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
+
+<i>A versão esperada é a versão 1902 (Build 11328,20388).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |61<br/> |
+|Versão 1902 (Build 11328.20318) <br/> |11 de junho de 2019 <br/> |73<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="july-29-2019"></a>29 de julho de 2019
 
