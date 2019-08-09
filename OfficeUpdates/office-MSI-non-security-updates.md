@@ -3,19 +3,19 @@ title: Últimas atualizações não relacionadas à segurança para versões do 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/03/2019
+ms.date: 08/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações mais recentes sobre atualizações que não são de segurança para versões perpétuas do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
-ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
+ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430174"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231586"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas atualizações não relacionadas à segurança para versões do Office que usam o Windows Installer (MSI)
 
@@ -26,6 +26,30 @@ Esta página lista as atualizações não relacionadas à segurança do Office, 
 > - As informações neste artigo não se aplicam às versões do Office 365 do Office, como o Office 365 ProPlus.
 > - Para saber mais sobre como instalar as atualizações do Office, confira [Instalar atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="august-6-2019"></a>6 de agosto de 2019
+
+**Office 2016**<br/>
+Atualização para o Microsoft Excel 2016 ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
+Atualização para o Microsoft Office 2016 ([KB4475516](https://support.microsoft.com/help/4475516))<br/>
+Atualização para o Microsoft Office 2016 ([KB3114528](https://support.microsoft.com/help/3114528))<br/>
+Atualização para o Microsoft Office 2016 ([KB4475542](https://support.microsoft.com/help/4475542))<br/>
+Atualização para o Microsoft Office 2016 ([KB3141456](https://support.microsoft.com/help/3141456))<br/>
+Atualização para o Microsoft Office 2016 ([KB4464588](https://support.microsoft.com/help/4464588))<br/>
+Atualização para o Microsoft Office 2016 ([KB4032254](https://support.microsoft.com/help/4032254))<br/>
+Atualização para o Microsoft Office 2016 ([KB4475551](https://support.microsoft.com/help/4475551))<br/>
+Atualização para o Microsoft Office 2016 ([KB4464535](https://support.microsoft.com/help/4464535))<br/>
+Atualização para o Pacote de Interface de Idioma do Microsoft Office 2016 ([KB4475541](https://support.microsoft.com/help/4475541))<br/>
+Atualização para o Microsoft OneNote 2016 ([KB4092450](https://support.microsoft.com/help/4092450))<br/>
+Atualização para o Microsoft PowerPoint 2016 ([KB4464577](https://support.microsoft.com/help/4464577))<br/>
+Atualização para o Microsoft Project 2016 ([KB4475544](https://support.microsoft.com/help/4475544))<br/>
+Atualização para o Skype for Business 2016 ([KB4475548](https://support.microsoft.com/help/4475548))<br/>
+
+**Office 2013**<br/>
+Atualização para o Microsoft Office 2013 ([KB4475556](https://support.microsoft.com/help/4475556))<br/>
+Atualização para o Skype for Business 2015 ([KB4475564](https://support.microsoft.com/help/4475564))<br/><br/>
+
+
 
 ## <a name="july-2-2019"></a>2 de julho de 2019
 

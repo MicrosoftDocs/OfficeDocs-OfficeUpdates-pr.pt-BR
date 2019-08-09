@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168326"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231596"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -60,10 +60,10 @@ Versão 1908 (Build 11929.20002)<br/>
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
 
-- **Reescrita salva seu dia:** quer dizer outra maneira? Use a Reescrita para ver sugestões diferentes para transmitir sua mensagem.
+- **Fale de outra maneira:** quando você quiser dizer algo de forma diferente, o Reescrever estará lá para ajudar. O Reescrever oferece alternativas para refinar a suas frases.
 
 
-- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos e emails para que fiquem em conformidade com as políticas de proteção de informações da sua organização.
 
 
 
