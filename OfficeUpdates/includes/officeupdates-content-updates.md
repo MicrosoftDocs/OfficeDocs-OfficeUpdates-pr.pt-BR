@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Semana de 1º de julho de 2019
-
-
-| Publicado em |Título do tópico | Alteração |
-|------|------------|--------|
-| 7/2/2019 | [Últimas atualizações não relacionadas à segurança para versões do Office que usam o Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modificado |
-| 7/5/2019 | [Notas de versão do Office Insiders](/OfficeUpdates/release-notes-office-insider) | modificado |
-
-
 ## <a name="week-of-july-08-2019"></a>Semana de 08 de julho de 2019
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [Notas de versão para lançamentos do Canal Semestral em 2019](/OfficeUpdates/semi-annual-channel-2019) | modificado |
 | 8/1/2019 | [Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | modificado |
 | 8/2/2019 | [Notas de versão do Office Insiders](/OfficeUpdates/release-notes-office-insider) | modificado |
+
+
+## <a name="week-of-august-05-2019"></a>Semana de 05 de agosto de 2019
+
+
+| Publicado em |Título do tópico | Alteração |
+|------|------------|--------|
+| 8/5/2019 | [Notas de versão para lançamentos do Canal Mensal em 2019](/OfficeUpdates/monthly-channel-2019) | modificado |
+| 8/6/2019 | [Histórico de atualizações para o canal do Office Insider](/OfficeUpdates/update-history-office-insider) | modificado |
+| 8/6/2019 | [Tamanhos de download para atualizações do Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | modificado |
+| 8/6/2019 | [Notas de versão para lançamentos do Canal Mensal em 2019](/OfficeUpdates/monthly-channel-2019) | modificado |
+| 8/6/2019 | [Últimas atualizações não relacionadas à segurança para versões do Office que usam o Windows Installer (MSI)](/OfficeUpdates/office-msi-non-security-updates) | modificado |
+| 8/7/2019 | [Notas de versão do Office Insiders](/OfficeUpdates/release-notes-office-insider) | modificado |
+| 8/9/2019 | [Notas de versão do Office Insiders](/OfficeUpdates/release-notes-office-insider) | modificado |
