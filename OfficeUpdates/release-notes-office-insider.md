@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285978"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302480"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -294,9 +294,13 @@ Versão 1907 (build 11901.20018)
 
 #### <a name="sketchy-shapes"></a>Formas de Esboço!
 
-Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que você ainda está trabalhando nele. Ele fornece um toque pessoal para os objetos sem transformá-los em uma forma livre e desenhadas à mão.
+Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que você ainda está trabalhando nele. Ele dá um toque pessoal aos seus objetos sem transformá-los em uma forma livre ou com aparência de desenhados à mão.
 
-## <a name="notable-fixes"></a>Correções notáveis:
+### <a name="powerpoint"></a>PowerPoint
+
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. 
+
+## <a name="notable-fixes"></a>Correções Notáveis:
 
 ### <a name="all"></a>Todos
 - Melhoramos significativamente o desempenho das dicas de ferramentas da faixa de opções.

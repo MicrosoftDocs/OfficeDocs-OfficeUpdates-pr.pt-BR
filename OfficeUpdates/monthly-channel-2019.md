@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222959"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302470"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -58,6 +58,8 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. 
   [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. 
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
@@ -311,6 +313,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 - **Insights no Excel:** o Insights agrega valor para vários usuários. O Insights proporciona uma abordagem mais suave à análise de dados, bem como uma perspectiva diferente para seus dados. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **Aumentar o alcance do seu conteúdo:** Precisa tornar suas planilhas acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisar > Verificar acessibilidade; informaremos quando encontrarmos algo que você precise ver na barra de status.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
@@ -320,6 +323,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Aumente o alcance do seu conteúdo:** Precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
 
 - **Por que reinventar quando você pode reutilizar?**  Economize tempo reutilizando os slides que você criou ou que outras pessoas compartilharam com você.
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+
+- Correção de um problema de conflito de mesclagem no Excel, que resultariam na reabertura de uma pasta de trabalho para os usuários.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 
