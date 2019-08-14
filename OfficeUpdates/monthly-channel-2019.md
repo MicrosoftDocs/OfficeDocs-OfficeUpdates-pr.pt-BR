@@ -3,19 +3,18 @@ title: Notas de versão para lançamentos do Canal Mensal em 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302470"
+ms.locfileid: "36393206"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -27,6 +26,18 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
  > [!NOTE]
 > - O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de julho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business) durante atualizações dessas instalações. A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1907-august-13"></a>Versão 1907: 13 de agosto
+*Versão 1907 (Build 11901.20218)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+
+ - Correção de um problema em que é possível alterar a forma como uma Tabela Dinâmica é classificada e atualizá-la durante uma sessão de coautoria com outros usuários poderia disparar isso.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+  - Correção de um problema em que os usuários atualizando a caixa de correio de uma autenticação básica para moderna acabavam com a conta errada associada ao perfil do Outlook.
 
 ## <a name="version-1907-july-29"></a>Versão 1907: 29 de julho
 *Versão 1907 (Build 11901.20176)*
@@ -60,6 +71,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
   [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. 
+  [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 

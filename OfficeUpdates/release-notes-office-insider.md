@@ -3,19 +3,18 @@ title: Notas de versão do Office Insiders
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302480"
+ms.locfileid: "36393216"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -299,6 +298,7 @@ Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que voc�
 ### <a name="powerpoint"></a>PowerPoint
 
 - **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. 
+  [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Correções Notáveis:
 
