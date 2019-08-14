@@ -3,19 +3,19 @@ title: Atualizar o histórico de produtos do Office 2010 com Clique para Executa
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
-ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: f12da7b89401b95d154dceba4cac27b25bff42a9
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594550"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384542"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
@@ -30,7 +30,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7235.5000**, que foi lançado em 9 de julho de 2019.
+> A versão mais recente do Office 2010 é o **14.0.7236.5000**, que foi lançado em 13 de agosto de 2019.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -54,7 +54,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2019|9 de julho  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+|2019|13 de agosto  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
+||9 de julho  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
 ||11 de junho  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
 ||14 de maio  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
 ||9 de abril  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
