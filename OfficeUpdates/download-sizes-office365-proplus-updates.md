@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 5b5f4f92db3b767c557506bc755c5755bdd0f938
-ms.sourcegitcommit: b8462ca4bb2759e492f6dac4b1f9e9e32fa5aa0e
+ms.openlocfilehash: 3a7a4b7262274921a0511e38135616c99c771691
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36210679"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384512"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -33,31 +33,44 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="august-6-2019"></a>6 de agosto de 2019
+## <a name="august-13-2019"></a>13 de agosto de 2019
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 13 de agosto de 2019)
 
-### <a name="semi-annual-channel"></a>Canal Semestral
+### <a name="monthly-channel"></a>Canal Mensal
 
-<i>A versão esperada é a versão 1902 (Build 11328,20388).</i>
+A versão mais atual é a Versão 1907 (Build 11901.20218).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |61<br/> |
-|Versão 1808 (Build 10730.20348) <br/> |11 de junho de 2019 <br/> |307<br/> |
+|Versão 1907 (Build 11901.20176) <br/> |29 de julho de 2019 <br/> |65<br/> |
+|Versão 1906 (Build 11727.20244) <br/> |9 de julho de 2019 <br/> |197<br/> |
 
 
 ### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
 
-<i>A versão esperada é a versão 1902 (Build 11328,20388).</i>
+A versão mais atual é a Versão 1902 (Build 11328.20392)
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |61<br/> |
+|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |65<br/> |
 |Versão 1902 (Build 11328.20318) <br/> |11 de junho de 2019 <br/> |73<br/> |
 
+### <a name="semi-annual-channel"></a>Canal Semestral
+A versão mais atual é a Versão 1902 (Build 11328.20392)
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20368) <br/> |9 de julho de 2019 <br/> |65<br/> |
+|Versão 1808 (Build 10730.20348) <br/> |11 de junho de 2019 <br/> |306<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 13 de agosto de 2019)
+
+## <a name="august-6-2019"></a>6 de agosto de 2019
+
+
+
 
 ## <a name="july-29-2019"></a>29 de julho de 2019
 
