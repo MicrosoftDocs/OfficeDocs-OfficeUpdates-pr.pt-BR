@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937619"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396595"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -37,7 +37,56 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
   **Observação:** As informações de versão do Microsoft AutoUpdate (MAU) foram movidas para a página [Histórico de Versões do MAU](https://docs.microsoft.com/pt-BR/officeupdates/release-history-microsoft-autoupdate).<br/>
 
-## <a name="july-16-2019-release"></a>Lançamento de julho de 16, 2019
+## <a name="august-13-2019-release"></a>Versão de 13 agosto de 2019
+*Versão 16,28 (Build 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+
+- **Faça um Esboço:** Dê uma aparência casual, como que desenhado à mão, às formas do Office em sua apresentação. [Saiba mais](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Apagar com Precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições da escrita à tinta. [Saiba mais](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+
+- **Faça um Esboço:** Dê uma aparência casual, como que desenhado à mão, às formas do Office em sua apresentação. [Saiba mais](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Foco no que Precisa Ser Feito:** Selecione Resolver para recolher comentários e dar destaque aos itens abertos.
+- **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
+
+- **Faça um Esboço:** Dê uma aparência casual, como que desenhado à mão, às formas do Office em sua apresentação. [Saiba mais](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Escrita À Tinta Persistente Durante uma Apresentação de Slides:** Desenhe em seus slides durante uma apresentação e a caneta ficará ativa até o fim. Salve as anotações também. [Saiba mais](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
+
+- **Compartilhar Anexos de Arquivos da Nuvem:** Anexe facilmente arquivos da nuvem às suas mensagens de email para obter colaboração aprimorada. [Saiba mais](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
+
+
+## <a name="july-16-2019-release"></a>Lançamento de 16 julho de 2019
 *Versão 16.27 (Build 19071500)*
 
 

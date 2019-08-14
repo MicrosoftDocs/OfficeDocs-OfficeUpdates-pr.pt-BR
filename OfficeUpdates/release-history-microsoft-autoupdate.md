@@ -3,19 +3,19 @@ title: Histórico de versões do Microsoft AutoUpdate
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/31/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936340"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396585"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,6 +31,25 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="august-2019-release"></a>Versão de agosto de 2019
+
+**Data da Versão:** 13 de agosto de 2019
+
+*Microsoft AutoUpdate 4.14*
+
+ **Atualizações de Recursos:**
+
+- Correção de vários problemas para melhorar a voz sobre a tradução, atualizar o desempenho e a IU.
+- A telemetria e as correções para solução de problemas foram adicionadas.
+
+
+**Link de Atualização do MAU:**
+
+[Baixar o Pacote Microsoft AutoUpdate 4.14](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
 ## <a name="july-2019-release"></a>Lançamento de julho de 2019
 
 **Data de lançamento:** 18 de julho de 2019
