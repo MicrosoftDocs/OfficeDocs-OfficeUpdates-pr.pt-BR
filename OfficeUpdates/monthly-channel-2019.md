@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393206"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404475"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -294,6 +294,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
 - Corrigido um problema de identificação incorreta do nome da nova era "Reiwa" em Hiragana e Kanji como uma expressão de erros ortográfico ou gramatical.
+
+- Correção de um problema que bloqueou as atualizações do Office quando a autenticação de proxy é executada como SISTEMA.
 
 ## <a name="version-1903-april-23"></a>Versão 1903: 23 de abril
 *Versão 1903 (Build 11425.20244)*
