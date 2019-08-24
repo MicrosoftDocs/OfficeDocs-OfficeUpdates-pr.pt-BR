@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393216"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620520"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -28,6 +28,122 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+
+## <a name="august-23-2019br"></a>**23 de agosto de 2019**<br/>
+Versão 1909 (Build 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>Atualizações não relacionadas à segurança:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Melhoramos significativamente o desempenho da exclusão de colunas com células mescladas</span></div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Corrigimos um problema que poderia impedir que alguns caracteres Unicode fossem exibidos quando acessados em um navegador</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Corrigimos um problema que poderia impedir que os arquivos fossem salvos em um local de WebDAV</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Corrigimos um problema em que um usuário clicava em um comentário, mas outro comentário era selecionado</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**16 de agosto de 2019**<br/>
+Versão 1909 (Build 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>Atualizações de recursos do PowerPoint:
+
+- **Imprimir números de slide em folhetos:** os números de slide são incluídos automaticamente nos folhetos. Deixá-los ou não ativados depende de você.
+
+
+
+
+## <a name="non-security-updates"></a>Atualizações não relacionadas à segurança:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema que poderia fazer com o que o Salvamento Automático fosse habilitado</span></div>
+
+
+- <div>Corrigimos um problema que poderia resultar em uma medição incorreta da altura de células </div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Corrigimos um problema que melhora significativamente o desempenho do recurso Comentários</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia causar uma falha ao usar as teclas de setas durante a pesquisa</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia impedir uma menção usando o sinal @ se o símbolo @ fosse colocado após determinados caracteres</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia causar uma falha ao excluir menções com o @</span></div>
+
+
+- <div><span>Corrigimos um problema que impedia que emojis fossem exibidos corretamente em cartões de comentário</span></div>
+
+
+- <div><span>Corrigimos um problema com a Área de Transferência Ativa que poderia resultar em uma falha</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia fazer com que os botões da Barra de Ferramentas de Acesso Rápido parassem de funcionar</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia impedir a Visualização da Formatação do Documento alternasse para o plano de fundo</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Consertamos um problema em que os nomes das seções apareciam em branco na lista suspensa da seção quando o tema do Office era configurado como Preto.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Corrigimos um problema com Enviar Eventos, o que poderia fazer com que o Outlook ganhasse ou perdesse o foco repetidamente</span></div>
+
+
+- <div><span>Corrigimos um problema que impedia que o atalho Postar Resposta na Pasta funcionasse</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Corrigimos um problema com o Modo de Exibição Protegido que poderia causar problemas durante a colaboração</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia impedir a correta exibição de tarefas em painéis de comentários</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia causar uma falha ao inserir novos slides</span></div>
+
+
+### <a name="user-lifecycle"></a>Ciclo de vida do usuário
+
+- <div><span>Corrigimos um problema que poderia resultar no desaparecimento de recursos da assinatura</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema em que os hiperlinks poderiam ser desfeitos se o hiperlink contivesse determinados caracteres</span></div>
+
+
+- <div><span>Corrigimos um problema onde as imagens poderiam ser inadequadamente dimensionadas ao exibir um comentário para essa imagem</span></div>
+
+
+- <div><span>Corrigimos um problema com o menu suspenso da Lista com Marcadores, o que poderia resultar em uma falha</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**09 de agosto de 2019**<br/>
