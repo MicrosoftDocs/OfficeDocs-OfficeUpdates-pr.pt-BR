@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396595"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567201"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -30,8 +30,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - Caso seja um Office Insider, confira as [Notas de versão para builds do Insider – Modo Rápido](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Começando com a versão 16.17, lançada em setembro de 2018, estas notas de versão também se aplicam ao Office 2019 para Mac, que é a versão do Office para Mac que está disponível como uma compra única em uma loja de varejo ou por meio de um contrato de licenciamento por volume. Mas alguns recursos que aparecem nas notas de versão só estarão disponíveis se você tiver uma assinatura do Office 365.
 > - As notas da versão 16.16 e anteriores também se aplicam ao Office 2016 para Mac, que também é uma versão do Office para Mac disponível como uma compra única. Versões mais antigas, até 16.16, inclusive, podem ser ativadas com uma licença de volume do Office 2016 para Mac. Não é possível ativar a versão 16.17 ou posterior com uma licença de volume do Office 2016 para Mac. Para obter informações sobre o Office 2016 para Mac e versões de setembro em diante, confira [Notas de versão do Office 2016 para Mac](release-notes-office-2016-mac.md).
-> 
-> 
+> > 
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ## <a name="august-13-2019-release"></a>Versão de 13 agosto de 2019
 *Versão 16,28 (Build 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
@@ -52,18 +50,11 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Vulnerabilidade de Execução Remota de Código do Microsoft Word
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Vulnerabilidade de Execução Remota de Código do Microsoft Word
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 
 - **Faça um Esboço:** Dê uma aparência casual, como que desenhado à mão, às formas do Office em sua apresentação. [Saiba mais](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **Foco no que Precisa Ser Feito:** Selecione Resolver para recolher comentários e dar destaque aos itens abertos.
 - **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
@@ -71,12 +62,12 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - **Escrita À Tinta Persistente Durante uma Apresentação de Slides:** Desenhe em seus slides durante uma apresentação e a caneta ficará ativa até o fim. Salve as anotações também. [Saiba mais](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 
 - **Compartilhar Anexos de Arquivos da Nuvem:** Anexe facilmente arquivos da nuvem às suas mensagens de email para obter colaboração aprimorada. [Saiba mais](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
+- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 
