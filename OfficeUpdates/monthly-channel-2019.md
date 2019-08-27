@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473441"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631224"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -25,6 +25,48 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
   [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
 
+
+## <a name="version-1908-august-26"></a>Versão 1908: 26 de agosto
+*Versão 1908 (Build 11929.20254)*
+* Várias correções de bugs e desempenho.
+
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+
+- **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. 
+  [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. 
+  [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **Foco no que precisa ser feito:** Selecione Resolver para recolher comentários e dar destaque aos itens abertos.
+
+### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
+
+- **Os ícones do Office estão com um novo visual:** Os ícones do Office foram reprojetados para refletir as experiências simples, poderosas e inteligentes do Office.
+
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+
+- **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. 
+  [Saiba mais](https://support.office.com/pt-BR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. 
+  [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
+
+- **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. 
+  [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. 
+  [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word: atualizações de recursos
+
+- **Faça um Esboço:** deixe as formas do Office do seu documento com uma aparência casual de desenhado à mão. 
+  [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. 
+  [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versão 1907: 13 de agosto
 *Versão 1907 (Build 11901.20218)*
