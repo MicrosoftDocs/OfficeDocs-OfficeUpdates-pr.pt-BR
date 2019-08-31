@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8dfdc0e4e21c037aba0adccc0e86b6c16b96872f
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488503"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672901"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Semestral para o Office 365 ProPlus em 2019, o Visio Pro para Office 365, o Cliente da Área de Trabalho do Microsoft Project Online e o Office 365 Business.
 
 > [!NOTE]
-> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral durante um período de tempo. Se você não vir algo descrito abaixo, aguarde que estará em breve. 
+> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral durante um período de tempo. Se você não vir algo descrito abaixo, aguarde que muito em breve estará disponível. 
   [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - O OneNote 2016 não será incluído por padrão, quando um usuário no Canal Semestral baixar e instalar o Office 365 no Windows 10 do Portal do Office.
 
