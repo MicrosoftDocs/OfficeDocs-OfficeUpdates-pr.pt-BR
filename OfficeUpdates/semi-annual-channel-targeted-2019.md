@@ -21,8 +21,7 @@ ms.locfileid: "36672891"
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Semestral (Direcionado) para o Office 365 ProPlus em 2019, Visio Pro para Office 365, o cliente de Área de Trabalho do Project Online e o Office 365 Business.
  
 > [!NOTE]
-> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. 
-  [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
 ## <a name="version-1902-august-13"></a>Versão 1902: 13 de agosto
@@ -182,8 +181,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
 
-- Corrigido um problema em que partes de uma atualização do Office não usava o cache de pares de Otimização de Entrega. 
-  [Saiba mais](https://docs.microsoft.com/pt-BR/windows/deployment/update/waas-delivery-optimization)
+- Corrigido um problema em que partes de uma atualização do Office não usava o cache de pares de Otimização de Entrega. [Saiba mais](https://docs.microsoft.com/pt-BR/windows/deployment/update/waas-delivery-optimization)
 - Corrigido um bug que pode levar a remoção ou não ativação se o Office foi instalado usando a Ferramenta de Implantação do Office e houve uma incompatibilidade de caso.
 - Corrigimos um problema que estava causando prompts de login excessivos nos dispositivos Windows 10 (versão 1803 ou posterior).
 - Corrigimos a regressão que causava interrupções durante o download de imagens vinculadas.
@@ -222,8 +220,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Novo padrão de intervalo da recorrência:** Na caixa de diálogo de Recorrência, o intervalo de recorrência usado como padrão é "Sem data de término". Isso facilita a criação de série recorrente, que pode ficar corrompida ao longo do tempo. Estamos atualizando o padrão da caixa de diálogo Recorrência para "Terminar em,", para que nosso valor padrão corresponda às melhores práticas recomendadas para o calendário.
 - **Ingresse em reuniões do Teams pela caixa de diálogo Lembretes do Outlook:** quando o Outlook lembrar os usuários de uma reunião, o botão Participar online será exibido se a futura reunião for online no Teams. Isso é semelhante à experiência de entrar em uma reunião do Skype for Business pela caixa de diálogo Lembretes do Outlook.
 - **Continuar a ver lembretes de eventos anteriores:** Você pode configurar seu calendário para ignorar lembretes de eventos depois que você terminou automaticamente. [Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Conferir a URL atrás de Links seguros:** os Links seguros protegem você contra URLs mal-intencionadas recebidas por email, mas ocultam a URL original. Para ver o original, passe o mouse sobre a URL. Requer uma licença da Proteção Avançada Contra Ameaças. 
-  [Saiba mais](https://products.office.com/pt-BR/exchange/advance-threat-protection)
+- **Conferir a URL atrás de Links seguros:** os Links seguros protegem você contra URLs mal-intencionadas recebidas por email, mas ocultam a URL original. Para ver o original, passe o mouse sobre a URL. Requer uma licença da Proteção Avançada Contra Ameaças. [Saiba mais](https://products.office.com/pt-BR/exchange/advance-threat-protection)
 - **Aplicar zoom e manter:** em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Criptografia de mensagem: política de IRM somente criptografia:** a nova opção de somente criptografar é exibida no menu Opções > Permissões para usuários da Criptografia de Mensagem do Office 365. Essa opção permite que você criptografe e envie uma mensagem a qualquer pessoa dentro ou fora da organização.
 - **Aviso quando você for adicionado a uma cópia oculta:** a infodica de Cco irá alertá-lo antes de você responder acidentalmente a todos em um email no qual você foi adicionado a uma cópia oculta.
@@ -242,7 +239,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Você esboça, nós melhoramos:** transformamos textos e formas desenhadas em diagramas refinados. Basta selecionar seus traços de tinta para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Pintar um slide esplêndido:** converta sua tinta para texto e formas padrão e obtenha ideias inteligentes de design de slides do Designer do PowerPoint. [Saiba mais](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **Publicar no Microsoft Stream:** use o Microsoft Stream para compartilhar uma apresentação como vídeo de forma mais segura na organização. [Saiba mais](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **Publicar no Microsoft Stream:** use o Microsoft Stream para compartilhar uma apresentação como vídeo de forma mais segura na organização. [Saiba mais](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Exportar para vídeo 4K:** quando você exporta uma apresentação para vídeo, a resolução 4K agora é uma opção.  [Saiba mais](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -274,8 +271,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
 
 - **Os aplicativos de terceiros do Office agora têm suporte para inserir imagens em SVG usando a API do Office.js:** agora, os aplicativos de terceiros, também conhecidos como suplementos do Office, têm a capacidade de inserir imagens em SVG. Os usuários já podem conectar a coleção pessoal de imagens em SVG ao Office e os desenvolvedores podem usar esse recurso com a API do Office.js.
-- **Instalação do Microsoft Teams:**  o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. 
-  [Saiba mais](https://docs.microsoft.com/pt-BR/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:**  o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 

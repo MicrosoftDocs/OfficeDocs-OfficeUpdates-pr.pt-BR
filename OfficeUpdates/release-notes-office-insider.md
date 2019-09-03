@@ -39,8 +39,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. 
-  [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -509,8 +508,7 @@ Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que voc�
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. 
-  [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Correções Notáveis:
 

@@ -54,14 +54,11 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 [Atualizações de segurança e não relacionadas à segurança para junho de 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
+[Atualizações de segurança e não relacionadas à segurança para maio de 2019: KB4501270](https://support.microsoft.com/pt-BR/help/4501270)
 
-  [Atualizações de segurança e não relacionadas à segurança para maio de 2019: KB4501270](https://support.microsoft.com/pt-BR/help/4501270)
+[Atualizações de segurança e que Não são de segurança de abril de 2019: KB4495300](https://support.microsoft.com/pt-BR/help/4495300)
 
-
-  [Atualizações de segurança e que Não são de segurança de abril de 2019: KB4495300](https://support.microsoft.com/pt-BR/help/4495300)
-
-
-  [Atualizações de segurança e que não são de segurança de março de 2019: KB4491754](https://support.microsoft.com/pt-BR/help/4491754) 
+[Atualizações de segurança e que não são de segurança de março de 2019: KB4491754](https://support.microsoft.com/pt-BR/help/4491754) 
 
 [Atualizações de Segurança e que Não são de Segurança de Fevereiro de 2019: KB4488446](https://support.microsoft.com/help/4488446)
 

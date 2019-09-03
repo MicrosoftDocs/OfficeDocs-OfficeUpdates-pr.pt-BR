@@ -144,8 +144,7 @@ Versão 1903 (Build 11425.20204)<br/>
 **Office Insider no Twitter**<br/> Em @OfficeInsider, fazemos postagens regularmente sobre versões do Insider e realizamos eventos especiais para participantes do programa Insider.<br/> 
 [Siga-nos no Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/pt-BR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
