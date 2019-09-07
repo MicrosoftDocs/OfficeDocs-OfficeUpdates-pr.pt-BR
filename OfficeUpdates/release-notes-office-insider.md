@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693878"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785408"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,60 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1910-september-06"></a>Versão 1910: 06 de setembro
+*Versão 1910 (Build 12030.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema que poderia fazer com que o nome da fonte na faixa de opções fosse diferente da fonte usada</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Corrigimos um problema que poderia resultar em consumo inapropriado de recursos pelo Outlook quando o modo protegido estivesse desabilitado para sites restritos no Internet Explorer</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia fazer com que caracteres Unicode aparecessem ao colar texto de uma fonte ANSI</span></div>
+
+
+- <div><span>Corrigimos um problema onde alguns usuários apareciam incorretamente como Offline em um modo de exibição de Agenda de Grupo</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema em que a formatação da tabela poderia ser perdida</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia quebrar o atalho de teclado ctrl+v</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1909-august-30"></a>Versão 1909: 30 de agosto
 *Versão 1909 (Build 12026.20000)*
@@ -111,7 +165,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 - <div><span>Corrigimos um problema em que caracteres de vários bytes na caixa de texto vertical eram exibidos sobrepostos no modo de exibição de leitura.<br></span></div>
 
-- <div>Corrigimos&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);"> um problema em que recursos de suplemento relacionados a cartões de mensagem japoneses não eram encontrados quando o usuário realizava uma ação no assistente de suplemento.</div>
+- <div><span>Corrigimos&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);"> um problema em que recursos de suplemento relacionados a cartões de mensagem japoneses não eram encontrados quando o usuário realizava uma ação no assistente de suplemento.</span></span></div>
 
 - <div><span>Corrigimos um problema que poderia causar problemas com a interface do usuário da barra de título, quando estava no modo de exibição protegido</span></div>
 
