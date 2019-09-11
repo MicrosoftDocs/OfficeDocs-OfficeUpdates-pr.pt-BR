@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 864b96c4bee92987e4595803804813f1571ebbd6
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672891"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838282"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -24,6 +24,210 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
+## <a name="version-1908-september-10"></a>Versão 1908: 10 de setembro
+*Versão 1908 (Build 11929.20300)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Aplicar zoom com mais espaço:** aumente a caixa Zoom, altere a fonte e o Zoom lembrará de tudo. [Saiba mais](https://support.office.com/pt-BR/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+- **Manter as guias dos objetos de banco de dados:** Veja as guias ativas, arraste as guias facilmente para reorganizá-las, e feche os objetos de banco de dados com apenas um clique.
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel"></a>Excel
+
+- **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/pt-BR/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
+
+- **Aumente o alcance do seu conteúdo:** precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex na pasta de trabalho. [Saiba mais](https://support.office.com/pt-BR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+- **A colaboração ficou mais fácil:** o aperfeiçoamentos de coautoria significam que, ao trabalhar com formatação condicional, estilos de célula e muito mais, suas alterações são mescladas perfeitamente com as de seus colaboradores.
+
+- **Una tabelas em colunas similares:** Obter e Transformar (Power Query) agora apresenta lógica de texto correspondente aproximado (também chamada de correspondência difusa) ao comparar colunas para mesclar tabelas. [Saiba mais](https://support.office.com/pt-BR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+- **Codifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
+
+### <a name="outlook"></a>Outlook
+
+- **Continue trabalhando enquanto move mensagens:** Agora, o Outlook move mensagens em segundo plano para que você pode continuar trabalhando enquanto move uma grande quantidade de mensagens entre pastas.
+
+- **Crie intervalos entre reuniões consecutivas:** dê um tempo para os participantes descansarem ou se deslocarem entre os locais definindo o término antecipado das reuniões para entre cinco a dez minutos por padrão.
+
+- **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/pt-BR/article/114bb251-861f-41cd-b20f-7e7289630c5b).
+
+- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da caixa de entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. [Saiba mais](https://support.office.com/pt-BR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. [Saiba mais](https://support.office.com/pt-BR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **Layout com mais ou menos espaçamento? Você escolhe:** um espaçamento menor permite decidir se quer mais espaço entre itens ou um layout com menos espaçamento para poder ver mais.
+
+- **Uma faixa de opções simplificada também personalizável:** desfrute de uma única linha simplificada com os botões usados com mais frequência. Alterne facilmente entre visualizações clássicas e simplificadas e comandos para fixar/desafixar. [Saiba mais](https://support.office.com/pt-BR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **Uma maneira mais rápida de adicionar contas:** graças às melhorias de configuração de conta, ficou mais fácil adicionar contas do Outlook.com e do Gmail que usam a autenticação de dois fatores no Outlook. [Saiba mais](https://support.office.com/pt-BR/article/70191667-9c52-4581-990e-e30318c2c081)
+
+- **Escolha a sua ação favorita:** não use Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos mais usados.
+
+- **Diga adeus aos limites de sincronização:** melhorias do Outlook acabou com o limite de pastas, então vá em frente e sincronize suas caixas de correio compartilhadas.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Saiba a opinião de seu público através de um questionário ou pesquisa:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/pt-BR/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
+- **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
+
+- **Aumente o alcance do seu conteúdo:** precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
+
+- **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+
+- **Inserir um vídeo online está mais fácil do que nunca:** Deseja colocar um vídeo do Vimeo ou YouTube no slide? O link da página de vídeo é tudo o que você precisa. [Saiba mais](https://support.office.com/pt-BR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **Melhoria na mudança de formas:** nomeie suas formas para ter mais controle sobre como elas são transformadas. [Saiba mais](https://support.office.com/pt-BR/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Os vídeos online têm um novo lar:** salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo. [Saiba mais](https://support.office.com/pt-BR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+### <a name="project"></a>Project
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio"></a>Visio
+
+- **Diga adeus aos links desfeitos do Excel:** não consegue encontrar a pasta de trabalho do Excel vinculada ao seu diagrama do Visualizador de Dados? Vincule-o novamente para que tudo volte ao normal. [Saiba mais](https://support.office.com/pt-BR/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+
+- **Estênceis criados diretamente no Azure:** crie um aplicativo de nuvem ou planeje uma arquitetura usando dezenas de estênceis do Azure. [Saiba mais](https://support.office.com/pt-BR/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+- **Captura dupla em fluxogramas de dados:** os novos e deslumbrantes layouts para os fluxogramas do Visualizador de Dados são limpos, nítidos e fáceis de entender. Clique na guia Design para ver as opções.
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Exporte diagramas de processo para o Word:** Adicione automaticamente conteúdo de diagrama, como formas e metadados, a um documento do Word. Personalize o documento para criar as diretrizes de processo e os manuais de operação. [Saiba mais](https://support.office.com/pt-BR/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+- **Exporte elementos visuais do Visio a partir do Power BI:** os elementos visuais do Visio para o Power BI agora estão sendo exibidos corretamente ao exportar relatórios do Power BI como PDFs, arquivos do PowerPoint e muito mais. [Saiba mais](https://support.office.com/pt-BR/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word"></a>Word
+
+- **A edição ocorre naturalmente com o Editor por Tinta:** com um único traçado, divida ou una palavras, adicione uma nova linha ou insira palavras usando uma caneta. [Saiba mais](https://support.office.com/pt-BR/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **Transforme seu documento de estático para incrível: ** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/pt-BR/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+
+- **Chame a atenção das pessoas com \@Menções:** use @menções nos comentários para que outras pessoas saibam quando precisa da contribuição delas. [Saiba mais](https://support.office.com/pt-BR/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **Melhore a compreensão com Line Focus:** percorra a linha de um documento sem distrações. Ajuste o foco para colocar uma, três ou cinco linhas na visualização de cada vez. [Saiba mais](https://support.office.com/pt-BR/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+
+- **Localize um arquivo rapidamente:** Procurando um arquivo no qual você trabalhou recentemente? Basta digitar na caixa Pesquisar na guia Arquivo > Página inicial para localizar o arquivo procurado.
+
+- **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+
+- **Aumente o alcance do seu conteúdo:** precisa tornar seus documentos acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
+
+- **Adicione cores à sua página:** com as novas cores de página, você pode trocar rapidamente aquele fundo todo branco ou todo preto se esse não for o seu estilo.
+
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/pt-BR/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Diga adeus às distrações** um dos recursos favoritos do Mac acaba de chegar no Windows. Alterne para o modo Foco no menu Exibir para remover distrações e se concentrar no trabalho. [Saiba mais](https://support.office.com/pt-BR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+### <a name="office-suite"></a>Pacote do Office
+
+- **Compartilhe e carregue seus documentos com novos botões expostos no Local de Informações:** os botões Compartilhar Previamente, Copiar Caminho na Área de Transferência e Abrir Local de Arquivo só estavam acessíveis atrás do caminho de salvamento do documento. Agora, são botões que você pode ver claramente no Local de Informações! Acesse Arquivo > Informações, como você faria normalmente para ver esses novos botões.
+
+- **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+
+- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **Os ícones do Office estão com um novo visual:** os ícones do Office foram reprojetados para refletir as experiências simples, poderosas e inteligentes do Office.
+
+- **Instalação do Microsoft Teams:** o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- Correção de um problema no Excel em que as macros atribuídas a formas ou controles de formulário podem exibir mensagem de erro incorreta ou podem funcionar em intervalos de destino incorretos.
+
+- Correção de um problema em que é possível alterar a forma como uma Tabela Dinâmica é classificada e atualizá-la durante uma sessão de coautoria com outros usuários poderia causar falha.
+
+- Correção de um problema que fazia com que os gráficos de cascata e funil ficassem fora de sincronia com as tabelas quando as células eram inseridas ou excluídas.
+
+- Correção de um problema de conflito de mesclagem no Excel, que resultaria na reabertura de uma pasta de trabalho para os usuários.
+
+- Correção de um problema que fazia com que as operações de recortar e colar próximas de uma tabela falhassem durante a coautoria com outras pessoas.
+
+### <a name="outlook"></a>Outlook
+
+- Correção de um problema em que os usuários que atualizavam a caixa de correio de uma autenticação básica para a moderna acabavam com a conta errada associada ao perfil do Outlook.
+
+- Correção de um problema que fazia com que um subconjunto de usuários POP3 visualizasse todos os seus e-mails formatados em texto simples, independentemente das configurações. Essa correção restaurará o modo de exibição das mensagens formatadas como HTML.
+
+- Correção de um problema que impedia o acesso dos usuários de sugestões de localização por meio de um leitor de tela.
+
+- Correção de um problema que fazia com que alguns usuários encontrassem erros de autenticação ao tentar recuperar as configurações de nuvem do Outlook.
+
+- Correção de um problema que causava ambiguidade para os gerentes se um representante já havia respondido ou não a uma determinada solicitação de reunião.
+
+- Correção de um problema que fazia com que os usuários do Outlook não passassem do estado "senha necessária" em determinados cenários.
+
+- Correção de um problema que causava falha intermitente na pesquisa da pasta atual.
+
+- Correção de um problema que fazia com que os usuários vissem sugestões de salas para reuniões que não eram compatíveis com o horário disponível da sala.
+
+- Correção de um problema temporário no serviço que exibia o erro "não foi possível encontrar este arquivo. Verifique se o caminho e o nome do arquivo estão corretos" ao usar anexos na nuvem. [Saiba Mais](https://support.office.com/pt-BR/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- Correção de um problema que fazia com que os usuários vissem arquivos carregados do Outlook para o OneDrive ou o SharePoint com o nome do arquivo alterado onde vários caracteres foram substituídos por sublinhados.
+
+- Correção de um problema para usuários não falantes do inglês, onde a linha de assunto de um email seria muito pequena.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de um problema em que alguns suplementos lançavam erros inesperados relacionados às formas nos gráficos.
+
+- Correção de um problema para restaurar o nome acessível para controles de vídeo do PowerPoint.
+
+- Correção de um problema que poderia impedir a inicialização de algumas animações.
+
+### <a name="project"></a>Project
+
+- Correção de um problema para que os usuários do Windows 7 possam abrir projetos do Project Web App e sites do SharePoint.
+
+
+### <a name="visio"></a>Visio
+
+- Exportar para SVG a partir do Visio não estava funcionando para várias formas.
+
+### <a name="word"></a>Word
+
+- Correção de um problema em que os usuários recebiam mensagens de erro durante a colaboração com outras pessoas em um documento do Word.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Correção de um problema que em alguns casos um arquivo do mecanismo de sincronização do SharePoint poderia exibir “salvo”, mas não salvava as alterações.
+
+- Correção de um problema em que grandes modos de exibição de árvore falhavam.
+
+- Correção de um problema de identificação incorreta do nome da nova era "Reiwa" em Hiragana e Kanji como um erro ortográfico ou expressão gramaticalmente incorreta.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 ## <a name="version-1902-august-13"></a>Versão 1902: 13 de agosto
 *Versão 1902 (Build 11328.20392)*
 
