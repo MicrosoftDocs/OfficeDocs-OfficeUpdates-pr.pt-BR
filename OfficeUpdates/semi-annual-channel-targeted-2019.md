@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838282"
+ms.locfileid: "36841040"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -22,6 +22,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  
 > [!NOTE]
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install).
 
  
 ## <a name="version-1908-september-10"></a>Versão 1908: 10 de setembro
@@ -139,6 +142,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Diga adeus às distrações** um dos recursos favoritos do Mac acaba de chegar no Windows. Alterne para o modo Foco no menu Exibir para remover distrações e se concentrar no trabalho. [Saiba mais](https://support.office.com/pt-BR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 ### <a name="office-suite"></a>Pacote do Office
+
+- **Instalação do Microsoft Teams:** O Teams foi adicionado nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
 
 - **Compartilhe e carregue seus documentos com novos botões expostos no Local de Informações:** os botões Compartilhar Previamente, Copiar Caminho na Área de Transferência e Abrir Local de Arquivo só estavam acessíveis atrás do caminho de salvamento do documento. Agora, são botões que você pode ver claramente no Local de Informações! Acesse Arquivo > Informações, como você faria normalmente para ver esses novos botões.
 
@@ -475,7 +480,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
 
 - **Os aplicativos de terceiros do Office agora têm suporte para inserir imagens em SVG usando a API do Office.js:** agora, os aplicativos de terceiros, também conhecidos como suplementos do Office, têm a capacidade de inserir imagens em SVG. Os usuários já podem conectar a coleção pessoal de imagens em SVG ao Office e os desenvolvedores podem usar esse recurso com a API do Office.js.
-- **Instalação do Microsoft Teams:**  o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:**  o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 
