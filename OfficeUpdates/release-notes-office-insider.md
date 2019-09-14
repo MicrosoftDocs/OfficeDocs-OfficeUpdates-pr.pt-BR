@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785408"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972852"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -91,6 +91,11 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
+
+### <a name="access"></a>Access
+
+- **Localizar tabelas vinculadas rapidamente** Nossa nova caixa de pesquisa facilita a localização de tabelas vinculadas.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,11 +565,20 @@ Versão 1907 (build 11901.20018)
 
 Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que você ainda está trabalhando nele. Ele dá um toque pessoal aos seus objetos sem transformá-los em uma forma livre ou com aparência de desenhados à mão.
 
+### <a name="excel"></a>Excel
+
+- **Compartilhamento rápido de arquivos**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba Mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
-## <a name="notable-fixes"></a>Correções Notáveis:
+- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+### <a name="word"></a>Word
+
+- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="all"></a>Todos
 - Melhoramos significativamente o desempenho das dicas de ferramentas da faixa de opções.
@@ -616,7 +630,11 @@ Versão 1907 (build 11819.20002)
 
 - **Códifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros
 
-- **Unir tabelas em colunas similares:** Obter e Transformar (Power Query) agora apresenta lógica de texto correspondente aproximado (também chamada de correspondência difusa) ao comparar colunas para mesclar tabelas.
+- **Una tabelas em colunas similares:** Obter e Transformar (Power Query) agora apresenta lógica de texto correspondente aproximado (também chamada de correspondência difusa) ao comparar colunas para mesclar tabelas.
+
+### <a name="word"></a>Word
+
+- **Melhorias na coautoria** Confiabilidade aprimorada durante a coautoria.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint e Visio
 
@@ -1036,6 +1054,12 @@ Vá para a guia Desenhar. Selecione uma caneta. Desenhe um traço de tinta. Sele
 ## <a name="may-10-2019"></a>10 de maio de 2019
 Versão 1906 (build 11702.20000)
 
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="outlook"></a>Outlook
+
+**Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens.
+
 ## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="all"></a>Todos
@@ -1063,6 +1087,12 @@ Versão 1906 (build 11702.20000)
 
 ## <a name="may-3-2019"></a>3 de maio de 2019
 Versão 1906 (build 11629.20008)
+
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="outlook"></a>Outlook
+
+**Todas as opções de criptografia em um só lugar:** Basta ir em Opções > Criptografar para escolher como proteger sua mensagem de email.
 
 ## <a name="notable-fixes"></a>Correções notáveis:
 
@@ -1096,7 +1126,11 @@ Versão 1906 (build 11629.20008)
 ## <a name="april-26-2019"></a>26 de abril de 2019
 Versão 1905 (build 11617.20002)
 
-## <a name="new-features"></a>Novos recursos
+## <a name="new-features"></a>Novos Recursos
+
+### <a name="outlook"></a>Outlook
+
+**As tualizações de calendário compartilhadas ficaram mais rápidas**: No caso de calendários compartilhados no Office 365, o Outlook pode atualizá-los usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.
 
 ### <a name="excel"></a>Excel
 
@@ -1134,7 +1168,11 @@ Melhor experiência de coautoria, tornando mais provável que as alterações de
 ## <a name="april-19-2019"></a>19 de abril de 2019
 Versão 1905 (build 11609.20002)
 
-## <a name="whats-new"></a>Novidades:
+## <a name="whats-new"></a>O que há de novo:
+
+### <a name="outlook"></a>Outlook
+
+**Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa.
 
 ### <a name="excel"></a>Excel
 

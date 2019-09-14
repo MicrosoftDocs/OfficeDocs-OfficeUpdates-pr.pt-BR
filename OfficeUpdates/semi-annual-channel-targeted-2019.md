@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841040"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972812"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -221,8 +221,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 - Correção de um problema em que os usuários recebiam mensagens de erro durante a colaboração com outras pessoas em um documento do Word.
 
+- Correção de um problema em que os usuários recebiam a mensagem "Algo está nos impedindo de compartilhar isso" ao tentar compartilhar arquivos armazenados no SharePoint 2016.
 
-### <a name="office-suite"></a>Pacote do Office
+
+### <a name="office-suite"></a>Pacote Office
 
 - Correção de um problema que em alguns casos um arquivo do mecanismo de sincronização do SharePoint poderia exibir “salvo”, mas não salvava as alterações.
 
