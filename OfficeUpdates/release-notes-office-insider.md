@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972852"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980447"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,44 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1910-september-13"></a>Versão 1910: 13 de setembro
+*Versão 1910 (Build 12105.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Consertamos um problema que poderia impedir que um usuário colasse hiperlinks em algumas planilhas protegidas</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Consertamos um problema em que a IU poderia ficar presa em um modo de exibição compacto</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Consertamos um problema em que um usuário poderia ter um erro ao imprimir em PDF</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Consertamos um problema em que<span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;"> as alterações feitas em um valor de trabalho em uma tarefa de resumo poderiam causar uma falha se o trabalho protegido estivesse habilitado</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">Consertamos um problema que poderia inibir a capacidade de sincronizar eventos com calendários da empresa</font>
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><span>Consertamos um problema que poderia causar um aviso repetido para descartar versões locais de um arquivo</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-september-06"></a>Versão 1910: 06 de setembro
 *Versão 1910 (Build 12030.20004)*
