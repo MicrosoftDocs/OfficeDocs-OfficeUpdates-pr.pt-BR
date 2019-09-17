@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919115"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998617"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -23,60 +23,75 @@ Olá, Insiders! Se você quer saber se possui a versão mais recente instalada o
 
 ## <a name="office-insider-versions-and-builds"></a>Versões do office Insider e compilações
 
-Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Mensal (Direcionado) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações presentes nas versões anteriores. Para saber as notas de versão, confira [Quais são as novidades para participantes do Office Insiders](https://support.office.com/pt-BR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Mensal (Direcionado) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações presentes nas versões anteriores. Para saber as notas de versão, confira [Quais são as novidades para participantes do Office Insiders](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão
 
  > [!NOTE]
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+> - Microsoft Teams em instalações existentes do Office 365 ProPlus – início no final de junho, o Microsoft Teams será incluído nas instalações existentes do Office 365 ProPlus (e no Office 365 Business), após a atualização dessas instalações. A data em que as equipes serão adicionadas dependerá do canal de atualização que você estiver usando. Consulte [implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
 
+**16 de setembro de 2019**<br/>
+Versão 1909 (Build 12026,20190)<br/>
+
+**10 de setembro de 2019**<br/>
+Versão 1909 (Build 12026,20108)<br/>
+
+**25 de agosto de 2019**<br/>
+Versão 1908 (Build 11929,20254)<br/>
+
+**16 de agosto de 2019**<br/>
+Versão 1908 (Build 11929,20182)<br/>
+
+**13 de agosto de 2019**<br/>
+Versão 1908 (Build 11929,20114)<br/>
+
 **27 de julho de 2019**<br/>
-Versão 1907 (Build 11901.20176)<br/>
+Versão 1907 (Build 11901,20176)<br/>
 
 **25 de julho de 2019**<br/>
-Versão 1907 (Build 11901.20156)<br/>
+Versão 1907 (Build 11901,20156)<br/>
 
 **22 de julho de 2019**<br/>
-Version 1907 (Build 11901.20120)<br/>
+Versão 1907 (Build 11901,20120)<br/>
 
 **15 de julho de 2019**<br/>
-Versão 1907 (Build 11901.20080)<br/>
+Versão 1907 (Build 11901,20080)<br/>
 
 **9 de julho de 2019**<br/>
-Versão 1906 (Build 11727.20244)<br/>
+Versão 1906 (Build 11727,20244)<br/>
 
 **27 de junho de 2019**<br/>
-Versão 1906 (Build 11727.20230)<br/>
+Versão 1906 (Build 11727,20230)<br/>
 
 **26 de junho de 2019**<br/>
-Versão 1906 (Build 11727.20224)<br/>
+Versão 1906 (Build 11727,20224)<br/>
 
 **23 de junho de 2019**<br/>
-Versão 1906 (Build 11727.20210)<br/>
+Versão 1906 (Build 11727,20210)<br/>
 
 **20 de junho de 2019**<br/>
-Versão 1906 (build 11727.20188)<br/>
+Versão 1906 (Build 11727,20188)<br/>
 
 **11 de junho de 2019**<br/>
-Versão 1906 (Build 11727.20104)<br/>
+Versão 1906 (Build 11727,20104)<br/>
 
-**03 de junho de 2019**<br/>
-Version 1905 (Build 11629.20214)<br/>
+**3 de junho de 2019**<br/>
+Versão 1905 (Build 11629,20214)<br/>
 
 **25 de maio de 2019**<br/>
-Versão 1905 (Build 11629.20196)<br/>
+Versão 1905 (Build 11629,20196)<br/>
 
-**22 de maio de 2019**<br/> Versão 1905 (Build 11629.20164)<br/>
+**22 de maio de 2019**<br/> Versão 1905 (Build 11629,20164)<br/>
 
 **16 de maio de 2019**<br/>
-Versão 1905 (Build 11629.20136)<br/>
+Versão 1905 (Build 11629,20136)<br/>
 
 **14 de maio de 2019**<br/>
-Versão 1904 (Build 11601.20204)<br/>
+Versão 1904 (Build 11601,20204)<br/>
 
 **08 de maio de 2019**<br/>
 Versão 1904 (Build 11601.20178)<br/>
@@ -144,8 +159,9 @@ Versão 1903 (Build 11425.20204)<br/>
 **Office Insider no Twitter**<br/> Em @OfficeInsider, fazemos postagens regularmente sobre versões do Insider e realizamos eventos especiais para participantes do programa Insider.<br/> 
 [Siga-nos no Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/pt-BR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Obter novos recursos primeiro**
