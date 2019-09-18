@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
-ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36973380"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011671"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -128,9 +128,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 - **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Adicione Títulos de Slides para tornar suas apresentações acessíveis:**: O Verificador de Acessibilidade ajuda você a encontrar e corrigir títulos de slides ausentes.
+- **Adicione Títulos de Slides para tornar suas apresentações acessíveis:**: o Verificador de Acessibilidade ajuda você a encontrar e corrigir títulos de slides ausentes. [Saiba Mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso: **Encontre-o na lista suspensa Imprimir > Layout de Impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
