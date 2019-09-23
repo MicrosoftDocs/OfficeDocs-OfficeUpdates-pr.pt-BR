@@ -3,19 +3,19 @@ title: Notas de versão do Office para Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838238"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040689"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -34,6 +34,21 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções)no Montly channel durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Observação:** As informações de versão do Microsoft AutoUpdate (MAU) foram movidas para a página [Histórico de Versões do MAU](https://docs.microsoft.com/pt-BR/officeupdates/release-history-microsoft-autoupdate).<br/>
+
+## <a name="september-18-2019-release"></a>Lançamento de 18 de setembro de 2019
+*Versão 16.29.1 (Build 19091700)*
+
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+
+- Foi corrigido um problema com a lista de documentos abertos recentemente quando não conectado ao Office.
+
+### <a name="excel--feature-updates"></a>Excel: Atualizações de recursos
+
+- Foi corrigido um problema com a lista de documentos abertos recentemente quando não conectado ao Office.
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
+
+- Foi corrigido um problema com a lista de documentos abertos recentemente quando não conectado ao Office.<br/><br/>
 
 ## <a name="september-10-2019-release"></a>Lançamento de 10 de setembro de 2019
 *Versão 16.29 (Build 19090802)*
