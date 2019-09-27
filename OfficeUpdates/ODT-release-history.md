@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: b0f53ad140880f7ef173efc544892d56f0658bb1
-ms.sourcegitcommit: 917d87752cde322a74251b6d23b12815587d1e51
+ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444937"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275482"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico da versão da Ferramenta de Implantação do Office
 
@@ -62,4 +62,4 @@ Versão 16.0.11306.33602
 
 ## <a name="related-links"></a>Links relacionados
 
-[Notas de Versão da ODT](https://www.microsoft.com/en-us/download/details.aspx?id=49117)
+[Centro de download da ODT](https://www.microsoft.com/en-us/download/details.aspx?id=49117)

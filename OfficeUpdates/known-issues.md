@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068046"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275492"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
 
@@ -31,13 +31,17 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 
 |Resumo|Investigando|Resolvido|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+Descobrimos um problema que impede que os hiperlinks sejam colados em algumas planilhas protegidas.|Mensal e SACT versão 1908 e o SAC versão 1902||
+Encontramos um problema no recurso ideias do Excel, um erro ao carregar o suplemento clicando no botão ideias no cliente Win32.|Versão mensal 1908||
+Encontramos um problema em que são exibidos somente 16 suplementos ao navegar no Gerenciador de suplementos.|Mensal e SACT versão 1908||
 |**Outlook**
 Encontramos um problema que poderia impedir que os arquivos fossem salvos em um local WebDAV.|Versão mensal 1909||
 |**Project**
-Considere o seguinte cenário. Você abre um projeto. Você clica no menu Arquivo, clica em Exportar e clica no botão Criar PDF/XPS. Na caixa de diálogo Procurar, digite um nome de arquivo e clique em OK. Nesta situação, você descobre que o arquivo PDF do XPS não é criado. |Versão 1902 do SAC||
+Encontramos um problema durante a criação de um PDF/XPS no menu arquivo. o arquivo não foi criado. |Versão 1902 do SAC||
 |**Word**
 Encontramos um problema que os usuários poderiam encontrar ao abrir um arquivo.|Versão mensal 1908||
-Para arquivos do Office sincronizados pelo Mecanismo de Sincronização do OneDrive, os metadados do documento, como Propriedades Necessárias e requisitos de Tipo de Conteúdo, não são mais validados ao Salvar e Salvar como.|Versão 1902 do SAC||
+Encontramos um problema com arquivos do Office sincronizados pelo Mecanismo de Sincronização do OneDrive, os metadados do documento, como Propriedades Necessárias e requisitos de Tipo de Conteúdo, não são mais validados ao Salvar e Salvar como.|Versão 1902 do SAC||
 
 ## <a name="may-2019---sample"></a>Maio 2019 - EXEMPLO
 
