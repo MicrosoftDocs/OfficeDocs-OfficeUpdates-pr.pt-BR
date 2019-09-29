@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980447"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300488"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,92 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1910-september-27"></a>Versão 1910: 27 de setembro
+*Versão 1910 (Build 12119.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema que poderia ter causado a renderização incorreta de gráficos de linhas de dispersão na alteração da coleção de série</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Corrigimos um problema que poderia ter relatado erros de permissão ao interagir com pastas de calendário compartilhadas</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia impedir os usuários de adicionarem anexos a calendários</span></div>
+
+
+- <div><span>Corrigimos um problema que causou a exibição de mensagens de erro ao responder a uma mensagem assinada digitalmente</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema que poderia ter causado problemas de dimensionamento ao imprimir em impressoras DeskJet</span></div>
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><span>Corrigimos um problema em que o texto médio em negrito poderia ser estilizado de forma incorreta</span></div>
+
+
+- <div><span>Corrigimos um problema em que um usuário poderia receber uma mensagem de erro incorreta ao fechar um arquivo com um carregamento pendente.</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1910-september-20"></a>Versão 1910: 20 de setembro
+*Versão 1910 (Build 12112.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema em que o Excel podia, às vezes, parar durante a inicialização</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Melhoramos significativamente o desempenho da seleção de sala quando há um grande número de salas disponíveis</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Corrigimos um problema que podia impedir a sincronização de caixa de correio para clientes com várias caixas de correio no Outlook durante a migração para a autenticação moderna no Office 365</span><br></div>
+
+
+- <div><span>Corrigimos um problema em que alguns caracteres em rótulos de assinatura não eram exibidos no menu suspenso</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Corrigimos um problema que podia causar uma falha ao substituir um recurso da empresa por um recurso local</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema que podia impedir que a rolagem sincronizada funcionasse corretamente no modo de exibição de rascunho</span></div>
+
+
+- <div>Corrigimos um problema que podia impedir a exibição adequada das Dicas de Ferramenta após salvar um documento pela primeira vez.</div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-september-13"></a>Versão 1910: 13 de setembro
 *Versão 1910 (Build 12105.20000)*
@@ -856,7 +942,7 @@ Agora, você pode desenhar e fazer anotações em seus emails do Outlook.
 
 #### <a name="open-document-links-in-word"></a>Abrir links de documentos no Word
 
-Ao clicar em um link de documento no office, você pode atualizar suas preferências para abrir o aplicativo do Word por padrão.  Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de documento no office, você pode atualizar suas preferências para abrir o aplicativo do Word por padrão.  Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
@@ -877,7 +963,7 @@ Para acionar a experiência de aceitação: abrir um link tot um documento do Wo
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Abrir links de apresentação no PowerPoint
 
-Ao clicar em um link de apresentação no Office, você pode atualizar suas preferências para abrir o aplicativo do PowerPoint por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de apresentação no Office, você pode atualizar suas preferências para abrir o aplicativo do PowerPoint por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
@@ -898,7 +984,7 @@ Para acionar a experiência de aceitação: abra um link para uma apresentação
 
 #### <a name="open-workbook-links-in-excel"></a>Abrir links de pasta de trabalho no Excel
 
-Ao clicar em um link de pasta de trabalho no Office, você pode atualizar suas preferências para abrir o aplicativo do Excel por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/pt-BR/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de pasta de trabalho no Office, você pode atualizar suas preferências para abrir o aplicativo do Excel por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
