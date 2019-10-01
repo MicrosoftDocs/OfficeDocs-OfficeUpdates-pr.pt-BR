@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011671"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329249"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Mensal para o Office 365 ProPlus em 2019, o Visio Pro para Office 365, o Cliente de Área de Trabalho do Microsoft Project Online e o Office 365 Business.
  
  > [!NOTE]
->- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/pt-BR/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1909-september-30"></a>Versão 1909: 30 de setembro
+*Versão 1909 (Build 12026.20264)*
+* Várias correções de bugs e desempenho.
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Localizar tabelas vinculadas rapidamente** Nossa nova caixa de pesquisa facilita a localização de tabelas vinculadas. [Saiba mais](https://support.office.com/pt-BR/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+### <a name="outlook"></a>Outlook
+
+- **O menu Inserir Link no Outlook inserirá um link com a permissão definida pelo administrador do locatário:** um link do Inserir Link MRU no Outlook insere um link que só funcionou para usuários que já tinham permissões. Isso causou uma troca de emails frequente entre os usuários solicitando o acesso a um documento. Atualizamos essa experiência, agora o link é inserido com a permissão padrão definida pelo administrador do locatário.
+
+- **Atualização visual do Outlook:** isso faz parte da atualização visual das principais experiências no Outlook, atualizando o layout das mensagens de email no painel de leitura e inspetor.
+
+- **As tualizações de calendário compartilhadas ficaram mais rápidas**: No caso de calendários compartilhados no Office 365, o Outlook pode atualizá-los usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.
+
+- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais.
+
+- **Envie o email para a pessoa certa:** basta clicar na linha Para: e escolher entre os contatos sugeridos. Um indicador de imagem e presença ajuda você a escolher a pessoa certa.
+
+- **Proteção avançada contra ataque:** com a proteção avançada contra ameaças do Office 365, você está protegido contra ataques por meio de hiperlinks dentro de assuntos de email, mensagens anexadas, mensagens assinadas, caminhos de rede e assim por diante.
+
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/pt-BR/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Repe-tinta-ção instantânea:** anime um desenho à tinta para que ele avance ou retroceda durante a sua apresentação de slides. [Saiba mais](https://support.office.com/pt-BR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+### <a name="word"></a>Word
+
+- **Fale de outra maneira:** quando você quiser dizer algo de forma diferente, o Reescrever estará lá para ajudar. O Reescrever oferece alternativas para refinar a suas frases.
+
+- **Melhorias na coautoria** Confiabilidade aprimorada durante a coautoria.
+
+- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+- **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Resolvemos um problema que impedia que os hiperlinks fossem colados em algumas planilhas protegidas.</span><br></div>
+
+
+- <div>Habilitamos mais de 16 suplementos para mostrar &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;"> ao navegar no gerenciador de suplementos.</span></div>
+
+
+### <a name="insights-services"></a>Serviços de informações
+
+- <div>Corrigimos um problema no recurso ideias do Excel, um erro ao carregar o suplemento clicando no botão ideias no cliente Win32.&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Corrigimos um problema que provocou falha na exibição de URLs de foco simples para alguns safelinks.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Atualizamos a lógica de bloqueio de anexos no Outlook para bloquear anexos de python também.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Corrigimos um problema que fazia com que usuários observassem um vazamento de memória no processo do Outlook.</span>
+
+- Consertamos um problema que podia impedir que os arquivos fossem salvos em um local do WebDAV.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">Corrigimos um problema que os usuários encontravam ao abrir um arquivo.</p></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-september-10"></a>Versão 1908: 10 de setembro
 *Versão 1908 (Build 11929.20300)*
