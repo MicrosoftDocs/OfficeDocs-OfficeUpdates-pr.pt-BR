@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329249"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350262"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -88,12 +88,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 - <div>Habilitamos mais de 16 suplementos para mostrar &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;"> ao navegar no gerenciador de suplementos.</span></div>
-
-
-### <a name="insights-services"></a>Serviços de informações
-
 - <div>Corrigimos um problema no recurso ideias do Excel, um erro ao carregar o suplemento clicando no botão ideias no cliente Win32.&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
