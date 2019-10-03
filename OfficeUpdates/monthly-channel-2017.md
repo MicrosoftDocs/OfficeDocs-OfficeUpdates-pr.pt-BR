@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais mensais do Office 365 ProPlus em 2017
-ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350252"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375817"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de versão para lançamentos de canais mensais no 2017
 
@@ -455,7 +455,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
 
-### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
+### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 -   **Baixando anexos de nuvem:** quando você salva ou arrasta e solta os anexos do OneDrive no computador, nosso sistema baixa os arquivos para você.
 -   **Sons úteis melhoram a acessibilidade:** ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 
@@ -472,7 +472,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
 
-### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
+### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção de um problema em que o trabalho real erroneamente é transferido para um recurso da empresa quando ela substitui um recurso local e o trabalho protegido está habilitado.
 -   Correção de um problema em que o projeto trava se você tiver uma tabela cuja primeira coluna é o nome da tarefa, a coluna esteja bloqueada e você clicar em uma tarefa.
 -   Correção de um problema em que você pode atribuir o mesmo recurso várias vezes à mesma tarefa por meio do modo de exibição de Uso da Tarefa.
@@ -539,17 +539,15 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
 -   **Conector do Azure Data Lake Store:** os usuários já podem importar dados do Azure Data Lake Store.
 -   **Melhorias "Adicionar Coluna de Exemplos":** com suporte para sugestões, mais operações de Data/Hora e outras transformações.
-- **Acessibilidade criada diretamente no** Encontre facilmente as configurações para tornar os aplicativos mais acessíveis nas opções > facilidade de acesso.
 
-### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
+### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 -   **Nova configuração de conta:** configure novas contas com um novo assistente que requer menos etapas manuais.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 -   **Personalização de caneta:** escolha um conjunto pessoal de canetas e marca-textos para escrita à tinta. O conjunto personalizado ficará disponível em todos os computadores Windows.
 -   **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
-- **Acessibilidade criada diretamente no** Encontre facilmente as configurações para tornar os aplicativos mais acessíveis nas opções > facilidade de acesso.
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção de um problema em que os valores de linha de base divididos em fases não correspondem aos valores iniciais ao salvar um projeto no formato de arquivo XML.
 -   Correção de um problema em que o cliente do Project não abre um projeto por julgar que o respectivo check-out já foi feito, quando na verdade não foi.
 -   Correção de um problema de modo que seja mais rápido abrir arquivos do Project em um servidor de arquivos com alta latência.
@@ -567,12 +565,6 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 - **Personalização de caneta:** escolha um conjunto pessoal de canetas e marca-textos para escrita à tinta. O conjunto personalizado ficará disponível em todos os computadores Windows.
 - **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
-- **Acessibilidade criada diretamente no** Encontre facilmente as configurações para tornar os aplicativos mais acessíveis nas opções > facilidade de acesso.
-
-### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
-- **Permaneça protegido contra links mal-intencionados em documentos do Office** Safelinks é um recurso da empresa que oferece o horário de clique na proteção para links Web (http/https) em documentos do Office.
-
-
 
 ## <a name="version-1705-june-13"></a>Versão 1705:13 de junho
 *Versão 1705 (build 8201.2102)*
@@ -625,8 +617,6 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Legendas ocultas para vídeos:** adicione legendas ocultas a um vídeo para torná-lo mais acessível. [Mais informações](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Melhoria do Designer:** o Designer agora recomenda ideias de design para gráficos adicionados aos seus slides.
 -   **Suporte à proteção de informações do Windows (WIP):**    o PowerPoint agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
-- **Tornar suas imagens mais acessíveis** Os serviços inteligentes geram texto ALT para suas imagens para tornar seus documentos mais acessíveis para pessoas com deficiência visual.
-- O **designer do PowerPoint transforma mais tipos de slides** Agora, o designer recomenda ideias de design para gráficos adicionados aos slides.
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção da caixa de diálogo Criar Site do Projeto para mostrar o local correto do site, agora que no Project Online cada EPT (Modelo do Enterprise Project) terá a própria URL para sites de projetos.
@@ -657,9 +647,6 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Assistência de escrita aprimorada com o painel Editor:** Use o painel Editor para obter recomendações de estilo de escrita, ortografia e gramática. Ele foi criado para ser acessado com suporte aprimorado a tecnologias adaptativas.
 -   **Criação de texto Alt:** um serviço baseado em nuvem gera automaticamente texto alternativo (texto alt) para imagens em um documento.
 -   **Suporte à proteção de informações do Windows (WIP):**    o Word agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
-- **Tornar suas imagens mais acessíveis** Os serviços inteligentes geram texto ALT para suas imagens para tornar seus documentos mais acessíveis para pessoas com deficiência visual.
-
-
 
 ## <a name="version-1704-june-1"></a>Versão 1704:1º de junho
 *Versão 1704 (build 8067.2157)*
@@ -755,7 +742,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-feature-updates"></a>Access: Atualizações de recursos
 -   **Caixa de diálogo Novidades:** Uma caixa de diálogo que destaca os novos recursos do Access é exibida ao abrir este programa, após a respectiva atualização com os novos recursos. A caixa de diálogo também está disponível em Arquivo \> Conta \> Novidades.
 
-### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Melhorias no recurso Obter e Transformar:** detecção automática de caractere delimitador ao dividir colunas usando o Editor de Consultas, escolher o arquivo de exemplo para usar com o recurso Combinar Binários e especificar a Coleção de Pacotes ao qual se conectar durante o uso do conector DB2.
 -   **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Mais informações](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -794,7 +781,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Criar diagramas de dados do Excel:** Criar automaticamente um Fluxograma Básico ou um Fluxograma Multifuncional de dados do Excel usando novos modelos do Visualizador de Dados. [Mais informações](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+### <a name="word-feature-updates"></a>Word: atualizações de recursos
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Mais informações](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
@@ -854,7 +841,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Remoção de segundo plano:** Remova o segundo plano da imagem com uma ferramenta de desenho de forma livre.
 -   **Melhorias no recurso Obter e Transformar:** Use a opção "Selecionar Tabelas Relacionadas" na caixa de diálogo do Navegador com os conectores ODCB e OLEDB, combine vários arquivos diretamente na caixa de diálogo Visualização de Dados da pasta e use uma nova opção de menu de contexto na janela do Editor de Consultas para inserir novas etapas em consultas existentes.
 
-### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Correção de um problema em que o Excel pode falhar ao inserir hiperlinks.
 -   Correção de um problema em que o Excel pode falhar ao adicionar Mapas XML.
 -   Correção de um problema em que o botão de comando de um suplemento deixa de funcionar após atualizar ou remover e baixar novamente o suplemento da Office Store.
@@ -910,10 +897,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o Narrador pronuncia informações incorretas, quando o usuário navega na janela de Conteúdo.
 -   Correção de um problema em que os nomes do criador e do modificador não são exibidos ao passar o cursor do mouse sobre as anotações em um quadro de comunicações.
 
-### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
 -   **Trechos de código:** Capture trechos de código de um desenho do Visio e exporte-os como slides para o PowerPoint. [Mais informações](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Remoção de segundo plano:** Remova o segundo plano da imagem com uma ferramenta de desenho de forma livre.
 -   **Lado a Lado:** Navegue em páginas no modo de exibição Layout de Impressão ao deslizá-las lado a lado, como uma pilha de papéis. [Mais informações](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 
@@ -991,7 +978,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: atualizações não relacionadas à segurança
 -   Correção de um problema em que, se o GrooveIntlResource.dll não puder ser carregado com êxito (o que é improvável em circunstâncias normais), um aplicativo do Office poderá falhar se o usuário tentar abrir ou salvar um arquivo em uma pasta sincronizada ou o Windows Explorer poderá falhar se o usuário navegar para uma pasta sincronizada usando o Windows Explorer.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   Correção de um problema em que o Skype for Business trava quando várias janelas de conversação estão abertas ao mesmo tempo.
 
 
@@ -1047,7 +1034,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que uma opção de reparo é mostrada incorretamente quando o usuário inspeciona uma tarefa que tem uma atribuição além do problema de unidade máxima.
 -   Foi corrigido um problema em que o valor de um campo de Código de Estrutura de Tópicos não pode ser alterado depois que o projeto é publicado.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Foi corrigido um problema em que a última janela de conversa fica em branco depois que todas as outras guias são fechadas.
 -   Foi corrigido um problema em que o foco padrão não está na área de entrada de chat quando conversas em guias estão desabilitadas.
 -   Foi corrigido um problema em que o link "Esqueceu seu PIN de discagem?" não aparece no convite da reunião.
