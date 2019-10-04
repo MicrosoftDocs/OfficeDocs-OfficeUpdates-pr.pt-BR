@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
-ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
+ms.openlocfilehash: a56ceef84a0af1ad73e17079ad68b904ed6a9e96
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33568601"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375807"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -25,8 +25,6 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) mensalmente durante um período de tempo. Isso permite garantir que tudo estará funcionando bem antes de soltar o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe você receberá-eventualmente. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente nas [Atualizações de segurança](office365-proplus-security-updates.md). 
 
 ## <a name="version-1811-december-11"></a>Versão 1811: 11 de dezembro
@@ -60,7 +58,6 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 - **Aplicar zoom e manter:** Em vez de ajustar o Zoom sempre que quiser ler uma mensagem, escolha um padrão para todas as suas mensagens. [Saiba mais](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Continue trabalhando enquanto move mensagens:** Agora, o Outlook move mensagens em segundo plano para que você pode continuar trabalhando enquanto move uma grande quantidade de mensagens entre pastas.
 - **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
-- **Bloquear o download de conteúdo externo por padrão em emails criptografados e assinados SMIME:** devido a uma vulnerabilidade de protocolo SMIME, o Outlook bloqueia o download de conteúdo externo em mensagens criptografadas ou assinadas em SMIME. Os usuários não poderão clicar em download de conteúdo externo por meio da interface do usuário do Outlook para se proteger da vulnerabilidade de segurança. Há uma nova opção na caixa de diálogo Opções para permitir que os usuários retornem ao comportamento antigo. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
@@ -190,13 +187,12 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 - **Assista seus slides ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a tela.[Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Saiba a opinião de seu público através de um questionário ou pesquisa:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 - **Chamar a atenção com \@menções** usar @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Conversor do Editor de equações** O conversor permite aos usuários converter equações criadas com o Editor de Equações da Microsoft para o formato Math ML do Office para habilitar a edição.
-- **Transforme seu documento de estático para incrível: ** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Dê uma forma incrível ao seu documento** Transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo.  [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ## <a name="version-1808-september-11"></a>Versão 1808: 11 de setembro
 *Versão 1808 (build 10730.20102)*
@@ -296,22 +292,21 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office
 
-
 ## <a name="version-1806-june-25"></a>Versão 1806: 25 de junho
 *Versão 1806 (build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
- - **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Edição aprimorada para células e barra de fórmulas**: agora, é possível usar o comando Ctrl+T para selecionar texto em uma célula ou na barra de fórmulas. Há também um aprimoramento de suporte para emojis e outros caracteres complexos.[Saiba mais](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
- - **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
- - **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis.[Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **Padrão de recorrência**: na caixa de diálogo "Compromisso recorrente" (em Intervalo de recorrência), "Termina em" é a configuração padrão (em vez de "Sem data de término") e a primeira configuração listada; e uma data de término padrão é definida.
+- **Aprimoramentos do Verificador de Acessibilidade:** o Verificador de Acessibilidade atualizou o suporte para padrões e recomendações internacionais para deixar as mensagens mais acessíveis.[Saiba mais](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
- - **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-
+- **Suporte aprimorado para SVG:** agora, é possível inserir imagens SVG que tenham filtros aplicados. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Dê um título aos slides com uma caneta**: use a caneta para escrever um título com tinta e veja o PowerPoint converter a tinta em texto. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="project-feature-updates"></a>Project: atualizações de recursos
  - **Mantenha a organização com locais de salvamento Recentes**: o Project mantém uma lista ativa de locais em que você salvou outros projetos. Quando estiver pronto para salvar um projeto, basta escolher um dos Locais de salvamento recentes e continuar trabalhando.
