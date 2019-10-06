@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350262"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391295"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -63,6 +63,10 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - **Repe-tinta-ção instantânea:** anime um desenho à tinta para que ele avance ou retroceda durante a sua apresentação de slides. [Saiba mais](https://support.office.com/pt-BR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+
+### <a name="visio"></a>Visio
+
+- **Projete e automatize fluxos de trabalho de negócios usando o Microsoft Flow e o Visio:** use o Visio para projetar o diagrama de fluxo de trabalho e exporte-o para o Microsoft Flow para automatizar.
 
 ### <a name="word"></a>Word
 
@@ -528,8 +532,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Arquivos grandes agora são abertos mais rapidamente: ** imagens, vídeos e outros elementos grandes agora são baixados em segundo plano quando você abre arquivos armazenados no OneDrive ou no SharePoint.
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
 - **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 - **Descubra por que o Salvamento Automático não está ativo! ** Clicar no botão de Salvamento Automático quando estiver desativado agora exibirá um balão muito útil com os motivos pelos quais o Salvamento Automático pode está desativado. No caso em que o único motivo para impedir o salvamento automático é o fato do documento não estar no OneDrive ou SharePoint, vamos oferecer a opção de mover o documento convenientemente com apenas um clique no botão!
