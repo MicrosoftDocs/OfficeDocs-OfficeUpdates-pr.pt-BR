@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300488"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400140"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,78 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1910-october-04"></a>Versão 1910: 04 de outubro
+*Versão 1910 (Build 12126.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Corrigimos um problema em que a área de impressão na visualização de impressão não estava correta</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia impedir a atualização de tabelas dinâmicas durante uma sessão de coautoria</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Corrigimos um problema em que usuários poderiam receber um erro de &quot;estado inconsistente&quot; ao usar um banco de dados compartilhado.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Corrigimos um problema que poderia ter causado a duplicação de pastas de email</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia ter causado uma mensagem de erro incorreta ao tentar enviar email criptografado s/MIME</span></div>
+
+
+- <div><span>Corrigimos um problema que às vezes poderia resultar em falha quando um usuário recebia uma mensagem de “Conversa Perdida” do Skype</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia resultar em um vazamento de memória</span></div>
+
+
+- <div><span>Corrigimos um problema que poderia causar uma alteração no nome do remetente quando salvo como um rascunho</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>Corrigimos um problema que poderia causar a quebra de TextRanges após colar o texto nos espaços reservados de cabeçalho/rodapé/número de slide no slide mestre e no layout do slide
+
+
+- <div><span></span></div>Corrigimos um problema que impedia a criação de hiperlink ao colar texto com hiperlink.
+
+
+- <div>Corrigimos um problema que impedia o funcionamento correto das estatísticas.</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Corrigimos um problema em que as cores da fonte não estavam sendo confirmadas</span></div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div>Corrigimos um problema que poderia oferecer histórico de versões quando esse recurso estava desativado</div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-september-27"></a>Versão 1910: 27 de setembro
 *Versão 1910 (Build 12119.20000)*
