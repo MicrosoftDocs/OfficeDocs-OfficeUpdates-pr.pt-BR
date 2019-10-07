@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391295"
+ms.locfileid: "37400130"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -612,7 +612,9 @@ Apenas atualizações não relacionadas à segurança, tratando de problemas de 
 
 - **Diga adeus aos links desfeitos do Excel:** não consegue encontrar a pasta de trabalho do Excel vinculada ao seu diagrama do Visualizador de Dados? Vincule-o novamente para que tudo volte ao normal. [Saiba mais](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
 
+- **Painel O que há de novo:** : a experiência O que há de novo foi movida para o Painel de Ajuda, para que você possa acessar e manter-se atualizado com mais facilidade com nossas atualizações mais recentes.
 
 > [!NOTE]
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
