@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: 18082351f0ed6df9b50e5c1193adb2d85a2da40a
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 18ac005509b81ee9d09b16cc3ce84d56d6589e64
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391305"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427651"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
 
@@ -32,28 +32,26 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 |Resumo|Investigando|Resolvido|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
 |**Excel**
-Descobrimos um problema que impede que os hiperlinks sejam colados em algumas planilhas protegidas.|SACT Versão 1908 <br> Versão 1902 do SAC|Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema no recurso ideias do Excel, um erro ao carregar o suplemento clicando no botão ideias no cliente Win32.||Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema em que são exibidos somente 16 suplementos ao navegar no Gerenciador de suplementos.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
+Descobrimos um problema que impede que os hiperlinks sejam colados em algumas planilhas protegidas.| |Versão mensal 1909 <br> (16.0.12026.20264) <br> SACT Versão 1908 <br> (16.0.11929.20344)<br> SAC Versão 1902 <br> (16.0.11328.20434)|
+Encontramos um problema no recurso ideias do Excel, um erro ao carregar o suplemento clicando no botão ideias no cliente Win32.||Versão Mensal 1909 <br> 16.0.12026.20264) <br> SACT Versão 1908<br>(16.0.11929.20352) <br> SAC Verions 1902 <br>(16.0.11328.20434)|
+Encontramos um problema em que são exibidos somente 16 suplementos ao navegar no gerenciador de suplementos.||Versão mensal 1909 <br> (16.0.12026.20264) <br> SACT Versão 1908<br>(16.0.11929.20352)|
 |**Outlook**
 Encontramos um problema que poderia impedir que os arquivos fossem salvos em um local WebDAV.||Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema que fazia com que as URLs de passagem simples não fossem exibidas para alguns links de segurança.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema em que atualizações no anexo bloqueavam a lógica no Outlook para também bloquear anexos python.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
-Corrigido um problema que fazia com que os usuários observassem um vazamento de memória no processo do Outlook.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
+Encontramos um problema que fazia com que as URLs de passagem simples não fossem exibidas para alguns links de segurança.||Versão Mensal 1909 <br> (16.0.12026.20264) ,<br> SACT Versão 1908<br>(16.0.11929.20370)|
+Encontramos um problema em que atualizações no anexo bloqueavam a lógica no Outlook para também bloquear anexos python.||Versão mensal 1909 <br> (16.0.12026.20264)<br> SACT Versão 1908<br>(16.0.11929.20370)||
+Corrigido um problema que fazia com que os usuários observassem um vazamento de memória no processo do Outlook.||Versão mensal 1909 <br> (16.0.12026.20264)<br> SACT Versão 1908<br>(16.0.11929.20370)||
 |**PowerPoint**
-Encontramos um problema que poderia causar perda de dados em sessões que envolviam coautoria e edição offline no PowerPoint.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
+Encontramos um problema que poderia causar perda de dados em sessões que envolviam coautoria e edição offline no PowerPoint.||Versão mensal 1909 <br> (16.0.12026.20264) <br> SACT Versão 1908<br>(16.0.11929.20370)||
 |**Project**
 Encontramos um problema durante a criação de um PDF/XPS no menu arquivo. o arquivo não foi criado. |Versão 1902 do SAC||
 |**Word**
-Encontramos um problema que os usuários poderiam encontrar ao abrir um arquivo.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema com arquivos do Office sincronizados pelo Mecanismo de Sincronização do OneDrive, os metadados do documento, como Propriedades Necessárias e requisitos de Tipo de Conteúdo, não são mais validados ao Salvar e Salvar como.|Versão 1902 do SAC||
+Encontramos um problema que os usuários poderiam encontrar ao abrir um arquivo.||Versão mensal 1909 <br> (16.0.12026.20264) <br> SACT Versão 1908 <br> (16.0.11929.20340)||
+Encontramos um problema com arquivos do Office sincronizados pelo Mecanismo de Sincronização do OneDrive, os metadados do documento, como Propriedades Necessárias e requisitos de Tipo de Conteúdo, não são mais validados ao Salvar e Salvar como.||SAC Versão 1902 <br> (16.0.11328.20426)|
 Encontramos um problema em que o JAWS em builds do Windows 19H1 não anuncia palavras ao usar Caps + Seta para a direita.|Versão 1902 do SAC||
 |**Pacote Office**
-Substituição do SHA-1: para proteger a segurança do cliente do Office, as atualizações do Microsoft Office agora são assinadas usando o algoritmo SHA-2 exclusivamente.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)|
-Encontramos um problema com o download de atualizações do Office retomando downloads que podem ter sido interrompidos anteriormente.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)||
+Substituição do SHA-1: para proteger a segurança do cliente do Office, as atualizações do Microsoft Office agora são assinadas usando o algoritmo SHA-2 exclusivamente.|SACT Versão 1908|Versão mensal 1909 <br> (16.0.12026.20264)||
+Encontramos um problema com o download de atualizações do Office retomando downloads que podem ter sido interrompidos anteriormente.||Versão mensal 1909 <br> (16.0.12026.20264) <br> SACT Versão 1908<br> (16.0.11929.20380)||
 Encontramos um problema em que a notificação "Corrigir minha conta" não desaparece após o login com êxito.|Versão 1902 do SAC||
-
-
 
 ## <a name="may-2019---sample"></a>Maio 2019 - EXEMPLO
 
