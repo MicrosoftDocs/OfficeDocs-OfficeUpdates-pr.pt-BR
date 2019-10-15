@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400140"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471326"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,51 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1910-october-11"></a>Versão 1910: 11 de outubro
+*Versão 1910 (build 12130.20112)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div>Resolvido um problema ao inserir arquivos como objeto no OneDrive</div>
+
+
+- <div>Resolvido um problema em que o formato do hiperlink não podia ser aplicado adequadamente a algum conteúdo</div>
+
+
+- <div>Resolvido um problema em que as fórmulas que contêm referências absolutas estruturadas eram ajustadas incorretamente</div>
+
+
+- <div>Resolvido um problema em que as pastas de trabalho criadas em versões anteriores do Office poderiam fazer com que o Excel travasse quando aberto nas versões atuais do Office</div>
+
+
+- <div>Resolvido um problema em que o conteúdo copiado do Excel poderia parecer incorreto quando colado em outros aplicativos do Office</div>
+
+
+- <div>Correção relacionada às cores usadas nas visualizações ao inserir gráficos usando modelos de gráfico</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Foi identificado um problema em que os dispositivos ARC poderiam perder a conexão ao serem executados no AirSpace WinComp</div>
+
+
+### <a name="word"></a>Word
+
+- <div>Resolvido um problema ao inserir arquivos como objeto no OneDrive</div>
+
+
+- <div>Melhoramos nossas etapas de recuperação para <span>corrigir um problema que fazia com que o conteúdo gráfico fosse excluído dos threads de email.&nbsp;</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-october-04"></a>Versão 1910: 04 de outubro
 *Versão 1910 (Build 12126.20000)*
