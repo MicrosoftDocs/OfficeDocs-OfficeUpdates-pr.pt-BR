@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
+ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998627"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37501799"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
@@ -26,11 +26,23 @@ Olá, Insiders! Se você quer saber se possui a versão mais recente instalada o
 
 ## <a name="office-insider-versions-and-builds"></a>Versões do office Insider e compilações
 
-Se você estiver inscrito no nível do Insider você receberá frequentes atualizações com novos recursos e melhorias. A lista a seguir mostra um histórico de versões e builds recentes do Insider, com **Build mais recente listado primeiro**. Os novos builds contêm todas as atualizações presentes nas versões anteriores. 
+Se você estiver inscrito no nível do Insider você receberá frequentes atualizações com novos recursos e melhorias. A lista a seguir mostra um histórico de versões e builds recentes do Insider, com **Build mais recente listado primeiro**. Os novos builds contêm todas as atualizações presentes nas versões anteriores.
 
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://docs.microsoft.com/pt-BR/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NÃO REMOVA)
+
+**14 de outubro de 2019**<br/>
+Versão 1911 (Build 12209.20010)<br/>
+
+**08 de outubro de 2019**<br/>
+Versão 1910 (Build 12130.20112)<br/>
+
+**30 de setembro de 2019**<br/>
+Versão 1910 (Build 12126.20000)<br/>
+
+**23 de setembro de 2019**<br/>
+Versão 1910 (Build 12119.20000)<br/>
 
 **16 de setembro de 2019**<br/>
 Versão 1910 (Build 12112.20000)<br/>
@@ -148,7 +160,7 @@ Versão 1905 (Build 11624.20000)<br/>
 [Siga-nos no Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
 [
-  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/pt-BR/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Obter novos recursos primeiro**
