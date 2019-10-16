@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427681"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508856"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -23,6 +23,16 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  > [!NOTE]
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1909-october-14"></a>Versão 1909: 14 de outubro
+*Versão 1909 (Build 12026.20334)*
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint.  Esse problema afeta os usuários que criam um novo arquivo e exibe a opção “Salvar como Modelo de Caixa de Diálogo” depois de clicar no ícone Salvar ou pressionar Ctrl + S.
+
 
 ## <a name="version-1909-october-08"></a>Versão 1909:8 de outubro
 *Versão 1909 (Build 12026.20320)*

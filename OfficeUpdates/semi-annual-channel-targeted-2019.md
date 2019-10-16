@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
-ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
+ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "37437663"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508846"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -23,6 +23,25 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > [!NOTE]
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install).
+
+## <a name="version-1908-october-14"></a>Versão 1908: 14 de outubro
+*Versão 1908 (Build 11929.20396)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div>Resolvemos um problema em Localizar e Substituir que alterou o local em que o foco estava na caixa de diálogo após encontrar o primeiro item.</div>
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint.  Esse problema afeta os usuários que criam um novo arquivo e exibe a opção “Salvar como Modelo de Caixa de Diálogo” depois de clicar no ícone Salvar ou pressiona Ctrl + S.
+
+- Resolvemos um problema em que, em determinadas circunstâncias, os atalhos do Office poderiam desaparecer após uma atualização.  Essa atualização melhora a confiabilidade ao publicar os atalhos do Office.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-october-08"></a>Versão 1908:8 de outubro
 *Versão 1908 (Build 11929.20388)*
