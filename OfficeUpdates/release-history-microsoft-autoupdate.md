@@ -3,19 +3,19 @@ title: Histórico de versões do Microsoft AutoUpdate
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838181"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523097"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,6 +31,24 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="october-2019-release"></a>Versão de outubro de 2019
+
+**Data da versão:** 15 de outubro de 2019
+
+*Microsoft Auto Update 4.16*
+
+ **Atualizações de Recursos:**
+
+- Com o Microsoft AutoUpdate 4.16, a nova experiência aprimorada do usuário final está disponível para todos os clientes.
+
+
+**Link de Atualização do MAU:**
+
+[Baixe o pacote do Microsoft Auto Update 4.16](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>Lançamento de setembro de 2019
 
 **Data do lançamento:** 10 de setembro de 2019
@@ -46,7 +64,7 @@ Para exibir notas da versão, confira [Notas da versão.](release-notes-office-f
 
 **Link de Atualização do MAU:**
 
-Baixar o Pacote Microsoft Auto Update 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Baixar o Pacote Microsoft Auto Update 4.15](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **SHA-256 Hash:**
 
