@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: b21507a1d6802326f4888bebe7f2d2351bfe4842
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
+ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523107"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "37553818"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -24,13 +24,12 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
 
-## <a name="version-1909-october-15"></a>Versão 1909: 15 de outubro
-*Versão 1908 (Build 11929.20396)*
+## <a name="october-15"></a>15 de outubro
 
 ### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
 
 ### <a name="office-suite"></a>Pacote do Office
-- Desativamos temporariamente a caixa de diálogo Salvar na Nuvem para solucionar o problema de salvamento que publicamos em 14 de outubro de 2019. Esse recurso será reativado assim que o período de cache de 7 dias expirar.
+- Desativamos temporariamente a caixa de diálogo Salvar na Nuvem para solucionar o problema de salvamento que publicamos em 14 de outubro de 2019 em builds anteriores a 12130.20184. Este recurso será reabilitado em breve.
 
 ## <a name="version-1909-october-14"></a>Versão 1909: 14 de outubro
 *Versão 1909 (Build 12026.20334)*
@@ -39,7 +38,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="office-suite"></a>Pacote do Office
 
-- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint.  Esse problema afeta os usuários que criam um novo arquivo e escolhem a opção "caixa de diálogo Salvar como" depois de clicar no ícone Salvar ou pressionar Ctrl + S.
+- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint 2019 em builds anteriores a 12130.20184.  Esse problema afeta os usuários que criam um novo arquivo e exibem a caixa de diálogo “Salvar como" depois de clicar no ícone Salvar ou pressionar Ctrl + S.
 
 
 ## <a name="version-1909-october-08"></a>Versão 1909:8 de outubro

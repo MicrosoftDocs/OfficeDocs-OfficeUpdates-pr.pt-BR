@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: b7d3805f0305556362573c43606dcdc6f6755247
+ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523119"
+ms.lasthandoff: 10/16/2019
+ms.locfileid: "37553808"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -24,13 +24,12 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install).
 
-## <a name="version-1909-october-15"></a>Versão 1909: 15 de outubro
-*Versão 1908 (Build 11929.20396)*
+## <a name="october-15"></a>15 de outubro
 
 ### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
 
 ### <a name="office-suite"></a>Pacote do Office
-- Desativamos temporariamente a caixa de diálogo Salvar na Nuvem para solucionar o problema de salvamento que publicamos em 14 de outubro de 2019. Esse recurso será reativado assim que o período de cache de 7 dias expirar.
+- Desativamos temporariamente a caixa de diálogo Salvar na Nuvem para solucionar o problema de salvamento que publicamos em 14 de outubro de 2019 em builds anteriores a 16.0.11929.20396. Este recurso será reabilitado em breve.
 
 ## <a name="version-1908-october-14"></a>Versão 1908: 14 de outubro
 *Versão 1908 (Build 11929.20396)*
@@ -43,9 +42,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - <div>Resolvemos um problema em Localizar e Substituir que alterou o local em que o foco estava na caixa de diálogo após encontrar o primeiro item.</div>
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
-- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint.  Esse problema afeta os usuários que criam um novo arquivo e escolhem a opção "caixa de diálogo Salvar como" depois de clicar no ícone Salvar ou pressionar Ctrl + S.
+- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint 2019 em builds anteriores a 16.0.11929.20396.  Esse problema afeta os usuários que criam um novo arquivo e exibem a caixa de diálogo “Salvar como" depois de clicar no ícone Salvar ou pressionar Ctrl + S.
 
 - Resolvemos um problema em que, em determinadas circunstâncias, os atalhos do Office poderiam desaparecer após uma atualização.  Essa atualização melhora a confiabilidade ao publicar os atalhos do Office.
 
