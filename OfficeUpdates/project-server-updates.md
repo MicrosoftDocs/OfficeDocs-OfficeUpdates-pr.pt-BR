@@ -3,7 +3,7 @@ title: Atualizações do Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 10/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: dd399ffb58c6799f8e0ee21b7df3b2eec72472a9
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: a6bd8b68cd841f1e1e142dc2d2fc31428dbca157
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594589"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37424066"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -30,6 +30,9 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Outubro de 2019  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
+|Setembro de 2019  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
+|Agosto de 2019  <br/> |[KB4475560](https://support.microsoft.com/kb/4475560) <br/>|
 |Julho de 2019  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
 |Junho de 2019  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
 |Maio de 2019  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
@@ -90,6 +93,9 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Outubro de 2019  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
+|Setembro de 2019  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|
+|Agosto de 2019  <br/>  |[KB4475570](https://support.microsoft.com/kb/4475570) <br/>|
 |Julho de 2019  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
 |Junho de 2019  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
 |Maio de 2019  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|
