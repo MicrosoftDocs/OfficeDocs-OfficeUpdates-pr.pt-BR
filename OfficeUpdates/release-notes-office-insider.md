@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471326"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595319"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,92 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1911-october-18"></a>Versão 1911: 18 de outubro
+*Versão 1911 (Build 12209.20010)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Envie email acessível para quem mais precisa:** O Outlook exibirá uma dica de email para ajudar a garantir que seu conteúdo seja acessível ao enviar para um usuário que prefira este tipo de conteúdo.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- **O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção:** O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção, que será mostrado dentro dos aplicativos do Office em Arquivo > Abrir. Essa nova experiência é mais moderna, integrada e menos invasiva em comparação ao Upload Center.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="non-security-updates"></a>Atualizações não relacionadas à segurança
+### <a name="excel"></a>Excel
+
+- <div><span>Resolvido um problema em que os controles da caixa de seleção podiam diminuir ao usar o AutoAjuste para ajustar a altura da linha</span></div>
+
+
+- <div><span>Resolvido um problema em que a seleção de uma célula após a rolagem poderia resultar na seleção da célula errada</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Identificado um problema que poderia fazer com que assinaturas digitais fossem corrompidas ao assinar um email com um anexo assinado digitalmente</span></div>
+
+
+- <div><span>Identificado um problema em que os nomes de arquivos longos eram truncados após arrastar e soltar no corpo da mensagem</span></div>
+
+
+- <div>Identificado um problema em que a caixa de pesquisa podia desaparecer quando a faixa de opções estivesse configurada para ocultar automaticamente</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identificado um problema em que a taxa de proporção da visualização do slide não estava sendo bloqueada/desbloqueada corretamente</span>
+
+
+### <a name="security"></a>Segurança
+
+- <div><span>Identificado um problema em que uma mensagem de boas-vindas continha um link inválido</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>Identificado um problema em que as anotações podiam não persistir se inseridas durante a realização de tarefas de atualização<br></div>
+
+
+- <div>Identificado um problema em que um arquivo podia ser bloqueado por um usuário, mas nenhum nome de usuário seria exibido na mensagem de erro</div>
+
+
+- <div><span>Identificado um problema em que os usuários podiam receber várias mensagens ao abrir um projeto somente leitura</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Identificado um problema ao visualizar comentários usando um leitor de tela</span></div>
+
+
+- <div><span>Identificado um problema em que algumas críticas foram identificadas incorretamente como sendo críticas de ortografia ou gramática</span></div>
+
+
+- <div><span>Identificado um problema em que um nova caixa de diálogo comentários podia, às vezes, não ter foco</span></div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Corrigimos um problema que uma atualização poderia ser impedida por uma mensagem de erro incorreta de &quot;Outra instalação em andamento&quot;</span></div>
+
+- <div><span>Identificado um problema que podia afetar a sincronização de um recurso local para um recurso na nuvem</span></div>
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-october-11"></a>Versão 1910: 11 de outubro
 *Versão 1910 (build 12130.20112)*
