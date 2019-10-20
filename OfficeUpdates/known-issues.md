@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574369"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593772"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
 
@@ -33,6 +33,7 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 |Resumo|Aplicativos afetados|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |Identificamos um problema em Localizar e Substituir que alterou o local em que o foco estava na caixa de diálogo após encontrar o primeiro item. <br><br> **Versão Resolvida**: <br> SACT Versão 1908  (16.0.11929.20396)|Excel<br><br>
+|Foi identificado um problema com o desempenho da filtragem por cores. <br><br> **Versão Resolvida**: <br>Versão Mensal 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |Identificado um problema que causava um erro de permissão ao copiar itens do calendário principal para um calendário de grupo.<br><br> **Status**: Em investigação|Outlook<br><br>
 |Identificado um problema de desempenho no Win7, em que a galeria de formas de inserção da faixa de opções de todos os aplicativos demorava aproximadamente 4 segundos para aparecer.<br><br> **Versão Resolvida**: <br>Versão Mensal 1909 (16.0.12026.20264) <br> SACT Versão 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |Identificamos um problema em que, em determinadas circunstâncias, os atalhos do Office poderiam desaparecer após uma atualização.  <br><br> **Status**: Em investigação|Pacote do Office<br><br>
