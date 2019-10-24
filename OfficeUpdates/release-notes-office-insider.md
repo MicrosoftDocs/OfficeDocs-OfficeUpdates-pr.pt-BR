@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595319"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653434"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -78,13 +78,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Identificado um problema em que a taxa de proporção da visualização do slide não estava sendo bloqueada/desbloqueada corretamente</span>
-
-
-### <a name="security"></a>Segurança
-
-- <div><span>Identificado um problema em que uma mensagem de boas-vindas continha um link inválido</span></div>
-
+- <div><span>Identificado um problema em que a taxa de proporção da visualização do slide não estava sendo bloqueada/desbloqueada corretamente</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - <div><span>Corrigimos um problema que uma atualização poderia ser impedida por uma mensagem de erro incorreta de &quot;Outra instalação em andamento&quot;</span></div>
 
 - <div><span>Identificado um problema que podia afetar a sincronização de um recurso local para um recurso na nuvem</span></div>
+
+- <div><span>Identificado um problema em que uma mensagem de boas-vindas continha um link inválido</span></div>
+
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
