@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653434"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733005"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,97 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1911-october-25"></a>Versão 1911: 25 de outubro
+*Versão 1911 (Build 12215.20006)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="visio"></a>Visio
+
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Melhorias de coautoria:** experiência de coautoria melhorada, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
+
+- **Outras pessoas veem suas alterações rapidamente:** os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas alterações mais rápido do que nunca.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- <div><span>A contagem de registros pode estar incorreta</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>Melhoramos significativamente o desempenho da exclusão de colunas com células mescladas</span></div>
+
+
+- <div><span>Os usuários podem ser impedidos de salvar no Office 365 formato de pasta de trabalho do Excel</span></div>
+
+
+- <div><span>As caixas de seleção não podem ser processadas corretamente</span></div>
+
+
+- <div><span>As alterações feitas em um tamanho de gráfico não puderam ser salvas</span></div>
+
+
+- <div><span>Algumas funções do VBA retornariam um erro em novos tipos de gráfico</span></div>
+
+
+- <div><span>As caixas de diálogo selecionar fonte de dados não diferenciam maiúsculas de minúsculas em alguns campos</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>As alterações feitas em um tamanho de gráfico não puderam ser salvas</span></div>
+
+
+### <a name="publisher"></a>Editor
+
+- <div><span>As formas podem aparecer fora da borda do gráfico</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>As formas podem aparecer fora da borda do gráfico</span></div>
+
+
+- <div><span>O realce do texto pode ser desafiador</span></div>
+
+
+- <div><span>Um usuário poderia ser impedido de navegar para um item individual no editor</span></div>
+
+
+- <div><span>Os erros de gramática ou ortografia podem não estar realçados</span></div>
+
+
+- <div><span>As alterações feitas em um tamanho de gráfico não puderam ser salvas</span></div>
+
+
+- <div><span>Um cartão de visita pode ser impedido de abrir após aplicar a formatação a uma @ menção</span></div>
+
+
+- <div><span>Resolvido um problema em que os usuários podem não conseguir salvar documentos do Word, Excel e PowerPoint. &nbsp; Esse problema afeta os usuários que criam um novo arquivo e exibir a caixa de diálogo &quot;salvar como modelo &quot;após clicar no ícone Salvar ou pressionar Ctrl + S.</span></div>
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><span>Problema de desempenho ao usar formas no Windows 7</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1911-october-18"></a>Versão 1911: 18 de outubro
 *Versão 1911 (Build 12209.20010)*
@@ -1746,7 +1837,7 @@ Entrar no Modo Foco e experimentar uma Experiência Focalizada
 - Corrigimos um problema em que as confirmações de leitura estavam incorretas quando vistas em japonês
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
