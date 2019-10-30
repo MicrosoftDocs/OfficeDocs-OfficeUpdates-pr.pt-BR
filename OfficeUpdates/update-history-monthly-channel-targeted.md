@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 64ecf80779831fc0f036e37e30436b0d47e7938a
-ms.sourcegitcommit: 23ba33ee213c0321adcffd12fea37e6fd119a40a
+ms.openlocfilehash: b094b6a52b72a1eb0ab37231aa43a7d4b42283c5
+ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37663627"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37772554"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -34,8 +34,11 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 [//]: # (NÃO REMOVA)
 
+**28 de outubro de 2019**<br/>
+Versão 1910 (Build 12130,20272)<br/>
+
 **24 de outubro de 2019**<br/>
-Versão 1910 (Build 12130,20238)<br/>
+Versão 1910 (Build 12130.20238)<br/>
 
 **22 de outubro de 2019**<br/>
 Versão 1910 (Build 12130,20210)<br/>
