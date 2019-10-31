@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 6df9bb27b190aabf9b611c317e7f6814e1c18523
+ms.sourcegitcommit: 5659a229b4a2e3bf3ba2f047565ab238e3bb398f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644172"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37887093"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -31,7 +31,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensal<br/>|1909<br/>|12026.20344<br/>|22 de outubro de 2019<br/>|A versão 1910 foi lançada<br/>|
+|Mensal<br/>|1910<br/>|12130.20272<br/>|30 de outubro de 2019<br/>|A versão 1911 foi lançada<br/>|
 |Semestral (Direcionado)<br/>|1908<br/>|11929.20396<br/>|14 de outubro de 2019<br/>|10 de março de 2020<br/>|
 |Semestral<br/>|1902<br/>|11328.20438<br/>|8 de outubro de 2019<br/>|8 de setembro de 2020<br/>|
 |Semestralmente<br/>|1808<br/>|10730.20386<br/>|8 de outubro de 2019<br/>|10 de março de 2020<br/>|
@@ -46,6 +46,7 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 
 |**Year**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|30 de outubro|[Versão 1910 (Build 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
 |2019|22 de outubro|[Versão 1909 (Build 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|14 de outubro|[Versão 1909 (Build 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[Versão 1908 (Build 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|8 de outubro|[Versão 1909 (Build 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[Versão 1908 (Build 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[Versão 1902 (Build 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[Versão 1808 (Build 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|

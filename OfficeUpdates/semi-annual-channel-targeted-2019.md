@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8f023bc4e4155b17cb35ad85874b0c045f043da5
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732985"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890030"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -131,8 +131,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 - **Crie intervalos entre reuniões consecutivas:** dê um tempo para os participantes descansarem ou se deslocarem entre os locais definindo o término antecipado das reuniões para entre cinco a dez minutos por padrão.
 
 - **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/pt-BR/article/114bb251-861f-41cd-b20f-7e7289630c5b).
-
-- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da caixa de entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. [Saiba mais](https://support.office.com/pt-BR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. [Saiba mais](https://support.office.com/pt-BR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
