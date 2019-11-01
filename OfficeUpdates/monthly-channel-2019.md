@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644182"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890020"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -23,6 +23,55 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  > [!NOTE]
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1910-october-30"></a>Versão 1910: 30 de outubro
+*Versão 1910 (Build 12130.20272)*
+* Várias correções de bugs e desempenho.
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+
+
+### <a name="excel"></a>Excel
+
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+### <a name="outlook"></a>Outlook
+
+- **Receba um solicitação para atualizar o Outlook após um erro:** quando o Outlook encontrar um erro que foi corrigido em uma versão posterior, ele solicitará que os clientes atualizem e recebam a correção
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+
+### <a name="word"></a>Word
+
+- **Aperfeiçoamentos de coautoria**: melhor desempenho do Word durante a coautoria em documentos com alterações controladas.
+
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+
+- **Corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D:** corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D.
+
+- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+### <a name="office-suite"></a>Pacote do Office
+
+- **Instalar o Microsoft Teams em instalações existentes do Office 365 ProPlus:** a partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira, Implantar o Microsoft Teams com o Office 365 ProPlus para obter informações adicionais. [Saiba Mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 ## <a name="version-1909-october-22"></a>Versão 1909: 22 de outubro
 *Versão 1909 (Build 12026.20344)*
