@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733005"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931905"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,132 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1911-november-01"></a>Version 1911: 01 de novembro
+*Versão 1911 (Build 12228.20020)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Traga o contexto junto com seus objetos SVG!:** agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Office
+
+- **Confira as opções da caneta ao selecionar a caneta Surface:** ao selecionar pela primeira vez a caneta Surface no Word, Excel ou PowerPoint, a guia Desenhar será ativada para facilitar a seleção de cores da caneta.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Traga o contexto junto com seus objetos SVG!:** agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Office
+
+- **Confira as opções da caneta ao selecionar a caneta Surface:** ao selecionar pela primeira vez a caneta Surface no Word, Excel ou PowerPoint, a guia Desenhar será ativada para facilitar a seleção de cores da caneta.
+
+### <a name="visio"></a>Visio
+
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Confira as opções da caneta ao selecionar a caneta Surface:** ao selecionar pela primeira vez a caneta Surface no Word, Excel ou PowerPoint, a guia Desenhar será ativada para facilitar a seleção de cores da caneta.
+
+- **Melhorias de coautoria:** experiência de coautoria melhorada, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
+
+- **Outras pessoas veem suas alterações rapidamente:** os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas alterações mais rápido do que nunca.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- <div><span>Resolvido um problema em que o Excel falhava ao editar um arquivo protegido a partir de um compartilhamento de rede não confiável.</span></div>
+
+
+- <div>Resolvido um problema em que a exclusão de planilhas com dados que faziam referência a dados de outra planilha fazia o arquivo ser identificado como corrompido ao ser aberto novamente.</div>
+
+
+- <div>Resolvido um problema em que resultados incorretos eram obtidos ao converter filtros de relatórios com o restante da tabela dinâmica para consultas a servidores de tabela SQL.</span></div>
+
+
+- <div><span>Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha</span></div>
+
+
+- <div><span>Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Algumas imagens podem não ter sido inseridas em um email encaminhado</div>
+
+
+- <div><span>A ferramenta Localizador de Sala pode estar exibindo &quot;Nenhuma&quot; para salas disponíveis</span></div>
+
+
+- <div><span>Os usuários talvez não consigam criar perfis do Outlook com restrição estrita de locatário</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Os usuários não conseguem marcar uma tarefa como concluída, e ela é definida como 99%</span></div>
+
+
+- <div>As superalocações não são resolvidas por nivelamento</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha</span></div>
+
+
+- <div><span>Abrir documentos herdados e acessar a guia Informações pode causar uma falha</span></div>
+
+
+- <div><span>As sugestões de revisão não estão sendo exibidas nos menus de contexto</span></div>
+
+
+- <div><span>As políticas de conteúdo estão sendo aplicadas incorretamente a comentários</span></div>
+
+
+- <div><span>Comentários herdados escritos com texto escuro não são visíveis no Modo Escuro</span></div>
+
+
+- <div><span>Caracteres incorretos podem ser exibidos ao usar a AutoCorreção de coreano/inglês</span></div>
+
+
+- <div><span>Rótulos de políticas mais baixos poderão ser aplicados quando um rótulo de política mais alto precisar ter prioridade.</div></span>
+
+
+- <div><span>Os links de cid: imagens de mensagens do Outlook&nbsp; podem ser interrompidos com sucesso quando solicitado.</div></span>
+
+
+- <div><span>Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha</span></div>
+
+
+- <div><span>A pesquisa no painel Navegação pode falhar</span></div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Alguns desenhos podem não ser exibidos na exibição ou na apresentação de slides</span></div>
+
+
+- <div><span>Alguns caracteres Katakana podem ser exibidos incorretamente em uma caixa de texto vertical</span></div>
+
+
+- <div>As tentativas de salvar um arquivo em um compartilhamento de rede desconectado podem ocasionar uma falha</div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1911-october-25"></a>Versão 1911: 25 de outubro
 *Versão 1911 (Build 12215.20006)*
@@ -1837,7 +1963,7 @@ Entrar no Modo Foco e experimentar uma Experiência Focalizada
 - Corrigimos um problema em que as confirmações de leitura estavam incorretas quando vistas em japonês
 
 ### <a name="access"></a>Access
-- Várias correções de desempenho e estabilidade
+- Correções diversas de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
