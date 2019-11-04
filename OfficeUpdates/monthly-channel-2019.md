@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890020"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929638"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -40,13 +40,13 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **Receba um solicitação para atualizar o Outlook após um erro:** quando o Outlook encontrar um erro que foi corrigido em uma versão posterior, ele solicitará que os clientes atualizem e recebam a correção
 
-- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D:** corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D.
 
-- **Aplique rótulos de confidencialidade aos documentos:** aplique rótulos de confidencialidade aos documentos para ficarem em conformidade com as políticas de proteção de informações da sua organização.
+- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Pacote do Office
 
 - **Instalar o Microsoft Teams em instalações existentes do Office 365 ProPlus:** a partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira, Implantar o Microsoft Teams com o Office 365 ProPlus para obter informações adicionais. [Saiba Mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
