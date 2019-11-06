@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 4fd321cdbdaffb3b8e9407d4db4c9106c1bc64c9
-ms.sourcegitcommit: 5659a229b4a2e3bf3ba2f047565ab238e3bb398f
+ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
+ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887083"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37993706"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="november-5-2019"></a>5 de novembro de 2019
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+<i>A versão esperada é a versão 1902 (Build 11328.20468).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20438) <br/> |8 de outubro de 2019 <br/> |69<br/> |
+|Versão 1902 (Build 11328.20420) <br/> |10 de setembro de 2019 <br/> |70<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
+
+<i>A versão esperada é a versão 1908 (Build 11929.20436).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20396) <br/> |14 de outubro de 2019 <br/> |64<br/> |
+|Versão 1908 (Build 11929.20388) <br/> |8 de outubro de 2019 <br/> |66<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="october-30-2019"></a>30 de outubro de 2019
 
