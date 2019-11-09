@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931905"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076415"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,42 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1912-november-08"></a>Version 1912: 08 de novembro
+*Versão 1912 (Build 12231.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="user-lifecycle"></a>Ciclo de vida do usuário
+
+- **Melhorias da experiência da ativação do AFO:** atualizações das telas que os clientes veem ao ativar o Office que vem com o novo computador
+
+### <a name="word"></a>Word
+
+- **Experiência de vídeo online nova e melhorada no Word:** experiência de vídeo online nova e mais segura para ajudá-lo a inserir novos vídeos e a reproduzir vídeos existentes no Word
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- <div><span>Falha intermitente envolvendo conteúdo de pastas cruzadas</span></div>
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><span>Colar um gráfico do Excel para o PowerPoint pode reduzir o tamanho do gráfico</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1911-november-01"></a>Version 1911: 01 de novembro
 *Versão 1911 (Build 12228.20020)*
