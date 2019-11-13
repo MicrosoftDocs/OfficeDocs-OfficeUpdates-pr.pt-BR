@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890030"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289831"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -23,6 +23,57 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > [!NOTE]
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install).
+
+## <a name="version-1908-november-12"></a>Versão 1908: 12 de novembro
+*Versão 1908 (Build 11929.20436)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="excel"></a>Excel
+
+- Correção relacionada às cores usadas nas visualizações ao inserir gráficos usando modelos de gráfico.
+- Corrigimos um problema que poderia ter causado a renderização incorreta de gráficos de linhas de dispersão na alteração da coleção de série.
+- Resolvemos um problema que causou interrupções na coautoria ao alterar propriedades personalizadas com macros.
+- Resolvemos um problema de desempenho com funções Assíncronas Definidas pelo Usuário que causavam a execução Síncrona.
+- Melhoramos significativamente o desempenho da filtragem por cor.
+- Resolvemos um problema em que as pastas de trabalho criadas em versões anteriores do Office poderiam fazer com que o Excel travasse quando aberto nas versões atuais do Office.
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+
+### <a name="outlook"></a>Outlook
+
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+- Solucionamos um problema que causava um erro de permissão ao copiar itens do calendário principal para um calendário de grupo.
+- Solucionamos um problema que causou um vazamento de memória em sessões muito longas do Outlook.
+- Solucionamos um problema que faria com que os usuários experimentassem uma falha no Outlook ao interagir com determinados safelinks.
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao processar algumas respostas de Descoberta Automática.
+- Solucionamos um problema que fazia com que alguns usuários vissem pastas especiais duplicadas criadas ao adicionar uma conta secundária do Exchange.
+- Solucionamos um problema que causava um travamento na experiência de Comentários de Pesquisa.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.</div>
+- Correção de confiabilidade: Corrigido um problema em que o suplemento de terceiros poderia causar falha no PowerPoint.
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que o comando Nivelar Tudo não estava resolvendo corretamente uma superalocação de recursos.
+- Corregido um problema em que, caso você tenha uma tarefa com zero trabalho em uma tarefa, a tarefa poderia não ser marcada como concluída e sempre aparecerá em 99%.
+- Identificado um problema em que os usuários podiam receber várias mensagens ao abrir um projeto somente leitura.
+
+### <a name="word"></a>Word
+
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+- Corrigidos vários problemas em que o aplicativo pode travar no desligamento. Além disso, corrigimos determinadas falhas relacionadas aos suplementos.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Solucionados problemas relacionados à propriedade AutoAjuste da Caixa de texto/ Forma em plug-ins de terceiros.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="october-15"></a>15 de outubro
 
