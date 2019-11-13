@@ -3,19 +3,19 @@ title: Lista dos arquivos. msp mais recentes para os produtos do Office 2016
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de ti uma lista dos arquivos. msp mais recentes para versões perpétuas do Office 2016 que usam o Windows Installer (MSI)
-ms.openlocfilehash: 1d3110b5361ef8cfaa99bf5df400833cfd2c61fb
-ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
+ms.openlocfilehash: 4e7bcb36901aeb16ffb2e9f006b4a712a2adb5e4
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37423936"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289629"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Lista dos arquivos. msp mais recentes para os produtos do Office 2016
 
@@ -25,19 +25,19 @@ Essas informações só se aplicam aos produtos do Office 2016 que usam a tecnol
   
 ## <a name="most-recently-updated-msp-files"></a>Arquivos. msp atualizados mais recentemente
 
-A tabela a seguir lista os arquivos. msp que foram atualizados em **outubro de 2019**.
+A tabela a seguir lista os arquivos. msp que foram atualizados em **novembro de 2019**.
   
 |Atualizações que não são de segurança * * *|Atualizações de segurança * * *|
 |:-----|:-----|
-|Chart-x-None<br/>|Excel-x-nenhum  <br/>|
-|Lip-*ll-cc* <sup>1</sup><br/>|gráfico-x-nenhum <br/>|
-|Lync-x-nenhum<br/>|<br/>|
-|Die-x-None<br/>|<br/>|
+|Access-x-None<br/>|Ace-x-None  <br/>|
+|Chart-x-None <br/>|Excel-x-nenhum <br/>|
+|Die-x-None<br/>|gráfico-x-nenhum<br/>|
+|msodll40ui-x-None<br/>|<br/>|
+|msodll99l-x-None<br/>|<br/>|
+|namectlserver-x-None<br/>|<br/>|
 |Outlook-x-nenhum<br/>|<br/>|
 |PowerPoint-x-nenhum<br/>|<br/>|
-|Project-x-None<br/>|<br/>|
 |Word-x-None<br/>|<br/>|
-
 
 
 <br/>
@@ -48,36 +48,37 @@ A tabela a seguir lista todos os arquivos. msp que foram lançados desde o lanç
   
 |. msp filename * * * *|Produto * * * *|Data de lançamento não relacionada ao segurança * * * *|Artigo de KB de não segurança * * * *|Data de lançamento de segurança * * * *|Artigo de KB da versão de segurança * * * *|KB de segurança substituídos * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Access-x-None  <br/> |Access 2016  <br/> |2 de julho de 2019  <br/> |[4462237](https://support.microsoft.com/help/4462237) <br/> |10 de julho de 2018  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
-|Ace-x-None  <br/> |Office 2016  <br/> |2 de julho de 2019  <br/> |[4464595](https://support.microsoft.com/help/4464595) <br/> |10 de setembro de 2019  <br/> |[4475591](https://support.microsoft.com/help/4475591) <br/> |[4475538](https://support.microsoft.com/help/4475538)  <br/> |
+|Access-x-None  <br/> |Access 2016  <br/> |5 de novembro de 2019  <br/> |[4475539](https://support.microsoft.com/help/4475539) <br/> |10 de julho de 2018  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
+|Ace-x-None  <br/> |Office 2016  <br/> |2 de julho de 2019  <br/> |[4464595](https://support.microsoft.com/help/4464595) <br/> |12 de novembro de 2019  <br/> |[4484113](https://support.microsoft.com/help/4484113) <br/> |[4475591](https://support.microsoft.com/help/4475591)  <br/> |
 |acewss-x-None  <br/> |Office 2016  <br/> |7 de novembro de 2017  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Chart-x-None  <br/> |Office 2016  <br/> |1 de outubro de 2019  <br/> |[4475585](https://support.microsoft.com/en-us/help/4475585) <br/> |10 de abril de 2018  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
+|Chart-x-None  <br/> |Office 2016  <br/> |5 de novembro de 2019  <br/> |[4484138](https://support.microsoft.com/en-us/help/4484138) <br/> |10 de abril de 2018  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
 |CONV-x-None  <br/> |Office 2016  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |12 de setembro de 2017  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
 |CSI-x-None  <br/> |Office 2016  <br/> |1 de maio de 2018  <br/> |[4011634](https://support.microsoft.com/en-us/help/4011634) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |csisyncclient-x-None  <br/> |Office 2016  <br/> |4 de outubro de 2016  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |DCF-x-None  <br/> |Office 2016  <br/> |2 de janeiro de 2019  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |eqnedt32-x-None  <br/> |Office 2016  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |9 de janeiro de 2018  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|Excel-x-nenhum  <br/> |Excel 2016  <br/> |6 de agosto de 2019  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |8 de outubro de 2019  <br/> |[4484112](https://support.microsoft.com/en-us/help/4484112) <br/> |[4475579](https://support.microsoft.com/en-us/help/4475579) <br/> |
+|Excel-x-nenhum  <br/> |Excel 2016  <br/> |6 de agosto de 2019  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |12 de novembro de 2019  <br/> |[4484144](https://support.microsoft.com/en-us/help/4484144) <br/> |[4484112](https://support.microsoft.com/en-us/help/4484112) <br/> |
 |excelpp-x-None  <br/> |Office 2016  <br/> |3 de setembro de 2019  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |exppdf-x-None  <br/> |Office 2016  <br/> |5 de abril de 2016  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |FilterPack-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[3114528](https://support.microsoft.com/help/3114528) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |fontes-x-None  <br/> |Office 2016  <br/> |5 de abril de 2016  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |gkall-x-None  <br/> |Office 2016  <br/> |6 de setembro de 2016  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|gráfico-x-nenhum  <br/> |Office 2016  <br/> |6 de março de 2018  <br/> |[4011624](https://support.microsoft.com/en-us/help/4011624) <br/> |8 de outubro de 2019  <br/> |[4475554](https://support.microsoft.com/en-us/help/4475554) <br/> |[4461539](https://support.microsoft.com/en-us/help/4461539)  <br/> |
+|gráfico-x-nenhum  <br/> |Office 2016  <br/> |6 de março de 2018  <br/> |[4011624](https://support.microsoft.com/en-us/help/4011624) <br/> |12 de novembro de 2019  <br/> |[4484148](https://support.microsoft.com/en-us/help/4484148) <br/> |[4475554](https://support.microsoft.com/en-us/help/4475554)  <br/> |
 |Groove-x-nenhum  <br/> |OneDrive for Business  <br/> |7 de agosto de 2018  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|ieawsdc-x-None  <br/> |Office 2016  <br/> |13 de outubro de 2015  <br/> |[3085538](https://support.microsoft.com/help/3085538) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
+|ieawsdc-x-None  <br/> |Office 2016  <br/> |NA (Not applicable)  <br/> |Não aplicável <br/> |13 de outubro de 2015  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |Não aplicável  <br/> |
 |kohhc-x-None  <br/> |Office 2016  <br/> |6 de junho de 2017  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Lip-*ll-cc* <sup>1</sup> <br/> |Pacote de interface de idioma do Office 2016  <br/> |1 de outubro de 2019  <br/> |[4475582](https://support.microsoft.com/en-us/help/4475582) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Lync-x-nenhum  <br/> |Skype for Business 2016  <br/> |1 de outubro de 2019  <br/> |[4484102](https://support.microsoft.com/en-us/help/4484102) <br/> |9 de julho de 2019  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
+|Lip-*ll-cc* <sup>1</sup> <br/> |Pacote de interface de idioma do Office 2016  <br/> |1º de outubro de 2019  <br/> |[4475582](https://support.microsoft.com/en-us/help/4475582) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
+|Lync-x-nenhum  <br/> |Skype for Business 2016  <br/> |1º de outubro de 2019  <br/> |[4484102](https://support.microsoft.com/en-us/help/4484102) <br/> |9 de julho de 2019  <br/> |[4475545](https://support.microsoft.com/help/4475545) <br/> |[4461473](https://support.microsoft.com/help/4461473)  <br/> |
 |mscomctlocx-x-None  <br/> |Office 2016  <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |12 de janeiro de 2016  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Não aplicável  <br/> |
 |msmipc-x-None  <br/> |Office 2016  <br/> |4 de abril de 2017  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Die-x-None  <br/> |Office 2016  <br/> |1 de outubro de 2019  <br/> |[4484114](https://support.microsoft.com/en-us/help/4484114) <br/> |10 de setembro de 2019  <br/> |[4475583](https://support.microsoft.com/en-us/help/4475583) <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |
+|Die-x-None  <br/> |Office 2016  <br/> |5 de novembro de 2019  <br/> |[4484137](https://support.microsoft.com/en-us/help/4484137) <br/> |10 de setembro de 2019  <br/> |[4475583](https://support.microsoft.com/en-us/help/4475583) <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |
 |msodll20-x-None  <br/> |Office 2016  <br/> |7 de maio de 2019  <br/> |[4461441](https://support.microsoft.com/help/4461441) <br/> |13 de junho de 2017  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |Não aplicável  <br/> |
 |msodll30-x-None  <br/> |Office 2016  <br/> |3 de setembro de 2019  <br/> |[4464584](https://support.microsoft.com/en-us/help/4464584) <br/> |12 de setembro de 2017  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
-|msodll40ui-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[4464588](https://support.microsoft.com/en-us/help/4464588) <br/> |10 de maio de 2016  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Não aplicável  <br/> |
-|msodll99l-x-None  <br/> |Office 2016  <br/> |4 de junho de 2019  <br/> |[4464579](https://support.microsoft.com/en-us/help/4464579) <br/> |9 de julho de 2019  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
+|msodll40ui-x-None  <br/> |Office 2016  <br/> |5 de novembro de 2019  <br/> |[4475588](https://support.microsoft.com/en-us/help/4475588) <br/> |10 de maio de 2016  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Não aplicável  <br/> |
+|msodll99l-x-None  <br/> |Office 2016  <br/> |5 de novembro de 2019  <br/> |[4475552](https://support.microsoft.com/en-us/help/4475552) <br/> |9 de julho de 2019  <br/> |[4475514](https://support.microsoft.com/help/4475514) <br/> |[4011622](https://support.microsoft.com/help/4011622) <br/> |
 |msohevi-x-None  <br/> |Office 2016  <br/> |1 de maio de 2018  <br/> |[4022133](https://support.microsoft.com/en-us/help/4022133) <br/> |8 de janeiro de 2019  <br/> |[4022162](https://support.microsoft.com/help/4022162)  <br/> |Não aplicável  <br/> |
 |mtextra-x-None  <br/> |Office 2016  <br/> |5 de junho de 2018  <br/> |[4022193](https://support.microsoft.com/en-us/help/4022193) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
+|namectlserver-x-None  <br/> |Office 2016  <br/> |5 de novembro de 2019  <br/> |[4484145](https://support.microsoft.com/help/4484145) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Nlgmsproof-x-None  <br/> |Office 2016  <br/> |7 de maio de 2019  <br/> |[2920717](https://support.microsoft.com/help/2920717) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Oart-x-None  <br/> |Office 2016  <br/> |3 de setembro de 2019  <br/> |[4464531](https://support.microsoft.com/help/4464531) <br/> |10 de abril de 2018  <br/> |[4011628](https://support.microsoft.com/en-us/help/4011628) <br/> |[3203474](https://support.microsoft.com/en-us/help/3203474) <br/> |
 |Oleo-x-None  <br/> |Office 2016  <br/> |7 de maio de 2019  <br/> |[4462119](https://support.microsoft.com/help/4462119) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
@@ -86,26 +87,26 @@ A tabela a seguir lista todos os arquivos. msp que foram lançados desde o lanç
 |Ose-x-None  <br/> |Office 2016  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |10 de julho de 2018  <br/> |[4022176](https://support.microsoft.com/en-us/help/4022176) <br/> |[4011237](https://support.microsoft.com/en-us/help/4011237) <br/> |
 |osetup-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[4032254](https://support.microsoft.com/en-us/help/4032254) <br/>  |10 de julho de 2018  <br/> |[4022172](https://support.microsoft.com/en-us/help/4022172) <br/> |[4011239](https://support.microsoft.com/en-us/help/4011239) <br/> |
 |osfclient-x-None  <br/> |Office 2016  <br/> |3 de setembro de 2019  <br/> |[4475580](https://support.microsoft.com/en-us/help/4475580) <br/> |9 de julho de 2019  <br/> |[4464534](https://support.microsoft.com/en-us/help/4464534)  <br/> |Não aplicável  <br/> |
-|ospp-x-None  <br/> |Office 2016  <br/> |8 de dezembro de 2015  <br/> |[2920724](https://support.microsoft.com/help/2920724) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
+|ospp-x-None  <br/> |Office 2016  <br/> |8 de dezembro de 2015  <br/> |[2920724](https://support.microsoft.com/help/2920724) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |otkruntimertl-x-None  <br/> |Office 2016  <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |8 de março de 2016  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |Não aplicável  <br/> |
 |outexum-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Outlfltr-x-None  <br/> |Office 2016  <br/> |2 de agosto de 2016  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Outlook-x-nenhum  <br/> |Outlook 2016  <br/> |1 de outubro de 2019  <br/> |[4484107](https://support.microsoft.com/en-us/help/4484107) <br/> |13 de agosto de 2019  <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |[4475517](https://support.microsoft.com/help/4475517) <br/> |
+|Outlook-x-nenhum  <br/> |Outlook 2016  <br/> |5 de novembro de 2019  <br/> |[4484139](https://support.microsoft.com/en-us/help/4484139) <br/> |13 de agosto de 2019  <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |[4475517](https://support.microsoft.com/help/4475517) <br/> |
 |policytips-x-None  <br/> |Office 2016  <br/> |7 de junho de 2016  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|PowerPoint-x-nenhum  <br/> |PowerPoint 2016  <br/> |1 de outubro de 2019  <br/> |[4475578](https://support.microsoft.com/en-us/help/4475578) <br/> |11 de dezembro de 2018  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
+|PowerPoint-x-nenhum  <br/> |PowerPoint 2016  <br/> |5 de novembro de 2019  <br/> |[4484134](https://support.microsoft.com/en-us/help/4484134) <br/> |11 de dezembro de 2018  <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |[4461434](https://support.microsoft.com/en-us/help/4461434) <br/> |
 |ppaddin-x-None  <br/> |Office 2016  <br/> |5 de dezembro de 2017  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Project-x-None  <br/> |Project 2016  <br/> |1 de outubro de 2019  <br/> |[4484116](https://support.microsoft.com/en-us/help/4484116) <br/> |10 de setembro de 2019  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
+|Project-x-None  <br/> |Project 2016  <br/> |1º de outubro de 2019  <br/> |[4484116](https://support.microsoft.com/en-us/help/4484116) <br/> |10 de setembro de 2019  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
 |prova-x-nenhum  <br/> |Office 2016  <br/> |7 de maio de 2019  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |protocolhndlr-x-None  <br/> |Office 2016  <br/> |3 de setembro de 2019  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Publisher-x-None  <br/> |Publisher 2016  <br/> |1 de agosto de 2017  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |10 de novembro de 2015  <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |Não aplicável  <br/> |
 |Riched20-x-None  <br/> |Office 2016  <br/> |2 de outubro de 2018  <br/> |[4011669](https://support.microsoft.com/help/4011669) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |seguiemj-x-None  <br/> |Office 2016  <br/> |2 de julho de 2019  <br/> |[4032236](https://support.microsoft.com/help/4032236) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> ||
-|SetupExe-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[3141456](https://support.microsoft.com/en-us/help/3141456) <br/> |NA (Not applicable)  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
+|SetupExe-x-None  <br/> |Office 2016  <br/> |6 de agosto de 2019  <br/> |[3141456](https://support.microsoft.com/en-us/help/3141456) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Stslist-x-None  <br/> |Office 2016  <br/> |5 de fevereiro de 2019  <br/> |[4022161](https://support.microsoft.com/en-us/help/4022161) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |STSUPLD-x0-None  <br/> |Office 2016  <br/> |8 de março de 2016  <br/> |[2920678](https://support.microsoft.com/help/2920678) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |vbe7-x-None  <br/> |Office 2016  <br/> |3 de maio de 2016  <br/> |[3114369](https://support.microsoft.com/help/3114369) <br/> |8 de novembro de 2016  <br/> |[3115135](https://support.microsoft.com/help/3115135) <br/> |Não aplicável  <br/> |
 |Visio-x-None  <br/> |Visio 2016  <br/> |7 de maio de 2019  <br/> |[4462113](https://support.microsoft.com/en-us/help/4462113) <br/> |14 de junho de 2016  <br/> |[3115041](https://support.microsoft.com/help/3115041) <br/> |[3114511](https://support.microsoft.com/help/3114511)  <br/> |
-|Word-x-None  <br/> |Word 2016  <br/> |1 de outubro de 2019  <br/> |[4484105](https://support.microsoft.com/help/4484105) <br/> |13 de agosto de 2019  <br/> |[4475540](https://support.microsoft.com/en-us/help/4475540) <br/> |[4464596](https://support.microsoft.com/en-us/help/4464596) <br/> |
+|Word-x-None  <br/> |Word 2016  <br/> |5 de novembro de 2019  <br/> |[4484135](https://support.microsoft.com/help/4484135) <br/> |13 de agosto de 2019  <br/> |[4475540](https://support.microsoft.com/en-us/help/4475540) <br/> |[4464596](https://support.microsoft.com/en-us/help/4464596) <br/> |
 |wxpcore-x-None  <br/> |Office 2016  <br/> |4 de outubro de 2016  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |wxpnse-x-None  <br/> |Office 2016  <br/> |4 de outubro de 2016  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |xdext-x-None  <br/> |Office 2016  <br/> |1 de agosto de 2017  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |

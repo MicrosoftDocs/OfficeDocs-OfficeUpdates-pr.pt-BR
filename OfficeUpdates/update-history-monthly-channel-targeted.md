@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: b094b6a52b72a1eb0ab37231aa43a7d4b42283c5
-ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
+ms.openlocfilehash: 70e61e0157e1fa50194801b5ba43fe54245fa1f7
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37772554"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289851"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -27,15 +27,16 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
-> - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão
-
- > [!NOTE]
+> - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão.
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
 
+**12 de novembro de 2019**<br/>
+Versão 1911 (Build 12228,20120)<br/>
+
 **28 de outubro de 2019**<br/>
-Versão 1910 (Build 12130,20272)<br/>
+Versão 1910 (Build 12130.20272)<br/>
 
 **24 de outubro de 2019**<br/>
 Versão 1910 (Build 12130.20238)<br/>
