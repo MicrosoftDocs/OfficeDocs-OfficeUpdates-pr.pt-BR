@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289831"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312131"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -255,9 +255,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 ### <a name="office-suite"></a>Pacote do Office
 
-- **Instalação do Microsoft Teams:** O Teams foi adicionado nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
-
-- **Compartilhe e carregue seus documentos com novos botões expostos no Local de Informações:** os botões Compartilhar Previamente, Copiar Caminho na Área de Transferência e Abrir Local de Arquivo só estavam acessíveis atrás do caminho de salvamento do documento. Agora, são botões que você pode ver claramente no Local de Informações! Acesse Arquivo > Informações, como você faria normalmente para ver esses novos botões.
+- **Instalação do Microsoft Teams:** O Teams foi adicionado nas instalações existentes do Office 365 ProPlus. [Saiba Mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
 
 - **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
