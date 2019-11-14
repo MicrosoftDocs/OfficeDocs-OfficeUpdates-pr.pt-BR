@@ -9,73 +9,59 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: df80726c0403abe949436368b3d55b26e0cc39c1
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 219abb58ae3fc51b869adf52885e4cce2bbdb9d1
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993716"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282109"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
-Este artigo contém notas de versão para versões Insider do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Em geral, disponibilizamos recursos (e, às vezes, até mesmo correções) para os participantes do programa Office Insider ao longo do tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
+Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Observe que muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Mensal (Direcionado) durante um período de tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
 
 > [!NOTE]
-> - As notas de versão são publicadas semanalmente, e podem ser uma compilação de várias compilações
-> - A data de publicação das notas de versão pode não corresponder à data de lançamento da compilação atual
+> - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
-## <a name="version-1910-october-28"></a>Versão 1910: 28 de outubro
-*Versão 1910 (Build 12130.20272)*
+## <a name="version-1911-november-12"></a>Versão 1911: 12 de novembro
+*Versão 1911 (Build 12228,20120)*
 
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-
 ### <a name="excel"></a>Excel
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
-
-- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
-- **Receba um solicitação para atualizar o Outlook após um erro:** quando o Outlook encontrar um erro que foi corrigido em uma versão posterior, ele solicitará que os clientes atualizem e recebam a correção
-
-- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
+- **Enviar email acessível para quem mais precisa:** O Outlook exibirá uma dica de email para ajudar a garantir que seu conteúdo seja acessível ao enviar para um usuário que prefira este tipo de conteúdo.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
 
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+### <a name="visio"></a>Visio
 
-- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
-- **Aperfeiçoamentos de coautoria**: melhor desempenho do Word durante a coautoria em documentos com alterações controladas.
+- **Melhorias de coautoria:** experiência de coautoria melhorada, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+### <a name="office-suite"></a>Pacote Office
 
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
+- **O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção:** O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção, que será mostrado dentro dos aplicativos do Office em Arquivo > Abrir. Essa nova experiência é mais moderna, integrada e menos invasiva em comparação ao Upload Center.
 
-- **Corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D:** corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D.
 
-- **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
-
-### <a name="office-suite"></a>Pacote do Office
-
-- **Instalar o Microsoft Teams em instalações existentes do Office 365 ProPlus:** a partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira, Implantar o Microsoft Teams com o Office 365 ProPlus para obter informações adicionais. [Saiba Mais](https://docs.microsoft.com/pt-BR/deployoffice/teams-install)
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -84,82 +70,85 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
 
-- Corrigimos um problema em que os usuários podem receber um erro de “estado inconsistente” ao usar um banco de dados compartilhado.
+- A contagem de registros pode estar incorreta.
 
 ### <a name="excel"></a>Excel
 
-- Resolvemos um problema de desempenho com funções assíncronas definidas pelo usuário que estava fazendo com que fossem executados de maneira síncrona.
-- Resolvemos um problema em que as pastas de trabalho criadas em versões anteriores do Office poderiam fazer com que o Excel travasse quando aberto nas versões atuais do Office.
-- Corrigimos um problema que poderia impedir que um usuário colasse hiperlinks em algumas planilhas protegidas.
-- Corrigimos um problema que poderia fazer com que o nome da fonte na faixa de opções fosse diferente da fonte usada.
-- Resolvemos um problema em que o formato do hiperlink não podia ser aplicado adequadamente a algum conteúdo.
-- Resolvemos um problema em que as fórmulas que contêm referências absolutas estruturadas eram ajustadas incorretamente.
-- Resolvemos um problema em que o conteúdo copiado do Excel poderia parecer incorreto quando colado em outros aplicativos do Office.
-- Corrigimos um problema que poderia ter causado a renderização incorreta de gráficos de linhas de dispersão na alteração da coleção de série.
-- Corrigimos um problema em que o Excel podia, às vezes, parar durante a inicialização.
-- Resolvemos um problema ao inserir arquivos como objeto no OneDrive.
-- Corrigimos um problema que poderia impedir a atualização de tabelas dinâmicas durante uma sessão de coautoria.
-- Corrigimos um problema em que a área de impressão na visualização de impressão não estava correta.
-- Correção relacionada às cores usadas nas visualizações ao inserir gráficos usando modelos de gráfico.
+- Resolvido um problema em que a exclusão de planilhas com dados que faziam referência a dados de outra planilha fazia o arquivo ser identificado como corrompido ao ser aberto novamente.
+- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
+- As caixas de seleção não podem ser processadas corretamente.
+- As caixas de diálogo Selecionar Fonte de Dados não diferenciam maiúsculas de minúsculas em alguns campos.
+- Algumas funções do VBA retornariam um erro em um novo gráfico.
+- Os usuários podem ser impedidos de salvar no formato de Pasta de Trabalho do Office 365 Excel.
+- Resolvido um problema em que os controles da caixa de seleção podiam diminuir ao usar o AutoAjuste para ajustar a altura da linha.
+- Resolvido um problema em que resultados incorretos eram obtidos ao converter filtros de relatórios com o restante da tabela dinâmica para consultas a servidores de tabela SQL.
+- Resolvido um problema que poderia causar falha no Excel ao editar um arquivo protegido a partir de um compartilhamento de rede não confiável.
+- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
+- Resolvido um problema em que a seleção de uma célula após a rolagem poderia resultar na seleção da célula errada.
+- Melhoramos significativamente o desempenho da exclusão de colunas com células mescladas.
 
 ### <a name="onenote"></a>OneNote
 
-- Corrigimos um problema em que um link em uma página copiada poderia navegar até a página original, em vez de uma recentemente copiada.
+- Identificado um problema que podia afetar a sincronização de um recurso local para um recurso na nuvem.
 
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que poderia resultar em consumo inapropriado de recursos pelo Outlook quando o modo protegido estivesse desabilitado para sites restritos no Internet Explorer.
-- Corrigimos um problema que podia impedir a sincronização de caixa de correio para clientes com várias caixas de correio no Outlook durante a migração para a autenticação moderna no Office 365
-- Corrigimos um problema em que alguns caracteres em rótulos de assinatura não eram exibidos no menu suspenso
-- Melhoramos significativamente o desempenho da seleção de sala quando há um grande número de salas disponíveis.
-- Corrigimos um problema que poderia impedir os usuários de adicionarem anexos a calendários.
-- Corrigimos um problema que causou a exibição de mensagens de erro ao responder a uma mensagem assinada digitalmente.
-- Corrigimos um problema que impedia que os resultados da Pesquisa Expandida aparecessem nos resultados da pesquisa.
-- Corrigimos um problema em que a interface do usuário poderia ficar presa em um modo de exibição compacto.
-- Corrigimos um problema em que alguns usuários apareceriam incorretamente como offline em uma exibição de Agenda de Grupo.
-- Corrigimos um problema que, às vezes, fazia com que caracteres Unicode aparecessem ao colar texto de uma fonte ANSI.
-- Corrigimos um problema que poderia ter causado a duplicação de pastas de email.
-- Corrigimos um problema que poderia ter causado uma mensagem de erro incorreta ao tentar enviar email criptografado s/MIME.
-- Corrigimos um problema que às vezes poderia resultar em falha quando um usuário recebia uma mensagem de 'Conversa Perdida' do Skype.
-- Corrigimos um problema que poderia resultar em um vazamento de memória.
-- Corrigimos um problema que poderia ter relatado erros de permissão ao interagir com pastas de calendário compartilhadas.
-- Corrigimos um problema que poderia causar uma alteração no nome do remetente quando salvo como um rascunho.
+- A ferramenta Localizador de Sala pode estar exibindo &quot;Nenhuma&quot; para salas disponíveis.
+- Identificado um problema em que a caixa de pesquisa podia desaparecer quando a faixa de opções estivesse configurada para ocultar automaticamente.
+- Identificado um problema que poderia fazer com que assinaturas digitais fossem corrompidas ao assinar um email com um anexo assinado digitalmente.
+- Um email encaminhado pode não apresentar imagens inseridas.
+- Os usuários talvez não consigam criar perfis do Outlook com restrição estrita de locatário.
+- Identificado um problema em que os nomes de arquivos longos eram truncados após arrastar e soltar no corpo da mensagem.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Corrigimos um problema em que o usuário poderia experienciar um erro ao imprimir em PDF.
-- Identificamos um problema em que os dispositivos ARC poderiam perder a conexão ao serem executados no AirSpace WinComp.
-- Corrigimos um problema que impedia a criação de hiperlink ao colar texto com hiperlink.
-- Corrigimos um problema que impedia o funcionamento correto das estatísticas.
-- Corrigimos um problema que poderia causar a quebra de TextRanges após colar o texto nos espaços reservados de cabeçalho/rodapé/número de slide no slide mestre e no layout do slide.
+- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
+- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
+- Identificado um problema em que a taxa de proporção da visualização do slide não estava sendo bloqueada/desbloqueada corretamente.
 
 ### <a name="project"></a>Project
 
-- Corrigimos um problema que podia causar uma falha ao substituir um recurso da empresa por um recurso local.
-- Correção de um problema que ocorria quando projetos eram salvos no Project Web App por meio de um projeto mestre e os recursos locais, taxas e outras propriedades de subprojetos não podiam ser salvos.
-- Corrigimos um problema em que as alterações feitas em um valor de trabalho em uma tarefa resumo poderiam causar uma falha se o trabalho protegido estivesse habilitado.
-- Correção de um problema que, se você tiver um projeto mestre e valores do campo personalizado copiar/colar do projeto mestre para um projeto inserido, algumas informações na tarefa não eram salvas corretamente.
-- Corrigimos um problema que poderia inibir a capacidade de sincronizar eventos com calendários da empresa.
+- Identificado um problema em que as anotações podiam não persistir se inseridas durante a realização de tarefas de atualização.
+- O usuário não consegue marcar uma tarefa como concluída, e ela é definida como 99%.
+- As superalocações não são resolvidas por nivelamento.
+- Identificado um problema em que os usuários podiam receber várias mensagens ao abrir um projeto somente leitura.
+- Identificado um problema em que um arquivo podia ser bloqueado por um usuário, mas nenhum nome de usuário seria exibido na mensagem de erro.
+
+### <a name="publisher"></a>Editor
+
+- As formas podem aparecer fora da borda do gráfico.
 
 ### <a name="word"></a>Word
 
-- Corrigimos um problema que poderia causar uma falha no atalho do teclado Ctrl + v.
-- Corrigimos um problema que podia impedir que a rolagem sincronizada funcionasse corretamente no modo de exibição de rascunho.
-- Corrigimos um problema que poderia ter causado problemas de dimensionamento ao imprimir em impressoras DeskJet.
-- Corrigimos um problema que podia impedir a exibição adequada de Dicas de Ferramenta após salvar um documento pela primeira vez.
-- Corrigimos um problema em que a formatação da tabela poderia ser perdida.
-- Resolvemos um problema ao inserir arquivos como objeto no OneDrive.
-- Corrigimos um problema em que as cores da fonte não estavam sendo confirmadas.
+- As sugestões de revisão não são exibidas nos menus de contexto.
+- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
+- As formas podem aparecer fora da borda do gráfico.
+- Identificado um problema ao visualizar comentários usando um leitor de tela.
+- Identificado um problema em que algumas críticas foram identificadas incorretamente como sendo críticas de ortografia ou gramática.
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidas com sucesso quando solicitado.
+- Caracteres incorretos podem ser exibidos ao usar a AutoCorreção de coreano/inglês.
+- A pesquisa no Painel navegação pode falhar.
+- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
+- As políticas de conteúdo estão sendo aplicadas incorretamente a comentários.
+- Rótulos de políticas mais baixos poderão ser aplicados quando um rótulo de política mais alto precisar ter prioridade.
+- Abrir documentos herdados e acessar a guia Informações pode causar uma falha.
+- Identificado um problema em que um nova caixa de diálogo de comentários podia, às vezes, não ter foco.
+- Um cartão de visita poderia ser impedido de abrir após aplicar a formatação a uma @ menção.
+- Realçar o texto pode ser desafiador.
+- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint. Esse problema afeta os usuários que criam um novo arquivo e escolhem a opção "Salvar como" após clicar no ícone Salvar ou pressionar Ctrl + S.
+- Comentários herdados escritos com texto escuro não são visíveis no Modo Escuro.
+- Um usuário poderia ser impedido de navegar para um item individual no editor.
+- Os erros de gramática ou ortografia podem não estar realçados.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
-- Corrigimos um problema em que um usuário poderia receber uma mensagem de erro incorreta ao fechar um arquivo com um carregamento pendente.
-- Corrigimos um problema que poderia causar um aviso repetido para descartar as versões locais de um arquivo.
-- Corrigimos um problema que poderia oferecer histórico de versões quando esse recurso estava desativado.
-- O nome de logon agora está sendo preenchido para os avisos de autenticação básicos no Outlook.
-- Corrigimos um problema em que o texto médio em negrito poderia ser estilizado de forma incorreta.
+- Alguns desenhos podem não ser exibidos na visualização ou na apresentação de slides.
+- Corrigimos um problema que uma atualização poderia ser impedida por uma mensagem de erro incorreta de “Outra instalação em andamento”
+- Alguns caracteres Katakana podem ser exibidos incorretamente em uma caixa de texto vertical.
+- Tentar salvar um arquivo em um compartilhamento de rede desconectado podem ocasionar uma falha.
+- Problema de desempenho ao usar Formas no Windows 7.
 
-
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 

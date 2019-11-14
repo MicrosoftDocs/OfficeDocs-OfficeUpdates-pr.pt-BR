@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993706"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282179"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -30,13 +30,21 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="november-5-2019"></a>5 de novembro de 2019
+## <a name="november-12-2019"></a>12 de novembro de 2019
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1910 (Build 12130.20344).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1910 (Build 12130.20272) <br/> |30 de outubro de 2019 <br/> |61<br/> |
+|Versão 1909 (Build 12026.20344) <br/> |22 de outubro de 2019 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-<i>A versão esperada é a versão 1902 (Build 11328.20468).</i>
+A versão mais atual é a Versão 1902 (Build 11328.20468).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 1902 (Build 11328.20420) <br/> |10 de setembro de 2019 <br/> |70<br/> |
 
 
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO12 de novembro de 2019)
+
 ### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
 
-<i>A versão esperada é a versão 1908 (Build 11929.20436).</i>
+A versão mais atual é a Versão 1908 (Build 11929.20436).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 1908 (Build 11929.20388) <br/> |8 de outubro de 2019 <br/> |66<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO12 de novembro de 2019)
+
+## <a name="november-5-2019"></a>5 de novembro de 2019
+
+
+
 
 ## <a name="october-30-2019"></a>30 de outubro de 2019
 
