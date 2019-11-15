@@ -3,19 +3,19 @@ title: Atualizações mais recentes para versões do Office que usam o Windows I
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: e3b4c53e69a575cbd8bae2c01d7172fc1ec331ab
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: b1bbaa3669cfa78bafc6d1131931aa34f1c51e15
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37424046"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289639"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Office que usam o Windows Installer (MSI)
 
@@ -32,23 +32,25 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Não disponível  <br/> |PU de outubro de 2019  <br/> [KB4522242](https://support.microsoft.com/help/4522242) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Não disponível  <br/> |Atualização pública de novembro de 2019  <br/> [KB4527848](https://support.microsoft.com/help/4527848) <br/> |
    
 ## <a name="office-2013-updates"></a>Atualizações do Office 2013
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de outubro de 2019  <br/> [KB4522242 ](https://support.microsoft.com/help/4522242 ) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Atualização pública de novembro de 2019  <br/> [KB4527848 ](https://support.microsoft.com/help/4527848 ) <br/> |
    
 ## <a name="office-2010-updates"></a>Atualizações do Office 2010
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Pacotes do Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores do Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produtos do SharePoint 2010  <br/> Project Server 2010  <br/> Microsoft FAST Search Server 2010 para SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU de outubro de 2019  <br/> [KB4522242 ](https://support.microsoft.com/help/4522242 ) <br/>|
+|**2010** <br/> Pacotes do Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores do Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produtos do SharePoint 2010  <br/> Project Server 2010  <br/> Microsoft FAST Search Server 2010 para SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Atualização pública de novembro de 2019  <br/> [KB4527848 ](https://support.microsoft.com/help/4527848 ) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Atualizações lançadas nos últimos 12 meses
+
+[Atualizações de segurança e não relacionadas à segurança de novembro de 2019: KB4527848](https://support.microsoft.com/help/4527848)
 
 [Atualizações de segurança e não relacionadas à segurança de outubro de 2019: KB4522242](https://support.microsoft.com/help/4522242)
 
@@ -72,7 +74,7 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 [Atualizações de Segurança e que Não são de Segurança de dezembro de 2018: KB4477615](https://support.microsoft.com/help/4477615)
 
-[Atualizações de segurança e que não são de segurança de novembro de 2018: KB4469617](https://support.microsoft.com/help/4469617)
+
 
 
 
