@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076415"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669830"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,79 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1912-november-15"></a>Versão 1912: 15 de novembro
+*Versão 1912 (Build 12307.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="insights-services"></a>Serviços de Insights
+
+- **Consultas com o Idioma Natural no Ideias do Excel:** Novo recurso de Ideias do Excel para consultar seus dados com o idioma natural
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- <div><span>A funcionalidade Texto em Coluna pode falhar em algumas localizações</span></div>
+
+
+- <h5>Editar fórmulas de matriz dinâmica dentro de uma célula pode fazer o texto ficar alinhado fora do limite da célula<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Adicionada a capacidade de forçar a configuração S/MIME pela política de grupo</div>
+
+
+- <div><span>Imagens inseridas podem ser exibidas menor que o esperado</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>O cursor pode desaparecer após mover o foco do texto</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Os usuários podem ter um erro de licenciamento</span></div>
+
+
+- <div><span>O botão Hoje no seletor de data pode, às vezes, definir a data incorreta</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>O clique com o botão direito do mouse às vezes pode não resultar na seleção da palavra inteira</span></div>
+
+
+- <div>O cursor pode permanecer ativo dentro de um objeto após convertê-lo para um formato sugerido</div>
+
+
+- <div>As imagens nas mensagens podem ser dimensionadas incorretamente em alguns cenários</div>
+
+
+- <div>Alguns temas podem dificultar a determinação do comentário selecionado</div>
+
+
+- <div><span>Selecionar uma dica de comentário agora mostra o painel de comentários modernos quando oculto no seletor do painel</span></div>
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- <div><span>Responder a um comentário pode fazer com que a caixa de texto se expanda verticalmente além da borda do painel</span></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1912-november-08"></a>Version 1912: 08 de novembro
 *Versão 1912 (Build 12231.20000)*
