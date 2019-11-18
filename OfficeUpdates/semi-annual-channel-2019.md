@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289811"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402437"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -304,7 +304,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 
 - Solucionado um problema que fazia com que as tarefas dos clientes aparentemente desaparecessem ao adicionar uma segunda condição a "Agrupar por".
-- Soluciona um problema que fazia com que os clientes não conseguissem editar alguns campos em itens que foram migrados. 
+- Soluciona um problema que fazia com que os clientes não conseguissem editar alguns campos em itens que foram migrados.
 - Corrigimos um problema no qual o Windows não aparecia no local correto quando a barra de tarefas do sistema era mantida à esquerda ou no topo da tela.
 - Soluciona um problema que fazia com que os clientes sofressem uma falha ao carregar fotos no cartão de contato.
 - Soluciona um problema que fazia com que alguns clientes sofressem falhas ao iniciar aplicativos do Office.
