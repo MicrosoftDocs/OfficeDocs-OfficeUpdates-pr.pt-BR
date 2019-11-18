@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282159"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640820"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
 
@@ -32,6 +32,22 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 ### <a name="last-updated-november-12-2019"></a>Última Atualização: 12 de novembro de 2019
 
 ### <a name="excel"></a>Excel
+
+- Controles da caixa de seleção podiam diminuir ao usar o AutoAjuste para ajustar a altura da linha<br><br>**Investigando**: Mensal, SACT
+
+- Problema de desempenho com funções Assíncronas Definidas pelo Usuário que causavam a execução Síncrona.<br><br>**Resolvido**: Versão SACT 1908 (11929.20436) 
+
+- Os usuários poderiam ser impedidos de salvar no Office 365 formato de Pasta de Trabalho do Excel<br><br>**Resolvido**: Versão SACT 1908 (11929.20436)
+
+
+- Problema com desempenho lento ao clicar no botão Cor da Fonte quando um arquivo tem uma formatação condicional extensa.<br><br>**Resolvido**: Versão SACT 1908 (11929.20436)
+
+- Melhorias significativas no desempenho da exclusão de colunas com células mescladas<br><br>**Investigando**: SACT<br>**Resolvido**:  Versão Mensal 1910 (12130.20272)
+
+- Resultados incorretos ao converter filtros de relatórios com o restante da tabela dinâmica para consultas a servidores de tabela SQL.<br><br>**Investigando**: Mensalmente 
+
+- Correção relacionada às cores usadas nas visualizações ao inserir gráficos usando modelos de gráfico<br><br>**Resolvido**: Versão Mensal 1910 (12130.20272), Versão SACT 1908 (11929.20436)
+
 
 - Identificado um problema ao inserir arquivos como objeto no OneDrive.<br><br> **Resolvido**: Versão Mensal 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- Alguns caracteres katakana podem ser exibidos incorretamente em uma caixa de texto vertical.<br><br>
+**Investigando**: Mensalmente 
+
 - Corrigido um problema que impedia a criação de hiperlink ao colar texto com hiperlink. <br><br>**Resolvido**: Versão Mensal 1910 (12130.20272)
 
 - Corrigido um problema que poderia causar a quebra de TextRanges após colar o texto nos espaços reservados de cabeçalho/rodapé/número de slide no slide mestre e no layout do slide. <br><br>**Resolvido**: Versão Mensal 1910 (12130.20272)
@@ -80,11 +99,25 @@ Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolv
 
 ### <a name="project"></a>Project
 
+- Uma atribuição com zero trabalho em uma tarefa, a tarefa pode não ser marcada como concluída e sempre aparecerá em 99%.<br><br>
+**Investigando**: Mensalmente <br>
+**Resolvido**: Versão SACT 1908 (11929.20436)
+
+- As superalocações não são resolvidas por nivelamento<br><br>
+**Investigando**: Mensalmente 
+
 - Identificado um problema em que os usuários podiam receber várias mensagens ao abrir um projeto somente leitura.<br><br>
 **Resolvido**: Versão Mensal 1910 (12130.20344), Versão SACT 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- A pesquisa no painel Navegação pode falhar<br><br>
+**Investigando**: Mensalmente 
+
 - Identificado um problema ao inserir arquivos como objeto no OneDrive.<br><br> **Resolvido**: Versão Mensal 1910 (12130.20272)
+
+### <a name="office-suite"></a>Pacote Office
+- Tentar salvar um arquivo em um compartilhamento de rede desconectado podem ocasionar uma falha **Investigando**: Mensalmente 
 
 
 
