@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402437"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669820"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -48,6 +48,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="powerpoint"></a>PowerPoint
 
 - Correção de confiabilidade: Corrigido um problema em que o suplemento de terceiros poderia causar falha no PowerPoint.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema com a fonte alterada para MS Mincho ao tentar finalizar alguns caracteres especiais.
 
 ### <a name="office-suite"></a>Pacote Office
 
