@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669830"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704490"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -54,7 +54,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - <div><span>A funcionalidade Texto em Coluna pode falhar em algumas localizações</span></div>
 
 
-- <h5>Editar fórmulas de matriz dinâmica dentro de uma célula pode fazer o texto ficar alinhado fora do limite da célula<br></h5>
+- <div>Editar fórmulas de matriz dinâmica dentro de uma célula pode fazer o texto ficar alinhado fora do limite da célula</div>
 
 
 ### <a name="outlook"></a>Outlook
