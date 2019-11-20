@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: c54ce53dcf5722067dfa68056e633b4650732559
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 242760e78e844c506c0fd097ab5acf930a9e7f48
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704480"
+ms.locfileid: "38724059"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -22,7 +22,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 > [!NOTE]
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/pt-BR/deployoffice/teams-install) para obter informações adicionais.
+> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
 
@@ -34,7 +34,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-1911-november-12"></a>Versão 1911: 12 de novembro
 *Versão 1911 (Build 12228,20120)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
