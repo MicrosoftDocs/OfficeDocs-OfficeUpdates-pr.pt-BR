@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724049"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753788"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -26,18 +26,20 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ## <a name="version-1910-november-18"></a>Versão 1910: 18 de novembro
 *Versão 1910 (Build 12130.20390)*
-* Várias correções de bugs e desempenho.
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="access"></a>Access
+
+- Corrigido um problema em que ao executar uma consulta de Atualização uma mensagem de erro era dada incorretamente: "A consulta está corrompida".
+
 ### <a name="outlook"></a>Outlook
 
 - Corrigido um problema que fazia com que os usuários vissem o campo local nas reuniões mudar inesperadamente.
 
 - Corrigido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão &quot;OK&quot; ao tentar contatar o suporte do contexto de Criação de Conta.
-
-
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -68,7 +70,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-
 
 ### <a name="excel"></a>Excel
 
