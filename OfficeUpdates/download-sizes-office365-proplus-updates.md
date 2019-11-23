@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 89181a939ed22a51a1958ecf395f3662361f1a03
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
+ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704430"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39208974"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -29,6 +29,42 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="november-22-2019"></a>22 de novembro de 2019
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1910 (Build 12130.20410).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1910 (Build 12130.20390) <br/> |18 de novembro de 2019 <br/> |50<br/> |
+|Versão 1910 (Build 12130.20344) <br/> |12 de novembro de 2019 <br/> |58<br/> |
+
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO22 de novembro de 2019)
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+A versão mais atual é a Versão 1902 (Build 11328.20480).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1902 (Build 11328.20468) <br/> |12 de novembro de 2019 <br/> |61<br/> |
+|Versão 1902 (Build 11328.20438) <br/> |8 de outubro de 2019 <br/> |69<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
+
+A versão mais atual é a Versão 1908 (Build 11929.20494).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20436) <br/> |12 de novembro de 2019 <br/> |57<br/> |
+|Versão 1908 (Build 11929.20396) <br/> |14 de outubro de 2019 <br/> |65<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO22 de novembro de 2019)
 
 ## <a name="november-18-2019"></a>18 de novembro de 2019
 
