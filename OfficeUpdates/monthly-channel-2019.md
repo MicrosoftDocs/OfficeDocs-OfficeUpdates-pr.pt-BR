@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
+ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753788"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "38793839"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -35,12 +35,6 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - Corrigido um problema em que ao executar uma consulta de Atualização uma mensagem de erro era dada incorretamente: "A consulta está corrompida".
 
-### <a name="outlook"></a>Outlook
-
-- Corrigido um problema que fazia com que os usuários vissem o campo local nas reuniões mudar inesperadamente.
-
-- Corrigido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão &quot;OK&quot; ao tentar contatar o suporte do contexto de Criação de Conta.
-
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-november-12"></a>Versão 1910: 12 de novembro
@@ -58,14 +52,15 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 - Corrigido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão &quot;OK&quot; ao tentar contatar o suporte do contexto de Criação de Conta.
 
-
-
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-october-30"></a>Versão 1910: 30 de outubro
 *Versão 1910 (Build 12130.20272)*
-* Várias correções de bugs e desempenho.
 
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Solucionamos um problema que causava um travamento na experiência de Comentários de Pesquisa.
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
