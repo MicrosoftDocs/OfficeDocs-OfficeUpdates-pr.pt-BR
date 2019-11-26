@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204320"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254360"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -35,7 +35,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
 
-- Esta atualização corrige um problema no Microsoft Access que pode causar o erro &quot;A consulta está corrompida&quot; quando uma Consulta Atualização é executada ou uma instrução UPDATE é usada em SQL.
+- Corrigido um problema em que ao executar uma consulta de Atualização uma mensagem de erro era dada incorretamente: "A consulta está corrompida".
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-- Várias correções de bugs e desempenho.
+### <a name="access"></a>Access
+
+- Corrigido um problema em que ao executar uma consulta de Atualização uma mensagem de erro era dada incorretamente: "A consulta está corrompida".
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
