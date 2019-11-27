@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: d986ac947e9e7c5a839c7f6b8b7a35afa06256ba
-ms.sourcegitcommit: 48d0a5842f174e2dbd37df8dd88720a203734e90
+ms.openlocfilehash: 5abaa516f750daa60b0a2538f8d75f7a1b3fb71b
+ms.sourcegitcommit: d54d66f9c5f68a3a20ebb5f1004fb6c3ad9f62cc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39256588"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39603685"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -27,7 +27,6 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
