@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
+ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204330"
+ms.lasthandoff: 12/04/2019
+ms.locfileid: "39818771"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -23,6 +23,63 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
  > [!NOTE]
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install) para obter informações adicionais.
+
+## <a name="version-1911-december-03"></a>Versão 1911: 3 de dezembro
+*Versão 1911 (Build 12228.20332)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.office.com/pt-BR/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE e RANDARRAY. [Saiba mais](https://support.office.com/pt-BR/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Melhorias de coautoria:** experiência de coautoria melhorada, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema no Microsoft Access que pode causar o erro &quot;A consulta está corrompida&quot; quando uma Consulta Atualização é executada ou quando uma instrução UPDATE é usada em SQL.
+
+### <a name="excel"></a>Excel
+
+- O Excel pode apresentar problemas ao editar um arquivo protegido a partir de um compartilhamento de rede não confiável.
+
+- Corrigimos um problema que pode ter causado uma falha ao procurar arquivos recentes quando a pasta de trabalho não está aberta.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão &quot;OK&quot; ao tentar contatar o suporte do contexto de Criação de Conta.
+
+- Ao usar o fuso horário de Brasília no ano de 2019, reuniões e compromissos recorrentes são exibidos no timeslot incorreto para o ano 2020. Essa alteração é revelante para clientes no fuso horário de Brasília ou para reuniões e compromissos nesse fuso horário. 
+
+- Solucionamos um problema que fazia com que usuários vissem um prompt &quot;As regras neste computador não correspondem às regras no Microsoft Exchange&quot; ao abrir a caixa de diálogo de Regras.
+
+- Corrigimos um problema com a seleção de algoritmo SMIME.
+
+- Corrigimos um problema que fazia com que o campo Local nas reuniões fosse atualizado inesperadamente.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
+
+- Corrigimos um prolema na ODT e na configuração da data limite da atualização do GPO, onde a data limite só funciona na primeira vez que é definida, a correção habilita a data limite relativa para as atualizações subsequentes.
+
+- Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1910-november-22"></a>Versão 1910: 22 de novembro
 *Versão 1910 (Build 12130.20410)*
