@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818771"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857839"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -76,8 +76,6 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
 
 - Corrigimos um prolema na ODT e na configuração da data limite da atualização do GPO, onde a data limite só funciona na primeira vez que é definida, a correção habilita a data limite relativa para as atualizações subsequentes.
-
-- Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
