@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204340"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890445"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -31,11 +31,20 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="access"></a>Access
+
+- Corrigido um problema em que ao executar uma consulta de Atualização uma mensagem de erro era dada incorretamente: "A consulta está corrompida".
+
 ### <a name="excel"></a>Excel
 
 - Problema com desempenho lento ao clicar no botão Cor da Fonte quando um arquivo tem uma formatação condicional extensa.
 
 - Corrigimos um problema em que a área de impressão na visualização de impressão não estava correta.
+
+- O Excel pode apresentar problemas ao editar um arquivo protegido a partir de um compartilhamento de rede não confiável.
+
+- Corrigimos um problema que pode ter causado uma falha ao procurar arquivos recentes quando a pasta de trabalho não está aberta.
 
 ### <a name="outlook"></a>Outlook
 
@@ -46,6 +55,8 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 - Solucionamos um problema que fazia com que os usuários ver falhas de pesquisa em Grupos Modernos.
 
 - Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao tentar criar uma regra a partir de uma mensagem de &quot;Conversa Perdida&quot;.
+
+- Solucionamos um problema que fazia com que os usuários vissem falhas de pesquisa em Grupos Modernos.
 
 ### <a name="word"></a>Word
 
