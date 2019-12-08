@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704490"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890455"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,6 +29,103 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
+
+## <a name="version-1912-december-06"></a>Versão 1912: 06 de dezembro
+*Versão 1912 (Build 12325.20012)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Configurações avançadas de email do grupo:** Esse recurso ajuda os usuários de grupos a personalizar quais emails ou eventos receber/acompanhar na caixa de entrada.
+
+- **Política de Nome de Grupo:** Uma política de nome de grupo permite que o administrador de TI padronize e gerencie os nomes do grupos criados pelos usuários na organização. O administrador pode exigir o uso de um prefixo ou sufixo específico para o nome de um grupo quando ele é criado e pode bloquear o uso de palavras específicas. Isso ajuda a minimizar o uso de palavras inadequadas em nomes de grupos, além de gerenciar a representação de grupos no diretório. A Política de Nome também ajuda as organizações que implantam sites de equipe a categorizar com base no departamento.
+
+### <a name="office-suite"></a>Pacote Office
+
+- **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Os usuários podem encontrar um erro ao salvar as alterações enquanto usam alguns conjuntos de caracteres que não estão em inglês.
+
+- Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto.
+
+- A desativação da aceleração de gráficos de hardware com resolução de 4K poderá causar um atraso na renderização de células.
+
+- A limpeza de uma fórmula extensa que se sobrepõe ao limite de uma célula ainda pode ser exibida no limite da célula.
+
+- Resolvido um problema com a personalização da faixa de opções que não carregava ao abrir a pasta de trabalho inserida.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente.
+
+### <a name="onenote"></a>OneNote
+
+- O OneNote pode não abrir através do suplemento “Anotações da Reunião” do Outlook.
+
+### <a name="outlook"></a>Outlook
+
+- Os rótulos da política de retenção podem exibir o período de retenção entre parênteses.
+
+- Espaços em branco podem aparecer nos cartões de Contato com o pacote de idioma japonês.
+
+- As imagens inseridas embutidas nas mensagens de email do Outlook às vezes podem ser redimensionadas.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Se um usuário tiver dois (ou mais) vídeos diferentes em um slide de um arquivo na nuvem, as imagens de vídeos são processadas corretamente, mas quando o usuário clica em cada uma delas, o conteúdo do vídeo é o mesmo.
+
+- Em alguns casos, rolar com dispositivos de toque não funcionará.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente.
+
+- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
+
+### <a name="project"></a>Project
+
+- O Project pode falhar ao usar o recurso de Comparar Projetos.
+
+- Se você estiver no modo Escuro, ao acessar o painel do inspetor de tarefas em uma tarefa com um recurso alocado em excesso, não será possível ler a tabela.
+
+- O esforço para definir tarefas que não têm atribuições está arredondado para um dia.
+
+### <a name="word"></a>Word
+
+- Salvar um arquivo após fazer uma mala direta pode não funcionar em determinadas condições.
+
+- O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.
+
+- Às vezes, o painel de comentários é recarregado ao usar a opção de copiar/colar.
+
+- Às vezes, os comentários não são colados na ordem correta.
+
+- A aplicação de um modelo que consiste em uma lista de vários níveis com estilos personalizados para documentos existentes pode não preservar o estilo sob determinadas condições.
+
+- O redimensionamento de uma borda da tela dividida poderá introduzir uma tela dividida adicional.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente
+
+- Ao mencionar um usuário em um cartão de comentários, um JSON poderá ser exibido.
+
+- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Para produtos com base japonesa, o nome do usuário da conta e o sobrenome podem aparecer em ordem incorreta.
+
+- Passar o cursor do mouse sobre os comentários poderá exibir uma estrutura de tópicos de caixa de texto em torno do comentário.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1912-november-15"></a>Versão 1912: 15 de novembro
 *Versão 1912 (Build 12307.20000)*
