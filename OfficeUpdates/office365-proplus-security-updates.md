@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289659"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961776"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -25,6 +25,29 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.  
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usado para o espaçamento)  
+
+## <a name="december-10-2019"></a>10 de dezembro de 2019
+Canal Mensal: Versão 1911 (Build 12228.20364)  
+Canal Semestral (Direcionado): versão 1908 (Build 11929.20516)  
+Canal Semestral: Versão 1902 (Build 11328.20492)  
+Canal Semestral: Versão 1808 (Build 10730.20426)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1462)
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1461](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1461)
+
+### <a name="office-suite"></a>Pacote Office
+
+-   [CVE-2019-1400](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1400)
+-   [CVE-2019-1463](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1463)
 
 ## <a name="november-12-2019"></a>12 de novembro de 2019
 Canal Mensal: versão 1910 (Build 12130.20344)  

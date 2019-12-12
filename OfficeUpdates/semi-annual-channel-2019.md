@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254360"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961978"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -26,9 +26,47 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
+
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1902-december-10"></a>Versão 1902 (10 de dezembro)
+*Versão 1902 (Build 11328.20492)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.
+
+### <a name="outlook"></a>Outlook
+
+- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/pt-BR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- Resolvido um problema que fazia com que os usuários experimentassem uma falha ao tentar criar uma regra a partir de uma mensagem de &quot;conversa perdida&quot;.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema relacionado à impressão na página de anotações que tinha problemas de layout em alguns casos.
+
+## <a name="version-1808-december-10"></a>Versão 1808: 10 de dezembro
+*Versão 1808 (Build 10730.20426)*
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/pt-BR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 ## <a name="version-1902-november-22"></a>Versão 1902: 22 de novembro 
 *Versão 1902 (Build 11328.20480)*
-
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 

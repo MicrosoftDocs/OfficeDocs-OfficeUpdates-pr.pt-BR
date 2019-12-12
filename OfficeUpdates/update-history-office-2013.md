@@ -3,26 +3,26 @@ title: Histórico de atualizações do Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 91da43b4e86d47dd4f614124fb0661acbe508ada
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 08c372300adbde8298b2b66d19fafc74162fb2cc
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289821"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961928"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
-A maioria dos produtos do Office 2013 é atualizada automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
+A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais atual do Office 2013 é a **15.0.5189.1000**, lançada em 12 de novembro de 2019.
+> A versão mais recente do Office 2013 é a **15.0.5197.1000**, que foi lançada em 10 de dezembro de 2019.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -46,9 +46,10 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2019|12 de novembro   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/pt-BR/help/4527848 )  |
-||8 de outubro   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/pt-BR/help/4522242 )  |
-||10 de setembro   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/pt-BR/help/4517986 )  |
+|2019|10 de dezembro   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/pt-BR/help/4532624)  |
+||12 de novembro   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/pt-BR/help/4527848)  |
+||8 de outubro   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/pt-BR/help/4522242)  |
+||10 de setembro   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/pt-BR/help/4517986)  |
 ||13 de agosto   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/pt-BR/help/4514418)  |
 ||9 de julho   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/pt-BR/help/4509295)  |
 ||11 de junho   |15.0.5145.1001   |[KB 4505743](https://support.microsoft.com/pt-BR/help/4505743)  |
