@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: c274cef54692cdb8f793edc78292cca275be8001
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961756"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023556"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Office que usam o Windows Installer (MSI)
 
@@ -64,11 +64,11 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 [Atualizações de segurança e não relacionadas à segurança para junho de 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
-[Atualizações de segurança e não relacionadas à segurança para maio de 2019: KB4501270](https://support.microsoft.com/pt-BR/help/4501270)
+[Atualizações de segurança e não relacionadas à segurança para maio de 2019: KB4501270](https://support.microsoft.com/help/4501270)
 
-[Atualizações de segurança e que Não são de segurança de abril de 2019: KB4495300](https://support.microsoft.com/pt-BR/help/4495300)
+[Atualizações de segurança e que Não são de segurança de abril de 2019: KB4495300](https://support.microsoft.com/help/4495300)
 
-[Atualizações de segurança e que não são de segurança de março de 2019: KB4491754](https://support.microsoft.com/pt-BR/help/4491754) 
+[Atualizações de segurança e que não são de segurança de março de 2019: KB4491754](https://support.microsoft.com/help/4491754) 
 
 [Atualizações de Segurança e que Não são de Segurança de Fevereiro de 2019: KB4488446](https://support.microsoft.com/help/4488446)
 

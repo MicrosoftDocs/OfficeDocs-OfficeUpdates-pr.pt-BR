@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961978"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023722"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -35,7 +35,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1902-december-10"></a>Versão 1902 (10 de dezembro)
 *Versão 1902 (Build 11328.20492)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -47,7 +47,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 ### <a name="outlook"></a>Outlook
 
-- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/pt-BR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - Resolvido um problema que fazia com que os usuários experimentassem uma falha ao tentar criar uma regra a partir de uma mensagem de &quot;conversa perdida&quot;.
 
@@ -61,7 +61,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/pt-BR/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Os itens de calendário do próximo ano podem exibir um horário incorreto no Outlook. [Saiba Mais](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -249,7 +249,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
-- Correção de um problema em que a configuração da API não funciona na biblioteca JavaScript do Office em determinados cenários [Saiba mais](https://support.microsoft.com/pt-BR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Correção de um problema em que a configuração da API não funciona na biblioteca JavaScript do Office em determinados cenários [Saiba mais](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1803-august-13"></a>Versão 1803 13 de agosto
@@ -258,7 +258,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
-- Correção de um problema em que a configuração da API não funciona na biblioteca JavaScript do Office em determinados cenários [Saiba mais](https://support.microsoft.com/pt-BR/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Correção de um problema em que a configuração da API não funciona na biblioteca JavaScript do Office em determinados cenários [Saiba mais](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>Versão 1902: 09 de julho
