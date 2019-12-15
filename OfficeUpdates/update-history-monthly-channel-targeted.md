@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961948"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023566"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -22,7 +22,7 @@ Olá, Insiders! Se você quer saber se possui a versão mais recente instalada o
 
 ## <a name="office-insider-versions-and-builds"></a>Versões do office Insider e compilações
 
-Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Mensal (Direcionado) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações presentes nas versões anteriores. Para saber as notas de versão, confira [Quais são as novidades para participantes do Office Insiders](https://support.office.com/pt-BR/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Mensal (Direcionado) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações presentes nas versões anteriores. Para saber as notas de versão, confira [Quais são as novidades para participantes do Office Insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
@@ -30,6 +30,9 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+**12 de dezembro de 2019**<br/>
+Versão 1912 (Build 12325.20172)<br/>
 
 **10 de dezembro de 2019**<br/>
 Versão 1911 (Build 12228.20364)<br/>
@@ -198,8 +201,7 @@ Versão 1903 (Build 11425.20204)<br/>
 **Office Insider no Twitter**<br/> Em @OfficeInsider, fazemos postagens regularmente sobre versões do Insider e realizamos eventos especiais para participantes do programa Insider.<br/> 
 [Siga-nos no Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![Imagem mostrando o ícone do Facebook. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Obter novos recursos primeiro**

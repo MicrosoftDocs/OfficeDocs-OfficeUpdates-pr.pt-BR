@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961736"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023616"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -30,10 +30,129 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
+## <a name="version-1912-december-12"></a>Versão 1912: 12 de dezembro
+*Versão 1912 (Build 12325.20172)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Os usuários podem encontrar um erro ao salvar as alterações enquanto usam alguns conjuntos de caracteres que não estão em inglês.
+
+- Editar fórmulas de matriz dinâmica dentro de uma célula pode fazer o texto ficar alinhado fora do limite da célula.
+
+- A funcionalidade Texto em Coluna pode falhar em algumas localizações.
+
+- Resolvido um problema com a personalização da faixa de opções que não carregava ao abrir a pasta de trabalho inserida.
+
+- Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente.
+
+- A desativação da aceleração de gráficos de hardware com resolução de 4K poderá causar um atraso na renderização de células ao usar a rolagem.
+
+- Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.
+
+### <a name="onenote"></a>OneNote
+
+- O OneNote pode não abrir através do suplemento “Anotações da Reunião” do Outlook.
+
+### <a name="outlook"></a>Outlook
+
+- Falha intermitente envolvendo conteúdo de pastas cruzadas.
+
+- As imagens inseridas embutidas nas mensagens de email do Outlook às vezes podem ser redimensionadas.
+
+- Foi adicionada a capacidade de impor a configuração de assinatura padrão S/MIME pela política de grupo.
+
+- Imagens inseridas podem ser exibidas menor que o esperado.
+
+- Os rótulos da política de retenção podem exibir o período de retenção entre parênteses.
+
+- Corrige um problema que fazia com que as Dicas de política deixassem de ser exibidas ao usar um remetente alternativo.
+
+- Espaços em branco podem aparecer nos cartões de Contato com o pacote de idioma japonês.
+
+- Corrige um problema que fazia com que o local de uma reunião fosse adicionado novamente à reunião após a limpeza.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- O cursor pode desaparecer após mover o foco do texto.
+
+- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
+
+- Em alguns casos, a rolagem com dispositivos de toque não funcionará.
+
+- Se um usuário tiver dois (ou mais) vídeos diferentes em um slide de um arquivo na nuvem, as imagens de vídeos são processadas corretamente, mas quando o usuário clica em cada uma delas, o conteúdo do vídeo é o mesmo.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente.
+
+### <a name="project"></a>Project
+
+- Se você estiver no modo Escuro, ao acessar o painel do inspetor de tarefas em uma tarefa com um recurso superalocado, não será possível ler a tabela.
+
+- Os usuários podem ter um erro de licenciamento.
+
+- O botão Hoje no seletor de data pode, às vezes, definir a data incorreta.
+
+- O Project pode falhar ao usar o recurso de Comparar Projetos.
+
+- O esforço para definir tarefas que não têm atribuições está arredondado para um dia.
+
+### <a name="word"></a>Word
+
+- Selecionar uma dica de comentário agora mostra o painel de comentários modernos quando oculto no seletor do painel.
+
+- O clique com o botão direito do mouse às vezes pode não resultar na seleção da palavra inteira.
+
+- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
+
+- O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.
+
+- Alguns temas podem dificultar a determinação do comentário selecionado.
+
+- O cursor pode permanecer ativo dentro de um objeto após convertê-lo para um formato sugerido.
+
+- As imagens nas mensagens podem ser dimensionadas incorretamente em alguns cenários.
+
+- Às vezes, o painel de comentários é recarregado ao usar a opção de copiar/colar.
+
+- Às vezes, os comentários não são colados na ordem correta.
+
+- Ao mencionar um usuário em um cartão de comentários, um JSON poderá ser exibido.
+
+- O menu suspenso de Margem pode não ser renderizado corretamente.
+
+- O redimensionamento de uma borda da tela dividida poderá introduzir uma tela dividida adicional.
+
+- A aplicação de um modelo que consiste em uma lista de vários níveis com estilos personalizados para documentos existentes pode não preservar o estilo sob determinadas condições.
+
+- Salvar um arquivo após fazer uma mala direta pode não funcionar em determinadas condições.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Colar um gráfico do Excel para o PowerPoint pode reduzir o tamanho do gráfico.
+
+- Responder a um comentário pode fazer com que a caixa de texto se expanda verticalmente além da borda do painel.
+
+- Para produtos com base japonesa, o nome do usuário da conta e o sobrenome podem aparecer em ordem incorreta.
+
+- Corrigimos um prolema na ODT e na configuração da Data Limite da Atualização do GPO, onde a data limite relativa só funciona na primeira vez que é definida, a correção habilita a data limite relativa para as atualizações subsequentes.
+
+- Passar o cursor do mouse sobre os comentários poderá exibir uma estrutura de tópicos de caixa de texto em torno do comentário.
+
+- Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 ## <a name="version-1911-december-10"></a>Versão 1911: 10 de dezembro
 *Versão 1911 (Build 12228.20364)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -42,7 +161,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ### <a name="outlook"></a>Outlook
 
@@ -50,7 +169,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Repe-tinta-ção Instantânea:** Ao escrever à tinta nos slides, aplique uma animação de repetição para reproduzir o desenho real da sua tinta durante a apresentação de slides. [Saiba mais](https://support.office.com/pt-BR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **Repe-tinta-ção Instantânea:** Ao escrever à tinta nos slides, aplique uma animação de repetição para reproduzir o desenho real da sua tinta durante a apresentação de slides. [Saiba mais](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
@@ -62,7 +181,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ## <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -103,7 +222,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -115,7 +234,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="visio"></a>Visio
 
-- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
