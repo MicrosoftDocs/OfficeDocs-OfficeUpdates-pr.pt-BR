@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8a4f4ed0d165a592d5ac6503ca42cf02058ff988
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961786"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023596"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Mensal para o Office 365 ProPlus em 2019, o Visio Pro para Office 365, o Cliente de Área de Trabalho do Microsoft Project Online e o Office 365 Business.
 
  > [!NOTE]
->- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install) para obter informações adicionais.
 
 ## <a name="version-1911-december-10"></a>Versão 1911: 10 de dezembro
 *Versão 1911 (Build 12228.20364)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -52,11 +52,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/of
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.office.com/pt-BR/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
 
-- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE e RANDARRAY. [Saiba mais](https://support.office.com/pt-BR/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE e RANDARRAY. [Saiba mais](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -147,7 +147,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="excel"></a>Excel
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
@@ -161,7 +161,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
@@ -171,7 +171,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 - **Aperfeiçoamentos de coautoria**: melhor desempenho do Word durante a coautoria em documentos com alterações controladas.
 
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/pt-BR/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
@@ -252,7 +252,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access
 
-- **Localizar tabelas vinculadas rapidamente** Nossa nova caixa de pesquisa facilita a localização de tabelas vinculadas. [Saiba mais](https://support.office.com/pt-BR/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- **Localizar tabelas vinculadas rapidamente** Nossa nova caixa de pesquisa facilita a localização de tabelas vinculadas. [Saiba mais](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="excel"></a>Excel
 
@@ -272,13 +272,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 - **Proteção avançada contra ataque:** com a proteção avançada contra ameaças do Office 365, você está protegido contra ataques por meio de hiperlinks dentro de assuntos de email, mensagens anexadas, mensagens assinadas, caminhos de rede e assim por diante.
 
-- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/pt-BR/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Repe-tinta-ção instantânea:** anime um desenho à tinta para que ele avance ou retroceda durante a sua apresentação de slides. [Saiba mais](https://support.office.com/pt-BR/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **Repe-tinta-ção instantânea:** anime um desenho à tinta para que ele avance ou retroceda durante a sua apresentação de slides. [Saiba mais](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
@@ -371,9 +371,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
-- **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **Foco no que precisa ser feito:** Selecione Resolver para recolher comentários e dar destaque aos itens abertos.
 
@@ -383,21 +383,21 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 
-- **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. [Saiba mais](https://support.office.com/pt-BR/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. [Saiba mais](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
-- **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 
-- **Faça um Esboço:** deixe as formas do Office do seu documento com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/pt-BR/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** deixe as formas do Office do seu documento com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/pt-BR/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>Versão 1907: 13 de agosto
 *Versão 1907 (Build 11901.20218)*
@@ -423,35 +423,35 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 - **Códifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
 
-- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Unir tabelas em colunas similares:** Obter e Transformar (Power Query) agora apresenta lógica de texto correspondente aproximado (também chamada de correspondência difusa) ao comparar colunas para mesclar tabelas. [Saiba mais](https://support.office.com/pt-BR/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **Unir tabelas em colunas similares:** Obter e Transformar (Power Query) agora apresenta lógica de texto correspondente aproximado (também chamada de correspondência difusa) ao comparar colunas para mesclar tabelas. [Saiba mais](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 
-- **Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa. [Saiba mais](https://support.office.com/pt-BR/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa. [Saiba mais](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
 
-- **Os vídeos online têm um novo lar:** Salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo. [Saiba mais](https://support.office.com/pt-BR/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Os vídeos online têm um novo lar:** Salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **Adicione Títulos de Slides para tornar suas apresentações acessíveis:**: o Verificador de Acessibilidade ajuda você a encontrar e corrigir títulos de slides ausentes. [Saiba Mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
-- **Diga adeus às distrações** Um dos recursos favoritos do Mac acaba de chegar no Windows. Alterne para o modo Foco no menu Exibir para remover distrações e se concentrar no trabalho. [Saiba mais](https://support.office.com/pt-BR/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **Diga adeus às distrações** Um dos recursos favoritos do Mac acaba de chegar no Windows. Alterne para o modo Foco no menu Exibir para remover distrações e se concentrar no trabalho. [Saiba mais](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
 
-- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/pt-BR/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Criar um Gráfico de Mapa:** Este recurso é uma melhoria para usuários que plotam Gráficos de Mapa Preenchido usando Tipos de Dados Geográficos do Excel. O benefício aos usuários finais será uma integração mais avançada entre os recursos e uma maior precisão da região que o usuário final deseja mapear. Benefícios adicionais incluem - capacidade de mapear polígonos de cidade. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Apagar com precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições à tinta. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Apagar com precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições à tinta. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Versão 1906: 09 de julho
 *Versão 1906 (Build 11727.20244)*
@@ -487,23 +487,23 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 
-- **Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T.rex na pasta de trabalho. [Saiba mais](https://support.office.com/pt-BR/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T.rex na pasta de trabalho. [Saiba mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 
-- **Uma faixa de opções simplificada também personalizável:** desfrute de uma única linha simplificada com os botões usados com mais frequência. Alterne facilmente entre visualizações clássicas e simplificadas e comandos para fixar/desafixar. [Saiba mais](https://support.office.com/pt-BR/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **Uma faixa de opções simplificada também personalizável:** desfrute de uma única linha simplificada com os botões usados com mais frequência. Alterne facilmente entre visualizações clássicas e simplificadas e comandos para fixar/desafixar. [Saiba mais](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **Escolha a sua ação favorita:** não use Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos que você mais usa.
 
 - **Sincronização de pastas compartilhadas aprimorada para caixas de correio com muitas pastas:** por muitos anos, o Outlook ficou limitado a um número máximo de 500 pastas ao sincronizar caixas de correio compartilhadas. Com esta alteração, a sincronização do Outlook foi aprimorada, de maneira que não se encontrará mais este limite de 500 pastas.
 
-- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da Caixa de Entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. [Saiba mais](https://support.office.com/pt-BR/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da Caixa de Entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. [Saiba mais](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **Layout espaçado ou mais ajustado? Você escolhe:** um Espaçamento Menor permite que você decida se quer mais espaço entre itens ou um layout mais justo para poder ver mais.
 
-- **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. [Saiba mais](https://support.office.com/pt-BR/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. [Saiba mais](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba mais](https://support.office.com/pt-BR/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: atualizações de recursos
 
@@ -515,7 +515,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 - Recorte vídeos corretamente em uma reunião em um monitor 4K quando a configuração “Recortar e Centralizar meu vídeo em reuniões" estiver habilitada
 
-- Permita a transferência de arquivos para clientes do Office Communicator herdados de um computador com Windows 10 com vários adaptadores de rede. [Saiba mais](https://support.microsoft.com/help/4508477)
+- Permita a transferência de arquivos para clientes do Office Communicator herdados de um computador com Windows 10 com vários adaptadores de rede. [Saiba mais](help/4508477)
 
 - Melhor experiência de comunicação entre participantes do Skype for Business e Microsoft Teams
 
@@ -742,7 +742,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
 
-- **Criar intervalos entre reuniões consecutivas:** dê um tempo para que os participantes descansem ou se desloquem entre os locais definindo o término antecipado das reuniões para entre cinco a 10 minutos por padrão. [Saiba mais](https://support.office.com/pt-BR/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **Criar intervalos entre reuniões consecutivas:** dê um tempo para que os participantes descansem ou se desloquem entre os locais definindo o término antecipado das reuniões para entre cinco a 10 minutos por padrão. [Saiba mais](https://support.office.com/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Usar Ler em Voz Alta para ouvir seu email** O Outlook pode ler seu email em voz alta, realçando o texto conforme lê. para ativar Ler em Voz Alta, vá para as configurações de facilidade de acesso [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
