@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023596"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302970"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
@@ -154,8 +154,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/OfficeUp
 - **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Receba um solicitação para atualizar o Outlook após um erro:** quando o Outlook encontrar um erro que foi corrigido em uma versão posterior, ele solicitará que os clientes atualizem e recebam a correção
 
 - **Aplique rótulos de confidencialidade aos documentos e emails:** aplique rótulos de confidencialidade aos documentos e emails para ficarem em conformidade com as políticas de proteção de informações da sua organização. [Saiba mais](https://aka.ms/officemipdocs)
 
