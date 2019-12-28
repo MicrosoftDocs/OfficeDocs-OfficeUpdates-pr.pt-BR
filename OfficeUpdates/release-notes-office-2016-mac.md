@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office 2016 para Mac a partir de setembro de 2018
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962208"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889276"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Histórico de atualizações do Office 2016 para Mac
 
 O Office 2016 para Mac é uma versão do Office disponível como uma compra única em uma loja de varejo ou por meio de um contrato de licenciamento por volume. Ele terá suporte com atualizações de segurança e correções de bugs, conforme necessário, até 13 de outubro de 2020. A versão mínima do macOS compatível com o Office 2016 para Mac é a 10.10 (Yosemite).
 
 > [!NOTE]
-> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/pt-BR/security-updates/SecurityAdvisories/2017/4010323)
+> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Para obter notas de versão de lançamentos do Office 2016 para Mac anteriores a setembro de 2018, consulte as [Notas de versão do Office para Mac](release-notes-office-for-mac.md).  
 > - Para saber mais sobre versões do Office para Mac, que é a versão que acompanha as assinaturas do Office 365, consulte as [notas de versão](release-notes-office-for-mac.md) e o [histórico de atualização](update-history-office-for-mac.md) do Office para Mac.
 > - O Office 2019 para Mac é a versão mais atual disponível como compra única. Para saber mais sobre lançamentos do Office 2019 para Mac, consulte as [notas de versão](release-notes-office-for-mac.md) e o [histórico de atualizações](update-history-office-for-mac.md) do Office para Mac.
