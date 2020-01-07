@@ -4,31 +4,28 @@
 ## [Histórico de atualizações (por data)](update-history-office365-proplus-by-date.md)
 ## [Tamanhos de atualização](download-sizes-office365-proplus-updates.md)
 
-
 ## Canal Mensal
+### [2020](monthly-channel-2020.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
-### [2016](monthly-channel-2016.md)
-
 
 ## Canal Semestral
+### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
-### [2016](semi-annual-channel-2016.md)
 
-## Canal Semestral (direcionado)
+## Canal semestral (direcionado)
+### [2020](semi-annual-channel-targeted-2020.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
-### [2016](semi-annual-channel-targeted-2016.md)
-
 
 ## Programa Office Insider  
 ### [Histórico de Atualização do canal do Insider](update-history-office-insider.md)
 ### [Histórico de Atualização do Canal Mensal (Direcionado)](update-history-monthly-channel-targeted.md)
-###[Notas de Lançamento do Canal do Insider](release-notes-office-insider.md)
+### [Notas de Lançamento do Canal do Insider](release-notes-office-insider.md)
 ### [Notas de Versão do Canal Mensal (Direcionado)](release-notes-monthly-channel-targeted.md)
 
 ## [Histórico de versão da ODT](ODT-release-history.md)
