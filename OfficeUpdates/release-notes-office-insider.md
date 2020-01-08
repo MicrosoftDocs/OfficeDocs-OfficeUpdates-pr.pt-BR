@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019847"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951089"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,41 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2001-january-03"></a>Versão 2001: 03 de janeiro
+*Versão 2001 (Build 12425.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="excel"></a>Excel
+- Algumas linhas de borda podem não ser impressas como esperado no papel A4.
+- Adicionar uma imagem ao cabeçalho/rodapé de um objeto de gráfico em uma planilha usando o VBA poderá resultar em um erro.
+- Ao formatar um eixo de gráfico, o intervalo entre os rótulos estava limitado a 255.
+- Correção de um problema em que ocorreu um erro ao tentar atualizar uma consulta XML na qual a URL para a fonte de dados estava sendo truncada.
+- As estatísticas da pasta de trabalho relatam uma contagem de macro de todas as pastas de trabalho abertas, incluindo a pasta de trabalho pessoal de macros.
+
+### <a name="outlook"></a>Outlook
+- A mudança de pastas pode resultar em um breve "flash" branco na lista de emails/visualização de e-mail. Esse comportamento era mais acentuado no modo escuro.
+
+### <a name="powerpoint"></a>PowerPoint
+- Correção de um problema de modelo de objeto onde chamando o método Shape.Paste resultará na forma colada recebendo foco.&nbsp;
+- Melhoria no cenário copiar-colar:&nbsp;Em termos de programação, copiar uma forma de um slide do PowerPoint e colá-la em outro slide em um loop poderia acarretar falha com um erro de exceção.&nbsp;
+- A animação nos cabeçalhos de seção de slides não é renderizada corretamente após recolher e expandir cabeçalhos de seção.
+
+### <a name="project"></a>Project
+- Correção de um problema em que a disposição do texto não estava funcionando nos modos de exibição de tarefa e de uso do recurso.
+- Correção de um problema em que se um recurso tiver mais de uma taxa de custo, o valor de custo em atribuições poderá não estar correto.
+
+### <a name="word"></a>Word
+- Inserir um controle (como um controle de conteúdo de texto) em uma equação, salvar e abrir o arquivo resultará em um erro de conteúdo não legível.
+- Ao trabalhar em coautoria, adicionar um comentário usando o Word online pode não aparecer no Word desktop.
+
+### <a name="office-suite"></a>Pacote Office
+- Removido mostrando uma data de vencimento incorreta da licença válida ao tentar alterar com apenas uma licença.
+
+[//]: # (NÃO REMOVER O FIM DE CONTEÚDOS BUGDETAIL)
 
 ## <a name="version-2001-december-13"></a>Versão 2001: 13 de dezembro
 *Versão 2001 (Build 12410.20000)*
@@ -232,7 +267,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - **Confira as opções da caneta ao selecionar a caneta Surface:** ao selecionar pela primeira vez a caneta Surface no Word, Excel ou PowerPoint, a guia Desenhar será ativada para facilitar a seleção de cores da caneta.
 
 ### <a name="visio"></a>Visio
-- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
 - **Confira as opções da caneta ao selecionar a caneta Surface:** ao selecionar pela primeira vez a caneta Surface no Word, Excel ou PowerPoint, a guia Desenhar será ativada para facilitar a seleção de cores da caneta.
@@ -294,7 +329,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="visio"></a>Visio
 
-- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/pt-BR/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -709,15 +744,15 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/pt-BR/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -768,7 +803,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/pt-BR/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1240,7 +1275,7 @@ Elaborando uma apresentação? Aplique o estilo de esboço para mostrar que voc�
 - **Compartilhamento rápido de arquivos**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba Mais](https://support.office.com/pt-BR/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **A configuração para imprimir números de slide em folhetos foi movida para o menu Imprimir para facilitar o acesso : **Encontre-o na lista suspensa imprimir > layout de impressão quando um layout de folheto estiver selecionado. Isso também facilita a alternância de configurações por apresentação. [Saiba Mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
@@ -1488,7 +1523,7 @@ Agora, você pode desenhar e fazer anotações em seus emails do Outlook.
 
 #### <a name="open-document-links-in-word"></a>Abrir links de documentos no Word
 
-Ao clicar em um link de documento no office, você pode atualizar suas preferências para abrir o aplicativo do Word por padrão.  Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de documento no office, você pode atualizar suas preferências para abrir o aplicativo do Word por padrão.  Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
@@ -1509,7 +1544,7 @@ Para acionar a experiência de aceitação: abrir um link tot um documento do Wo
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Abrir links de apresentação no PowerPoint
 
-Ao clicar em um link de apresentação no Office, você pode atualizar suas preferências para abrir o aplicativo do PowerPoint por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de apresentação no Office, você pode atualizar suas preferências para abrir o aplicativo do PowerPoint por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
@@ -1530,7 +1565,7 @@ Para acionar a experiência de aceitação: abra um link para uma apresentação
 
 #### <a name="open-workbook-links-in-excel"></a>Abrir links de pasta de trabalho no Excel
 
-Ao clicar em um link de pasta de trabalho no Office, você pode atualizar suas preferências para abrir o aplicativo do Excel por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Ao clicar em um link de pasta de trabalho no Office, você pode atualizar suas preferências para abrir o aplicativo do Excel por padrão. Para atualizar suas preferências, vá até Arquivo->Opções->Avançado->Tratamento de Links. Saiba mais: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Introdução:
 
