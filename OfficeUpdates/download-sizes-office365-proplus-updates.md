@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: f713c681387b0e1031d1d11093bba0a103fc0dec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 230c17cabf76400452e337a9d5045c6d7be85f02
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961716"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995541"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -29,6 +29,22 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="january-8-2020"></a>8 de janeiro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de janeiro de 2020)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 1912 (Build 12325.20288).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1911 (Build 12228.20364) <br/> |10 de dezembro de 2019 <br/> |142<br/> |
+|Versão 1911 (Build 12228.20332) <br/> |3 de dezembro de 2019 <br/> |145<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO8 de janeiro de 2020)
 
 ## <a name="december-10-2019"></a>10 de dezembro de 2019
 
