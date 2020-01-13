@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951089"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022046"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,38 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2001-january-10"></a>Versão 2001: 10 de janeiro
+*Versão 2001 (Build 12430.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **O usuário agora pode salvar objetos no Word, Excel e Outlook como uma imagem para Windows:** com o recurso já visto no PowerPoint, os usuários agora podem salvar objetos no Word, no Excel e no Outlook como uma imagem. Os objetos incluem formas, ícones, imagens e muito mais! Esse recurso pode ser acessado por meio do menu de atalho.
+
+### <a name="word"></a>Word
+- **Selecione facilmente Tinta no Word desenhando uma forma ao redor dela:** a ferramenta Laço na guia Desenhar ajuda a selecionar objetos desenhados à tinta. Selecione traços individuais ou palavras inteiras. Isso é útil quando há muita tinta e deseja apenas trabalhar com algumas delas. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="onenote"></a>OneNote
+- As guias de página podem parecer pequenas demais e juntas na resolução em 100%.
+
+### <a name="word"></a>Word
+- Em um grande conjunto de comentários, a exclusão de um comentário próximo ao final da lista de comentários pode resultar na rolagem do painel para a parte superior.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2001-january-03"></a>Versão 2001: 03 de janeiro
 *Versão 2001 (Build 12425.20000)*
