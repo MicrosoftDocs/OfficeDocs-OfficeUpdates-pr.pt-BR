@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982261"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122290"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -33,6 +33,45 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+[//]: # (NÃO REMOVA)
+
+
+## <a name="january-14-2020"></a>14 de janeiro de 2020
+*Versão 16.33 (Build 20011301)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Digite uma Fórmula que Retorna Vários Valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **Criar e gerenciar consultas com o VBA no Mac:** Criar e gerenciar as consultas do Power Query para fontes suportadas no Mac com VBA.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **Acessibilidade incorporada: Suporte para o High Sierra:** adicionamos suporte para a High Sierra, incluindo idioma, links e tabelas no rotor, e suporte aprimorado para localização.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
 ## <a name="december-10-2019"></a>10 de dezembro de 2019
 *Versão 16.32 (Build 19120802)*

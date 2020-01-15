@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961776"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122010"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -25,6 +25,30 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 > - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.  
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usado para o espaçamento)  
+
+## <a name="january-14-2020"></a>Janeiro de 14 de 2020
+Canal Mensal: Versão 1912 (Build 12325.20298)  
+Canal Semestral (Direcionado): Versão 1908 (Build 11929.20562)  
+Canal Semestral: Versão 1908 (Build 11929.20562)  
+Canal Semestral: Versão 1902 (Build 11328.20512)  
+Canal Semestral: Versão 1808 (Build 10730.20432)  
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Pacote Office
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
 
 ## <a name="december-10-2019"></a>10 de dezembro de 2019
 Canal Mensal: Versão 1911 (Build 12228.20364)  
