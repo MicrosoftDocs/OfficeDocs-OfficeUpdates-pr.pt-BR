@@ -3,19 +3,19 @@ title: Atualizações mais recentes para versões do Office que usam o Windows I
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 12389950564e67e2fe79efa1243695cc4e60c57f
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: bf2b5dcb6399f5f3ec9dc5753275d490e2d958a7
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023556"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122240"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Office que usam o Windows Installer (MSI)
 
@@ -32,23 +32,25 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Não disponível  <br/> |PU de dezembro de 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624 ) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Não disponível  <br/> |PU de janeiro de 2020  <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/> |
    
 ## <a name="office-2013-updates"></a>Atualizações do Office 2013
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de dezembro de 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624  ) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de janeiro de 2020  <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/> |
    
 ## <a name="office-2010-updates"></a>Atualizações do Office 2010
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Pacotes do Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores do Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produtos do SharePoint 2010  <br/> Project Server 2010  <br/> Microsoft FAST Search Server 2010 para SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU de dezembro de 2019  <br/> [KB4532624](https://support.microsoft.com/help/4532624  ) <br/>|
+|**2010** <br/> Pacotes do Office 2010  <br/> Project 2010  <br/> Visio 2010  <br/> Servidores do Office 2010  <br/> Office Web Apps  <br/> Search Server 2010  <br/> Produtos do SharePoint 2010  <br/> Project Server 2010  <br/> Microsoft FAST Search Server 2010 para SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |PU de janeiro de 2020  <br/> [KB4536554](https://support.microsoft.com/help/4536554) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>Atualizações lançadas nos últimos 12 meses
+
+[Atualizações de Segurança e não relacionadas à segurança de janeiro de 2020: KB4536554](https://support.microsoft.com/help/4536554)
 
 [Atualizações de segurança e não relacionadas à segurança de dezembro de 2019: KB4532624](https://support.microsoft.com/help/4532624)
 
@@ -72,7 +74,6 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 [Atualizações de Segurança e que Não são de Segurança de Fevereiro de 2019: KB4488446](https://support.microsoft.com/help/4488446)
 
-[Atualizações de Segurança e que Não são de Segurança de Janeiro de 2019: KB4484800](https://support.microsoft.com/help/4484800)
 
 
 

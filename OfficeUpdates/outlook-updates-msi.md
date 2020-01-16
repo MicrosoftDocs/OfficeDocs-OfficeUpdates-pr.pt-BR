@@ -3,19 +3,19 @@ title: Atualizações mais recentes para versões do Outlook que usam o Windows 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Outlook 2016, Outlook 2013 e Outlook 2010
-ms.openlocfilehash: 6f6f8467fb94d5c753953702b72c1c36f8f2ce27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 52c9a98defad0c15048a313f51ff771102cb9f65
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023626"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122050"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Outlook que usam o Windows Installer (MSI)
 
@@ -44,7 +44,7 @@ A compatibilidade do Outlook com o Office 365 e com o seu ambiente local depende
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de dezembro de 2019 <br/>[KB4484172](https://support.microsoft.com/help/4484172) 
+|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de janeiro de 2020. <br/>[KB4484212](https://support.microsoft.com/help/4484212) 
 
 ## <a name="outlook-2013-updates"></a>Atualizações do Outlook 2013
 
