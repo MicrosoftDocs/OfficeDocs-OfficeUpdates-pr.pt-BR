@@ -28,7 +28,7 @@
 ### [Notas de Lançamento do Canal do Insider](release-notes-office-insider.md)
 ### [Notas de Versão do Canal Mensal (Direcionado)](release-notes-monthly-channel-targeted.md)
 
-## [Histórico de atualizações do Office no Windows 7](update-history-office-Win7.md)
+## [Histórico de atualizações do Windows 7](update-history-office-Win7.md)
 
 ## [Histórico de versão da ODT](ODT-release-history.md)
 
