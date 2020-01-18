@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
+ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122000"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41231854"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,24 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2001-january-17"></a>Versão 2001: 17 de janeiro
+*Versão 2001 (Build 12430.20120)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="word"></a>Word
+
+- **Selecione facilmente Tinta no Word desenhando uma forma ao redor dela:** a ferramenta Laço na guia Desenhar ajuda a selecionar objetos desenhados à tinta. Selecione traços individuais ou palavras inteiras. Isso é útil quando há muita tinta e deseja apenas trabalhar com algumas delas. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- O cliente do Excel está causando problemas em vários cenários (como impressão, execução de macros, zoom,...) em uma Versão 2001 que não está em inglês para usuários com o build 12430.20050 e executando a versão de 32 bits do Excel. 
 
 ## <a name="version-2001-january-14"></a>Versão 2001: 14 de janeiro.
 *Versão 2001 (Build 12430.20050)*
