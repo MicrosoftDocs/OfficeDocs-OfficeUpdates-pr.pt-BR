@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 2016 com Clique para Executar e do 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
+ms.date: 1/23/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: f06fabf6b50544b1d0a8776767da3a1843312277
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
+ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122300"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "41519150"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -58,6 +58,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|22 de janeiro de 2020   |Versão 1912 (Build 12325.20344)  |Várias correções de bugs e de desempenho. <br/>  |
 |14 de janeiro de 2020   |Versão 1912 (Build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |8 de janeiro de 2020   |Versão 1912 (Build 12325.20288)  |Várias correções de bugs e de desempenho. <br/>  |
 |10 de dezembro de 2019   |Versão 1911 (Build 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1464) <br/> |
