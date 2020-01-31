@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 proPlus em 2016
-ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 ProPlus em 2016
+ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438996"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629228"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Notas de versão para lançamentos do canal semestral (direcionado) no 2016
 
-Estas notas de versão fornecem informações sobre novos recursos, atualizações de segurança e atualizações que não são de segurança incluídas nas atualizações do canal semestral (direcionado) para o Office 365 proPlus em 2016.
+Estas notas de versão fornecem informações sobre novos recursos, atualizações de segurança e atualizações que não são de segurança incluídas nas atualizações do canal semestral (direcionado) para o Office 365 ProPlus em 2016.
  
 > [!NOTE]
 > - A seguir, fornecemos informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança para Visio Pro para Office 365 e Project Online Desktop Client.
@@ -29,7 +29,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1609-december-13"></a>Versão 1609:13 de dezembro
 *Versão 1609 (build 7369.2095)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
@@ -52,7 +52,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema com formulários do VBA que podem fazer com que a ordem z de quadros pare de funcionar ou seja exibida incorretamente.
--   Correção de um problema em que uma atualização acionada pelo System Center Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
+-   Correção de um problema em que uma atualização acionada pelo Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
 -   Correção de um problema em que, quando os arquivos são sincronizados a partir de um site do OneDrive for Business para um computador local utilizando o cliente de sincronização do OneDrive, o salvamento de volta de um arquivo sincronizado que foi aberto a partir de uma URL faz o Word, o Excel ou o PowerPoint travar.
 
 
@@ -60,7 +60,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1609-november-8"></a>Versão 1609:8 de novembro
 *Versão 1609 (build 7369.2055)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de segurança do Microsoft Office (3199168)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -298,7 +298,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1605-september-13"></a>Versão 1605:13 de setembro
 *Versão 1605 (build 6965.2084)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
@@ -340,7 +340,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-security-updates"></a>OneNote: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -372,13 +372,13 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1605-july-12"></a>Versão 1605:12 de julho
 *Versão 1605 (build 6965.2066)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema no qual o Excel não informa as alterações de valor da célula ao Narrador em algumas condições.
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
@@ -418,7 +418,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 *Versão 1605 (build 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
--   **Obter melhorias de transformação do &:** Recursos novos ou aprimorados de transformação de dados e conectividade de dados para a consulta de energia. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Obter & aprimoramentos de transformação:** Recursos novos ou aprimorados de transformação de dados e conectividade de dados para a consulta de energia. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Conexões de dados adicionais:** Consultar dados de fontes JSON e Azure SQL Data Warehouse.
 -   **Melhorias do Power Query:** Recursos novos e aprimorados de transformação de dados e conectividade de dados. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Suporte de reconhecimento de endereço grande:** As versões de 32 bits do Excel podem usar mais memória, se disponível.[Mais informações](https://support.microsoft.com/kb/3160741)
@@ -613,7 +613,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-april-12"></a>Versão 1602:12 de abril
 *Versão 1602 (Build 6741,2026)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Atualização de segurança do Microsoft Office (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -885,7 +885,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-february-9"></a>Versão 1509:9 de fevereiro
 *Versão 1509 (build 6001.1061)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3134226)
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
@@ -896,7 +896,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-january-12"></a>Versão 1509:12 de janeiro
 *Versão 1509 (build 6001.1054)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Atualizações de segurança

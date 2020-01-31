@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2384ed54f8e18e89981cdd875d46bfd9ba7e95a5
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961968"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576564"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -27,7 +27,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1908-december-10"></a>Versão 1908: 10 de dezembro 
 *Versão 1908 (Build 11929.20516)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -363,9 +363,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Os ícones do Office estão com um novo visual:** os ícones do Office foram reprojetados para refletir as experiências simples, poderosas e inteligentes do Office.
+- **Os produtos do Ofiice estão com um novo visual**Os ícones de produtos foram recriados para refletir as experiências simples, poderosas e inteligentes do Office.
 
-- **Instalação do Microsoft Teams:** o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:** o Microsoft Teams vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -695,7 +695,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
 
 - **Os aplicativos de terceiros do Office agora têm suporte para inserir imagens em SVG usando a API do Office.js:** agora, os aplicativos de terceiros, também conhecidos como suplementos do Office, têm a capacidade de inserir imagens em SVG. Os usuários já podem conectar a coleção pessoal de imagens em SVG ao Office e os desenvolvedores podem usar esse recurso com a API do Office.js.
-- **Instalação do Microsoft Teams:**  o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:**  o Microsoft Teams já vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 

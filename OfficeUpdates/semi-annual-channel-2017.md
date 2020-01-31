@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais semestral para o Office 365 ProPlus em 2017
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439226"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629258"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Notas de versão para lançamentos do canal semestral no 2017
 
@@ -118,7 +118,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde junho de 2017. Ele continuará a ter suporte e receberá atualizações de segurança até janeiro de 2018. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1705 (Build 8201,2200), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -201,7 +201,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Imagens SVG** insira e edite elementos gráficos vetoriais escaláveis (SVG) em emails. [Mais informações](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Inserir ícones:**   use ícones de uma biblioteca padrão de arquivos SVG (Scalable Vector Graphics) indo para inserir \> ícones de \> ilustrações.   [Mais informações](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): execução remota de código do Microsoft Office
@@ -388,7 +388,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema relacionado à maneira pela qual alguns arquivos de programas são conectados fazendo com que programas antivírus sinalizem esses arquivos, além de problemas para proteger ou acessar dados no WIP (Proteção de Informações do Windows).
 -   Correção de um problema que impede que a caixa de diálogo Novidades seja exibida.
--   Correção de um problema que causa falha em upgrades autônomos do Office 2013 para o Office 2016 ao usar o System Center Configuration Manager.
+-   Correção de um problema que faz com que atualizações autônomas do Office 2013 para o Office 2016 falhem ao usar o Gerenciador de configuração.
 -   Correção de um problema em que suplementos herdados implantados do repositório por meio do catálogo corporativo não carregam.
 
 
@@ -398,7 +398,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde junho de 2017. Ele continuará a ter suporte e receberá atualizações de segurança até janeiro de 2018. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1705 (Build 8201,2193), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Vulnerabilidade de corrupção de memória do Microsoft Office
 
@@ -742,7 +742,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que após a inserção de uma imagem SVG em um documento do Office, a imagem SVG desaparece quando o documento é salvo e aberto novamente.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Correção de um problema com formulários do VBA que podem fazer com que a ordem z de quadros pare de funcionar ou seja exibida incorretamente.
--   Correção de um problema em que uma atualização acionada pelo System Center Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
+-   Correção de um problema em que uma atualização acionada pelo Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
 
 
 
@@ -751,7 +751,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde fevereiro de 2017. Ele continuará a ter suporte e receberá atualizações de segurança até setembro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1701 (Build 7766,2092), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): execução remota de código do Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
@@ -827,7 +827,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde outubro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até junho de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1609 (Build 7369,2127), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
 
@@ -839,7 +839,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1609-march-14"></a>Versão 1609:14 de março
 *Versão 1609 (build 7369.2120)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de Segurança do Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -858,7 +858,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde outubro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até junho de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1609 (Build 7369,2120), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de segurança do Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -1064,7 +1064,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema com formulários do VBA que podem fazer com que a ordem z de quadros pare de funcionar ou seja exibida incorretamente.
--   Correção de um problema em que uma atualização acionada pelo System Center Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
+-   Correção de um problema em que uma atualização acionada pelo Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
 -   Correção de um problema em que, quando os arquivos são sincronizados a partir de um site do OneDrive for Business para um computador local utilizando o cliente de sincronização do OneDrive, o salvamento de volta de um arquivo sincronizado que foi aberto a partir de uma URL faz o Word, o Excel ou o PowerPoint travar.
 -   Correção de um problema com controles de formulário de VBA que podem fazer com que controles de rótulo transparente pareçam opacos, pode fazer com que formulários existentes não apareçam ou funcionem como esperado e pode fazer com que o aplicativo do Office pare de responder ao se tentar abrir um arquivo habilitado para macro que contenha controles de formulário.
 -   Correção de um problema em que, quando você usa as propriedades de metadados gerenciados, um botão "Mostrar Detalhes" aparece na seção Propriedades em Arquivo \> Informações em vez dos valores de metadados que foram definidos.

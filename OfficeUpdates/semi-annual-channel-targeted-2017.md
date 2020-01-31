@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 ProPlus em 2017
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439126"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629268"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Notas de versão para lançamentos do canal semestral (direcionado) no 2017
 
@@ -29,7 +29,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1708-december-12"></a>Versão 1708:12 de dezembro
 *Versão 1708 (build 8431.2131)*
 
- ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+ ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
@@ -316,7 +316,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1705-august-8"></a>Versão 1705:8 de agosto
 *Versão 1705 (build 8201.2171)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
 -   Correção de um problema ao arrastar a barra de rolagem para se movimentar por uma lista de mensagens.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
@@ -375,7 +375,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Vulnerabilidade de execução remota de código do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
--   Correção de um problema que causa falha em upgrades autônomos do Office 2013 para o Office 2016 ao usar o System Center Configuration Manager.
+-   Correção de um problema que faz com que atualizações autônomas do Office 2013 para o Office 2016 falhem ao usar o Gerenciador de configuração.
 -   Correção de um problema em que suplementos herdados implantados do repositório por meio do catálogo corporativo não carregam.
 
 
@@ -439,7 +439,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Imagens SVG** insira e edite elementos gráficos vetoriais escaláveis (SVG) em emails. [Mais informações](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **Inserir ícones:**   use ícones de uma biblioteca padrão de arquivos SVG (Scalable Vector Graphics) indo para inserir \> ícones de \> ilustrações.   [Mais informações](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): execução remota de código do Microsoft Office
@@ -602,7 +602,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1701-may-9"></a>Versão 1701:9 de maio
 * Versão 1701 (build 7766.2084)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
 -   Correção de um problema que faz com que os usuários vejam intermitentemente a seleção de mensagem na lista de mensagens saltar de forma inesperada ao excluir mensagens.
 -   Correção de um problema que causa falhas intermitentes.
 -   A adição da chave do Registro HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage permite que os administradores ocultem a opção de Suporte na guia Arquivo.
@@ -655,7 +655,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-non-security-updates"></a>Access: atualizações não relacionadas à segurança
 -   Correção de um problema em que os menus suspensos não podem ser descartados.
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de Segurança do Microsoft Office (3217868)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
@@ -909,7 +909,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que após a inserção de uma imagem SVG em um documento do Office, a imagem SVG desaparece quando o documento é salvo e aberto novamente.
 -   Fix an issue where Office shows the following error message during activation for non-English users: "The maximum length of the product key is 25 characters."
 -   Correção de um problema com formulários do VBA que podem fazer com que a ordem z de quadros pare de funcionar ou seja exibida incorretamente.
--   Correção de um problema em que uma atualização acionada pelo System Center Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
+-   Correção de um problema em que uma atualização acionada pelo Configuration Manager altera a configuração do UpdateChannel no registro para algo que não é um canal de atualização válido.
 
 
 

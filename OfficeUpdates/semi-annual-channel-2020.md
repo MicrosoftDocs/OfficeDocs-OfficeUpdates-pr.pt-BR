@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: 0b31c340e651f3a2862c7fa996c060ce86b5a724
-ms.sourcegitcommit: 8c07d6182c66a7ea9e44d0bb7550a7a1d44877eb
+ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/16/2020
-ms.locfileid: "41214535"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576584"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -146,9 +146,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Os ícones do Office estão com um novo visual:** os ícones do Office foram reprojetados para refletir as experiências simples, poderosas e inteligentes do Office.
+- **Os produtos do Ofiice estão com um novo visual**Os ícones de produtos foram recriados para refletir as experiências simples, poderosas e inteligentes do Office.
 
-- **Instalação do Microsoft Teams:** o Microsoft Teams é instalado por padrão nas novas instalações do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:** o Microsoft Teams vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 

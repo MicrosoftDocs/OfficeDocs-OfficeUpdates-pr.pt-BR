@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (direcionado) do Office 365 ProPlus em 2018
-ms.openlocfilehash: ef2d238cd2219c9a72857f813528ef6806d53049
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 827436fccc1ba336e216d3d2b18d48a4b7168a12
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439096"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629298"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral (direcionado) em 2018
 
@@ -299,7 +299,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0950): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
--   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/pt-BR/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+-   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -  Correção de um problema que causava a demora na instalação de atualização em determinadas situações.
@@ -350,7 +350,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um bug que causava a demora na instalação de atualização em determinadas situações. 
 -   Corrige um problema em que os testes SVG estão falhando
--   Correção de um problema em que, ao implantar atualizações usando o System Center Configuration Manager em um cliente com aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estão em execução.
+-   Corrija um problema em que, ao implantar atualizações usando o Gerenciador de Configurações em um cliente que executa aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estiverem em execução.
 
 
 ## <a name="version-1803-june-12"></a>Versão 1803: 12 de junho
@@ -374,8 +374,8 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção de um problema em que, ao adicionar tarefas existentes à caixa de diálogo da Linha do Tempo, somente as tarefas da primeira tarefa resumo eram exibidas no Modo de Exibição da Linha do Tempo.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
--   Correção de um problema em que, ao implantar atualizações usando o System Center Configuration Manager em um cliente com aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estão em execução.
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
+-   Corrija um problema em que, ao implantar atualizações usando o Gerenciador de Configurações em um cliente que executa aplicativos do Office, a atualização não é aplicada após a reinicialização do dispositivo enquanto os aplicativos do Office estiverem em execução.
 
 
 
@@ -714,7 +714,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema em que, ao abrir um aplicativo, às vezes o usuário via uma mensagem sobre a inicialização no modo de segurança e, em seguida, o aplicativo não abria.
--   A opção Atualizar Agora está oculta em Arquivo \> Conta \> Opções de Atualização quando um objeto do Office COM está habilitado para que as atualizações de cliente do Office 365 sejam gerenciadas pelo Gerenciador de Configurações da Central do Sistema.
+-   A opção Atualizar Agora fica oculta em Opções de Atualização da \> Conta \> do Arquivo quando um objeto COM do Office está habilitado para que as atualizações de cliente do Office 365 sejam gerenciadas pelo Gerenciador de Configurações.
 -   Correção de um problema em que o aplicativo do Office falha quando o usuário tenta ativá-lo usando a caixa de diálogo Ativar o Office.
 -   Correção de um problema com o zoom e dimensionamento em Suplementos do Office em um ambiente de DPI dinâmico.
 -   Correção de um problema em que o nó CurrentStatus do provedor de serviços de configuração (CSP) do Office retorna uma cadeia de caracteres vazia mesmo se o Office 365 ProPlus estiver instalado atualmente.

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais mensais do Office 365 ProPlus em 2017
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375817"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629248"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de versão para lançamentos de canais mensais no 2017
 
@@ -67,12 +67,12 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de problemas de ajuste de DPI em janelas de mensagens instantâneas.
 -   Correção de um problema em que os dados do LinkedIn não são exibidos no Cartão de Visita do Skype for Business.
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Contagem de caracteres:** exiba a contagem de caracteres na barra de status enquanto digita. Habilite esta opção no menu Personalizar Barra de Status.
 -   **Acesse rapidamente sites e grupos:** use o menu Arquivo para trabalhar com documentos armazenados em seus sites e grupos usados frequentemente.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações que não são de segurança
--   A opção Atualizar Agora está oculta em Arquivo \> Conta \> Opções de Atualização quando um objeto do Office COM está habilitado para que as atualizações de cliente do Office 365 sejam gerenciadas pelo Gerenciador de Configurações da Central do Sistema.
+-   A opção Atualizar agora está oculta das opções \> de \> atualização de conta de arquivo quando um objeto com do Office está habilitado para que as atualizações do cliente do Office 365 sejam gerenciadas pelo Gerenciador de configurações.
 
 
 ## <a name="version-1710-november-27"></a>Versão 1710:27 de novembro
@@ -217,7 +217,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Aplicar dados gráficos aos diagramas do Visualizador de Dados:** Economize tempo ao criar um diagrama do Visualizador de Dados aplicando automaticamente dados de formas como gráficos de dados. [Mais informações](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **Colabore em desenhos:** Trabalhe com outras pessoas, compartilhando seus desenhos no OneDrive for Business ou SharePoint Online. Você pode ver quem está trabalhando no desenho, adicionar comentários e ver a atividade no arquivo.[Mais informações](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Painel de propriedades do SharePoint:** Exiba e edite valores da coluna de biblioteca do SharePoint a partir de um documento. Um botão da faixa de opções na guia Exibir fornece acesso fácil ao painel, e os administradores do SharePoint podem usar a configuração da biblioteca de documentos para abrir automaticamente o painel de propriedades.
 
 ### <a name="word-non-security-updates"></a>Word: atualizações que não são de segurança
@@ -228,7 +228,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1708-october-10"></a>Versão 1708:10 de outubro
 *Versão 1708 (build 8431.2107)*
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): vulnerabilidade de divulgação de informações do Microsoft Outlook
 
@@ -350,7 +350,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1707-september-12"></a>Versão 1707:12 de setembro
 *Versão 1707 (build 8326.2107)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Vulnerabilidade de corrupção de memória do Microsoft Office
 
@@ -488,7 +488,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que representantes são removidos por usuários que alternam entre o Skype for Business e o Skype for Business Basic.
 -   Correção de um problema em que o item Invisível não é exibido ao usar as políticas de cliente Habilitar Status para Invisível e URL de Estado Personalizado.
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Editar usando Ferramentas de Aprendizagem:** As Ferramentas de Aprendizagem já estão disponíveis no modo de exibição de layout da Web do Word. Ajuste o espaçamento de texto e mostre as sílabas durante a edição. Em qualquer modo de exibição, veja cada letra realçada à medida que o documento é lido em voz alta. [Mais informações](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintaxe LaTeX:** criar e editar equações matemáticas usando a sintaxe LaTeX.
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -572,7 +572,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que o Excel não define a senha de proteção da planilha quando aplicada a pastas de trabalho criadas no Excel 2010 ou anterior.
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506): execução remota de código do Microsoft Office
 -   [CVE-2017-8507](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8507): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-8508](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8508): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
@@ -643,7 +643,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção da direção incorreta do texto em hebraico quando enviado de um dispositivo móvel.
 -   Correção de um problema com a informação narrada por um leitor de tela para o recurso Apresentar Área de Trabalho/Conceder Controle.
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Assistência de escrita aprimorada com o painel Editor:** Use o painel Editor para obter recomendações de estilo de escrita, ortografia e gramática. Ele foi criado para ser acessado com suporte aprimorado a tecnologias adaptativas.
 -   **Criação de texto Alt:** um serviço baseado em nuvem gera automaticamente texto alternativo (texto alt) para imagens em um documento.
 -   **Suporte à proteção de informações do Windows (WIP):**    o Word agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
@@ -781,7 +781,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Criar diagramas de dados do Excel:** Criar automaticamente um Fluxograma Básico ou um Fluxograma Multifuncional de dados do Excel usando novos modelos do Visualizador de Dados. [Mais informações](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-feature-updates"></a>Word: atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Mais informações](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
@@ -794,7 +794,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1702-april-11"></a>Versão 1702:11 de abril
 *Versão 1702 (build 7870.2038)*
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): vulnerabilidade de execução remota de código do Microsoft Outlook
 -   [CVE-2017-0204](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0204): vulnerabilidade de bypass de recurso de segurança do Microsoft Office
 
@@ -820,7 +820,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1702-march-14"></a>Versão 1702:14 de março
 *Versão 1702 (build 7870.2024)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de segurança do Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
