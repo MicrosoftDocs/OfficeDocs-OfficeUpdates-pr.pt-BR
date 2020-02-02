@@ -3,19 +3,19 @@ title: Histórico de atualização do Office 2016 com Clique para Executar e do 
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/23/2020
+ms.date: 1/31/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 5b0dad68a65a5fce15e6fa363de8b20ac31e4bea
-ms.sourcegitcommit: d1eb4fe4ab2606a94e786011de3f77635ee3b987
+ms.openlocfilehash: 03b593cc62807efef4f4c902d32ba7dec2aadf89
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41519150"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650769"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -58,6 +58,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|30 de janeiro de 2020   |Versão 2001 (Build 12430.20184)  |Várias correções de bugs e de desempenho. <br/>  |
 |22 de janeiro de 2020   |Versão 1912 (Build 12325.20344)  |Várias correções de bugs e de desempenho. <br/>  |
 |14 de janeiro de 2020   |Versão 1912 (Build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |8 de janeiro de 2020   |Versão 1912 (Build 12325.20288)  |Várias correções de bugs e de desempenho. <br/>  |
