@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230079"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650829"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,37 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2002-january-31"></a>Versão 2002: 31 de janeiro
+*Versão 2002 (Build 12513.20010)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Correção de um problema em que os emails que expiravam com base em uma política de retenção exibiam dois rótulos. Um que mostrava que o email expiraria em um dia e outro exibindo a expiração em dois dias.
+
+### <a name="word"></a>Word
+
+- Correção de um problema em que a dica de comentário não estava visível no modo de leitura com a cor da página &quot;Invertida&quot;.
+
+- Correção de um problema em que a formatação em itálico era perdida após a edição de um comentário, pondo o texto em itálico e em seguida fazendo a postagem do mesmo.
+
+- Correção de um problema em que os comandos de comentário (Editar comentário, Responder ao comentário, Excluir comentário, Resolver comentário) não estavam sendo exibidos no menu de contexto comentários.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-january-17"></a>Versão 2002: 17 de janeiro
 *Versão 2002 (Build 12508.20000)*
