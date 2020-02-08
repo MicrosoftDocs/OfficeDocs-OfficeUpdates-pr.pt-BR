@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
+ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650799"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41830765"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -29,6 +29,30 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="february-6-2020"></a>6 de fevereiro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+<i>A versão esperada é a Versão 1908 (Build 11929.20592).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |65<br/> |
+|Versão 1902 (Build 11328.20492) <br/> |10 de dezembro de 2019 <br/> |339<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
+
+<i>A versão esperada é a Versão 1908 (Build 11929.20606).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |65<br/> |
+|Versão 1908 (Build 11929.20516) <br/> |10 de dezembro de 2019 <br/> |68<br/> |
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="january-30-2020"></a>30 de janeiro de 2020
 
