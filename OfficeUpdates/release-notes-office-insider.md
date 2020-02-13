@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
-ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
+ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
+ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711299"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931957"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,65 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2002-february-07"></a>Versão 2002: 7 de fevereiro
+*Versão 2002 (Build 12527.20040)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esta atualização corrige um problema no uso de um ADODB. O objeto gravador no código VB pode incorretamente relatar um erro.
+
+- Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
+
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o Excel falhava ao usar colunas de texto em com matrizes dinâmicas.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema em que a rolagem no calendário com a exibição do mês não mostrava eventos anteriores do calendário.
+
+- Soluciona um problema que fazia com que os usuários experimentassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema em que, após fechar um arquivo, o PowerPoint não o removia imediatamente da coleção Apresentações, se houvesse algum manipulador de eventos em execução. Portanto, o número de apresentações abertas relatadas pelo modelo de objeto ficava incorreto, e o desligamento do PowerPoint era impedido.
+
+- Corrigido um problema com o marcador: textos em branco com cores escuras do marcador são impressos em preto na escala de cinza.
+
+### <a name="word"></a>Word
+
+- Às vezes, atualizar e rolar um índice pode exibir uma área cinza sobre o documento.
+
+- Corrigido um problema em que, se um documento fosse usado em coautoria, a versão de rascunho de um comentário raiz poderia não ser preservada.
+
+- Corrigido um problema em que alternar entre os cartões de comentários às vezes exibia o comentário selecionado inicialmente com um destaque de seleção.
+
+- Corrigido um problema em que o uso de "Procurar" para salvar um arquivo não funcionava se um comentário fosse escrito, mas não postado, e o usuário tentasse salvar o arquivo.
+
+- Com o SlideTrack habilitado e o painel de comentários fechado, Ctrl+Alt+M pode não abrir o painel de comentários.
+
+- Corrigido um problema ao adicionar @menção em uma tabela poderia gerar a mensagem de erro: "Uma tabela neste documento foi corrompida".
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolve um problema que pode ter causado a instalação incorreta do pacote de ferramentas de revisão Nynorsk da Noruega (nn-no).
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-january-31"></a>Versão 2002: 31 de janeiro
 *Versão 2002 (Build 12513.20010)*
@@ -1744,7 +1803,7 @@ As atualizações que estiveram em Em Breve agora estão prontas, apresentando a
 ## <a name="may-17-2019"></a>17 de maio de 2019
 Versão 1906 (build 11708.20006)
 
-## <a name="whats-new"></a>Novidades:
+## <a name="whats-new"></a>O que há de novo:
 
 ### <a name="outlook"></a>Outlook
 
