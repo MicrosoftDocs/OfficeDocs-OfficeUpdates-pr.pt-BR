@@ -3,7 +3,6 @@ title: Atualizações do Project Server
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: 61d23f221d8149c213c79fc42b118246dd75d01a
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: bc7e9ee67c7f27204fd3e44d47c18a14449c2f97
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122250"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978639"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -30,6 +29,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Fevereiro de 2020  <br/> |[KB4484262](https://support.microsoft.com/kb/4484262) <br/>|
 |Janeiro de 2020  <br/> |[KB4484230](https://support.microsoft.com/kb/4484230) <br/>|
 |Dezembro de 2019  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
 |Novembro de 2019  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
