@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
-ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
+ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41830765"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978609"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -30,29 +30,45 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="february-6-2020"></a>6 de fevereiro de 2020
+## <a name="february-11-2020"></a>11 de fevereiro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO11 de fevereiro de 2020)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+O lançamento mais atual é a Versão 2001 (Build 12430.20264).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2001 (Build 12430.20184) <br/> |30 de janeiro de 2020 <br/> |54<br/> |
+|Versão 1912 (Build 12325.20344) <br/> |22 de janeiro de 2020 <br/> |137<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-<i>A versão esperada é a Versão 1908 (Build 11929.20592).</i>
+O lançamento mais atual é a Versão 1908 (Build 11929.20606).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |65<br/> |
 |Versão 1902 (Build 11328.20492) <br/> |10 de dezembro de 2019 <br/> |339<br/> |
 
+
 ### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
 
-<i>A versão esperada é a Versão 1908 (Build 11929.20606).</i>
+O lançamento mais atual é a Versão 1908 (Build 11929.20606).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |65<br/> |
 |Versão 1908 (Build 11929.20516) <br/> |10 de dezembro de 2019 <br/> |68<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO11 de fevereiro de 2020)
+
+
+
 
 ## <a name="january-30-2020"></a>30 de janeiro de 2020
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122010"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978619"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
 
@@ -26,7 +26,33 @@ Estas notas de versão fornecem informações sobre as correções de segurança
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usado para o espaçamento)  
 
-## <a name="january-14-2020"></a>Janeiro de 14 de 2020
+## <a name="february-11-2020"></a>11 de fevereiro de 2020
+Canal Mensal: Versão 2001 (Build 12430.20264)  
+Canal Semestral (Direcionado): Versão 1908 (Build 11929.20606)  
+Canal Semestral: Versão 1908 (Build 11929.20606)  
+Canal Semestral: Versão 1902 (Build 11328.20526)  
+Canal Semestral: Versão 1808 (Build 10730.20438)  
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0759)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-0696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0696)
+
+### <a name="office-suite"></a>Pacote do Office
+
+-   [CVE-2020-0697](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0697)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+
+## <a name="january-14-2020"></a>14 de janeiro de 2020
 Canal Mensal: Versão 1912 (Build 12325.20298)  
 Canal Semestral (Direcionado): Versão 1908 (Build 11929.20562)  
 Canal Semestral: Versão 1908 (Build 11929.20562)  

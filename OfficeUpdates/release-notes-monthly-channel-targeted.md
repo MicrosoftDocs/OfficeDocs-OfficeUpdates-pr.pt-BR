@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629198"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978699"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -28,7 +28,131 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2002-february-11"></a>Versão 2002: 11 de fevereiro
+*Versão 2002 (Build 12527.20092)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Arraste o email para um grupo que você possui:** Mova e copie mensagens e conversas arrastando-as da sua caixa de entrada. As mensagens que você arrastar serão compartilhadas com todos os membros do grupo.
+
+### <a name="word"></a>Word
+
+- **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Os modelos do Access não devem mais causar falha nas colunas do anexo em um banco de dados. Após instanciar um modelo, agora você poderá adicionar um campo de anexo ao seu banco de dados.
+
+- Esta atualização corrige um problema no uso de um ADODB. O objeto gravador no código VB pode incorretamente relatar um erro.
+
+- Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que os comandos de comentário no menu de contexto não estavam sendo exibidos.
+
+
+- Corrigido um problema que fazia com que alguns usuários experimentassem falhas ao converter texto em colunas com células com uma matriz derramada.
+
+
+- Corrigido um problema em que o Excel falhava ao usar colunas de texto em com matrizes dinâmicas.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema em que a rolagem no calendário com a exibição do mês não mostrava eventos anteriores do calendário.
+
+- As pastas salvas em ‘Favoritos’ no painel de navegação à esquerda podem desaparecer continuamente.
+
+
+- Solucionado um problema que fazia com que os usuários experimentassem uma falha ao especificar um endereço De inválido.
+
+
+- Solucionado um problema que fazia com que a opção desativar o realce do item sinalizado deixasse de ser respeitada em alguns cenários.
+
+- Solucionado um problema que fazia com que os usuários experimentassem uma falha ao cancelar a configuração da conta.
+
+
+- Correção de um problema em que os emails que expiravam com base em uma política de retenção exibiam dois rótulos. Um que mostrava que o email expiraria em um dia e outro exibindo a expiração em dois dias.
+
+
+- Solucionado um problema que fazia com que os usuários experimentassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de um problema em que a Tinta não era processada completamente ou era pulado ao ser usada em uma animação de tinta do PowerPoint.
+
+- Corrigido um problema em que, após fechar um arquivo, o PowerPoint não o removia imediatamente da coleção Apresentações, se houvesse algum manipulador de eventos em execução. Portanto, o número de apresentações abertas relatadas pelo modelo de objeto ficava incorreto, e o desligamento do PowerPoint era impedido.
+
+
+- Corrigido um problema com o marcador: textos em branco com cores escuras do marcador são impressos em preto na escala de cinza.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que 100% das tarefas do tipo duração fixa podem ter a % concluído incorretamente calculado com menos de 100%.
+
+
+### <a name="word"></a>Word
+
+- Às vezes, atualizar e rolar um índice pode exibir uma área cinza sobre o documento.
+
+
+- Corrigido um problema em que o uso de "Procurar" para salvar um arquivo não funcionava se um comentário fosse escrito, mas não postado, e o usuário tentasse salvar o arquivo.
+
+
+- Corrigido um problema em que alternar entre os cartões de comentários às vezes exibia o comentário selecionado inicialmente com um destaque de seleção.
+
+
+- Correção de um problema em que a formatação em itálico era perdida após a edição de um comentário, pondo o texto em itálico e, em seguida, fazendo a postagem do mesmo.
+
+
+- Correção de um problema em que a dica de comentário não estava visível no modo de leitura com a cor da página Invertida.
+
+
+- Corrigido um problema em que, se um documento fosse usado em coautoria, a versão de rascunho de um comentário raiz poderia não ser preservada.
+
+
+- Com o SlideTrack habilitado e o painel de comentários fechado, Ctrl+Alt+M pode não abrir o painel de comentários.
+
+
+- Corrigido um problema ao adicionar @menção em uma tabela poderia gerar a mensagem de erro: "Uma tabela neste documento foi corrompida".
+
+
+- Correção de um problema em que os comandos de comentário (Editar comentário, Responder ao comentário, Excluir comentário, Resolver comentário) não estavam sendo exibidos no menu de contexto comentários.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolve um problema que pode ter causado a instalação incorreta do pacote de ferramentas de revisão Nynorsk da Noruega (nn-no).
+
+
+- Essa alteração soluciona problemas relatados com adaptadores gráficos que utilizam a GPU integrada da Intel.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2001-january-29"></a>Versão 2001: 29 de janeiro
 *Versão 2001 (Build 12430.20184)*
