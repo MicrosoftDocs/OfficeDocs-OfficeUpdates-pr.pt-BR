@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931957"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155440"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,51 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
+*Versão 2003 (Build 12607.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.
+
+### <a name="word"></a>Word
+
+- **Encontre o Editor de Tinta na caixa de ferramentas de desenho:** Selecione Desenhar e, em seguida, escolha a caneta do Editor de Tinta para editar seu documento com o dedo ou uma caneta digital. [Saiba Mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Pacote do Office
+
+- **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Solucionamos um problema que fazia com que os usuários perdessem o acesso à caixa de diálogo de permissões de calendário "Opções de Disponibilidade".
+
+- Correção de um problema que pode resultar no alerta: "Infelizmente, estamos com problemas para abrir este item" ao abrir algumas instâncias de reunião recorrente enviadas de um fuso horário diferente.
+
+- Solucionamos um problema que pode fazer com que os usuários não consigam reabrir um arquivo. msg depois de arrastar e soltar um anexo da mensagem.
+
+- Correção de um problema em que, após carregar um anexo de arquivo do Outlook para o OneDrive, poderia resultar no nome do arquivo sendo alterado se o nome do anexo contivesse parênteses.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de um problema que pode resultar em uma falha no salvamento de um documento no PowerPoint ou no Word com um gráfico do Excel.
+
+### <a name="word"></a>Word
+
+- Correção de um problema em que imagens em documentos perdem a transparência quando exportadas para PDF.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-february-07"></a>Versão 2002: 7 de fevereiro
 *Versão 2002 (Build 12527.20040)*
