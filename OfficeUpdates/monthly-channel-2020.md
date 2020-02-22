@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978599"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228360"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -24,6 +24,10 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-2001-february-19"></a>Versão 2001: 19 de fevereiro
+*Versão 2001 (Build 12430.20288)*
+* Várias correções de bugs e desempenho.
 
 ## <a name="version-2001-february-11"></a>Versão 2001: 11 de fevereiro
 *Versão 2001 (Build 12430.20264)*
