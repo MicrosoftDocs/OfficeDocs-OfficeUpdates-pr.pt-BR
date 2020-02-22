@@ -9,88 +9,92 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978599"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228360"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2020"></a><span data-ttu-id="6b9fa-103">Notas de versão para lançamentos do Canal Mensal em 2020</span><span class="sxs-lookup"><span data-stu-id="6b9fa-103">Release notes for Monthly Channel releases in 2020</span></span>
+# <a name="release-notes-for-monthly-channel-releases-in-2020"></a><span data-ttu-id="feeb2-103">Notas de versão para lançamentos do Canal Mensal em 2020</span><span class="sxs-lookup"><span data-stu-id="feeb2-103">Release notes for Monthly Channel releases in 2020</span></span>
 
-<span data-ttu-id="6b9fa-104">Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Mensal para o Office 365 ProPlus em 2020, Visio Pro para Office 365, o cliente da Área de Trabalho do Project Online e o Office 365 Business.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-104">These release notes provide information about new features and non-security updates that are included in Monthly Channel updates to Office 365 ProPlus in 2020, Visio Pro for Office 365, Project Online Desktop Client and Office 365 Business.</span></span>
+<span data-ttu-id="feeb2-104">Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Mensal para o Office 365 ProPlus em 2020, Visio Pro para Office 365, o cliente da Área de Trabalho do Project Online e o Office 365 Business.</span><span class="sxs-lookup"><span data-stu-id="feeb2-104">These release notes provide information about new features and non-security updates that are included in Monthly Channel updates to Office 365 ProPlus in 2020, Visio Pro for Office 365, Project Online Desktop Client and Office 365 Business.</span></span>
 
  > [!NOTE]
 >
->- <span data-ttu-id="6b9fa-105">Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-105">We often roll out features (and sometimes even fixes) to Monthly over a period of time.</span></span>  <span data-ttu-id="6b9fa-106">Se você não vir algo descrito abaixo, aguarde que estará em breve.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-106">If you don’t see something described below right away, you can expect it soon.</span></span> [<span data-ttu-id="6b9fa-107">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-107">Learn more</span></span>](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- <span data-ttu-id="6b9fa-108">O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).</span><span class="sxs-lookup"><span data-stu-id="6b9fa-108">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in early July, updates to Office 365 ProPlus (and Office 365 Business) will include Microsoft Teams.</span></span>  <span data-ttu-id="6b9fa-109">A data em que o Teams será adicionado depende de qual canal de atualização você está usando.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-109">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="6b9fa-110">Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-110">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) for additional information.</span></span>
+>- <span data-ttu-id="feeb2-105">Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.</span><span class="sxs-lookup"><span data-stu-id="feeb2-105">We often roll out features (and sometimes even fixes) to Monthly over a period of time.</span></span>  <span data-ttu-id="feeb2-106">Se você não vir algo descrito abaixo, aguarde que estará em breve.</span><span class="sxs-lookup"><span data-stu-id="feeb2-106">If you don’t see something described below right away, you can expect it soon.</span></span> [<span data-ttu-id="feeb2-107">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-107">Learn more</span></span>](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- <span data-ttu-id="feeb2-108">O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).</span><span class="sxs-lookup"><span data-stu-id="feeb2-108">Microsoft Teams on existing installations of Office 365 ProPlus - Beginning in early July, updates to Office 365 ProPlus (and Office 365 Business) will include Microsoft Teams.</span></span>  <span data-ttu-id="feeb2-109">A data em que o Teams será adicionado depende de qual canal de atualização você está usando.</span><span class="sxs-lookup"><span data-stu-id="feeb2-109">The date when Teams will be added depends on which update channel you're using.</span></span> <span data-ttu-id="feeb2-110">Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.</span><span class="sxs-lookup"><span data-stu-id="feeb2-110">Please refer to [Deploy Microsoft Teams with Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) for additional information.</span></span>
 
-## <a name="version-2001-february-11"></a><span data-ttu-id="6b9fa-111">Versão 2001: 11 de fevereiro</span><span class="sxs-lookup"><span data-stu-id="6b9fa-111">Version 2001: February 11</span></span>
-<span data-ttu-id="6b9fa-112">*Versão 2001 (Build 12430.20264)*</span><span class="sxs-lookup"><span data-stu-id="6b9fa-112">*Version 2001 (Build 12430.20264)*</span></span>
+## <a name="version-2001-february-19"></a><span data-ttu-id="feeb2-111">Versão 2001: 19 de fevereiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-111">Version 2001: February 19</span></span>
+<span data-ttu-id="feeb2-112">*Versão 2001 (Build 12430.20288)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-112">*Version 2001 (Build 12430.20288)*</span></span>
+* <span data-ttu-id="feeb2-113">Várias correções de bugs e desempenho.</span><span class="sxs-lookup"><span data-stu-id="feeb2-113">Various bugs and performance fixes.</span></span>
 
-<span data-ttu-id="6b9fa-113">Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="6b9fa-113">Security updates listed [here](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)</span></span>
+## <a name="version-2001-february-11"></a><span data-ttu-id="feeb2-114">Versão 2001: 11 de fevereiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-114">Version 2001: February 11</span></span>
+<span data-ttu-id="feeb2-115">*Versão 2001 (Build 12430.20264)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-115">*Version 2001 (Build 12430.20264)*</span></span>
+
+<span data-ttu-id="feeb2-116">Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="feeb2-116">Security updates listed [here](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)</span></span>
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-### <a name="resolved-issues"></a><span data-ttu-id="6b9fa-115">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-115">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="6b9fa-116">Access</span><span class="sxs-lookup"><span data-stu-id="6b9fa-116">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="feeb2-118">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="feeb2-118">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="feeb2-119">Access</span><span class="sxs-lookup"><span data-stu-id="feeb2-119">Access</span></span>
 
-- <span data-ttu-id="6b9fa-117">Os modelos do Access não devem mais causar falha nas colunas do anexo em um banco de dados.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-117">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="6b9fa-118">Após instanciar um modelo, agora você poderá adicionar um campo de anexo ao seu banco de dados.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-118">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
+- <span data-ttu-id="feeb2-120">Os modelos do Access não devem mais causar falha nas colunas do anexo em um banco de dados.</span><span class="sxs-lookup"><span data-stu-id="feeb2-120">Access templates should no longer cause attachment columns to fail within a database.</span></span> <span data-ttu-id="feeb2-121">Após instanciar um modelo, agora você poderá adicionar um campo de anexo ao seu banco de dados.</span><span class="sxs-lookup"><span data-stu-id="feeb2-121">After instantiating a template, you should now be able to add an attachment field to your database.</span></span>
 
-### <a name="excel"></a><span data-ttu-id="6b9fa-119">Excel</span><span class="sxs-lookup"><span data-stu-id="6b9fa-119">Excel</span></span>
+### <a name="excel"></a><span data-ttu-id="feeb2-122">Excel</span><span class="sxs-lookup"><span data-stu-id="feeb2-122">Excel</span></span>
 
-- <span data-ttu-id="6b9fa-120">Corrigido um problema em que os comandos de comentário no menu de contexto não estavam sendo exibidos.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-120">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
+- <span data-ttu-id="feeb2-123">Corrigido um problema em que os comandos de comentário no menu de contexto não estavam sendo exibidos.</span><span class="sxs-lookup"><span data-stu-id="feeb2-123">Fixed an issue where comment commands in the context menu were not being displayed.</span></span>
 
-- <span data-ttu-id="6b9fa-121">Corrigido um problema que fazia com que alguns usuários experimentassem falhas ao converter texto em colunas com células com uma matriz derramada.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-121">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
-
-
-### <a name="outlook"></a><span data-ttu-id="6b9fa-122">Outlook</span><span class="sxs-lookup"><span data-stu-id="6b9fa-122">Outlook</span></span>
-
-- <span data-ttu-id="6b9fa-123">Solucionado um problema que fazia com que os usuários experimentassem uma falha ao especificar um endereço De inválido.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-123">Addresses an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
+- <span data-ttu-id="feeb2-124">Corrigido um problema que fazia com que alguns usuários experimentassem falhas ao converter texto em colunas com células com uma matriz derramada.</span><span class="sxs-lookup"><span data-stu-id="feeb2-124">Fixed an issue that caused some users to experience crashes when converting text to columns with cells that have a spilling array.</span></span>
 
 
-- <span data-ttu-id="6b9fa-124">Solucionado um problema que fazia com que os usuários experimentassem uma falha ao cancelar a configuração da conta.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-124">Addresses an issue that caused users to experience a crash when canceling account setup.</span></span>
+### <a name="outlook"></a><span data-ttu-id="feeb2-125">Outlook</span><span class="sxs-lookup"><span data-stu-id="feeb2-125">Outlook</span></span>
+
+- <span data-ttu-id="feeb2-126">Solucionado um problema que fazia com que os usuários experimentassem uma falha ao especificar um endereço De inválido.</span><span class="sxs-lookup"><span data-stu-id="feeb2-126">Addresses an issue that caused users to experience a crash when specifying an invalid From address.</span></span>
 
 
-### <a name="project"></a><span data-ttu-id="6b9fa-125">Project</span><span class="sxs-lookup"><span data-stu-id="6b9fa-125">Project</span></span>
-
-- <span data-ttu-id="6b9fa-126">Corrigido um problema em que 100% das tarefas do tipo duração fixa podem ter a % concluído incorretamente calculado com menos de 100%.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-126">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+- <span data-ttu-id="feeb2-127">Solucionado um problema que fazia com que os usuários experimentassem uma falha ao cancelar a configuração da conta.</span><span class="sxs-lookup"><span data-stu-id="feeb2-127">Addresses an issue that caused users to experience a crash when canceling account setup.</span></span>
 
 
-### <a name="office-suite"></a><span data-ttu-id="6b9fa-127">Pacote do Office</span><span class="sxs-lookup"><span data-stu-id="6b9fa-127">Office Suite</span></span>
+### <a name="project"></a><span data-ttu-id="feeb2-128">Project</span><span class="sxs-lookup"><span data-stu-id="feeb2-128">Project</span></span>
 
-- <span data-ttu-id="6b9fa-128">Essa alteração soluciona problemas relatados com adaptadores gráficos que utilizam a GPU integrada da Intel.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-128">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
+- <span data-ttu-id="feeb2-129">Corrigido um problema em que 100% das tarefas do tipo duração fixa podem ter a % concluído incorretamente calculado com menos de 100%.</span><span class="sxs-lookup"><span data-stu-id="feeb2-129">Fixed an issue where 100% tasks of type fixed duration may wrongly have their % complete calculated at less than 100% complete.</span></span>
+
+
+### <a name="office-suite"></a><span data-ttu-id="feeb2-130">Pacote do Office</span><span class="sxs-lookup"><span data-stu-id="feeb2-130">Office Suite</span></span>
+
+- <span data-ttu-id="feeb2-131">Essa alteração soluciona problemas relatados com adaptadores gráficos que utilizam a GPU integrada da Intel.</span><span class="sxs-lookup"><span data-stu-id="feeb2-131">This change addresses reported problems with graphics adaptors that leverage the Intel Integrated GPU.</span></span>
 
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-2001-january-30"></a><span data-ttu-id="6b9fa-130">Versão 2001: 30 de janeiro</span><span class="sxs-lookup"><span data-stu-id="6b9fa-130">Version 2001: January 30</span></span>
-<span data-ttu-id="6b9fa-131">*Versão 2001 (Build 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="6b9fa-131">*Version 2001 (Build 12430.20184)*</span></span>
+## <a name="version-2001-january-30"></a><span data-ttu-id="feeb2-133">Versão 2001: 30 de janeiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-133">Version 2001: January 30</span></span>
+<span data-ttu-id="feeb2-134">*Versão 2001 (Build 12430.20184)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-134">*Version 2001 (Build 12430.20184)*</span></span>
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-### <a name="feature-updates"></a><span data-ttu-id="6b9fa-133">Atualizações de recursos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-133">Feature updates</span></span>
-### <a name="excel"></a><span data-ttu-id="6b9fa-134">Excel</span><span class="sxs-lookup"><span data-stu-id="6b9fa-134">Excel</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="feeb2-136">Atualizações de recursos</span><span class="sxs-lookup"><span data-stu-id="feeb2-136">Feature updates</span></span>
+### <a name="excel"></a><span data-ttu-id="feeb2-137">Excel</span><span class="sxs-lookup"><span data-stu-id="feeb2-137">Excel</span></span>
 
-- <span data-ttu-id="6b9fa-135">**Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-135">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
+- <span data-ttu-id="feeb2-138">**Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.</span><span class="sxs-lookup"><span data-stu-id="feeb2-138">**Read and reply on the fly:** Respond to comments and mentions right from email without opening the workbook.</span></span>
 
-- <span data-ttu-id="6b9fa-136">**Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-136">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span> [<span data-ttu-id="6b9fa-137">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-137">Learn more</span></span>](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- <span data-ttu-id="feeb2-139">**Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP.</span><span class="sxs-lookup"><span data-stu-id="feeb2-139">**Look left, look right… XLOOKUP is here!:** Row by row, find anything you need in a table or range with XLOOKUP.</span></span> [<span data-ttu-id="feeb2-140">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-140">Learn more</span></span>](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
-### <a name="outlook"></a><span data-ttu-id="6b9fa-138">Outlook</span><span class="sxs-lookup"><span data-stu-id="6b9fa-138">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="feeb2-141">Outlook</span><span class="sxs-lookup"><span data-stu-id="feeb2-141">Outlook</span></span>
 
-- <span data-ttu-id="6b9fa-139">**Configurações avançadas de email do grupo:** Esse recurso ajuda os usuários de grupos a personalizar quais emails ou eventos receber/acompanhar na caixa de entrada.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-139">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
+- <span data-ttu-id="feeb2-142">**Configurações avançadas de email do grupo:** Esse recurso ajuda os usuários de grupos a personalizar quais emails ou eventos receber/acompanhar na caixa de entrada.</span><span class="sxs-lookup"><span data-stu-id="feeb2-142">**Advanced group email settings:** This feature helps groups users to customize which emails or events to receive/follow in their inbox.</span></span>
 
-- <span data-ttu-id="6b9fa-140">**Política de Nome de Grupo:** Uma política de nome de grupo permite que o administrador de TI padronize e gerencie os nomes do grupos criados pelos usuários na organização.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-140">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="6b9fa-141">O administrador pode exigir o uso de um prefixo ou sufixo específico para o nome de um grupo quando ele é criado e pode bloquear o uso de palavras específicas.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-141">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="6b9fa-142">Isso ajuda a minimizar o uso de palavras inadequadas em nomes de grupos, além de gerenciar a representação de grupos no diretório.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-142">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="6b9fa-143">A Política de Nome também ajuda as organizações que implantam sites de equipe a categorizar com base no departamento.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-143">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
+- <span data-ttu-id="feeb2-143">**Política de Nome de Grupo:** Uma política de nome de grupo permite que o administrador de TI padronize e gerencie os nomes do grupos criados pelos usuários na organização.</span><span class="sxs-lookup"><span data-stu-id="feeb2-143">**Groups Naming policy:** A group naming policy enables the IT admin to standardize and manage the names of groups created by users in the organization.</span></span> <span data-ttu-id="feeb2-144">O administrador pode exigir o uso de um prefixo ou sufixo específico para o nome de um grupo quando ele é criado e pode bloquear o uso de palavras específicas.</span><span class="sxs-lookup"><span data-stu-id="feeb2-144">The admin can require a specific prefix and suffix be added to the name for a group when it's created, and can block specific words from being used.</span></span> <span data-ttu-id="feeb2-145">Isso ajuda a minimizar o uso de palavras inadequadas em nomes de grupos, além de gerenciar a representação de grupos no diretório.</span><span class="sxs-lookup"><span data-stu-id="feeb2-145">This helps minimize the use of inappropriate words in group names as well as IT manage the representation of groups in their directory.</span></span> <span data-ttu-id="feeb2-146">A Política de Nome também ajuda as organizações que implantam sites de equipe a categorizar com base no departamento.</span><span class="sxs-lookup"><span data-stu-id="feeb2-146">Naming Policy also helps organizations that deploy team sites to categorize them based on department.</span></span>
 
-### <a name="word"></a><span data-ttu-id="6b9fa-144">Word</span><span class="sxs-lookup"><span data-stu-id="6b9fa-144">Word</span></span>
+### <a name="word"></a><span data-ttu-id="feeb2-147">Word</span><span class="sxs-lookup"><span data-stu-id="feeb2-147">Word</span></span>
 
-- <span data-ttu-id="6b9fa-145">**Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-145">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="6b9fa-146">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-146">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- <span data-ttu-id="feeb2-148">**Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você.</span><span class="sxs-lookup"><span data-stu-id="feeb2-148">**A more secure video experience:** Security enhancements mean a safer online video experience for you.</span></span> [<span data-ttu-id="feeb2-149">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-149">Learn more</span></span>](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- <span data-ttu-id="6b9fa-147">**Laço a tinta:** a ferramenta laço na guia desenhar ajuda a selecionar objetos desenhados à tinta.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-147">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="6b9fa-148">Selecione traços individuais ou palavras inteiras.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-148">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="6b9fa-149">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-149">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- <span data-ttu-id="feeb2-150">**Laço a tinta:** a ferramenta laço na guia desenhar ajuda a selecionar objetos desenhados à tinta.</span><span class="sxs-lookup"><span data-stu-id="feeb2-150">**Lasso your ink:** The Lasso tool on the Draw tab helps you select objects drawn with ink.</span></span> <span data-ttu-id="feeb2-151">Selecione traços individuais ou palavras inteiras.</span><span class="sxs-lookup"><span data-stu-id="feeb2-151">Select individual strokes, or whole words.</span></span> [<span data-ttu-id="feeb2-152">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-152">Learn more</span></span>](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- <span data-ttu-id="6b9fa-150">**Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-150">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="6b9fa-151">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-151">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- <span data-ttu-id="feeb2-153">**Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar.</span><span class="sxs-lookup"><span data-stu-id="feeb2-153">**Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere.</span></span> [<span data-ttu-id="feeb2-154">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-154">Learn more</span></span>](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -101,68 +105,68 @@ ms.locfileid: "41978599"
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-### <a name="resolved-issues"></a><span data-ttu-id="6b9fa-154">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-154">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="6b9fa-155">Access</span><span class="sxs-lookup"><span data-stu-id="6b9fa-155">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="feeb2-157">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="feeb2-157">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="feeb2-158">Access</span><span class="sxs-lookup"><span data-stu-id="feeb2-158">Access</span></span>
 
-- <div><span data-ttu-id="6b9fa-156"><span style="display:inline !important;">Esta atualização corrige um problema em que um objeto ADODB é usado. O objeto gravador no código VB poderá relatar um erro incorretamente.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="6b9fa-156"><span style="display:inline !important;">This update fixes an issue where using an ADODB. Recorder object in VB code may incorrectly report an error.&nbsp;</span></span></span><br></div>
-
-
-- <div style="box-sizing:border-box;"><span data-ttu-id="6b9fa-157"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente</span></span></span><span class="sxs-lookup"><span data-stu-id="6b9fa-157"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></span></span></div>
+- <div><span data-ttu-id="feeb2-159"><span style="display:inline !important;">Esta atualização corrige um problema em que um objeto ADODB é usado. O objeto gravador no código VB poderá relatar um erro incorretamente.&nbsp;</span></span><span class="sxs-lookup"><span data-stu-id="feeb2-159"><span style="display:inline !important;">This update fixes an issue where using an ADODB. Recorder object in VB code may incorrectly report an error.&nbsp;</span></span></span><br></div>
 
 
-### <a name="excel"></a><span data-ttu-id="6b9fa-158">Excel</span><span class="sxs-lookup"><span data-stu-id="6b9fa-158">Excel</span></span>
-
-- <div><span data-ttu-id="6b9fa-159">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-159">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
+- <div style="box-sizing:border-box;"><span data-ttu-id="feeb2-160"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente</span></span></span><span class="sxs-lookup"><span data-stu-id="feeb2-160"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></span></span></div>
 
 
-### <a name="outlook"></a><span data-ttu-id="6b9fa-160">Outlook</span><span class="sxs-lookup"><span data-stu-id="6b9fa-160">Outlook</span></span>
+### <a name="excel"></a><span data-ttu-id="feeb2-161">Excel</span><span class="sxs-lookup"><span data-stu-id="feeb2-161">Excel</span></span>
 
-- <div><span data-ttu-id="6b9fa-161">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-161">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
+- <div><span data-ttu-id="feeb2-162">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="feeb2-162">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
 
 
-### <a name="outlookexe"></a><span data-ttu-id="6b9fa-162">outlook.exe</span><span class="sxs-lookup"><span data-stu-id="6b9fa-162">outlook.exe</span></span>
+### <a name="outlook"></a><span data-ttu-id="feeb2-163">Outlook</span><span class="sxs-lookup"><span data-stu-id="feeb2-163">Outlook</span></span>
 
-- <div><span data-ttu-id="6b9fa-163">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-163">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
+- <div><span data-ttu-id="feeb2-164">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="feeb2-164">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
+
+
+### <a name="outlookexe"></a><span data-ttu-id="feeb2-165">outlook.exe</span><span class="sxs-lookup"><span data-stu-id="feeb2-165">outlook.exe</span></span>
+
+- <div><span data-ttu-id="feeb2-166">Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.</span><span class="sxs-lookup"><span data-stu-id="feeb2-166">Addresses an issue that caused users to experience crashes when renaming a signature.</span></span></div>
 
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-1912-january-22"></a><span data-ttu-id="6b9fa-165">Versão 1912: 22 de janeiro</span><span class="sxs-lookup"><span data-stu-id="6b9fa-165">Version 1912: January 22</span></span>
-<span data-ttu-id="6b9fa-166">*Versão 1912 (Build 12325.20344)*</span><span class="sxs-lookup"><span data-stu-id="6b9fa-166">*Version 1912 (Build 12325.20344)*</span></span>
+## <a name="version-1912-january-22"></a><span data-ttu-id="feeb2-168">Versão 1912: 22 de janeiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-168">Version 1912: January 22</span></span>
+<span data-ttu-id="feeb2-169">*Versão 1912 (Build 12325.20344)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-169">*Version 1912 (Build 12325.20344)*</span></span>
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-### <a name="resolved-issues"></a><span data-ttu-id="6b9fa-168">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-168">Resolved issues</span></span>
-### <a name="access"></a><span data-ttu-id="6b9fa-169">Access</span><span class="sxs-lookup"><span data-stu-id="6b9fa-169">Access</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="feeb2-171">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="feeb2-171">Resolved issues</span></span>
+### <a name="access"></a><span data-ttu-id="feeb2-172">Access</span><span class="sxs-lookup"><span data-stu-id="feeb2-172">Access</span></span>
 
-- <div><span data-ttu-id="6b9fa-170">Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente</span><span class="sxs-lookup"><span data-stu-id="6b9fa-170">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></div>
+- <div><span data-ttu-id="feeb2-173">Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente</span><span class="sxs-lookup"><span data-stu-id="feeb2-173">This update fixes an issue that can cause Microsoft Access to fail to identify an Identity Column in a linked SQL Server table, which can cause rows to be reported as deleted incorrectly</span></span></div>
 
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-1912-january-14"></a><span data-ttu-id="6b9fa-172">Versão 1912: 14 de janeiro</span><span class="sxs-lookup"><span data-stu-id="6b9fa-172">Version 1912: January 14</span></span>
-<span data-ttu-id="6b9fa-173">*Versão 1912 (Build 12325.20298)*</span><span class="sxs-lookup"><span data-stu-id="6b9fa-173">*Version 1912 (Build 12325.20298)*</span></span>
+## <a name="version-1912-january-14"></a><span data-ttu-id="feeb2-175">Versão 1912: 14 de janeiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-175">Version 1912: January 14</span></span>
+<span data-ttu-id="feeb2-176">*Versão 1912 (Build 12325.20298)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-176">*Version 1912 (Build 12325.20298)*</span></span>
 
-<span data-ttu-id="6b9fa-174">Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="6b9fa-174">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
+<span data-ttu-id="feeb2-177">Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span><span class="sxs-lookup"><span data-stu-id="feeb2-177">Security updates listed [here](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)</span></span>
 
-## <a name="version-1912-january-08"></a><span data-ttu-id="6b9fa-175">Versão 1912: 08 de janeiro</span><span class="sxs-lookup"><span data-stu-id="6b9fa-175">Version 1912: January 08</span></span>
-<span data-ttu-id="6b9fa-176">*Versão 1912 (Build 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="6b9fa-176">*Version 1912 (Build 12325.20288)*</span></span>
+## <a name="version-1912-january-08"></a><span data-ttu-id="feeb2-178">Versão 1912: 08 de janeiro</span><span class="sxs-lookup"><span data-stu-id="feeb2-178">Version 1912: January 08</span></span>
+<span data-ttu-id="feeb2-179">*Versão 1912 (Build 12325.20288)*</span><span class="sxs-lookup"><span data-stu-id="feeb2-179">*Version 1912 (Build 12325.20288)*</span></span>
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-### <a name="feature-updates"></a><span data-ttu-id="6b9fa-178">Atualizações de recursos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-178">Feature updates</span></span>
+### <a name="feature-updates"></a><span data-ttu-id="feeb2-181">Atualizações de recursos</span><span class="sxs-lookup"><span data-stu-id="feeb2-181">Feature updates</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="6b9fa-179">Outlook</span><span class="sxs-lookup"><span data-stu-id="6b9fa-179">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="feeb2-182">Outlook</span><span class="sxs-lookup"><span data-stu-id="feeb2-182">Outlook</span></span>
 
-- <span data-ttu-id="6b9fa-180">**Envie email acessível para quem mais precisa:** O Outlook exibirá uma dica de email para ajudar a garantir que seu conteúdo seja acessível ao enviar para um usuário que prefira este tipo de conteúdo.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-180">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
+- <span data-ttu-id="feeb2-183">**Envie email acessível para quem mais precisa:** O Outlook exibirá uma dica de email para ajudar a garantir que seu conteúdo seja acessível ao enviar para um usuário que prefira este tipo de conteúdo.</span><span class="sxs-lookup"><span data-stu-id="feeb2-183">**Send accessible mail to those who need it most:** Outlook will display a mail tip to help you ensure that your content is accessible when sending to a user who prefers accessible content</span></span>
 
-### <a name="powerpoint"></a><span data-ttu-id="6b9fa-181">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="6b9fa-181">PowerPoint</span></span>
+### <a name="powerpoint"></a><span data-ttu-id="feeb2-184">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="feeb2-184">PowerPoint</span></span>
 
-- <span data-ttu-id="6b9fa-182">**Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-182">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
+- <span data-ttu-id="feeb2-185">**Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.</span><span class="sxs-lookup"><span data-stu-id="feeb2-185">**Optimize your presentation for all:** Accessibility Checker helps you arrange objects on your slides with screen readers in mind.</span></span>
 
-- <span data-ttu-id="6b9fa-183">**GIFs em instantes:** Um slide, um quadro.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-183">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="6b9fa-184">Crie facilmente GIFs de loop no PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-184">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="6b9fa-185">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="6b9fa-185">Learn more</span></span>](https://support.office.com/pt-BR/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- <span data-ttu-id="feeb2-186">**GIFs em instantes:** Um slide, um quadro.</span><span class="sxs-lookup"><span data-stu-id="feeb2-186">**GIFs in a jiffy:** One slide, one frame.</span></span> <span data-ttu-id="feeb2-187">Crie facilmente GIFs de loop no PowerPoint.</span><span class="sxs-lookup"><span data-stu-id="feeb2-187">Easily create looping GIFs in PowerPoint.</span></span> [<span data-ttu-id="feeb2-188">Saiba mais</span><span class="sxs-lookup"><span data-stu-id="feeb2-188">Learn more</span></span>](https://support.office.com/pt-BR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -170,30 +174,30 @@ ms.locfileid: "41978599"
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-### <a name="resolved-issues"></a><span data-ttu-id="6b9fa-188">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="6b9fa-188">Resolved issues</span></span>
-### <a name="excel"></a><span data-ttu-id="6b9fa-189">Excel</span><span class="sxs-lookup"><span data-stu-id="6b9fa-189">Excel</span></span>
+### <a name="resolved-issues"></a><span data-ttu-id="feeb2-191">Problemas resolvidos</span><span class="sxs-lookup"><span data-stu-id="feeb2-191">Resolved issues</span></span>
+### <a name="excel"></a><span data-ttu-id="feeb2-192">Excel</span><span class="sxs-lookup"><span data-stu-id="feeb2-192">Excel</span></span>
 
-- <span data-ttu-id="6b9fa-190">Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-190">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
+- <span data-ttu-id="feeb2-193">Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.</span><span class="sxs-lookup"><span data-stu-id="feeb2-193">This change circumvents a problem with certain Intel graphics drivers by leveraging software rendering.</span></span>
 
-### <a name="outlook"></a><span data-ttu-id="6b9fa-191">Outlook</span><span class="sxs-lookup"><span data-stu-id="6b9fa-191">Outlook</span></span>
+### <a name="outlook"></a><span data-ttu-id="feeb2-194">Outlook</span><span class="sxs-lookup"><span data-stu-id="feeb2-194">Outlook</span></span>
 
-- <span data-ttu-id="6b9fa-192">Solucionamos um problema que fazia com que o local de uma reunião fosse adicionado novamente à reunião após a limpeza.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-192">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
+- <span data-ttu-id="feeb2-195">Solucionamos um problema que fazia com que o local de uma reunião fosse adicionado novamente à reunião após a limpeza.</span><span class="sxs-lookup"><span data-stu-id="feeb2-195">Addressed an issue that caused the location of a meeting to get added back to the meeting unexpectedly after clearing it.</span></span>
 
-- <span data-ttu-id="6b9fa-193">Solucionamos um problema que fazia com que os usuários percebessem um atraso notável ao interagir com as pastas da caixa de correio por meio dos atalhos de teclado.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-193">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
+- <span data-ttu-id="feeb2-196">Solucionamos um problema que fazia com que os usuários percebessem um atraso notável ao interagir com as pastas da caixa de correio por meio dos atalhos de teclado.</span><span class="sxs-lookup"><span data-stu-id="feeb2-196">Addressed an issue that caused users to see a noticeable delay when interacting with their mailbox folders through keyboard shortcuts.</span></span>
 
-- <span data-ttu-id="6b9fa-194">Solucionamos um problema que fazia com que os usuários vissem os e-mails enviados para um endereço que não correspondia ao endereço SMTP exibido em algumas circunstâncias.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-194">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
+- <span data-ttu-id="feeb2-197">Solucionamos um problema que fazia com que os usuários vissem os e-mails enviados para um endereço que não correspondia ao endereço SMTP exibido em algumas circunstâncias.</span><span class="sxs-lookup"><span data-stu-id="feeb2-197">Addressed an issue that caused users to see emails sent to an address that did not match the displayed SMTP address in some circumstances.</span></span>
 
-- <span data-ttu-id="6b9fa-195">Solucionamos um problema que fazia com que os usuários experimentassem travamentos no Outlook ao recuperar as configurações da Nuvem.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-195">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
+- <span data-ttu-id="feeb2-198">Solucionamos um problema que fazia com que os usuários experimentassem travamentos no Outlook ao recuperar as configurações da Nuvem.</span><span class="sxs-lookup"><span data-stu-id="feeb2-198">Addressed an issue that caused users to experience hangs in Outlook when retrieving Cloud Settings.</span></span>
 
-### <a name="word"></a><span data-ttu-id="6b9fa-196">Word</span><span class="sxs-lookup"><span data-stu-id="6b9fa-196">Word</span></span>
+### <a name="word"></a><span data-ttu-id="feeb2-199">Word</span><span class="sxs-lookup"><span data-stu-id="feeb2-199">Word</span></span>
 
-- <span data-ttu-id="6b9fa-197">O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-197">Building blocks organizer may display an invalid alert: &quot;You have modified styles, building blocks&quot;.</span></span>
+- <span data-ttu-id="feeb2-200">O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.</span><span class="sxs-lookup"><span data-stu-id="feeb2-200">Building blocks organizer may display an invalid alert: &quot;You have modified styles, building blocks&quot;.</span></span>
 
-### <a name="office-suite"></a><span data-ttu-id="6b9fa-198">Pacote Office</span><span class="sxs-lookup"><span data-stu-id="6b9fa-198">Office Suite</span></span>
+### <a name="office-suite"></a><span data-ttu-id="feeb2-201">Pacote Office</span><span class="sxs-lookup"><span data-stu-id="feeb2-201">Office Suite</span></span>
 
-- <span data-ttu-id="6b9fa-199">Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="6b9fa-199">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
+- <span data-ttu-id="feeb2-202">Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="feeb2-202">Resolved an issue where Office updates may have unexpectedly downloaded files from the Office CDN instead of the intended source, such as a local or network share, or Configuration Manager-provided location.</span></span>
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 > [!NOTE]
-> <span data-ttu-id="6b9fa-201">Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="6b9fa-201">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="feeb2-204">Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).</span><span class="sxs-lookup"><span data-stu-id="feeb2-204">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
