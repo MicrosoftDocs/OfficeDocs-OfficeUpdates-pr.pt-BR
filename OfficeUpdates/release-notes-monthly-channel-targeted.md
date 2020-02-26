@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 0ffaf4f5b95f0a94e5efd4ba64da233f47076ec0
+ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228370"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260762"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,16 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2002-february-24"></a>Versão 2002: 24 de fevereiro
+*Versão 2002 (Criação 12527.20194)*
+
+- Várias correções de bugs e de desempenho.
+
+## <a name="version-2002-february-22"></a>Versão 2002: 22 de fevereiro
+*Versão 2002 (Criação 12527.20186)*
+
+- Várias correções de bugs e de desempenho.
 
 ## <a name="version-2002-february-21"></a>Versão 2002: 21 de fevereiro
 Versão 2002 (Build 12527.20174)
