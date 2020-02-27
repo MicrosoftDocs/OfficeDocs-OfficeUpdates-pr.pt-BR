@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228360"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278581"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -24,6 +24,47 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-2002-february-25"></a>Versão 2002: 25 de Fevereiro
+*Versão 2002 (Criação 12527.20194)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Atualizações para o Painel de Pastas do Outlook:** A nova lista de pastas que está chegando com o Aesthetic v1 terá uma atualização na aparência e os grupos serão elevados para a mesma hierarquia que as Pastas e Favoritos.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que as funções do CUBEVALUE, às vezes, retornavam um resultado incorreto.
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que fazia com que as vírgulas no campo local de uma reunião se transformassem em ponto e vírgula.
+
+- Resolve um problema que pode resultar em uma falha ao exibir o mesmo item em várias janelas.
+
+- Corrige um problema que causava falha na opção para desabilitar o realce de item sinalizado, deixando que isso não fosse respeitado em alguns cenários.
+
+- Corrige um problema que fazia com que o Outlook sincronize inesperadamente todos os e-mails, mesmo quando o controle deslizante de sincronização estiver definido como uma configuração menor.
+
+
+- Resolve um problema que fazia com que os usuários com o Tema Preto vissem o &quot;De&quot; da lista suspensa como um texto branco sobre um fundo branco.
+
+
+- Essa alteração restaura a capacidade de visualizar assuntos de várias linhas no cabeçalho da mensagem.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2001-february-19"></a>Versão 2001: 19 de fevereiro
 *Versão 2001 (Build 12430.20288)*
