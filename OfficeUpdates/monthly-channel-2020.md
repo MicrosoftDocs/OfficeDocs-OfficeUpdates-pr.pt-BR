@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278581"
+ms.locfileid: "42282825"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -31,9 +31,22 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Atualizações para o Painel de Pastas do Outlook:** A nova lista de pastas que está chegando com o Aesthetic v1 terá uma atualização na aparência e os grupos serão elevados para a mesma hierarquia que as Pastas e Favoritos.
+ - **Os usuários agora têm a capacidade de salvar objetos no Word e no Excel como um SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como um SVG  [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Estatísticas da pasta de trabalho:** células, fórmulas, gráficos, tabelas... Contamos para que você não precise contar.
+
+- **Criação de perfil de dados no editor de consultas:** obtenha uma análise rápida dos dados em suas colunas, identifique erros e valores vazios, consulte histogramas de distribuição e muito mais.
+
+### <a name="outlook"></a>Outlook
+- **Atualizações para o Painel de Pastas do Outlook:**  A nova lista de pastas que está chegando com o Aesthetic v1 terá uma atualização na aparência e os grupos serão elevados para a mesma hierarquia que as Pastas e Favoritos.
+
+### <a name="word"></a>Word
+
+- **Os usuários agora têm a capacidade de salvar objetos no Word e no Excel como um SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como um SVG  [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
