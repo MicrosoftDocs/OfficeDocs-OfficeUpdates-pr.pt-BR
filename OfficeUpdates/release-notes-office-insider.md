@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 3bc1a3c2908fda240b041ae59a851f5f48ec9574
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228400"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345140"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,49 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2003-february-28"></a>Versão 2003: 28 de fevereiro
+*Versão 2003 (Criação 12619.20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Tinta aprimorada para moldar a experiência de diagramação:** Desenhe diagramas melhores e faça com que seja convertidos para que você possa manipular objetos do escritório [Saiba mais](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrido um problema em que o texto em uma segmentação de dados não é dimensionado corretamente na visualização de impressão.
+
+### <a name="outlook"></a>Outlook
+
+- Soluciona um problema que fazia com que a data "Última modificação" em um arquivo fosse atualizada ao adicionar um anexo a um e-mail ou salvá-lo, arrastando e soltando-o (ao contrário de um menu).
+
+### <a name="word"></a>Word
+
+- Corrigido um problema que, ao percorrer um cartão de comentários, o foco na caixa de edição de comentários não ficava visível.
+
+- Inserir um controle (como um Controle de Conteúdo de Texto) em uma equação e salvar e abrir o arquivo resulta em um erro de conteúdo não legível.
+
+- Corrigido um problema em que o salvamento de um arquivo anteriormente protegido por senha em um armazenamento em nuvem não funcionava.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2003-february-21"></a>Versão 2003: 21 de fevereiro
 *Versão 2003 (Build 12615.20000)*
@@ -1411,7 +1454,7 @@ Crie um PDF e o verificador de acessibilidade informará os problemas de acessib
 - Consertamos um problema onde obter o objeto de pasta de trabalho do objeto de Gráfico após alterar os tipos de gráfico, algumas vezes poderia resultar em um erro
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Consertamos um problema em que, na faixa de opções simplificada, um controle desabilitado poderia, às vezes, não estar acinzentado na faixa de opções.
@@ -1485,7 +1528,7 @@ Aplique uma animação de reprodução para tinta no PowerPoint para se expressa
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Correções diversas de desempenho e estabilidade
@@ -1729,7 +1772,7 @@ Versão 1907 (build 11727.20064)
 - Corrigimos um problema que causa travamento ou falha durante o recálculo de uma fórmula de matriz
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema em que os anexos embutidos às vezes eram dimensionados incorretamente
@@ -1833,7 +1876,7 @@ Para acionar a experiência de aceitação: abra um link para uma pasta de traba
 - Corrigimos um problema onde um ícone incorreto poderia ser exibido para filtros inativos
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema onde alguns usuários apareciam incorretamente como Offline em um modo de exibição de Agenda de Grupo
@@ -1871,7 +1914,7 @@ As atualizações que estiveram em Em Breve agora estão prontas, apresentando a
 - Corrigimos um problema em que a pasta de trabalho incorreta poderia ser ativada em um script VBA quando a mesma pasta de trabalho já estava aberta
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Correções diversas de desempenho e estabilidade
@@ -1982,7 +2025,7 @@ Vá para a guia Desenhar. Selecione uma caneta. Desenhe um traço de tinta. Sele
 - Corrigimos um problema que afetava o desempenho ao usar segmentações de dados
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema em que o modelo errado era exibido a partir do que estava selecionado
@@ -2016,7 +2059,7 @@ Versão 1906 (build 11702.20000)
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Correções diversas de desempenho e estabilidade
@@ -2096,7 +2139,7 @@ Melhor experiência de coautoria, tornando mais provável que as alterações de
 - Corrigimos um problema que impedia que arquivos do Excel fossem importados para o SharePoint
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Correções diversas de desempenho e estabilidade
@@ -2315,7 +2358,7 @@ Versão 1904 (build 11514.20004)
 - Corrigimos um problema em que a caixa de diálogo salvar não aceitava alguns caracteres coreanos
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Correções diversas de desempenho e estabilidade
@@ -2417,7 +2460,7 @@ Crie um arquivo docm no OneDrive for Business, compartilhe-o com seus colegas e 
 - Corrigimos um problema no qual, quando uma célula do Excel era copiada de um documento protegido e um documento editável estavam abertos, isso levava ao alto uso da CPU 
 
 ### <a name="powerpoint"></a>PowerPoint
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="outlook"></a>Outlook
 - Corrigimos um problema em que a Pesquisa do Outlook não executava a classificação cronológica selecionada
