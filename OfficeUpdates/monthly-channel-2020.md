@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282825"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345101"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -25,6 +25,20 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
+## <a name="version-2002-march-01"></a>Versão 2002: 01 de março
+*Versão 2002 (Build 12527.20242)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- <div>Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar email.</div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+
 ## <a name="version-2002-february-25"></a>Versão 2002: 25 de Fevereiro
 *Versão 2002 (Criação 12527.20194)*
 
@@ -33,18 +47,15 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
- - **Os usuários agora têm a capacidade de salvar objetos no Word e no Excel como um SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como um SVG  [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Agora, os usuários têm a capacidade de salvar objetos no Word e Excel como SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como SVG. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Estatísticas da pasta de trabalho:** células, fórmulas, gráficos, tabelas... Contamos para que você não precise contar.
 
 - **Criação de perfil de dados no editor de consultas:** obtenha uma análise rápida dos dados em suas colunas, identifique erros e valores vazios, consulte histogramas de distribuição e muito mais.
 
-### <a name="outlook"></a>Outlook
-- **Atualizações para o Painel de Pastas do Outlook:**  A nova lista de pastas que está chegando com o Aesthetic v1 terá uma atualização na aparência e os grupos serão elevados para a mesma hierarquia que as Pastas e Favoritos.
-
 ### <a name="word"></a>Word
 
-- **Os usuários agora têm a capacidade de salvar objetos no Word e no Excel como um SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como um SVG  [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Agora, os usuários têm a capacidade de salvar objetos no Word e Excel como SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como SVG. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +97,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-2001-february-11"></a>Versão 2001: 11 de fevereiro
 *Versão 2001 (Build 12430.20264)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/pt-BR/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
