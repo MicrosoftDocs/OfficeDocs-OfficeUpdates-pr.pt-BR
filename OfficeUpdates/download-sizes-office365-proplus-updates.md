@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: f9520e4be3f349c9bb2333d551e6b6c149822155
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345100"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568837"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -30,7 +30,33 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="march-1-2020"></a>01º de março de 2020
+## <a name="march-6-2020"></a>06 de março de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+### <a name="semi-annual-channel"></a>Canal semestral
+
+<i>A versão esperada é a Versão 1908 (Criação 11929.20648).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |64<br/> |
+|Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |73<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal semestral (Direcionado)
+
+<i>A versão esperada é a Versão 2002 (Criação 12527.20278).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |291<br/> |
+|Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |292<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+
+## <a name="march-1-2020"></a>1º de março de 2020
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO01º de março de 2020)
 
