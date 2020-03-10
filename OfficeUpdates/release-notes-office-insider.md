@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345140"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568857"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
-Este artigo contém notas de versão para versões Insider do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Em geral, disponibilizamos recursos (e, às vezes, até mesmo correções) para os participantes do programa Office Insider ao longo do tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
+Este artigo contém notas de versão para versões Insider do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, destacaremos novos recursos interessantes, correções importantes e quaisquer problemas significativos sobre os quais desejamos informá-lo. Em geral, disponibilizamos recursos (e, às vezes, até mesmo correções) para os participantes do programa Office Insider ao longo do tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, caso você não veja algo descrito abaixo, não se preocupe.  
 
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações.
@@ -26,6 +26,36 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2003-march-06"></a>Versão 2003: 06 de março
+*Versão 2003 (Build 12624.20086)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Foi corrigido um problema em que a criação de uma regra com o Outlook Web Access não persistia no servidor Exchange e resultava em um conflito.
+- Foi corrigido um problema em que o Outlook no modo escuro não exibia a lista suspensa do campo 'De:'.
+- Resolve um problema que fazia com que os usuários não conseguissem anexar um arquivo à mensagem de email por meio do explorador de arquivos se esse arquivo estivesse aberto em outro aplicativo.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Foi corrigido um problema em que as miniaturas recomendadas acendiam e apagavam ao passar o mouse sobre elas. Em alguns casos, isso pode causar uma falha no PowerPoint.
+
+### <a name="word"></a>Word
+
+- Foi corrigido um problema com o recurso comparar em documentos protegidos para edição.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Foi corrigido um problema com o Word/Excel/PowerPoint, em que o nome de usuário principal (UPN) não diferenciava maiúsculas de minúsculas, resultando em menos falhas ao trabalhar com arquivos no SharePoint.
+
+- Foi corrigido um problema estético em que o botão 'OK' na caixa de diálogo Arquivo \ Opções era exibido em cinza, mas a funcionalidade não era afetada.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ## <a name="version-2003-february-28"></a>Versão 2003: 28 de fevereiro
 *Versão 2003 (Criação 12619.20002)*
@@ -2159,7 +2189,7 @@ Versão 1905 (build 11609.20002)
 
 ### <a name="outlook"></a>Outlook
 
-**Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa.
+**Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de Pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa.
 
 ### <a name="excel"></a>Excel
 
@@ -2272,7 +2302,7 @@ Altere a Caixa de Entrada Destaques na máquina que esteja com a preferência de
 
 #### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>O modo Ferramentas de Aprendizagem tem suporte adicional para mais cores de página
 
-As ferramentas de aprendizagem no Word adicionam suporte para mais cores de tema de página, o que permite a alteração da cor da tela de fundo da página.  Várias pessoas têm desafios de leitura com um plano de fundo todo branco ou preto, então ampliamos as opções de cores no Word para PC e para Mac.
+As ferramentas de aprendizagem no Word adicionam suporte para mais cores de tema de página, o que permite a alteração da cor da tela de fundo da página.  Muitas pessoas têm dificuldades em ler com fundo totalmente branco ou totalmente preto; portanto, expandimos a escolha de cores do Word no PC e Mac.
 
 #### <a name="getting-started"></a>Introdução:
 
@@ -2452,7 +2482,7 @@ Crie um arquivo docm no OneDrive for Business, compartilhe-o com seus colegas e 
 ## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="word"></a>Word 
-- Nós corrigimos um problema de travamento que ocorria quando a tecla “ESC” era pressionada com o menu Opções aberto
+- Corrigimos um problema de falha que acontecia ao pressionar 'ESC' enquanto o usuário estava em Opções
 - Corrigimos um problema de travamento que ocorria ao responder comentários
 - Corrigimos um problema com a opção de copiar e colar do Word para o PowerPoint Online
 
@@ -2497,7 +2527,7 @@ Abrir um documento do SharePoint ou do OneDrive que outras pessoas abriram. Veri
 ## <a name="notable-fixes"></a>Correções notáveis:
 
 ### <a name="word"></a>Word 
-- Nós corrigimos um problema de travamento que ocorria quando a tecla “ESC” era pressionada com o menu Opções aberto
+- Corrigimos um problema de falha que acontecia ao pressionar 'ESC' enquanto o usuário estava em Opções
 - Corrigimos um problema com a opção de copiar e colar do Word para o PowerPoint Online
 
 ### <a name="excel"></a>Excel
@@ -2538,8 +2568,8 @@ Especifique as formas que você deseja transformar
 #### <a name="getting-started"></a>Introdução:
 
 - Para utilizar o Transformar para tratar dois objetos ao mesmo objeto, o usuário pode renomear as formas usando o painel seleção.
-- O nome deve ser precedido por "!!" (dois pontos exclamação) para Transformar usado para substituir nosso padrão de comportamento de correspondência. Por exemplo: “!!Nome”
-- Os usuários podem continuar renomeando formas com qualquer nome que não comece com “!!” sem precisar se preocupar que isso mudará a maneira como a opção Transformar funciona
+- O nome deve ser precedido por "!!" (dois pontos de exclamação) para o Morph usar para substituir nosso comportamento de correspondência padrão, por exemplo "!!Name"
+- Os usuários podem continuar a renomear formas com qualquer nome que não comece com "!!" sem precisar se preocupar que isso mudará a maneira como a opção Transformar funciona
 
 #### <a name="scenarios-to-try"></a>Cenários possíveis:
 
@@ -2670,7 +2700,7 @@ Versão 1902 (build 11326.20000)
 
 ### <a name="powerpoint"></a>PowerPoint
 - Corrigimos um erro onde os usuários não conseguiam usar o atalho ctrl+alt+7/ctrl+alt+8 para inserir colchetes
-- Corrigimos um problema onde inserir um vídeo local no PPT reduzia o espaço no disco rígido "C"
+- Corrigimos um problema em que a inserção de um vídeo local no PPT reduzia o espaço em disco da unidade 'C'
 - Corrigimos o botão Publicar no Microsoft Stream que não era exibido para alguns usuários
 
 ### <a name="outlook"></a>Outlook
