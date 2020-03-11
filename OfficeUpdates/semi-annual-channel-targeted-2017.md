@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 ProPlus em 2017
 ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629268"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549232"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Notas de versão para lançamentos do canal semestral (direcionado) no 2017
 
@@ -32,7 +32,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
  ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935): vulnerabilidade de execução remota de código do Microsoft Excel
 
-### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
+### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que é exibida incorretamente ao usuário a mensagem de erro "Falha catastrófica" ao abrir uma pasta de trabalho com macros no Office 2007 ou versão anterior (.xls ou .xla).
 -   Correção de um problema em que abrir uma pasta de trabalho na linha de comando pode causar perda de formatação em rich text na célula.
 
@@ -61,7 +61,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): vulnerabilidade de bypass do recurso de segurança do Microsoft Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilidade de corrupção de memória do Microsoft Excel
--   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidade de Corrupção de Memória do Microsoft Office
+-   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Vulnerabilidade de corrupção de memória do Microsoft Office
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que o usuário não conseguia fechar uma pasta de trabalho no modo de exibição protegido quando o nome do arquivo continha colchetes.
@@ -77,12 +77,12 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que a linha de quebra de página na visualização de quebra de página está posicionada incorretamente.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
--   Correção de um problema em que o usuários vê o foco na lista de mensagens pular inesperadamente ao excluir as mensagens.
+-   Correção de um problema em que o usuário vê o foco na lista de mensagens saltar inesperadamente ao excluir as mensagens.
 -   Correção de um problema que faz com que o usuário veja solicitações de autenticação durante a interação com anexos.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
 -   Correção de um problema em que, ao salvar um arquivo com suporte para sincronização, a gravação em disco falha, mas o Office continua carregando o arquivo para o OneDrive. Com esta correção, os usuários passam a receber uma mensagem de erro e o carregamento é interrompido.
--   Correção de um problema em que editar e formatar o texto após desfazer em uma tabela faz o PowerPoint falhar.
+-   Correção de um problema em que editar e formatar o texto após desfazer algo em uma tabela faz o PowerPoint falhar.
 -   Correção de um problema em que as referências a códigos de inserção do YouTube com base no Flash Player resultam na abertura de uma nova janela para reproduzir o vídeo. Antigos códigos de inserção agora foram atualizados para fazer referência a vídeos do YouTube com base em HTML5 para que possam ser reproduzidos corretamente no lugar.
 
 ### <a name="word-security-updates"></a>Word: Atualizações de segurança
@@ -98,7 +98,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): vulnerabilidade de corrupção de memória do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
--   Correção de um problema com o zoom e dimensionamento em Suplementos do Office em um ambiente de DPI dinâmico.
+-   Correção de um problema com o zoom e dimensionamento em suplementos do Office em um ambiente de DPI dinâmico.
 -   Correção de um problema em que o nó CurrentStatus do provedor de serviços de configuração (CSP) do Office retorna uma cadeia de caracteres vazia mesmo se o Office 365 ProPlus estiver instalado atualmente.
 -   Correção de um problema que causa mudanças de formato no arquivo .box, o que afeta a funcionalidade de versões mais antigas do Office instaladas no mesmo computador, porque os arquivos .box são compartilhados entre todas as versões de um aplicativo do Office no mesmo computador.
 -   Correção de um problema em que, em determinadas circunstâncias ao usar a ativação de computador compartilhado, uma mensagem de erro é exibida informando que o aplicativo encontrou um erro que o está impedindo de funcionar corretamente e perguntando se o usuário deseja executar um reparo.
@@ -124,9 +124,9 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
--   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): vulnerabilidade de divulgação de informações do Microsoft Outlook
+-   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office Outlook
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema em que o link "Saiba mais" nas Dicas de Políticas não fica visível ao usar o tema Cinza Escuro.
 -   Correção de um problema em que o Outlook falha quando o usuário está tentando configurar uma nova conta e fecha a janela sem concluir a configuração da conta.
 -   Correção de um problema em que Marcar como Lido e Marcar como Não Lido são exibidos como opções para mensagens na caixa de entrada compartilhada de um grupo.
@@ -135,15 +135,15 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o PowerPoint falha ao abrir uma apresentação de um servidor do SharePoint mais antigo do que o SharePoint Server 2016.
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Vulnerabilidade de corrupção de memória do Microsoft Office
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): vulnerabilidade de corrupção de memória do Microsoft Office
 
-### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
 -   Correção de um problema em que o Word falha ao abrir o painel Atividade de um documento aberto em um servidor do SharePoint mais antigo do que o SharePoint Server 2016.
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnerabilidade de execução remota de código do Microsoft Office
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema em que o progresso de Reparo Online não é exibido ao usuário.
 -   Correção de um problema em que as propriedades de arquivo do Office não são exibidas no Explorador de Arquivos.
 -   Correção de um problema em que os botões de suplemento do Office desaparecem da faixa de opções quando há um segundo documento aberto.
@@ -157,10 +157,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-feature-updates"></a>Access: atualizações de recursos
 -   **Propriedade Label Name:** melhora a acessibilidade associando um rótulo a um controle ou formulário.
 -   **A edição de itens novos ficou mais acessível:** use um atalho de teclado (Ctrl+E) rápido para editar um novo item em uma caixa de combinação ou em uma caixa de listagem.
--   **Conector do Dynamics:** importar dados ou vincular aos dados armazenados no Microsoft Dynamics. [Mais informações](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Conector da Salesforce:** importar dados ou vincular a dados armazenados na Salesforce. [Mais informações](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **Dynamics Connector:** importar dados ou vincular a dados armazenados no Microsoft Dynamics. [Saiba mais](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Conector do Salesforce:** importar dados ou vincular a dados armazenados na Salesforce. [Saiba mais](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
-### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
 -   **Melhorias do recurso "Adicionar Coluna de Exemplos":** com suporte para mais transformações de Data/Hora, Matemática e coluna de índice.
 -   **Melhorias de desempenho:** O Excel abre pastas de trabalho complexas com várias planilhas mais rápido, para que você possa processar fórmulas com intervalos grandes, filtrar muitas linhas, ou copiar e colar mais rápido.
 -   **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
@@ -172,8 +172,8 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **Funcionalidade de importação de dados melhorada:** Importe facilmente e molde dados de várias fontes. Gerencie conexões e consultas de pastas de trabalho com o painel lateral Consultas e Conexões, e compartilhe as consultas com outras pessoas por meio dos arquivos ODC. [Mais informações](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **Alterações em arquivos compartilhados**: veja quem fez alterações em pastas de trabalho compartilhadas e restaure versões anteriores. [Mais informações](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
--   **Seleção de Laço com o botão da caneta:** use botões de caneta digital compatíveis para Seleção de Laço com tinta sem ter que acessar a Faixa de Opções.
+-   **Alterações em arquivos compartilhados**: veja quem fez alterações em pastas de trabalho compartilhadas e restaure versões anteriores. [Saiba mais](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **Seleção de Laço com um botão de caneta:** use botões de caneta digital compatíveis para Seleção de Laço com tinta sem ter que acessar a Faixa de Opções.
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilidade de corrupção de memória do Microsoft Office
@@ -192,7 +192,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 -   **Melhorias de acessibilidade:** facilitamos a leitura e a edição de textos, tabelas, listas e imagens no email durante o uso de um leitor de tela.
 -   **Nova configuração de conta:** configure novas contas com um novo assistente que requer menos etapas manuais.
--   **Attach dialog for links:** When attaching a link using Attach File on the ribbon, you can select whether to add it as a link or as an attachment. If you don’t want to see this dialog each time, go to File \> Options \> General and specify how you want links to be attached under “Attachment options.”
+-   **Caixa de diálogo "Anexar" para links:** ao anexar um link usando o recurso "Anexar Arquivo" na Faixa de Opções, é possível escolher entre adicioná-lo como link ou como anexo. Caso prefira não exibir sempre esta caixa de diálogo, vá para Arquivo \> Opções \> Geral e especifique como deseja anexar os links em "Opções de Anexo".
 -   **Suporte para anexos no local:** Os arquivos do SharePoint Server no local são exibidos como arquivos recentes em Mensagem \> Anexar Arquivo, os sites da equipe do OneDrive for Business e do SharePoint no local são exibidos em Anexar Arquivo \> Procurar Locais na Web e os arquivos locais podem ser carregados para os sites do OneDrive for Business no local.
 -   **Setor de atividade para grupos:**  um nível de setor de atividade definido pelo administrador do locatário, como Confidencial, pode ser atribuído ao criar ou ao editar um grupo e esse setor é exibido no cabeçalho do grupo.
 -   **Acesso para convidado para Grupos do Office 365:** para colaborar com pessoas de fora da organização, conceda a elas acesso para conversas em grupo, arquivos, convites do calendário e Bloco de Anotações do Grupo. [Mais informações](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
@@ -200,7 +200,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): vulnerabilidade de bypass do recurso de segurança do Microsoft Office Outlook
--   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): vulnerabilidade de divulgação de informações do Microsoft Office Outlook
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): vulnerabilidade de corrupção de memória do Microsoft Office Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
@@ -209,19 +209,19 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 -   **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
--   **Legendas ocultas para vídeos:** adicione legendas ocultas a um vídeo para torná-lo mais acessível. [Mais informações](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **Legendas Codificadas:** adicione Legendas Codificadas a um vídeo para torná-lo mais acessível. [Saiba mais](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Narrar uma gravação:** Inclua vídeo de si mesmo narrando quando fizer uma gravação de uma apresentação. É possível incluir animações, link, áudio e vídeo nas gravações.
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Criação de texto Alt:** um serviço baseado em nuvem gera automaticamente um texto alternativo para as imagens de uma apresentação.
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **Melhorias do Designer:** Recomenda ideias de design profissional para listas orientadas para ação.
--   **Alterações em arquivos compartilhados:** Veja quem fez alterações em apresentações compartilhadas e restaure versões anteriores. [Mais informações](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **Melhorias do Designer:** recomenda ideias de design profissionais para listas orientadas para ações.
+-   **Alterações em arquivos compartilhados:** veja quem fez alterações em apresentações compartilhadas e restaure versões anteriores. [Saiba mais](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: atualizações de segurança
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): vulnerabilidade de execução remota de código do PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): vulnerabilidade de execução remota de código do PowerPoint
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
 -   Correção de um problema em que ocorre uma falha na exibição dos caracteres definidos pelo usuário final (EUDCs) que estão vinculados às fontes.
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
@@ -316,10 +316,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1705-august-8"></a>Versão 1705:8 de agosto
 *Versão 1705 (build 8201.2171)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema ao arrastar a barra de rolagem para se movimentar por uma lista de mensagens.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Correção de um problema relacionado à maneira pela qual alguns arquivos de programas são conectados fazendo com que programas antivírus sinalizem esses arquivos, além de problemas para proteger ou acessar dados no WIP (Proteção de Informações do Windows).
 -   Correção de um problema que impede que a caixa de diálogo Novidades seja exibida.
 
@@ -332,9 +332,9 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o programa exibe erros ao tentar salvar alterações em documentos sincronizados com o cliente do OneDrive.
 -   Correção de um problema em que o Excel falha ao adicionar dados de uma planilha ao modelo de dados e o tema de alto contraste é definido como Preto.
 
-### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): vulnerabilidade de bypass do recurso de segurança do Microsoft Office Outlook
--   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): vulnerabilidade de divulgação de informações do Microsoft Office Outlook
+-   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office Outlook
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): vulnerabilidade de corrupção de memória do Microsoft Office Outlook
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
@@ -365,14 +365,14 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o link da reunião do Outlook não passa sempre a URI interna corretamente.
 -   Ampliado o botão Ingressar na Reunião para corrigir truncamento em alguns idiomas.
 
-### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
+### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
 -   Correção de um problema em que tabelas não são exibidas corretamente após determinadas ações.
 -   Correção de um problema em que várias edições a citações por vezes aparecem como uma ação de desfazer em vez de ações individuais consecutivas.
 -   Correção de um problema em que a ação de desfazer é desabilitada após determinadas ações.
 -   Correção de um problema para evitar a possível perda de dados após determinadas ações de desfazer.
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): vulnerabilidade de execução remota de código do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema que faz com que atualizações autônomas do Office 2013 para o Office 2016 falhem ao usar o Gerenciador de configuração.
@@ -383,7 +383,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1705-june-13"></a>Versão 1705:13 de junho
 *Versão 1705 (build 8201.2102)*
 
-### <a name="access-feature-updates"></a>Access: Atualizações de recursos
+### <a name="access-feature-updates"></a>Access: atualizações de recursos
 -   **Caixa de diálogo Novidades:** Uma caixa de diálogo que destaca os novos recursos do Access é exibida ao abrir este programa, após a respectiva atualização com os novos recursos. A caixa de diálogo também está disponível em Arquivo \> Conta \> Novidades.
 -   **Suporte para Número Grande (bigint):** Usar o tipo de dados Número Grande em tabelas do Access para calcular números grandes e para vincular a ou importar de bancos de dados externos que usam um tipo de dados equivalente, como bigint no SQL Server. [Mais informações](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
@@ -467,7 +467,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Selecionar e manipular objetos com uma caneta:** use uma caneta digital para mover, redimensionar ou girar objetos por meio das alças ou use botões de caneta compatíveis para Seleção de Laço com tinta.
 -   **Melhorias na acessibilidade:** suporte aprimorado do uso do teclado, do Narrator e de outras tecnologias adaptativas para ler e editar apresentações. [Mais informações](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
 -   Correção de um problema em que o PowerPoint falha quando o usuário está no painel Ideias de Design, se o arquivo mfplat.dll não estiver instalado no computador.
 -   Correção de um problema em que o botão de comando de um suplemento deixa de funcionar após atualizar ou remover e baixar novamente o suplemento da Office Store.
 
@@ -602,7 +602,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1701-may-9"></a>Versão 1701:9 de maio
 * Versão 1701 (build 7766.2084)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema que faz com que os usuários vejam intermitentemente a seleção de mensagem na lista de mensagens saltar de forma inesperada ao excluir mensagens.
 -   Correção de um problema que causa falhas intermitentes.
 -   A adição da chave do Registro HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Outlook\\Options\\General\\DisableSupportBackstage permite que os administradores ocultem a opção de Suporte na guia Arquivo.
@@ -614,7 +614,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
 -   correção de um problema que faz com que uma janela de conversa de uma conversa aceita automaticamente abra como uma janela normal em vez de minimizada, e inesperadamente tira o foco de outras janelas.
 
-### <a name="word-security-updates"></a>Word: Atualizações de segurança
+### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281): Vulnerabilidade de execução remota de código do Microsoft Office
 
@@ -658,7 +658,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de Segurança do Microsoft Office (3217868)
 
-### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Correção de um problema em que o Excel pode falhar ao inserir hiperlinks.
 -   Correção de um problema em que o Excel pode falhar ao adicionar Mapas XML.
 -   Correção de um problema em que o botão de comando de um suplemento deixa de funcionar após atualizar ou remover e baixar novamente o suplemento da Office Store.
@@ -691,7 +691,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1701-february-22"></a>Versão 1701:22 de fevereiro
 *Versão 1701 (build 7766.2060)*
 
-### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 -   **Melhorias na conectividade e na transformação de dados:** Expandir uma lista em uma nova coluna de texto com delimitador entre os valores e especificar uma opção de failover ao se conectar ao SQL.
 -   **Melhorias na conectividade e na transformação de dados:** Agora há suporte para o tipo de dados Porcentagem, e experiências de autoria de função combinando binário foram aprimoradas.
 -   **Conector OLEDB:** Use o conector OLEDB em Obter e Transformar para criar uma consulta para importar dados especificando uma Cadeia de Conexão e, opcionalmente, uma instrução SQL para executar.
@@ -723,7 +723,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-feature-updates"></a>OneNote: Atualizações de recursos
 -   **Controlar a sincronização de arquivos e imagens:** Vá para Arquivo \> Opções \> Sincronizar para controlar se todos os arquivos e imagens são baixados automaticamente para todas as páginas em blocos de anotações.
 
-### <a name="onenote-non-security-updates"></a>OneNote: Atualizações não relacionadas à segurança
+### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Foi corrigido um problema em que o OneNote trava ao imprimir uma imagem maior do que a página.
 -   Correção de um problema em que um usuário não pode excluir um modelo de página personalizado.
 

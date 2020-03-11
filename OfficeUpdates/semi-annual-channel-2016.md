@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais semestral para o Office 365 ProPlus em 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439086"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549192"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de versão para lançamentos do canal semestral no 2016
 
@@ -29,7 +29,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1605-december-13"></a>Versão 1605:13 de dezembro
 *Versão 1605 (build 6965.2115)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de segurança do Microsoft Office (3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
@@ -46,7 +46,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2115), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -57,7 +57,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1605-november-8"></a>Versão 1605:8 de novembro
 *Versão 1605 (build 6965.2105)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de segurança do Microsoft Office (3199168)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
@@ -73,7 +73,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2105), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de Segurança do Microsoft Office (3199168)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -255,10 +255,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-september-13"></a>Versão 1602:13 de setembro
 *Versão 1602 (build 6741.2071)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
@@ -277,10 +277,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2071), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
@@ -322,7 +322,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-security-updates"></a>OneNote: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
+### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
@@ -339,7 +339,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-july-12"></a>Versão 1602:12 de julho
 *Versão 1602 (build 6741.2056)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
@@ -355,7 +355,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 *Este é o lançamento do canal adiado que está disponível desde fevereiro de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até outubro de 2016. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1602 (Build 6741,2056), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
@@ -674,7 +674,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-april-12"></a>Versão 1509:12 de abril
 *Versão 1509 (build 6001.1073)*
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Atualização de segurança do Microsoft Office (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 ProPlus em 2016
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629228"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549212"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Notas de versão para lançamentos do canal semestral (direcionado) no 2016
 
@@ -76,7 +76,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que, ao se usar o Solver, uma mensagem de erro "Arquivo Solver32.dll não encontrado" é exibida após escolher Resolver.
 -   Correção de um problema em que o ícone do Suplemento do Bing Mapas não é mostrado quando é usado um monitor com DPI Alto e o modo de toque está habilitado para a faixa de opções.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema em que o Outlook falha ao executar uma Localização Avançada em várias pastas.
 -   Correção de um problema em que o texto digitado na caixa de texto cc em uma pesquisa não é acrescentado à caixa de pesquisa principal e uma pesquisa não ocorre.
 -   Correção de um problema em que, em uma conversa com várias mensagens com anexos, o Outlook falha ao tentar abrir um anexo em uma dessas mensagens, se o anexo estiver armazenado em um local online.
@@ -111,7 +111,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1609-october-11"></a>Versão 1609:11 de outubro
 *Versão 1609 (build 7369.2038)*
 
-### <a name="access-feature-updates"></a>Access: Atualizações de recursos
+### <a name="access-feature-updates"></a>Access: atualizações de recursos
 -   **Suporte ao dBASE:** suporte para importar ou vincular aos dados armazenados em bancos de dados do dBASE (.dbf). [Mais informações](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
 ### <a name="access-non-security-updates"></a>Access: Atualizações que não são de segurança
@@ -307,7 +307,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema que faz com que o Outlook falhe ao exibir uma solicitação de reunião quando um ouvinte de automação de interface do usuário da Microsoft, como o Narrador, está em execução.
 -   Correção de um problema em que, ao se conectar ao Exchange Server 2013 que está habilitado para MAPI/HTTP, o usuário é solicitado a fornecer as credenciais em vez de ser automaticamente conectado com as credenciais de área de trabalho do usuário.
 -   Correção de um problema em que arrastar e soltar uma mensagem de email em uma pasta no arquivo PST faz com que o Outlook solicite que o usuário execute um reparo no arquivo.
@@ -417,7 +417,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1605-june-14"></a>Versão 1605:14 de junho
 *Versão 1605 (build 6965.2058)*
 
-### <a name="excel-feature-updates"></a>Excel: atualizações de recursos
+### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 -   **Obter & aprimoramentos de transformação:** Recursos novos ou aprimorados de transformação de dados e conectividade de dados para a consulta de energia. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Conexões de dados adicionais:** Consultar dados de fontes JSON e Azure SQL Data Warehouse.
 -   **Melhorias do Power Query:** Recursos novos e aprimorados de transformação de dados e conectividade de dados. [Mais informações](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
@@ -448,7 +448,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 
 -   **Lista de anexos para conversas:** todos os anexos de uma conversa em um grupo do Office 365 estão disponíveis em uma lista suspensa no canto superior direito do painel de leitura.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema no qual a ação de responder ou encaminhar mensagens usa uma fonte preta em vez de usar outras cores opcionais, mesmo que a opção "Escolher uma nova cor ao responder ou encaminhar" esteja selecionada em Arquivo \> Opções \> Email \> Papéis de Carta e Fontes.
 -   Aprimoramento da detecção de possíveis danos iminentes de PST e adição de etapas para tentar evitar que eles ocorram.
 -   Correção de um problema no qual caracteres de símbolo estendidos eram alterados para "1" quando um email era enviado no formato .rtf.
@@ -530,7 +530,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-june-7"></a>Versão 1602:7 de junho
 *Versão 1602 (build 6741.2047)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Aprimoramento da detecção de possíveis danos iminentes de PST e adição de etapas para tentar evitar que eles ocorram.
 
 ### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
@@ -544,7 +544,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-may-23"></a>Versão 1602:23 de maio
 *Versão 1602 (build 6741.2042)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Atualização da Ferramenta de Reparo da Caixa de Entrada (scanpst.exe), para que ela consiga detectar e corrigir problemas de danos nos arquivos relacionados com a forma como os arquivos .pst são indexados e pesquisados. Esse tipo de dano pode impedir o carregamento de arquivos .pst, fazer com que o Outlook falhe ou levar a uma elevada utilização da CPU.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
@@ -632,7 +632,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-march-23"></a>Versão 1602:23 de março
 *Versão 1602 (build 6741.2021)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema no qual o uso de atalhos de teclado para acessar um anexo em um email causava uma falha no Outlook.
 
 
@@ -640,7 +640,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1602-march-16"></a>Versão 1602:16 de março
 *Versão 1602 (build 6741.2017)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 -   Correção de um problema no qual acessar uma pasta pública fantasma no Exchange Server causava uma falha no Outlook.
 
 
