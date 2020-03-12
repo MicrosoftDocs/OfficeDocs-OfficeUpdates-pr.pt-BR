@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 37f124d8a99aeef470c6829e3e41a26eabc5a104
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345101"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586639"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -25,7 +25,24 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
-## <a name="version-2002-march-01"></a>Versão 2002: 01 de março
+## <a name="version-2002-march-10"></a>Versão 2002: 10 de março
+*Versão 2002 (Build 12527.20278)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="project"></a>Projeto
+
+- <div><span style="display:inline !important;">Correção de um problema em que o evento OnUndoOrRedo não é acionado&nbsp;</span><span style="box-sizing:border-box;font-size:13.3333px;display:inline !important;"> sem executar o método OpenUndoTransaction..</span><br></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+
+## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Build 12527.20242)*
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -33,7 +50,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- <div>Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar email.</div>
+- <div>Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar e-mails.</div>
 
 
 

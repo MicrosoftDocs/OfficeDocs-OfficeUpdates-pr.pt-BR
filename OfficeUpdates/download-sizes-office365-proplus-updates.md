@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568837"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586398"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -30,13 +30,23 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="march-6-2020"></a>06 de março de 2020
+## <a name="march-10-2020"></a>10 de março de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+### <a name="monthly-channel"></a>Canal mensal
+
+A versão mais atual é a Versão 2002 (Build 12527.20278).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.20242) <br/> |1º de março de 2020 <br/> |40<br/> |
+|Versão 2002 (Build 12527.20194) <br/> |25 de Fevereiro de 2020 <br/> |266<br/> |
+
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO10 de março de 2020)
 
 ### <a name="semi-annual-channel"></a>Canal semestral
 
-<i>A versão esperada é a Versão 1908 (Criação 11929.20648).</i>
+A versão mais atual é a Versão 1908 (Build 11929.20648).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +56,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-targeted-channel"></a>Canal semestral (Direcionado)
 
-<i>A versão esperada é a Versão 2002 (Criação 12527.20278).</i>
+A versão mais atual é a Versão 2002 (Build 12527.20278).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |292<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de março de 2020)
+
+## <a name="march-6-2020"></a>6 de março de 2020
+
+
+
 
 ## <a name="march-1-2020"></a>1º de março de 2020
 
