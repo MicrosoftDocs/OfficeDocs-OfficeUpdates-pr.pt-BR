@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403790"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586488"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,26 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2020-release"></a>Lançamento de março de 2020
+
+**Data de lançamento:** 10 de março de 2020
+
+*Atualização automática da Microsoft 4.21*
+
+ **Atualizações de Recursos:**
+
+- Restauração de estado habilitada para Word, Excel e PowerPoint, executando sem nenhuma janela aberta, ou executando o estado Docstage no modo de atualizações automáticas do Microsoft AutoUpdate. Agora, as atualizações serão ainda mais silenciosas para os usuários finais no modo atualizações automáticas, já que não precisam sair dos aplicativos que se qualificam para a atualização por meio da restauração de estado.
+
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft Auto Update 4.21](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>Lançamento de fevereiro de 2020
 
