@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978579"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586641"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -25,6 +25,49 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral durante um período de tempo. Se você não vir algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O OneNote 2016 não será incluído por padrão, quando um usuário no Canal Semestral baixar e instalar o Office 365 no Windows 10 do Portal do Office.
 
+
+
+
+## <a name="version-1908-march-10"></a>Versão 1908: 10 de março
+*Versão 1908 (Build 11929.20648)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- <div><span>Correção de um problema em que alguns usuários podem ter experienciado várias janelas pop-up quando havia links externos na pasta de trabalho..&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">A funcionalidade Texto em Coluna pode falhar para algumas localidades.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Corrigimos um problema com o método Shape.Paste: quando o usuário copia e cola a forma usando o método .&nbsp;Shape.Paste ele &nbsp;<span style="font-size:13.3333px;display:inline !important;">altera a seleção para a forma colada.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>Corrigimos um problema em que, em alguns casos, ao tentar salvar um arquivo existente a caixa de diálogo Salvar Como aparecia e o arquivo nunca era realmente salvo.<br></div>
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- <div><span>Essa alteração corrige a renderização lenta de alguns gráficos de dispersão com marcadores.</span></div>
+
+## <a name="version-1902-march-10"></a>Versão 1902: 10 de março
+*Versão 1902 (Build 11328.20554)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-1908-february-11"></a>Versão 1908: 11 de fevereiro
 *Versão 1908 (Build 11929.20606)*

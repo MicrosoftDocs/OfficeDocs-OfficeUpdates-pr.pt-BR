@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549172"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586568"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,114 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2003-march-10"></a>Versão 2003: 10 de março
+*Versão 2003 (Build 12624.20176)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Correção de um problema superficial em que o botão 'OK' na caixa de diálogo Arquivo \ Opções era exibido em cinza, mas a funcionalidade não foi afetada.
+
+- Corrigido um problema que os usuários podem ter ao renomear medidas de tabela dinâmica.
+
+- Correção de um problema em que o texto em uma segmentação de dados não é dimensionado corretamente na visualização de impressão.
+
+- Corrigido um problema de desempenho que os usuários podem ter ao usar uma VBA macro para limpar o conteúdo de um intervalo.
+
+- Corrigido um problema que fazia a interface do usuário piscar quando os usuários executavam uma macro que interagia com a faixa de opções.
+
+- Corrigido um problema em que os arquivos CSV eram carregados incorretamente quando a primeira palavra no arquivo era TABLE.
+
+- Corrigido um problema em que os usuários podem ter sofrido falhas ao alternar entre duas pastas de trabalho com diferentes níveis de zoom.
+
+- Correção de um problema em que as funções do CUBEVALUE, às vezes, retornavam um resultado incorreto.
+
+- Essa alteração corrige um erro em tempo de execução no modelo de objeto e a possível falha do aplicativo (Excel, Word) quando os suplementos pedem itens de host em documentos ou planilhas que contêm formas com bloqueios não selecionados.
+
+- Aborda um problema que causou a falha dos usuários do Outlook durante a sincronização das configurações.
+
+### <a name="outlook"></a>Outlook
+
+- Foi corrigido um problema em que a criação de uma regra com o Outlook Web Access não persistia no servidor Exchange e resultava em um conflito.
+
+- Aborda um problema que causou a falha dos usuários do Outlook durante a sincronização das configurações.
+
+- Correção de um problema em que o Outlook no modo escuro não exibia a lista suspensa do campo 'De:'.
+
+- Aborda um problema que fazia o Outlook gerar de forma inesperada a saída do log em alguns cenários, mesmo quando o log estava desativado.
+
+- Corrigido um problema que fazia com que os usuários não conseguissem abrir mensagens de pasta pública quando o Outlook permanecia em execução durante a noite.
+
+- Corrigida uma condição de corrida em que os botões 'Permitir' e 'Negar' na página de permissões são desativados durante o fluxo de trabalho de autenticação da adição de uma conta do Gmail.
+
+- Solucionamos um problema que fazia com que os usuários perdessem o acesso à caixa de diálogo&quot;opções de disponibilidade&quot; de permissões de calendário.
+
+- Correção de um problema que pode resultar no alerta: &quot;Infelizmente, estamos com problemas para abrir este item&quot; ao abrir algumas instâncias de reunião recorrente enviadas de um fuso horário diferente.
+
+- Solucionamos um problema que pode fazer com que os usuários não consigam reabrir um arquivo. msg depois de arrastar e soltar um anexo da mensagem.
+
+- Correção de um problema em que, após carregar um anexo de arquivo do Outlook para o OneDrive, poderia resultar no nome do arquivo sendo alterado se o nome do anexo contivesse parênteses.
+
+- Solucionamos um problema que fazia com que os usuários não conseguissem anexar um arquivo à mensagem de email por meio do explorador de arquivos se esse arquivo estivesse aberto em outro aplicativo.
+
+- Aborda um problema que causou a falha dos usuários do Outlook durante a sincronização das configurações.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Foi corrigido um problema em que as miniaturas recomendadas acendiam e apagavam ao passar o mouse sobre elas. Em alguns casos, isso pode causar uma falha no PowerPoint.
+
+- Correção de um problema superficial em que o botão 'OK' na caixa de diálogo Arquivo \ Opções era exibido em cinza, mas a funcionalidade não foi afetada.
+
+- Correção de um problema que pode resultar em uma falha no salvamento de um documento no PowerPoint ou no Word com um gráfico do Excel.
+
+### <a name="project"></a>Projeto
+
+- Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
+
+- Correção de um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
+
+- Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
+
+### <a name="visio"></a>Visio
+
+- O painel de informações de forma estava mostrando detalhes inconsistentes na seção dados da forma, com relação ao arquivo quando aberto na área de trabalho do Visio. Esse problema foi corrigido.
+
+- Bitmaps importados em versões anteriores a 2016 não estavam sendo renderizados devido a algumas verificações de segurança. Corrigimos esse problema na assinatura do Visio.
+
+### <a name="word"></a>Word
+
+- Corrigido um problema em que os cartões de comentários nem sempre são destacados quando um ponteiro do mouse passa sobre o cartão de comentários.
+
+- Correção de um problema que, ao usar o cartão de comentários, o foco na caixa de edição de comentários não ficava visível.
+
+- Correção de um problema superficial em que o botão 'OK' na caixa de diálogo Arquivo \ Opções era exibido em cinza, mas a funcionalidade não foi afetada.
+
+- Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
+
+- Inserir um controle (como um Controle de Conteúdo de Texto) em uma equação e salvar e abrir o arquivo resulta em um erro de conteúdo não legível.
+
+- Corrigido um problema em que o salvamento de um arquivo anteriormente protegido por senha em um armazenamento em nuvem não funcionava.
+
+- Correção de um problema com o recurso comparar em documentos protegidos para edição.
+
+- Correção de um problema em que imagens em documentos perdem a transparência quando exportadas para PDF.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
+
+- Foi corrigido um problema com o Word/Excel/PowerPoint, em que o nome de usuário principal (UPN) não diferenciava maiúsculas de minúsculas, resultando em menos falhas ao trabalhar com arquivos no SharePoint.
+
+- Correção de um problema em que, quando vários documentos da mesma biblioteca do SharePoint estivessem abertos no Word/Excel/PowerPoint, somente o primeiro documento aberto era verificado quanto à conformidade com Políticas.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-march-05"></a>Versão 2002: março de 2005
 *Versão 2002 (Build 12527.20278)*
