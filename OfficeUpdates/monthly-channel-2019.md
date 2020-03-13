@@ -10,11 +10,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2019
 ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549342"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614878"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Mensal em 2019
 
