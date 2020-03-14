@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: cd64e687a638de8ae45c27407d04c7fe3198b6e5
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: e3befb06ffb3d8d36bb2bafae8f2ba9c65575173
+ms.sourcegitcommit: 3f7b4d887019f46dbb5b75dff061ecb27a0bbf2f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978779"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42635393"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5215.1000**, que foi lançada em 11 de janeiro de 2020.
+> A versão mais recente do Office 2013 é **15.0.5223.1001**, que já foi lançada no dia 13 de março de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020|11 de fevereiro   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
+|2020|13 de março   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
+||11 de fevereiro   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14 de janeiro   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|10 de dezembro   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
 ||12 de novembro   |15.0.5189.1000   |[KB 4527848](https://support.microsoft.com/help/4527848)  |

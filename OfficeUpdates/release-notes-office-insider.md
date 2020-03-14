@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
+ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568857"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637419"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,54 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2004-march-13"></a>Versão 2004: 13 de março
+*Versão 2004 (Build 12703.20010)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+
+### <a name="excel"></a>Excel
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="access"></a>Access
+- Correção de um problema em que as versões internacionais do Access exibiam as cadeias de caracteres em inglês na interface do usuário.
+
+### <a name="excel"></a>Excel
+- Corrigido um problema de desempenho que os usuários podem ter experimentado ao editar por programação um intervalo grande de células.
+- Corrigido um problema de desempenho que acontecia ao abrir arquivos csv em ambientes japoneses.
+
+### <a name="outlook"></a>Outlook
+- Soluciona um problema que fazia com que a data "Última modificação" em um arquivo fosse atualizada ao adicionar um anexo a um e-mail ou salvá-lo, arrastando e soltando-o (ao contrário de um menu).
+- Resolve um problema que fez com que pressionar Enter no painel de localização expandido falhe ao iniciar uma pesquisa, exigindo que os usuários cliquem no botão de pesquisa.
+- Correção de um problema em que a pesquisa não exibe informações sobre os usuários quando a opção "mostrar fotografias de usuário quando disponíveis" está desabilitada.
+
+### <a name="project"></a>Project
+- Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
+- Foi corrigido um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
+
+### <a name="word"></a>Word
+- Corrigido um problema ao digitar ou editar um comentário e usar Ctrl + A resultaria na seleção de texto na tela, em vez de selecionar o texto apenas dentro do cartão de comentário.
+- Resolvemos um problema em que o alinhamento de palavras em um documento fica embaralhado quando você tenta editar após imprimir usando a impressão rápida.
+- Consertamos um problema ao mesclar dois documentos em um único documento.
+- Correção de um problema em que a marcação de revisões envolvendo equações podem resultar em uma falha ao salvar o arquivo.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-march-06"></a>Versão 2003: 06 de março
 *Versão 2003 (Build 12624.20086)*

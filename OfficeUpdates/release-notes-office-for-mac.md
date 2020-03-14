@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586588"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622135"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -45,9 +45,21 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 ### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Capacidade de recolher a janela de slide atual no modo de exibição do apresentador:** arrastando o divisor de linha para o lado esquerdo da tela, você pode recolher o modo de exibição de slide atual para que você veja apenas o "próximo slide" na exibição da duração da sua apresentação.
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+
+
+### <a name="word"></a>Word
+
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 
 ### <a name="security-updates"></a>Atualizações de segurança
 

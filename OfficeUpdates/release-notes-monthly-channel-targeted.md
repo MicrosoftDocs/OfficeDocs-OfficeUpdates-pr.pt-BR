@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586568"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622125"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -35,8 +35,17 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
-
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Essa alteração corrige um erro em tempo de execução no modelo de objeto e a possível falha do aplicativo (Excel, Word) quando os suplementos pedem itens de host em documentos ou planilhas que contêm formas com bloqueios não selecionados.
 
 - Aborda um problema que causou a falha dos usuários do Outlook durante a sincronização das configurações.
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Correção de um problema que pode resultar em uma falha no salvamento de um documento no PowerPoint ou no Word com um gráfico do Excel.
 
+
+
 ### <a name="project"></a>Projeto
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
@@ -125,9 +138,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Correção de um problema com o recurso comparar em documentos protegidos para edição.
 
-- Correção de um problema em que imagens em documentos perdem a transparência quando exportadas para PDF.
 
-### <a name="office-suite"></a>Pacote do Office
+
+
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
