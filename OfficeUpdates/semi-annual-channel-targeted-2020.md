@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão ao profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586640"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614897"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2020
 
@@ -69,7 +69,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **Veja detalhes do LinkedIn das pessoas no Outlook:** agora, quando você abre um cartão de perfil de um contato, pode saber mais sobre ele visualizando seu perfil do LinkedIn.
+
 
 - **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
 
@@ -141,7 +141,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **Por que reinventa quando você pode reutilizar?:** poupar tempo usando novamente slides que você criou ou que outras pessoas compartilharam com você.
+- **Por que reinventa quando você pode reutilizar?:** poupar tempo usando novamente slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba Mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="office-suite"></a>Pacote do Office
 
 - **Painel O que há de novo:** : a experiência O que há de novo foi movida para o Painel de Ajuda, para que você possa acessar e manter-se atualizado com mais facilidade com nossas atualizações mais recentes.
-
-- **Ícones da faixa de opções têm uma aparência nova:** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba Mais](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
