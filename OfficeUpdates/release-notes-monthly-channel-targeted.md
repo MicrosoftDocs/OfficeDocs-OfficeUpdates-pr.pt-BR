@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
+ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622125"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42706951"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,53 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2003-march-16"></a>Versão 2003: 16 de março
+*Versão 2003 (Build 12624.20224)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.
+
+### <a name="outlook"></a>Outlook
+
+- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.
+
+### <a name="word"></a>Word
+
+- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.
+
+### <a name="office-suite"></a>Pacote Office
+
+- **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Solucionamos um problema em que links externos não eram atualizados no preenchimento se o livro de origem estivesse fechado.
+
+### <a name="outlook"></a>Outlook
+
+- Solucionamos um problema que fazia com que os usuários vissem o processo do Outlook persistir no gerenciador de tarefas após sair.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-march-10"></a>Versão 2003: 10 de março
 *Versão 2003 (Build 12624.20176)*
