@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
-ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
+ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637419"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890128"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,75 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2004-march-20"></a>Versão 2004: 20 de março
+*Versão 2004 (Build 12711.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Atualização visual de calendário:** ano passado, trouxemos uma experiência de email atualizada e, esse ano, é a vez do calendário ser transformado! As atualizações são novas, mas familiarmente, como um usuário experiente do Outlook, você pode entrar e ser mais produtivo imediatamente.
+
+- **Ajude a proteger os dados de seu grupo:** o rótulo de sensibilidade que você escolheu ao criar um grupo é aplicado a emails de grupo, documentos e sites de equipe
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Atualizar slides durante a apresentação de slides:** os slides de atualização alterados por outros autores durante a sua apresentação.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+### <a name="outlook"></a>Outlook
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+- Essa alteração corrige um problema em que as últimas alterações em rascunhos de emails não foram atualizadas.
+
+- Correção de um problema em que clicar com o botão direito do mouse em um arquivo e usar ' enviar para ' não funcionará.
+
+- Correção de um problema em que o usuário tinha um caminho de pesquisa personalizado para o catálogo de endereços, o escopo de resolução de nome do Outlook seria limitado ao caminho personalizado, em vez de incluir a lista de endereços global (GAL).
+
+- Correção de um problema em que, em um conjunto de resultados de pesquisa retornados, classificar os resultados por categorias, não exibiria as cores da categoria.
+
+### <a name="project"></a>Projeto
+
+- Correção de um problema em que o evento de "ProjectBeforeTaskChange ' aplicativos Visual Basic (VBA) não foi disparado quando um usuário clica no botão" inativo "encontrado na faixa de opções tarefas no agrupamento de agendamento.
+
+- Se você definir os detalhes da predecessora ou da sucessora de dentro de um modo de exibição de tipo de formulário, o evento ProjectBeforeTaskChange Visual Basic Applications (VBA) não capturaria as alterações. Por exemplo, se você excluiu uma dependência e clicou em OK no formulário, o evento não foi acionado. Esse problema foi corrigido.
+
+- Correção de um problema em que os valores mais recentes para o custo real do trabalho realizado (CRTR) não seriam exibidos depois de fazer uma alteração, como uma alteração de data.
+
+- Correção de um problema em que abrir um projeto usando o menu mais recentemente utilizado (MRU) abriu o arquivo do projeto com acesso de leitura/gravação.
+
+- Essa alteração corrige um problema em que, se você criou uma tarefa manual com uma data de início e uma hora (mas não duração), ela seria exibida com um horário incorreto na linha do tempo.
+
+- Correção de um problema em que imprimir uma linha do tempo usando o calendário islâmico resultaria em um mês sendo ignorado ou duplicado no modo de exibição de impressão.
+
+- Essa alteração resolve um problema em que trabalhar no planejador de equipe com objetos GDI pode resultar na alocação total de objetos GDI e criar condições de pouca memória.
+
+### <a name="word"></a>Word
+
+- Correção de um problema em que a funcionalidade para postar comentários foi desabilitada.
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+- Essa alteração resolve um problema em que o gerente de conta não despacha mensagens, resultando em um travamento com aplicativos de terceiros.
+
+- Essa alteração corrige um problema em que o Sumário seria atualizado com estilos de título que não estão presentes no documento.
+
+- Correção de um problema em que as assinaturas digitais salvas em documentos do Word seriam removidas durante a mala direta dos documentos.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2004-march-13"></a>Versão 2004: 13 de março
 *Versão 2004 (Build 12703.20010)*
