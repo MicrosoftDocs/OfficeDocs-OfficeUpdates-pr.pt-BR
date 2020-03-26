@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
+ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926293"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42951701"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,11 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+## <a name="version-2003-march-25"></a>Versão 2003: 25 de março
+*Versão 2003 (Build 12624.20320)*
+
+- Várias correções de bugs e de desempenho.
 
 ## <a name="version-2003-march-23"></a>Versão 2003: 23 de março
 *Versão 2003 (Build 12624.20296)*
