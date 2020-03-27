@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: a38ca822b48a15c2f2765bda0545b23d0ea05309
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
+ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926292"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "42983891"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -213,8 +213,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Escolha a sua ação favorita:** não use Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos que você mais usa.
 
 - **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b).
-
-- **Layout com mais ou menos espaçamento? Você escolhe:** um espaçamento menor permite decidir se quer mais espaço entre itens ou um layout com menos espaçamento para poder ver mais.
 
 - **Uma maneira mais rápida de adicionar contas:** graças às melhorias de configuração de conta, ficou mais fácil adicionar contas do Outlook.com e do Gmail que usam a autenticação de dois fatores no Outlook. [Saiba mais](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
