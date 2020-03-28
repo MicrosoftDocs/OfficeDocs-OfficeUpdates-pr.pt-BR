@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
+ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890128"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43028252"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,39 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2004-march-27"></a>Versão 2004: 27 de março
+*Versão 2004 (Build 12718.20010)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Nova opção para desabilitar sugestões de @menções ao redigir emails:** você acha o seletor de @menções mais irritante do que útil? Agora, você pode desativá-lo, se preferir.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+- Corrige um problema que fazia com que o botão “Salvar na nuvem” não aparecesse nas Ferramentas de Anexo.
+- Corrige um problema que fazia com que os usuários não conseguissem adicionar uma assinatura ao responder a uma mensagem gerenciada por direitos digitais de uma janela do inspetor quando o usuário não tem permissão de proprietário na mensagem que está sendo respondida.
+- Corrige um problema que fazia com que os usuários não conseguissem adicionar anexos adicionais de um local da Web a uma reunião criada anteriormente.
+
+### <a name="powerpoint"></a>PowerPoint
+- Essa alteração corrige um erro que poderia fazer com que arquivos do PowerPoint com emojis falhassem ao salvar.
+
+### <a name="project"></a>Project
+- Correção de um problema em que, se ‘CustomFieldValueListGetItem’ fosse executado e uma tabela de pesquisa do campo personalizado não existisse, uma tabela de pesquisa vazia era criada, mesmo que não devesse ser.
+
+### <a name="word"></a>Word
+- Essa alteração corrige um problema em várias páginas selecionadas no menu Exibir, onde o painel de comentários poderia ser exibido em branco.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2004-march-20"></a>Versão 2004: 20 de março
 *Versão 2004 (Build 12711.20000)*
@@ -1793,7 +1826,7 @@ Encontre documentos com atividades relevantes recomendadas para você.
 - Corrigimos um problema onde o modelo e a descrição errados eram exibidos quando um e-mail estava protegido com um modelo ad hoc
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
