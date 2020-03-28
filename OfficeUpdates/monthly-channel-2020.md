@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
+ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953021"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030918"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -37,15 +37,16 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.
 
-
-
-
 ### <a name="word"></a>Word
 
-- **Outras pessoas veem suas alterações rapidamente:** os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
+- **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
+
+### <a name="office-suite"></a>Pacote Office
+
+- **Rótulos de confidencialidade:** agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 

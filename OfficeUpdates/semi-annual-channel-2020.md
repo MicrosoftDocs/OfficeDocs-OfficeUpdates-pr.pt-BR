@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983891"
+ms.locfileid: "43024523"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -39,28 +39,28 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- <div><span>Correção de um problema em que alguns usuários podem ter experienciado várias janelas pop-up quando havia links externos na pasta de trabalho..&nbsp;</span></div>
+- Foi corrigido um problema em que alguns usuários podem ter experienciado várias janelas pop-up quando havia links externos na pasta de trabalho.
 
 
-- <div><span style="display:inline !important;">A funcionalidade Texto em Coluna pode falhar para algumas localidades.</span><br></div>
+- A funcionalidade Texto em Coluna pode falhar para algumas localidades.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto</span></div>
+- Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Corrigimos um problema com o método Shape.Paste: quando o usuário copia e cola a forma usando o método .&nbsp;Shape.Paste ele &nbsp;<span style="font-size:13.3333px;display:inline !important;">altera a seleção para a forma colada.</span></div>
+- Corrigimos um problema com o método Shape.Paste: quando o usuário copia e cola a forma usando o método Shape.Paste ele altera a seleção para a forma colada.
 
 
 ### <a name="word"></a>Word
 
-- <div>Corrigimos um problema em que, em alguns casos, ao tentar salvar um arquivo existente a caixa de diálogo Salvar Como aparecia e o arquivo nunca era realmente salvo.<br></div>
+- Corrigimos um problema em que, em alguns casos, ao tentar salvar um arquivo existente a caixa de diálogo Salvar Como aparecia e o arquivo nunca era realmente salvo.
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
-- <div><span>Essa alteração corrige a renderização lenta de alguns gráficos de dispersão com marcadores.</span></div>
+- Essa alteração corrige a renderização lenta de alguns gráficos de dispersão com marcadores.
 
 ## <a name="version-1902-march-10"></a>Versão 1902: 10 de março
 *Versão 1902 (Build 11328.20554)*
