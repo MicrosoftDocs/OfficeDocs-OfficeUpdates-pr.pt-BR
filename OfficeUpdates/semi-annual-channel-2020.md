@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
-ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
+ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43024523"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076265"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -200,6 +200,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Codifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
 
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **Atualizamos a experiência de usuário do Outlook para você:** uma experiência simplificada, previamente disponível para visualização com Em Breve, projetada para ajudar você a se concentrar no que é mais importante. [Saiba mais](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
@@ -218,6 +220,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Diga adeus aos limites de sincronização:** melhorias do Outlook acabou com o limite de pastas, então vá em frente e sincronize suas caixas de correio compartilhadas.
 
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Melhoria na mudança de formas:** nomeie suas formas para ter mais controle sobre como elas são transformadas. [Saiba mais](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
@@ -235,6 +239,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Saiba a opinião de seu público através de um questionário ou pesquisa:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 - **Inserir um vídeo online está mais fácil do que nunca:** Deseja colocar um vídeo do Vimeo ou YouTube no slide? O link da página de vídeo é tudo o que você precisa. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -275,6 +281,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Salve suas alterações assim que forem realizadas:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
 - **Chame a atenção com \@@Menções:** Use @menções nos comentários para informar a seus colegas de trabalho quando precisar deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Pacote Office
 

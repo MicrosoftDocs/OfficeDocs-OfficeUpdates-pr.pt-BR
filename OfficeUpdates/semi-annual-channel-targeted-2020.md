@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão ao profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020
-ms.openlocfilehash: 3015dec03cba319ffeaa8a97794b5236ffd6c879
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: ee3fac9129ce3c5819340c2a51a6fe33e4965166
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982500"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081793"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2020
 
@@ -63,15 +63,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Obtenha estatísticas em sua pasta de trabalho:** As Estatísticas da Pasta de Trabalho fornecem uma visão geral do conteúdo de uma pasta de trabalho, para ajudar você a descobrir o conteúdo com mais facilidade.
 
-- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba Mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="outlook"></a>Outlook
 
 
-
-- **Aperfeiçoamos as experiências ativadas e desativadas da Caixa de Entrada Prioritária:** Para clientes que não usam a Caixa de Entrada Prioritária, trouxemos de volta a guia Não Lidos na lista de mensagens em todas as pastas. Também adicionamos uma classificação por Sinalizador para facilitar a localização dos itens sinalizados. Finalmente, a Caixa de Entrada Prioritária tem um melhor modelo de interação com a pesquisa: a Caixa de Entrada Prioritária permanece até o usuário começar a pesquisar, e mostramos o texto dos “Resultados” após a conclusão da pesquisa.
 
 - **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba Mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -80,8 +78,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **O menu Inserir Link no Outlook inserirá um link com a permissão definida pelo administrador do locatário:** um link do Inserir Link MRU no Outlook insere um link que só funcionou para usuários que já tinham permissões. Isso causou uma troca de emails frequente entre os usuários solicitando o acesso a um documento. Atualizamos essa experiência e agora o link é inserido com a permissão padrão definida pelo administrador do locatário. No MSIT, é "A organização pode editar", para que todos os usuários internos que recebem um link compartilhado dessa maneira possam acessá-lo.
 
 - **Pesquisar com erros de ortografia ou digitação:** O Outlook encontrará o que você está procurando, mesmo quando a ortografia não corresponder.
-
-- **A janela Contatar Suporte agora é encaixável:** Encontre a janela Contatar Suporte agora encaixada em um painel à direita da tela.
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba Mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -97,9 +93,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba Mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
-- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba Mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -138,8 +134,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
 - **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você.
-
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **Por que reinventa quando você pode reutilizar?:** poupar tempo usando novamente slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
@@ -193,13 +187,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Quem está trabalhando comigo?:** Veja facilmente que outras pessoas estão trabalhando e onde elas estão no [documento/planilha/apresentação]
 
-- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba Mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
-
-### <a name="office-suite"></a>Pacote do Office
-
-- **Painel O que há de novo:** : a experiência O que há de novo foi movida para o Painel de Ajuda, para que você possa acessar e manter-se atualizado com mais facilidade com nossas atualizações mais recentes.
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
