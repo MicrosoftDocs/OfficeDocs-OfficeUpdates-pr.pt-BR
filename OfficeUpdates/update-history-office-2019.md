@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959369"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081763"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -59,6 +59,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|31 de março de 2020|Versão 2003 (Build 12624.20382)  |Várias correções de bugs e de desempenho. <br/>  |
 |25 de março de 2020|Versão 2003 (Build 12624.20320)  |Várias correções de bugs e de desempenho. <br/>  |
 |10 de março de 2020|Versão 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |1º de março de 2020   |Versão 2002 (Build 12527.20242)  |Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar emails do Outlook. <br/>  |

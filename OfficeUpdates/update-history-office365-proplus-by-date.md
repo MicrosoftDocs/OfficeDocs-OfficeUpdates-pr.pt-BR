@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046126"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081774"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
 
@@ -25,7 +25,6 @@ O Office 365 ProPlus é atualizado regularmente com novos recursos, atualizaçõ
 > O Office 365 ProPlus foi renomeado como **Aplicativos da Microsoft 365 para empresas**. Para saber mais sobre essa mudança de nome, [leia esta postagem de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
 >
 > Para saber mais sobre quando essa mudança entrará em vigor e quais ações os administradores precisam realizar, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
 
 
 > [!NOTE]
@@ -39,7 +38,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Mensal<br/>|2003<br/>|12624.20320<br/>|25 de março de 2020<br/>|Versão 2004 é lançada<br/>|
+|Mensal<br/>|2003<br/>|12624.20382<br/>|31 de março de 2020<br/>|Versão 2004 é lançada<br/>|
 |Semestral (Direcionado)<br/>|2002<br/>|12527.20278<br/>|10 de março de 2020<br/>|8 de setembro de 2020<br/>|
 |Semestralmente<br/>|1908<br/>|11929.20648<br/>|10 de março de 2020<br/>|9 de março de 2021<br/>|
 |Semestralmente<br/>|1902<br/>|11328.20554<br/>|10 de março de 2020<br/>|8 de setembro de 2020<br/>|
@@ -54,6 +53,7 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 
 |**Year**|**Data de lançamento**|**Canal Mensal**|**Canal Semestral (direcionado)**|**Canal Semestral**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|31 de março|[Versão 2003 (Build 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|25 de março|[Versão 2003 (Build 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|10 de março|[Versão 2002 (Build 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[Versão 2002 (Build 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[Versão 1908 (Build 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[Versão 1902 (Build 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
 |2020|01º de março|[Versão 2002 (Criação 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
@@ -64,7 +64,7 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 |2020|22 de janeiro|[Versão 1912 (Build 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|14 de janeiro|[Versão 1912 (Build 12325.20298)](monthly-channel-2020#version-1912-january-14)|[Versão 1908 (Build 11929,20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Versão 1908 (Build 11929,20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Versão 1902 (Build 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Versão 1808 (Build 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|8 de janeiro|[Versão 1912 (Build 12325.20288)](monthly-channel-2020#version-1912-january-08)| | |
-|2019|10 de dezembro|[Versão 1911 (Build 12228.20364)](monthly-channel-2019#version-1911-december-10)|[Versão 1908 (Build 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Versão 1902 (Build 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Versão 1808 (build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
+|2019|10 de dezembro|[Versão 1911 (Build 12228.20364)](monthly-channel-2019#version-1911-december-10)|[Versão 1908 (Build 11929.20516)](semi-annual-channel-2019#version-1902-december-10)  |[Versão 1902 (Build 11328.20492)](semi-annual-channel-2019#version-1902-december-10)<br/>[Versão 1808 (build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3 de dezembro|[Versão 1911 (Build 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|22 de novembro|[Versão 1910 (Build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Versão 1908 (Build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Versão 1902 (Build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Versão 1808 (Build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18 de novembro|[Versão 1910 (Build 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
@@ -99,7 +99,7 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 |2019|4 de março  |[Versão 1902 (Build 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
 |2019|12 de fevereiro |[Versão 1901 (Build 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[Versão 1808 (Build 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Versão 1808 (Build 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Versão 1803 (Build 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Versão 1708 (Build 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|31 de janeiro   |[Versão 1901, (build 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
-|2019|14 de janeiro   |[Versão 1812 (Build 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
+|2019|14 de janeiro   |[Versão 1812 (Build 11126.20266)](monthly-channel-2019#version-1812-january-14)| | |
 |2019|8 de janeiro |[Versão 1812 (Build 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[Versão 1808 (Build 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Versão 1808 (Build 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Versão 1803 (Build 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Versão 1708 (build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|3 de janeiro   |[Versão 1812 (Build 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|11 de dezembro |[Versão 1811 (build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Versão 1808 (build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Versão 1803 (build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Versão 1708 (build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
