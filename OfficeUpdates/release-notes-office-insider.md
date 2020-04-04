@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 82db5c6be4e891c0d2a50532605409d296b6d571
-ms.sourcegitcommit: 973f5df717e5ed982ac91d5cc66bef6207618405
+ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
+ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028252"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43131099"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -26,6 +26,8 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2004-march-27"></a>Versão 2004: 27 de março
 *Versão 2004 (Build 12718.20010)*
@@ -1640,7 +1642,7 @@ Crie um PDF e o verificador de acessibilidade informará os problemas de acessib
 - Consertamos um problema em que, na faixa de opções simplificada, um controle desabilitado poderia, às vezes, não estar acinzentado na faixa de opções.
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -1681,7 +1683,7 @@ Quando houver um acrônimo, tentaremos defini-lo usando dados de dentro da sua o
 - Consertamos um problema que impedia a formatação HTML para alguns usuários POP3.
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -1714,7 +1716,7 @@ Aplique uma animação de reprodução para tinta no PowerPoint para se expressa
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -1896,7 +1898,7 @@ Para compromissos em um local físico com um local público como um restaurante,
 - Corrigimos um problema que impedia que um cliente visualizasse todas as políticas de retenção se houvesse um grande número delas
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -1930,7 +1932,7 @@ Versão 1907 (build 11807.20000)
 - Corrigimos um problema em que, em alguns casos, o campo Para era maior que o normal
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -1958,7 +1960,7 @@ Versão 1907 (build 11727.20064)
 - Corrigimos um problema em que os anexos embutidos às vezes eram dimensionados incorretamente
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Corrigimos um problema em que quadros de horários em um período fixo às vezes alteravam a data de término da atribuição
@@ -2064,7 +2066,7 @@ Para acionar a experiência de aceitação: abra um link para uma pasta de traba
 - Corrigimos um problema onde salas eram exibidas como disponíveis em períodos de folga
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2100,7 +2102,7 @@ As atualizações que estiveram em Em Breve agora estão prontas, apresentando a
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Corrigimos um problema onde o Project podia falhar após alternar para a barra de tarefas.
@@ -2245,7 +2247,7 @@ Versão 1906 (build 11702.20000)
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Corrigimos um problema em que os IDs de tarefas poderiam exigir ser destacados para exibição
@@ -2282,7 +2284,7 @@ Versão 1906 (build 11629.20008)
 - Corrigimos um problema em que o Outlook falhava ao exibir uma mensagem DRM
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Corrigimos um problema em que o editor mudava de chinês para inglês
@@ -2325,7 +2327,7 @@ Melhor experiência de coautoria, tornando mais provável que as alterações de
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2422,7 +2424,7 @@ Importar ou vincular dados inteligentes e reinventar a área de trabalho banco d
 - Corrigimos um problema em que um conflito ocorria entre as datas de expiração e as datas de exclusão
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2511,7 +2513,7 @@ O Office agora dá suporte a modelos animados, que serão reproduzidos no editor
 - Corrigimos um problema em que o usuário tinha dificuldade em selecionar o painel inferior
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2589,7 +2591,7 @@ Entrar no Modo Foco e experimentar uma Experiência Focalizada
 - Corrigimos um problema em que as confirmações de leitura estavam incorretas quando vistas em japonês
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2796,7 +2798,7 @@ O novo gerente de contas mostra todas as suas contas pessoais e profissionais em
 - Corrigimos um problema com a exibição do botão Enviar para o OneNote
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
@@ -2825,7 +2827,7 @@ Versão 1903 (build 11330.20014)
 - Correções diversas de desempenho e estabilidade
 
 ### <a name="access"></a>Access
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="project"></a>Project
 - Várias correções de desempenho e estabilidade
