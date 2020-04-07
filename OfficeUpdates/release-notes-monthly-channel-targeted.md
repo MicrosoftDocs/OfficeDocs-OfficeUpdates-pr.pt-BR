@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076264"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150969"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,32 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2003-april-03"></a>Versão 2003: 03 de abril
+*Versão 2003 (Criação 12624.20410)*
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Em alguns casos, o uso do Application.Evaluate do VBA não funcionava para funções definidas pelo usuário.
+
+### <a name="outlook"></a>Outlook
+
+- Resolvido um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão "X" no mouse.
+
+### <a name="project"></a>Projeto
+
+- Quando os dados do Predecessor/Sucessor são editados em uma exibição de Formulário, um evento adicional do ProjectBeforeTaskChange é acionado.
+
+### <a name="word"></a>Word
+
+- Resolvido um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão "X" no mouse.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DO BUGDETAILS)
 
 ## <a name="version-2003-march-31"></a>Versão 2003: 31 de março
 *Versão 2003 (Build 12624.20382)*
