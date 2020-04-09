@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076244"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170241"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -37,6 +37,32 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="april-7-2020"></a>7 de abril de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+### <a name="semi-annual-channel"></a>Canal Semestral
+
+<i>A versão esperada é a Versão 1908 (Build 11929.20708).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20648) <br/> |10 de março de 2020 <br/> |72<br/> |
+|Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |82<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
+
+<i>A versão esperada é a Versão 2002 (Build 12527.20442).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.20278) <br/> |10 de março de 2020 <br/> |78<br/> |
+|Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |290<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="march-31-2020"></a>31 de março de 2020
 
