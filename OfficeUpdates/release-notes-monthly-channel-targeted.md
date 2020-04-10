@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
-ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
+ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
+ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43150969"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206468"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -29,6 +29,40 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2003-april-09"></a>Versão 2003: 09 de abril
+*Versão 2003 (Build 12624.20442)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="word"></a>Word
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-april-03"></a>Versão 2003: 03 de abril
 *Versão 2003 (Criação 12624.20410)*
