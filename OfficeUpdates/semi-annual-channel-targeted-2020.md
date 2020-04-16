@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão ao profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159833"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521369"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2020
 
@@ -24,6 +24,75 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2002-april-14"></a>Versão 2002: 14 de abril
+*Versão 2002 (Build 12527.20442)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- Digite uma fórmula que retorna vários valores: digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- Seis funções avançadas: adicionamos seis novas funções para turbinar suas planilhas: FILTRO, CLASSIFICAR, CLASSIFICARPOR, ÚNICO, SEQUÊNCIA e MATRIZALEATÓRIA.  [Saiba mais](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- Olhe para a esquerda, olhe para a direita... PROCX está aqui!: Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o PROCX.  [Saiba mais](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- O Excel falharia em alguns casos ao reabrir uma pasta de trabalho inserida no Word ou no PowerPoint.
+
+- Ao salvar como um arquivo CSV, o Excel poderia mesclar todas as colunas em uma única coluna em alguns casos.
+
+- Usar Range.ClearContents em um intervalo de uma planilha protegida pode levar mais tempo do que o esperado.
+
+- Foi corrigido um problema com a escala de texto em controles de formulário quando exibido na Visualização de Impressão.
+
+- As macros do VBA que interagem com a faixa de opções podem ser executadas com o conjunto de ScreenUpdating definido como Verdadeiro inesperadamente.
+
+- Foi solucionado um problema em que os links externos não eram atualizados durante o preenchimento (preencher abaixo, preencher entre, etc.) se o livro de origem estivesse fechado.
+
+- Em alguns casos, o uso do Application.Evaluate do VBA não funcionava para funções definidas pelo usuário.
+
+- Solucionamos um problema de desempenho durante a criação de gráficos de modelos.
+
+
+### <a name="outlook"></a>Outlook
+
+- Foi solucionado um problema que fazia com que o Título do Grupo se expandisse inesperadamente em alguns cenários.
+
+- Foi resolvido um problema que fazia com que os usuários experimentassem uma falha ao selecionar determinados resultados de pesquisa.
+
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao usar o botão X no mouse.
+
+- Foi solucionado um problema que fazia com que o botão Salvar na nuvem estivesse ausente nas Ferramentas de anexo.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Melhoria de um cenário de copiar e colar: poderia ocorrer uma falha, com exceção, ao copiar a Forma no slide do powerpoint e colá-lo em outro slide em um loop.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que o Project pode falhar ao salvar projetos criados com versões anteriores do Project.
+
+- Correção de um problema em que o evento ProjectBeforeTaskChange não detecta quando uma tarefa foi desabilitada/ativada por meio do botão Desativar.
+
+### <a name="word"></a>Word
+
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao usar o botão X no mouse.
+
+- Corrigimos um problema com o ajuste de texto em uma tabela.
+
+- Corrigimos um problema em que não era possível inserir linhas horizontais e centralizar.
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-10"></a>Versão 2002: 10 de março
 *Versão 2002 (Build 12527.20278)*
@@ -176,9 +245,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você. [Saiba Mais](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **Quem está trabalhando comigo?:** Veja facilmente que outras pessoas estão trabalhando e onde elas estão no [documento/planilha/apresentação]
+- **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você. [Saiba mais](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 - **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
