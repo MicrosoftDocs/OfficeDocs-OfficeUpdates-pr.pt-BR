@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office 2016 para Mac a partir de setembro de 2018
-ms.openlocfilehash: 4975c84b35b67cea4b8f6efbe5079774ba45c096
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: bb2f4f0e3253aa1e522c0dd032738ec26debecc3
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586578"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521309"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Histórico de atualizações do Office 2016 para Mac
 
 O Office 2016 para Mac é uma versão do Office disponível como uma compra única em uma loja de varejo ou por meio de um contrato de licenciamento por volume. Ele terá suporte com atualizações de segurança e correções de bugs, conforme necessário, até 13 de outubro de 2020. A versão mínima do macOS compatível com o Office 2016 para Mac é a 10.10 (Yosemite).
+
+> [!IMPORTANT]
+> - O suporte para o Office 2016 para Mac termina em 13 de outubro de 2020. Se você ainda não começou a atualizar para uma versão mais recente, recomendamos que comece agora. Para obter mais informações, confira [Fim do suporte do Office 2016 para Mac.](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)
 
 > [!NOTE]
 > - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
@@ -33,17 +36,34 @@ As atualizações do Office 2016 para Mac estão disponíveis no Microsoft AutoU
 
 A tabela a seguir lista os pacotes mais recentes do Office 2016 para Mac e para os aplicativos individuais, como o Word e o Excel. Todos os pacotes são 64 bits apenas. A data da build está listada entre parênteses, no formato AAMMDD, após o número da versão. O pacote de instalação é usado se o aplicativo não estiver instalado, enquanto o pacote de atualização é usado para atualizar uma instalação existente.
 
-### <a name="march-10-2020"></a>10 de março de 2020
-Versão 16.16.20 (20030700)
+### <a name="april-14-2020"></a>14 de abril de 2020
+Versão 16.16.20 (20041301)
 
-|**Application**|**Links para download**|**Hashes SHA256 para o pacote de instalação**|
+|**Aplicativo**|**Links para download**|**Hashes SHA256 para o pacote de instalação**|
 |:-----|:-----|:-----|:-----|
-|Pacote do Office (todos os aplicativos)  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  E6B38E17FECF5BF67CB08C5EF405BCEFE2079A079637D5800E1815B1FCB8E0B6<br/> |
-|Word  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20030700_Updater.pkg) <br/> | 1B60C30C16005DE9D88C93DF5371BEC856944F98B8337D5408DC96C90A808E86 <br/>|
-|Excel  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20030700_Updater.pkg) <br/> | 4634B23F41A57B02D27F71C37D87856786DEF3653A40FFFFCEDF43857E1D9754 <br/>  |
-|PowerPoint  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20030700_Updater.pkg) <br/> | B062BAD7FEE443EDA0F5804F4F7C6D90585F62D91B74BD47F9D1EDE29C13DFA8<br/> |
-|Outlook  <br/> |[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20030700_Updater.pkg) <br/> | 07E736079C55DC0EB6C355FF45A51A2987D5623F8D1F8F485F378EE721937980<br/> |
-|OneNote  <br/> |[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20030700_Updater.pkg) <br/> | Não aplicável <br/> |
+|Pacote do Office (todos os aplicativos)<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|07A4168CDB3D7E0F2D3B3FC1528EED490E2A159437878963EF66D36E5F32220F<br/>|
+|Word<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/> |4E96B50BCD901363507BF753D34B83C04F9322F0E0516D7A60D4EED3952E6B64<br/>|
+|Excel<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg)<br/>|0653D89F4E6A6969B657A9B2C8941FFE6704C50C833BC710B83488F5F4154E6B<br/> |
+|PowerPoint<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|0F583ACD6FC476D4EB2D3A49978492179F7A9C720510A728112D19043D47FCCE<br/>|
+|Outlook<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg)<br/> |B13509C501DFEE9E4013B952F1BFA5318887EC767D02E9C021AFD027D9C5BF36<br/>|
+|OneNote<br/>|[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20041301_Updater.pkg) <br/> | Não aplicável<br/>|
+
+## <a name="april-2020-release"></a>Versão de abril de 2020
+
+ **Data de lançamento:** 14 de abril de 2020
+  
+ *Versão 16.16.20 (20041301)* 
+  
+Esta versão oferece as seguintes atualizações.
+  
+|**Aplicativo**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/>|
+|Excel  <br/> | <br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg) <br/>|
+|OneNote <br/> ||[Pacote de atualização do OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.2004130_Updater.pkg)|
+|Pacote do Office  <br/> | <br/>||
 
 ## <a name="march-2020-release"></a>Lançamento de março de 2020
 

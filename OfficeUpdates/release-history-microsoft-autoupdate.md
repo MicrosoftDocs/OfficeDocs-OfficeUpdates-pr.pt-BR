@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890108"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521049"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,30 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2020-release"></a>Versão de abril de 2020
+
+**Data de lançamento:** 14 de abril de 2020
+
+*Atualização automática da Microsoft 4.22*
+
+ **Atualizações de Recursos:**
+
+- Correção de segurança: o Microsoft AutoUpdate impedirá qualquer conexão não segura de versões mais antigas.
+- Os usuários com atualizações automáticas desativadas poderão ver a IU do Microsoft AutoUpdate apenas uma vez por semana.
+- Os computadores MacOS com SSD terão atualizações mais rápidas e tempo de inatividade de aplicativos insignificante devido a atualizações.
+
+
+Confira [CVE-2020-0984](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0984)
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>Lançamento de março de 2020
 

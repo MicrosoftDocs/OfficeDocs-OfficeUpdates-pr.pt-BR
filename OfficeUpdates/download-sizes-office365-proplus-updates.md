@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download de atualizações para o Office 365 ProPlus para cada canal de atualização
-ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+ms.openlocfilehash: ce1a2b84f2eaf59a55431c15c3ff87b033f08bc4
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170241"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521219"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Tamanhos de download para atualizações do Office 365 ProPlus
 
@@ -38,13 +38,40 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-## <a name="april-7-2020"></a>7 de abril de 2020
+## <a name="april-15-2020"></a>15 de abril de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO15 de abril de 2020)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 2003 (Build 12624.20466).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2003 (Build 12624.20442) <br/> |14 de abril de 2020 <br/> |52<br/> |
+|Versão 2003 (Build 12624.20382) <br/> |31 de março de 2020 <br/> |69<br/> |
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO15 de abril de 2020)
+
+## <a name="april-14-2020"></a>14 de abril de 2020
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO14 de abril de 2020)
+
+### <a name="monthly-channel"></a>Canal Mensal
+
+A versão mais atual é a Versão 2003 (Build 12624.20442).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2003 (Build 12624.20382) <br/> |31 de março de 2020 <br/> |69<br/> |
+|Versão 2003 (Build 12624.20320) <br/> |25 de março de 2020 <br/> |334<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Canal Semestral
 
-<i>A versão esperada é a Versão 1908 (Build 11929.20708).</i>
+A versão mais atual é a Versão 1908 (Build 11929.20708).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +81,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-targeted-channel"></a>Canal Semestral (Direcionado)
 
-<i>A versão esperada é a Versão 2002 (Build 12527.20442).</i>
+A versão mais atual é a Versão 2002 (Build 12527.20442).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -62,7 +89,8 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |290<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO14 de abril de 2020)
+
 
 ## <a name="march-31-2020"></a>31 de março de 2020
 

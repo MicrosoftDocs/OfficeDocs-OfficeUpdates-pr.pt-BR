@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
-ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
+ms.openlocfilehash: 1e760feeba1fa9c4cec937cb946de22052594021
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206468"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521289"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -28,7 +28,184 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+## <a name="version-2004-april-15"></a>Versão 2004: 15 de abril
+*Versão 2004 (Build 12730.20150)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **O suporte ao conector do Facebook terminou:** a partir de abril de 2020, o Excel não dará mais suporte a conexões de dados externos que usam o conector do Facebook.
+
+### <a name="outlook"></a>Outlook
+
+- **Nova opção para desabilitar sugestões de @menções ao redigir emails no Outlook:** você considera o seletor @mencionar mais irritante que útil? Agora você pode desativá-lo, se preferir.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Sincronizar alterações durante a apresentação:** Sincronizar alterações sempre que elas forem feitas, mesmo quando a apresentação estiver no modo de apresentação de slides.
+
+### <a name="word"></a>Word
+
+- **Faça anotações na sua cópia particular:** crie anotações redigidas à mão para você mesmo, fazendo uma cópia privada de um documento compartilhado. Vá para Exibir > Criar uma cópia privada para começar.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
+
+- Correção de um problema em que as versões internacionais do Access exibiam as cadeias de caracteres em inglês na interface do usuário.
+
+### <a name="excel"></a>Excel
+
+- Foi corrigido um problema em que a seleção de um intervalo de células em uma planilha resultava na seleção de uma única célula.
+
+- As pastas de trabalho salvas com uma assinatura digital no Excel 2016 podem ter a assinatura invalidada ao serem abertas na versão atual do Excel.
+
+- Foi corrigido um problema que poderia fazer com que o Excel falhasse em alguns casos, depois de copiar uma planilha contendo uma tabela dinâmica.
+
+- O Application.Evaluate (VBA) não estava funcionando para funções definidas pelo usuário em alguns casos.
+
+- Corrigido um problema de desempenho que os usuários podem ter experimentado ao editar por programação um intervalo grande de células.
+
+- Corrigido um problema de desempenho que acontecia ao abrir arquivos csv em ambientes japoneses.
+
+- Foi corrigido um problema em que a inserção de um modelo de gráfico definido pelo usuário poderia resultar no salvamento dele como um gráfico de colunas.
+
+- Foi corrigido um problema em que os rótulos de Dados de gráficos eram exibidos como em branco quando as células de dados subjacentes não possuíam uma legenda.
+
+- Foi corrigido um problema que podia fazer o Excel parar de responder quando se reduzia o tamanho de um gráfico com alguns intervalos de eixo x.
+
+- Foi corrigido um problema em que, em uma planilha do Excel com referência de célula L1C1 habilitada que estivesse sendo criada em coautoria/compartilhada, passar o mouse sobre o ícone de presença do usuário não exibia a referência de célula ativa no modo L1C1.
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+### <a name="outlook"></a>Outlook
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+- Essa alteração corrige um problema em que as últimas alterações em rascunhos de emails não foram atualizadas.
+
+- Correção de um problema em que clicar com o botão direito do mouse em um arquivo e usar ' enviar para ' não funcionará.
+
+- Foi resolvido um problema que fazia os delegados verem diferentes hierarquias de pastas em computadores diferentes para caixas de correio compartilhadas.
+
+- Foi resolvido um problema que fazia com que as categorias desaparecessem ocasionalmente de mensagens de email.
+
+- Foi solucionado um problema que fazia com que alguns lembretes não fossem exibidos ao alterar o fuso horário em um computador.
+
+- Foi solucionado um problema que fazia com que os usuários experimentassem uma falha ao tentar exibir as propriedades de um formulário organizacional.
+
+- Correção de um problema em que o usuário tinha um caminho de pesquisa personalizado para o catálogo de endereços, o escopo de resolução de nome do Outlook seria limitado ao caminho personalizado, em vez de incluir a lista de endereços global (GAL).
+
+- Foi solucionado um problema que fazia com que o botão "Salvar na nuvem" não tivesse as Ferramentas de Anexo.
+
+- Foi solucionado um problema que fazia com que os usuários não conseguissem adicionar uma assinatura ao responder a uma mensagem gerenciada por direitos digitais de uma janela do inspetor quando o usuário não tivesse permissão de proprietário na mensagem que estivesse sendo respondida.
+
+- Foi solucionado um problema que fazia com que os usuários não consiguissem adicionar outros anexos de um local da Web a uma reunião criada anteriormente.
+
+- Foi solucionado um problema que fazia com que a data da "Última modificação" em um arquivo fosse atualizada ao adicionar um anexo a um email ou salvar um anexo de um email arrastando e soltando (em vez de por meio de um menu).
+
+- Foi solucionado um problema que fazia com que pressionar Enter no painel de localização expandido falhasse em iniciar uma pesquisa, exigindo que os usuários clicassem no botão de pesquisa.
+
+- Correção de um problema em que, em um conjunto de resultados de pesquisa retornados, classificar os resultados por categorias, não exibiria as cores da categoria.
+
+- Correção de um problema em que a pesquisa não exibe informações sobre os usuários quando a opção "mostrar fotografias de usuário quando disponíveis" está desabilitada.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Essa alteração corrige um erro que poderia fazer com que arquivos do PowerPoint com emojis falhassem ao salvar.
+
+- Esta alteração corrige um problema em que a renderização de um gráfico herdado do Excel incorporado como um objeto OLE no PowerPoint ou no Word nem sempre exibia o título do gráfico.
+
+- Corrigimos um problema em que copiar texto do Excel para o PowerPoint poderia alterar a formatação.
+
+- Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
+
+- Foi corrigido um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
+
+- Foi corrigido um problema em que o evento 'ProjectBeforeTaskChange' do Visual Basic Applications (VBA) não era acionado quando um usuário clicava no botão "Inativar" encontrado na Faixa de Opções de Tarefas no agrupamento de Agendamento.
+
+- Se você definir os detalhes da predecessora ou da sucessora de dentro de um modo de exibição de tipo de formulário, o evento ProjectBeforeTaskChange Visual Basic Applications (VBA) não capturaria as alterações. Por exemplo, se você excluiu uma dependência e clicou em OK no formulário, o evento não foi acionado. Esse problema foi corrigido.
+
+- Correção de um problema em que os valores mais recentes para o custo real do trabalho realizado (CRTR) não seriam exibidos depois de fazer uma alteração, como uma alteração de data.
+
+- Correção de um problema em que abrir um projeto usando o menu mais recentemente utilizado (MRU) abriu o arquivo do projeto com acesso de leitura/gravação.
+
+- Essa alteração corrige um problema em que, se você criou uma tarefa manual com uma data de início e uma hora (mas não duração), ela seria exibida com um horário incorreto na linha do tempo.
+
+- Foi corrigido um problema em que imprimir uma linha do tempo usando um calendário islâmico resultava em um mês sendo ignorado ou duplicado no modo de exibição de impressão.
+
+- Essa alteração resolve um problema em que trabalhar no planejador de equipe com objetos GDI pode resultar na alocação total de objetos GDI e criar condições de pouca memória.
+
+- Foi corrigido um problema em que, se CustomFieldValueListGetItem fosse executado e uma tabela de pesquisa para o campo personalizado não existisse, uma tabela de pesquisa vazia era criada, mesmo que não devesse ser.
+
+- Quando os dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado
+
+- Correção de um problema em que o usuário não conseguia entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.
+
+### <a name="word"></a>Word
+
+- Essa alteração corrige um problema em que passar o cursor do mouse sobre uma dica não realçava o seu cartão.
+
+- Essa alteração corrige um problema em várias páginas selecionadas no menu Exibir, onde o painel de comentários poderia ser exibido em branco.
+
+- Correção de um problema em que a funcionalidade para postar comentários foi desabilitada.
+
+- Essa alteração corrige um problema que fazia com que o texto em formas agrupadas desaparecesse temporariamente ao usar a ferramenta Seleção de Laço.
+
+- Essa alteração corrige atrasos ao processar imagens com informações de protocolo malformadas ou incorretas.
+
+- Esta alteração corrige um problema em que a renderização de um gráfico herdado do Excel incorporado como um objeto OLE no PowerPoint ou no Word nem sempre exibia o título do gráfico.
+
+- Essa alteração resolve um problema em que o gerente de conta não despacha mensagens, resultando em um travamento com aplicativos de terceiros.
+
+- Essa alteração corrige um problema no modo de exibição de duas páginas em que, ao criar um comentário, a âncora de comentário nem sempre chegava a ser exibida.
+
+- Corrigido um problema ao digitar ou editar um comentário e usar Ctrl + A resultaria na seleção de texto na tela, em vez de selecionar o texto apenas dentro do cartão de comentário.
+
+- Corrigido um problema em que, para um parágrafo cujo estilo é um ancestral de um estilo vinculado a uma lista, a numeração dessa lista poderia ser perdida.
+
+- Essa alteração corrige um problema em que o Sumário seria atualizado com estilos de título que não estão presentes no documento.
+
+- Resolvemos um problema em que o alinhamento de palavras no documento ficava embaralhado quando você tentava editar após imprimir usando a Impressão Rápida.
+
+- Corrigimos um problema ao mesclar 2 documentos em um único documento.
+
+- Correção de um problema em que as assinaturas digitais salvas em documentos do Word seriam removidas durante a mala direta dos documentos.
+
+- Correção de um problema em que a marcação de revisões envolvendo equações podem resultar em uma falha ao salvar o arquivo.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2003-april-14"></a>Versão 2003: 14 de abril
+*Versão 2003 (Build 12624.20466)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+- Várias correções de bugs e desempenho.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 ## <a name="version-2003-april-09"></a>Versão 2003: 09 de abril
 *Versão 2003 (Build 12624.20442)*

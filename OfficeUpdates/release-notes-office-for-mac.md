@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office para Mac para assinantes do Office 356
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622135"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521269"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -34,10 +34,25 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 [//]: # (NÃO REMOVA)
+## <a name="april-14-2020"></a>14 de abril de 2020
+*Versão 16.36 (Build 20041300)*
 
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
 
+- **Usar os novos tipos de dados automaticamente**: Quando você digita um valor de dados que se assemelha a uma possível ação ou região geográfica, o Excel oferece a conversão para o tipo de dados conectado apropriado: Ações ou Geografia.
+- **Imprimir planilhas com orientações diferentes**: Quando você imprime uma pasta de trabalho inteira de uma só vez, o Excel para Mac pode imprimir cada planilha como paisagem ou retrato, de acordo com as opções de layout de página.
+- **Obtenha estatísticas na sua pasta de trabalho**: As estatísticas da pasta de trabalho fornecem uma visão geral do conteúdo de uma pasta de trabalho, para ajudar você a descobrir o conteúdo com mais facilidade.
 
+### <a name="outlook"></a>Outlook
 
+- **Pesquisar no calendário offline no Outlook Mac**: Se você pesquisar no calendário no Outlook Mac, enquanto estiver offline, é possível: Exibir eventos e compromissos.
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10 de março de 2020

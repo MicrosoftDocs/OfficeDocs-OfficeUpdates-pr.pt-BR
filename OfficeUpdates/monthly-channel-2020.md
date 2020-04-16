@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2020
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+ms.openlocfilehash: f9e4d01b1d656c28115a24cf28012daea45fc372
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081773"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521039"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -24,6 +24,38 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 >
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Mensal durante um período de tempo.  Se você não vir algo descrito abaixo, aguarde que estará em breve. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do início de julho, o Microsoft Teams será incluído nas atualizações do Office 365 ProPlus (e do Office 365 Business).  A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
+
+## <a name="version-2003-april-15"></a>Versão 2003: 15 de abril
+*Versão 2003 (Build 12624.20466)*
+* Várias correções de bugs e desempenho.
+
+## <a name="version-2003-april-14"></a>Versão 2003: 14 de abril
+*Versão 2003 (Build 12624.20442)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- O Application.Evaluate (VBA) não estava funcionando para funções definidas pelo usuário em alguns casos.
+
+### <a name="outlook"></a>Outlook
+
+- Resolvido um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão "X" no mouse.
+
+### <a name="project"></a>Project
+
+- Quando dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado.
+
+### <a name="word"></a>Word
+
+- Resolvido um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão "X" no mouse.
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DO BUGDETAILS)
 
 ## <a name="version-2003-march-31"></a>Versão 2003: 31 de março
 *Versão 2003 (Build 12624.20382)*

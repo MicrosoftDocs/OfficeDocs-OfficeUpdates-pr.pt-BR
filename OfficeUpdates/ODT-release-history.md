@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: b9cb0e347e785f14c1dd23ae9cfbcaa327ce4873
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230059"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521209"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico da versão da Ferramenta de Implantação do Office
 
@@ -29,6 +29,13 @@ A ODT dá mais controle sobre uma instalação do Office. É possível definir q
 
 [Baixar a Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+
+## <a name="april-15-2020"></a>15 de abril de 2020
+
+Versão 16.0.12624.20320 (setup.exe versão 16.0.12624.20290)
+- Adiciona suporte para as versões do Office específicas para o fim da vida útil do Windows 7
+- Corrige um problema em que as configurações de personalização poderiam não ser aplicadas conforme esperado
+- Corrige um problema em que arquivos .cat incorretos poderiam ser baixados inesperadamente
 
 ## <a name="january-16-2020"></a>16 de janeiro de 2020
 

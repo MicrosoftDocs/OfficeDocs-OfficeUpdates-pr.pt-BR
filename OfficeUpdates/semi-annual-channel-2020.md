@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076265"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521019"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -27,6 +27,46 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 
+## <a name="version-1908-april-14"></a>Versão 1908: 14 de abril
+*Versão 1908 (Build 11929.20708)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Foi corrigido um problema que levava à lentidão no desempenho ao excluir colunas contendo células mescladas.
+
+- Foi corrigido um problema com a escala de texto em controles de formulário quando exibido na Visualização de Impressão.
+
+### <a name="skype"></a>Skype
+
+- Nome do título fixo da conversa com guias enquanto mais de uma conversa está em andamento.
+
+### <a name="outlook"></a>Outlook
+
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao desligar o Outlook.
+
+- Solucionamos um problema que fazia com que uma lista de salas vazia fosse exibida para os clientes em alguns cenários.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema com o marcador: textos em branco com cores escuras do marcador são impressos em preto na escala de cinza.
+
+### <a name="word"></a>Word
+
+- Foi corrigido um problema no ajuste de texto de tabela.
+
+
+## <a name="version-1902-april-14"></a>Versão 1902: 14 de abril
+*Versão 1902 (Build 11328.20564)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-march-10"></a>Versão 1908: 10 de março
 *Versão 1908 (Build 11929.20648)*
