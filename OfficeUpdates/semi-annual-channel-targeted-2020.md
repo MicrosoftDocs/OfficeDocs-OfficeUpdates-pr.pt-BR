@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão ao profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020
-ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
+ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521369"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43535516"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2020
 
@@ -34,9 +34,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- Digite uma fórmula que retorna vários valores: digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- Seis funções avançadas: adicionamos seis novas funções para turbinar suas planilhas: FILTRO, CLASSIFICAR, CLASSIFICARPOR, ÚNICO, SEQUÊNCIA e MATRIZALEATÓRIA.  [Saiba mais](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- Olhe para a esquerda, olhe para a direita... PROCX está aqui!: Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o PROCX.  [Saiba mais](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão enviados para as células vizinhas automaticamente. [Saiba mais](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE and RANDARRAY.  [Saiba mais](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!** Linha por linha, encontre tudo o que precisa em uma tabela ou intervalo com XLOOKUP.  [Saiba mais](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
