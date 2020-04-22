@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
-ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
+ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43131099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714711"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -23,9 +23,132 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações.
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-april-17"></a>Versão 2005: 17 de abril
+*Versão 2005 (Build 12810.20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+- Foi aumentado o tamanho dos controles de edição de referência de célula na caixa de diálogo Barras de Erros Personalizadas usada com gráficos.
+- As pastas de trabalho salvas com uma assinatura digital no Excel 2016 podem ter a assinatura invalidada ao serem abertas na versão atual do Excel.
+- Foi corrigido um problema com o dimensionamento de caixas de seleção nos controles de formulário quando impressos.
+- O Application.Evaluate (VBA) não estava funcionando para funções definidas pelo usuário em alguns casos.
+- Essa alteração corrige um problema em que as informações de formatação condicional (CF) não estavam sendo salvas nos arquivos XLSB corretamente.
+
+### <a name="onenote"></a>OneNote
+- Foi corrigido um problema em que as quebras de linha estavam sendo armazenadas como guias verticais.
+
+### <a name="outlook"></a>Outlook
+- Resolve um problema que fazia com que os usuários não pudessem adicionar um Grupo de Contatos Pessoais como participante da reunião.
+- Resolve um problema que fazia com que o assunto de reuniões a mais de 2 meses da data prevista não fosse exibido no Assistente de Agendamento.
+- Resolve um problema que fazia com que os usuários vissem truncamento do corpo da mensagem ao encaminhar mensagens HTML grandes.
+- Foi adicionada a capacidade de impor a configuração de assinatura padrão S/MIME pela política de grupo.
+- Resolve um problema que tornava inválidas as regras de exclusão criadas para caixas de correio diferentes da caixa de correio principal do usuário.
+- Resolve um problema que fazia com que os anexos fossem descartados ao encaminhar uma mensagem criptografada.
+
+### <a name="project"></a>Project
+- Quando dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado.
+- Corrigimos um problema em que o Project podia falhar ao alterar o campo de status do quadro em um projeto conectado a uma lista de tarefas do Microsoft Office SharePoint Online.
+- Correção de um problema em que o Project pode falhar ao salvar projetos criados com versões anteriores do Project.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2004-april-10"></a>Versão 2004: 10 de abril
+*Versão 2004 (Build 12730.20024)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Acessar
+
+- **Ignore a caixa de diálogo Mostrar Tabela, vá diretamente para um painel de tarefas e simplifique a adição de tabelas a relacionamentos e consultas:** Adicione tabelas e consultas clicando em quatro guias, selecionando vários nomes, pesquisando por texto e arrastando de um painel de tarefas que permanece aberto enquanto você trabalha.
+
+### <a name="excel"></a>Excel
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Mantenha suas fotos em alta definição ao enviá-las como parte de um email:** Uma nova configuração do Outlook está disponível para limitar a compactação de imagem quando você envia fotos como parte do conteúdo de emails
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Sincronizar alterações durante a apresentação:** Sincronizar alterações sempre que elas forem feitas, mesmo quando a apresentação estiver no modo de apresentação de slides.
+
+### <a name="word"></a>Word
+
+- **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **Faça anotações na sua cópia particular:** crie anotações redigidas à mão para você mesmo, fazendo uma cópia privada de um documento compartilhado. Vá para Exibir > Criar uma cópia privada para começar.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
+
+### <a name="excel"></a>Excel
+
+- Foi corrigido um problema em que a seleção de um intervalo de células em uma planilha resultava na seleção de uma única célula.
+
+- Foi corrigido um problema que podia fazer o Excel parar de responder quando se reduzia o tamanho de um gráfico com alguns intervalos de eixo x.
+
+- Foi corrigido um problema em que a inserção de um modelo de gráfico definido pelo usuário poderia resultar no salvamento dele como um gráfico de colunas.
+
+- Foi corrigido um problema em que os rótulos de Dados de gráficos eram exibidos como em branco quando as células de dados subjacentes não possuíam uma legenda.
+
+- Foi corrigido um problema em que, em uma planilha do Excel com referência de célula L1C1 habilitada que estivesse sendo criada em coautoria/compartilhada, passar o mouse sobre o ícone de presença do usuário não exibia a referência de célula ativa no modo L1C1.
+
+### <a name="outlook"></a>Outlook
+
+- Resolve um problema que fazia as categorias desaparecerem ocasionalmente das mensagens de email.
+
+- Resolve um problema que fazia com que os representantes vissem diferentes hierarquias de pastas em computadores diferentes para caixas de correio compartilhadas.
+
+- Resolve um problema que fazia com que os usuários experimentassem uma falha ao tentar exibir as propriedades de um Formulário Organizacional.
+
+- Resolve um problema que fazia com que alguns lembretes falhassem ao alterar o fuso horário em um computador.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta alteração corrige um problema em que a renderização de um gráfico herdado do Excel incorporado como um objeto OLE no PowerPoint ou no Word nem sempre exibia o título do gráfico.
+
+- Corrigimos um problema em que copiar texto do Excel para o PowerPoint poderia alterar a formatação.
+
+- Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que o usuário não conseguia entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.
+
+### <a name="word"></a>Word
+
+- Essa alteração corrige um problema em que passar o cursor do mouse sobre uma dica não realçava o seu cartão.
+
+- Essa alteração corrige um problema que fazia com que o texto em formas agrupadas desaparecesse temporariamente ao usar a ferramenta Seleção de laço.
+
+- Esta alteração corrige um problema em que a renderização de um gráfico herdado do Excel incorporado como um objeto OLE no PowerPoint ou no Word nem sempre exibia o título do gráfico.
+
+- Essa alteração corrige um problema no modo de exibição de duas páginas em que, ao criar um comentário, a âncora de comentário nem sempre chegava a ser exibida.
+
+- Corrigido um problema em que, para um parágrafo cujo estilo é um ancestral de um estilo vinculado a uma lista, a numeração dessa lista poderia ser perdida.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
