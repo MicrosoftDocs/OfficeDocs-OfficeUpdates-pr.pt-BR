@@ -1,5 +1,5 @@
 ---
-title: Histórico de atualização do Office 365 ProPlus (relacionado por data)
+title: Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,29 +8,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornece aos profissionais de TI uma lista completa de lançamentos do Office 365 ProPlus organizados por data, com links para as notas de versão.
-ms.openlocfilehash: ffd28edabb121ba87836ccab21e87f83700186e6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
+ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521089"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715419"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Histórico de atualização do Office 365 ProPlus (relacionado por data)
+# <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
-O Office 365 ProPlus é atualizado regularmente com novos recursos, atualizações de segurança e atualizações que não são de segurança. Essas atualizações são lançadas usando os [canais de atualização](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus). Cada lançamento em cada canal de atualização contém um número de versão e de build atribuído.
-
+Esses números de versão e build se aplicam ao Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e às versões de assinatura dos aplicativos da área de trabalho do Project e Visio.
 
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como **Aplicativos da Microsoft 365 para empresas**. Para saber mais sobre essa mudança de nome, [leia esta postagem de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Para saber mais sobre quando essa mudança entrará em vigor e quais ações os administradores precisam realizar, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
+> O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
-> - Os números de build e versão também se aplicam ao Office 365 Business, ao Visio Pro para Office 365 e ao Project Online Desktop Client. O Office 365 Business é a versão do Office que acompanha alguns planos do Office 365, como o Business Premium.
 > - A tabela é ordenada por data de lançamento, com a versão mais recente listada no início.
-> - Para saber mais sobre os canais de atualização, confira [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+> - Para obter mais informações sobre canais de atualização, confira [Visão geral de canais de atualização para o Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualização.
 
@@ -45,9 +40,9 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 [//]: # (EOSTABLEEND)
 
-Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Office 365 ProPlus para a versão mais recente, confira [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
+Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Microsoft 365 Apps para a versão mais recente, confira [Tamanhos de download para atualizações do Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-A tabela a seguir fornece uma lista dos números de versão e compilação de cada atualização para o Office 365 ProPlus lançada nos seguintes canais de atualização: Mensal, Semestral (Segmentado) e Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão correspondentes. Estas notas da versão fornecem informações sobre recursos, atualizações de segurança e atualizações não relacionadas à segurança incluídas na atualização do Office 365 ProPlus.  
+A tabela a seguir fornece uma lista da versão e os números de build de cada atualização para os aplicativos do Microsoft 365 lançados nos seguintes canais de atualização: Mensal, Semestral (direcionado) e Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
@@ -227,9 +222,9 @@ A tabela a seguir fornece uma lista dos números de versão e compilação de ca
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Informações de versão das atualizações do Office 365 ProPlus](release-notes-office365-proplus.md)
-- [Tamanhos de download para atualizações do Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
+- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Informações de versão das atualizações do Microsoft 365 Apps](release-notes-office365-proplus.md)
+- [Tamanhos de download para atualizações do Microsoft 365 Apps](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).

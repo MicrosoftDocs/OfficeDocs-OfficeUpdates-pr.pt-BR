@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 5fcb4ae789a54b2da85360457e581ebf9fbdacb4
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715291"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -26,18 +26,18 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como **Aplicativos da Microsoft 365 para empresas**. Para saber mais sobre essa mudança de nome, [leia esta postagem de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Para saber mais sobre quando essa mudança entrará em vigor e quais ações os administradores precisam realizar, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
-
+> O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão.
-> - Microsoft Teams em instalações existentes do Office 365 ProPlus - A partir do final de Junho, o Microsoft Teams será incluído nas atualizações de instalações existentes do Office 365 ProPlus (e do Office 365 Business). A data em que o Teams será adicionado depende de qual canal de atualização você está usando. Confira [Implantar o Microsoft Teams com o Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install) para obter informações adicionais.
+
 
 [//]: # (NÃO REMOVA)
+
+**21 de abril de 2020**<br/>
+Versão 2004 (Build 12730.20182)<br/>
 
 **15 de abril de 2020**<br/>
 Versão 2004 (Build 12730.20150)<br/>

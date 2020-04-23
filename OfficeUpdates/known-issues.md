@@ -9,18 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: 73cd91d43e09900d81418427dab1da01d89f227b
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023546"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715429"
 ---
 # <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
 
-Esses problemas conhecidos fornecem informações sobre atualizações não relacionadas à segurança incluídas nas atualizações do Canal Mensal, SACT e SAC para o Office 365 ProPlus 2019, Visio Pro para Office 365, Cliente de Área de Trabalho do Microsoft Project Online e Office 365 Business.
+Esses problemas conhecidos fornecem informações sobre as atualizações que não são de segurança incluídas no Canal Mensal, Canal Semestral (Direcionado) e atualizações de Canal Semestral em 2019 para Aplicativos do Microsoft 365 para empresas, Aplicativos do Microsoft 365 para pequenas empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
-Esta tabela oferece um resumo dos problemas ativos atuais e dos que foram resolvidos.  Atualizaremos a tabela abaixo com problemas significativos que estamos investigando.
 
 > [!NOTE]
 >- Esta lista não é abrangente.

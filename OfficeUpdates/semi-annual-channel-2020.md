@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2020
-ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fornece aos profissionais de TI as notas de versão para as versões do Canal mensal do Microsoft 365 Apps em 2020
+ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521019"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714681"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
-Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Semestral para o Office 365 ProPlus em 2020, Visio Pro para Office 365, o cliente da Área de Trabalho do Project Online e o Office 365 Business.
+Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionadas à segurança que estão inclusas nas atualizações de 2020 do Canal mensal do Microsoft 365 Apps para empresas, Microsoft 365 Apps para negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
 > [!NOTE]
 >
 >- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral durante um período de tempo. Se você não vir algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- O OneNote 2016 agora será incluído por padrão quando um usuário no Canal Semestral baixar e instalar o Office 365 no Windows 10 do Portal do Office.
+>- O OneNote 2016 já está incluído por padrão quando um usuário no Canal semestral baixar e instalar o Microsoft 365 no Windows 10 do Portal do Office.
 
 
 

@@ -1,5 +1,5 @@
 # [Informações sobre a versão](release-notes-office365-proplus.md)
-# Office 365 ProPlus
+# Aplicativos do Microsoft 365
 ## [Atualizações de Segurança](office365-proplus-security-updates.md)
 ## [Histórico de atualizações (por data)](update-history-office365-proplus-by-date.md)
 ## [Tamanhos de atualização](download-sizes-office365-proplus-updates.md)

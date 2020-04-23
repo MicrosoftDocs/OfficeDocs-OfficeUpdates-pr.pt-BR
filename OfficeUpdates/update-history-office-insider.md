@@ -9,23 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: 266e82407bc35a4efb8ed825b920a10a7cee4616
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43520989"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715337"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
 Olá, Insiders! Se você quer saber se possui a versão mais recente instalada ou está procurando por uma lista de Insider build recente, você está no lugar certo. Clique[aqui](https://insider.office.com/) para saber mais sobre o Programa Insiders.
 
-
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como **Aplicativos do Microsoft 365 para empresas**. Para saber mais sobre essa mudança de nome, [leia esta postagem de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Para saber mais sobre quando essa mudança entrará em vigor e quais ações os administradores precisam realizar, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
 
+> O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -39,6 +36,11 @@ Se você estiver inscrito no nível do Insider você receberá frequentes atuali
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NÃO REMOVA)
+
+
+=======
+**20 de abril de 2020**<br/>
+Versão 2005 (Build 12816.20000) (Revertida) <br/>
 
 **14 de abril de 2020**<br/>
 Versão 2005 (Build 12810.20002)<br/>
