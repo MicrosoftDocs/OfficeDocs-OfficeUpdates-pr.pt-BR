@@ -9,21 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: fdc96ba846e44d0c423d6747aba38f1bb184c983
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 97d442f55c339a7f5da8699b07f8a43eca05f043
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715337"
+ms.locfileid: "43781574"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
 Olá, Insiders! Se você quer saber se possui a versão mais recente instalada ou está procurando por uma lista de Insider build recente, você está no lugar certo. Clique[aqui](https://insider.office.com/) para saber mais sobre o Programa Insiders.
 
 > [!IMPORTANT]
-
 > O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
-
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
@@ -37,8 +35,9 @@ Para saber as notas de versão, confira [Notas de versão Insider do Office para
 
 [//]: # (NÃO REMOVA)
 
+**22 de abril de 2020**<br/>
+Versão 2005 (Build 12816.20006)<br/>
 
-=======
 **20 de abril de 2020**<br/>
 Versão 2005 (Build 12816.20000) (Revertida) <br/>
 
