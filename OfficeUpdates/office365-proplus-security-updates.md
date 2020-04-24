@@ -1,5 +1,5 @@
 ---
-title: Notas de versão das Atualizações de Segurança do Office 365 ProPlus
+title: Notas de versão das atualizações de segurança do Microsoft 365 Apps
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornece notas de versão aos profissionais de TI das Atualizações de Segurança do Office 365 ProPlus
-ms.openlocfilehash: 8eab85b14ca0d034d83db85db7a30e4072eed845
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Fornece aos profissionais de TI notas de versão das atualizações de segurança do Microsoft 365 Apps
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521270"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715009"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Notas de versão das Atualizações de Segurança do Office 365 ProPlus
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Notas de versão das atualizações de segurança do Microsoft 365 Apps
 
-Estas notas de versão fornecem informações sobre as correções de segurança incluídas nas atualizações ao Office 365 ProPlus.
+Estas notas de versão fornecem informações das correções de segurança incluídas nas atualizações do Microsoft 365 Apps.
+
+Essas informações se aplicam ao Microsoft 365 Apps para empresas, Microsoft 365 Apps para negócios e às versões de assinatura dos aplicativos de desktop do Project e do Visio.
 
 
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como **Aplicativos da Microsoft 365 para empresas**. Para saber mais sobre essa mudança de nome, [leia esta postagem de blog](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Para saber mais sobre quando essa mudança entrará em vigor e quais ações os administradores precisam realizar, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).
-
+> O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para empresas, começando com a Versão 2004. Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
  
-> [!NOTE]
-> - Fornecem também informações sobre atualizações de segurança do Visio Pro para Office 365 e do Cliente de Desktop do Project Online.
-> - Essas informações também se aplicam ao Office 365 Business, versão do Office que acompanha alguns planos do Office 365, como o Business Premium.  
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usado para o espaçamento)  
 
@@ -39,7 +35,7 @@ Canal Mensal: Versão 2003 (Build 12624.20442)
 Canal Semestral (Direcionado): Versão 2002 (Build 12527.20442)  
 Canal Semestral: Versão 1908 (Build 11929.20708)  
 Canal Semestral: Versão 1902 (Build 11328.20564)  
-Office 365 ProPlus para Windows 7: versão 2002 (Build 12527.20442)  
+Microsoft 365 Apps no Windows 7: Versão 2002 (Criação 12527.20442)  
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -68,7 +64,7 @@ Canal mensal: Versão 2002 (Build 12527.20278)
 Canal semestral (Direcionado): Versão 2002 (Build 12527.20278)  
 Canal semestral: Versão 1908 (Build 11929.20648)  
 Canal semestral: Versão 1902 (Build 11328.20554)  
-Office 365 ProPlus para Windows 7: versão 2002 (Build 12527.20278)  
+Microsoft 365 Apps no Windows 7: Versão 2002 (Criação 12527.20278)  
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 

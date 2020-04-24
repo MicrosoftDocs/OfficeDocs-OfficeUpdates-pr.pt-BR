@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornece notas de versão ao profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020
-ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
-ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
+description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) dos aplicativos do Microsoft 365 em 2020
+ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43535516"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714686"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2020
 
-Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança incluídos nas atualizações do Canal Semestral (Direcionado) do Office 365 ProPlus em 2020, Visio Pro para Office 365, o cliente da Área de Trabalho do Project Online e o Office 365 Business. 
+Essas notas de versão fornecem informações dos novos recursos e atualizações não relacionadas à segurança incluídas nas atualizações de Canal semestral (Direcionado) em 2020 do Microsoft 365 Apps para empresas, Microsoft 365 Apps para negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
 > [!NOTE]
 >
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
 
 ## <a name="version-2002-april-14"></a>Versão 2002: 14 de abril
 *Versão 2002 (Build 12527.20442)*

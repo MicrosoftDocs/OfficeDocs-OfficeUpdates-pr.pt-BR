@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 34b354a2834d1dde33b7f19709fb2a2ab2bf2fa6
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521049"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714671"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -31,6 +31,23 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
 
 ## <a name="april-2020-release"></a>Versão de abril de 2020
+
+**Data de lançamento:** 21 de abril de 2020
+
+*Atualização automática da Microsoft 4.22*
+
+**Correções de bugs e melhorias:**
+- A interface de usuário do Microsoft AutoUpdate não será exibida nos dispositivos que estão atualizando seus aplicativos do Office via Microsoft AutoUpdate no modo 'Automático', bem como nos dispositivos que recebem atualizações no modo não automático quando não houver novas atualizações disponíveis.
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.22](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
 
 **Data de lançamento:** 14 de abril de 2020
 
