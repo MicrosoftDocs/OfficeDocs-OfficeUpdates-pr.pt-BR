@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714711"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804903"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -27,6 +27,35 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-april-24"></a>Versão 2005: 24 de abril
+*Versão 2005 (Build 12816.20006)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+- Essa alteração corrige um problema em que o valor do R-quadrado da linha de tendência do gráfico (no caso de interceptação em y forçado) estava incorreto, mesmo que a função PROJ.LIN retorne o valor correto.
+- Essa alteração corrige um problema em que a formatação personalizada da linha de tendência do gráfico nem sempre estava sendo salva.
+
+### <a name="outlook"></a>Outlook
+- Corrigimos um problema em que o botão Categorizar de calendários de grupo na Faixa de Opções do Office estava desabilitado.
+- Corrigimos um problema em que os clientes corporativos com pastas de grupo não implementadas ou que não funcionavam resultaria na exibição da mensagem “não respondendo” no Outlook.
+
+### <a name="powerpoint"></a>PowerPoint
+- Corrigimos um problema em que passar o mouse sobre o símbolo de asterisco (*) não exibia o nome de usuário e a data da última pessoa a atualizar o documento.
+
+### <a name="word"></a>Word
+- Habilitar a opção "Mostrar indicadores" não exibia os indicadores. Isso foi corrigido.
+- Essa alteração corrige um problema em que o texto com hiperlinks pode não ser exibido se a opção "Mostrar códigos de campo em vez de seus valores" estiver habilitada.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2005-april-17"></a>Versão 2005: 17 de abril
 *Versão 2005 (Build 12810.20002)*
