@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715019"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907885"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -28,7 +28,30 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+## <a name="version-2004-april-25"></a>Versão 2004: 25 de abril
+*Versão 2004 (Build 12730.20206)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Foi solucionado um problema que causava uma falha no Outlook ao abrir arquivos .msg ou .oft que eram salvos localmente após uma atualização do Windows.
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Essa correção resolve um erro que ocorre impedindo o acesso restrito e protegendo os arquivos com uma senha simultaneamente.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2004-april-21"></a>Versão 2004: 21 de abril
 *Versão 2004 (Build 12730.20182)*
