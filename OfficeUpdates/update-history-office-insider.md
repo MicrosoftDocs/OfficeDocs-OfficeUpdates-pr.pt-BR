@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: 97d442f55c339a7f5da8699b07f8a43eca05f043
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: 1349ba4d3b96492d0fae0e7becc89ff8d116c85c
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781574"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907866"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
@@ -24,6 +24,7 @@ Olá, Insiders! Se você quer saber se possui a versão mais recente instalada o
 > O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
+>
 > - O Histórico de Atualizações lista todos os builds lançados
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão.
 
@@ -34,6 +35,9 @@ Se você estiver inscrito no nível do Insider você receberá frequentes atuali
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NÃO REMOVA)
+
+**27 de abril de 2020**<br/>
+Versão 2005 (Criação 12823.20010)<br/>
 
 **22 de abril de 2020**<br/>
 Versão 2005 (Build 12816.20006)<br/>

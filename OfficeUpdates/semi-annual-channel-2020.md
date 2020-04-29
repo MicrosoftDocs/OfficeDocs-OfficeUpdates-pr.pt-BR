@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal mensal do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 0138665b66ebca7249dce1bca9b2eeaa4b0e2041
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
+ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796107"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43907895"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -26,6 +26,11 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 >- O OneNote 2016 já está incluído por padrão quando um usuário no Canal semestral baixar e instalar o Microsoft 365 no Windows 10 do Portal do Office.
 
 
+
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DO BUGDETAILS)
 
 ## <a name="version-1908-april-14"></a>Versão 1908: 14 de abril
 *Versão 1908 (Build 11929.20708)*
