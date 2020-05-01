@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais para os lançamentos do Canal Mensal Insider – Modo Rápido para a área de trabalho do Windows
-ms.openlocfilehash: 1349ba4d3b96492d0fae0e7becc89ff8d116c85c
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: f1fa142375bc7fea799d0f008c69275aaa00fbd8
+ms.sourcegitcommit: a9ea573e899f196504522a884121fe43ff49f10c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907866"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943776"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Histórico de atualizações do Canal do Office Insider
 
@@ -35,6 +35,9 @@ Se você estiver inscrito no nível do Insider você receberá frequentes atuali
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NÃO REMOVA)
+
+**29 de abril de 2020**<br/>
+Versão 2005 (Build 12827.20030)<br/>
 
 **27 de abril de 2020**<br/>
 Versão 2005 (Criação 12823.20010)<br/>
