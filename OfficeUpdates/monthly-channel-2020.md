@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907914"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947397"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -28,6 +28,98 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+
+## <a name="version-2004-april-29"></a>Versão 2004: 29 de abril
+*Versão 2004 (Build 12730.20236)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
+
+### <a name="excel"></a>Excel
+
+- **O suporte ao conector do Facebook terminou:** a partir de abril de 2020, o Excel não dará mais suporte a conexões de dados externos que usam o conector do Facebook.
+
+- **Ideias Melhorado:** Agora o Ideias do Excel permite que você digite uma pergunta sobre seus dados. não é necessário perder tempo formatando-o primeiro. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Novas imagens para dar vida às suas pastas de trabalho:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em suas pastas de trabalho. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="outlook"></a>Outlook
+
+- **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o calendário fixado no painel de Tarefas pendentes, participe de uma reunião com apenas um clique.
+
+- **Novas imagens para dar vida às suas mensagens:** milhares de imagens de estoque, ícones e adesivos gratuitas que você pode usar em suas mensagens de email. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Atualizar slides durante a apresentação de slides:** os slides de atualização alterados por outros autores durante a sua apresentação.
+
+- **Novas imagens para dar vida aos seus slides:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em suas apresentações. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="teams"></a>Teams
+
+- **Aperfeiçoamentos do calendário do Teams:** clique com o botão direito do mouse em um item no seu calendário para obter as opções de RSVP, iniciar um chat com os participantes da reunião ou participar rapidamente de uma reunião quando ela for iniciada. Também fizemos aperfeiçoamentos no formulário de agendamento de eventos.
+
+- **Você está pronto!:** Crie marcas e atribua às pessoas para que você possa @mencionar um grupo, função, departamento etc. Proprietários da equipe, tente você mesmo. Vá para uma equipe, selecione Mais opções, Gerenciar marcas.
+
+### <a name="word"></a>Word
+
+- **Mantenha suas ferramentas úteis:** Na sua caixa de ferramentas de desenho, encontre a caneta inteligente que permite adicionar gestos de tinta ao texto. [Saiba mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **Novas imagens para dar vida aos seus documentos:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em seus documentos. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- As pastas de trabalho salvas com uma assinatura digital no Excel 2016 podem ter a assinatura invalidada ao serem abertas na versão atual do Excel.
+
+- Foi corrigido um problema que poderia fazer com que o Excel falhasse em alguns casos, depois de copiar uma planilha contendo uma tabela dinâmica.
+
+- O Application.Evaluate (VBA) não estava funcionando para funções definidas pelo usuário em alguns casos.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema que provocou a alteração inesperada da largura do painel de pasta.
+
+
+- Solucionamos um problema que causa falha no Outlook em algumas versões do Windows.
+
+
+- Foi solucionado um problema que causava uma falha no Outlook ao abrir arquivos .msg ou .oft que eram salvos localmente após uma atualização do Windows.
+
+
+- Solucionamos um problema que causa falha no Outlook em algumas versões do Windows.
+
+
+- Solucionamos um problema que fazia com que os usuários experimentassem um travamento ao sair do Outlook.
+
+
+### <a name="project"></a>Project
+
+- Quando dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado.
+
+
+- Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Resolvia um erro que ocorre porque é possível restringir o acesso e a proteção de arquivos com uma senha simultaneamente.
 
 
 
