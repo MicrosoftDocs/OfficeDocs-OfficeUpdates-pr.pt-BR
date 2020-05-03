@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
-ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
+ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43804903"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997474"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -25,6 +25,59 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-may-01"></a>Versão 2005: 1 de maio
+*Version 2005 (Build 12827.20030)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que a tabela de dados do gráfico poderia processar incorretamente valores em um eixo de datas.
+- Corrigimos um problema em que as quebras de página poderiam não ser desabilitadas após entrar no Layout da Página ou na Visualização da Quebra de Página.
+- Corrigimos um problema em que os estilos de linha do gráfico poderiam ser perdidos após ocultar e reexibir colunas com dados de série.
+- Inserir uma coluna em uma lista filtrada poderia demorar mais do que o esperado.
+- Pode ocorrer uma falha ao tentar listar alterações em uma nova planilha para uma pasta de trabalho usando o modo de "Pasta de Trabalho Compartilhada".
+- Corrigimos um problema em que a formatação personalizada em gráficos dinâmicos pode não ser salva quando a opção "inverter se negativo" estiver habilitada.
+- Corrigimos um problema em que a formatação personalizada de um único ponto de dados em um Gráfico dinâmico não era salva se a opção "inverter se negativo" tivesse sido selecionada.
+- Essa alteração corrige um problema em que o caractere ' @ ' carregado em um arquivo CSV resultaria na conversão da cadeia de caracteres após o caractere ' @ ' em uma fórmula.
+- Corrigimos um problema em que os valores decimais na função SEQUÊNCIA não eram arredondados corretamente.
+
+### <a name="outlook"></a>Outlook
+
+- Soluciona um problema que causava falhas nos safelinks muito longos, nos quais os usuários clicavam no cliente do Outlook Desktop devido ao truncamento.
+- Corrigimos um problema em que as pastas do Outlook com nomes que continham caracteres DBCS (conjunto de caracteres de dois bytes) poderiam desaparecer de forma intermitente ao sincronizar com o servidor. Para que isso aconteça, o Outlook tinha que ser configurado com uma conta IMAP e estar sendo executado em um sistema com a localidade definida como japonês.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que, se um usuário criasse um comentário sem postá-lo, fechasse o painel Comentários, abrisse uma nova janela, navegasse por vários slides, fechasse a janela e, por fim, reabrisse o painel Comentários na apresentação original, os comentários de rascunho não estariam disponíveis.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que, se o Project estivesse conectado ao Project Web App e o separador decimal fosse uma vírgula, o método Adicionar TaskDependencies falharia quando o retardo fosse adicionado.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que a inserção de comentários em um documento no modo de colaboração nem sempre funcionava.
+- Essa alteração corrige um problema em que o cartão Pessoas piscava se o @ da menção estivesse selecionado.
+- Corrigimos um problema em que o fechamento de um documento com comentários de rascunho perguntaria para o usuário se eles gostaria de fechar o documento sem salvar os comentários. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
+- Corrigimos um problema em que a tradução de um comentário postado resultaria na mensagem de erro "ocorreu falha na inserção de texto traduzido".
+- No leitor Exibição da Web/Imersivo, clicar em uma dica rolaria a tela para cima, mesmo que ele já estivesse em exibição. Isso foi corrigido.
+- Corrigimos um problema em que, ao tentar salvar um arquivo que contém uma macro com um novo nome, o arquivo poderia ser salvo com a extensão. docx e com o nome de arquivo WRO0004.docx, independentemente de qual nome o usuário inseriu, tornando o documento inutilizável.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -1781,7 +1834,7 @@ Crie um PDF e o verificador de acessibilidade informará os problemas de acessib
 - Consertamos um problema em que a associação de tipo de arquivo e os ícones do Office poderiam, às vezes, quebrar após uma atualização do Office.
 
 ### <a name="word"></a>Word 
-- Correções diversas de desempenho e estabilidade
+- Várias correções de desempenho e estabilidade
 
 ### <a name="excel"></a>Excel
 - Consertamos um problema em que uma mudança de gráfico poderia resultar em uma falha.
