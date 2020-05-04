@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 4cc33840330268060d799d6e5ff4ae077b77a248
-ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947397"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997464"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
@@ -57,7 +57,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Novas imagens para dar vida às suas mensagens:** milhares de imagens de estoque, ícones e adesivos gratuitas que você pode usar em suas mensagens de email. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
-- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+- **Suporte a sugestões de local para reunião recorrente:** pesquisar salas de conferência com o agendamento de reuniões recorrentes.
 
 ### <a name="powerpoint"></a>PowerPoint
 
