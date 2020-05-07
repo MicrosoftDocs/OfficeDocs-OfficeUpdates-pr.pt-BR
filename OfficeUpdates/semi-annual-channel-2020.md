@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal mensal do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907895"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044584"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Semestral em 2020
 
@@ -22,7 +22,6 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 
 > [!NOTE]
 >
->- Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral durante um período de tempo. Se você não vir algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- O OneNote 2016 já está incluído por padrão quando um usuário no Canal semestral baixar e instalar o Microsoft 365 no Windows 10 do Portal do Office.
 
 
@@ -30,7 +29,23 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1908-may-04"></a>Versão 1908: 04 de maio
+*Versão 1908 (Build 11929.20752)*
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
+
+## <a name="version-1902-may-04"></a>Versão 1902: 04 de maio
+*Versão 1902 (Build 11328.20572)*
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
 
 ## <a name="version-1908-april-14"></a>Versão 1908: 14 de abril
 *Versão 1908 (Build 11929.20708)*

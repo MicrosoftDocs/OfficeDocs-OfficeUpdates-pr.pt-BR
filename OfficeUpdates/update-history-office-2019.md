@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 3716b555f187be6941741960bb11f3cc738f7d43
-ms.sourcegitcommit: e950bd86b21283e1d6f1f76faa26cd323ab7213d
+ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43954894"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044604"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -60,6 +60,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|4 de maio de 2020|Versão 2004 (Build 12730.20250)  |Corrige um problema em que determinados projetos do VBA que continham referências a bibliotecas de código com caracteres DBCS (byte duplo) no nome ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento. <br/>  |
 |29 de abril de 2020|Versão 2004 (Build 12730.20236)  |Várias correções de bugs e de desempenho. <br/>  |
 |15 de abril de 2020|Versão 2003 (Build 12624.20466)  |Várias correções de bugs e de desempenho. <br/>  |
 |14 de abril de 2020|Versão 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0991) <br/> |
@@ -74,9 +75,6 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 |14 de janeiro de 2020   |Versão 1912 (Build 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |8 de janeiro de 2020   |Versão 1912 (Build 12325.20288)  |Várias correções de bugs e de desempenho. <br/>  |
 |10 de dezembro de 2019   |Versão 1911 (Build 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1464) <br/> |
-|22 de novembro de 2019   |Versão 1910 (Build 12130.20410)  |Várias correções de bugs e de desempenho.<br/>  |
-|18 de novembro de 2019   |Versão 1910 (Build 12130.20390)  |Várias correções de bugs e de desempenho.<br/>  |
-|12 de novembro de 2019   |Versão 1910 (Build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1449) <br/>  |
 
 
 
