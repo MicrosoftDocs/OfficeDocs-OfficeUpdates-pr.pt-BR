@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2018
-ms.openlocfilehash: 6ffd421e4ecdacb50d44677333c814d41b48d123
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: ab7cdeb05800c0f98f97bf895f1c88c167075ff9
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614873"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163543"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral em 2018
 
@@ -27,7 +27,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 > - O Canal Semestral era conhecido como Canal Adiado antes de janeiro de 2018.
 
 > [!NOTE]
-> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente na [Atualizações de segurança](office365-proplus-security-updates.md).
+> - As informações de atualizações de segurança para cada canal de atualização do Office 365 ProPlus começarão a ser listadas separadamente na [Atualizações de segurança](microsoft365-apps-security-updates.md).
 
 ## <a name="version-1803-december-11"></a>Versão 1803: 11 de dezembro
 *Versão 1803 (build 9126.2336)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 6d315854f98e59b83fe9baa6c35043fd973dee6f
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 6780bc8f117f78ff3d0ffc5f66dd82ff1ca4e5a7
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029889"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163553"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -26,7 +26,6 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 
 > [!IMPORTANT]
-
 > O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
