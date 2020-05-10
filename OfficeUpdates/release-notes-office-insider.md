@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997474"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170621"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -25,6 +25,43 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2006-may-08"></a>Versão 2006: 08 de maio
+*Version 2006 (Build 12829.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+### <a name="outlook"></a>Outlook
+
+- **Melhores resultados — em uma piscar olhos:** atualizamos a experiência de pesquisa para torná-la mais inteligente, rápida e mais confiável do que nunca. [Saiba mais](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos. [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Investigamos e resolvemos o problema em que uma implantação do Office 365 ProPlus via InTune era pausada após um desligamento do sistema operacional.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -81,14 +118,9 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
+
 ## <a name="version-2005-april-24"></a>Versão 2005: 24 de abril
 *Versão 2005 (Build 12816.20006)*
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-<br/>
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -109,6 +141,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - Essa alteração corrige um problema em que o texto com hiperlinks pode não ser exibido se a opção "Mostrar códigos de campo em vez de seus valores" estiver habilitada.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+
 
 ## <a name="version-2005-april-17"></a>Versão 2005: 17 de abril
 *Versão 2005 (Build 12810.20002)*
@@ -139,9 +172,8 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - Corrigimos um problema em que o Project podia falhar ao alterar o campo de status do quadro em um projeto conectado a uma lista de tarefas do Microsoft Office SharePoint Online.
 - Correção de um problema em que o Project pode falhar ao salvar projetos criados com versões anteriores do Project.
 
-
-
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 
 ## <a name="version-2004-april-10"></a>Versão 2004: 10 de abril
 *Versão 2004 (Build 12730.20024)*
@@ -1834,7 +1866,7 @@ Crie um PDF e o verificador de acessibilidade informará os problemas de acessib
 - Consertamos um problema em que a associação de tipo de arquivo e os ícones do Office poderiam, às vezes, quebrar após uma atualização do Office.
 
 ### <a name="word"></a>Word 
-- Várias correções de desempenho e estabilidade
+- Correções diversas de desempenho e estabilidade
 
 ### <a name="excel"></a>Excel
 - Consertamos um problema em que uma mudança de gráfico poderia resultar em uma falha.
