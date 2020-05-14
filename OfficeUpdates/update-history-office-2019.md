@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: c3127aaae55214fd16f34fa39c6c59c0be706f3d
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044604"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210846"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -38,12 +38,13 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|12 de maio de 2020   |Versão 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901) <br/> |
 |14 de abril de 2020   |Versão 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 de março de 2020   |Versão 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11 de fevereiro de 2020   |Versão 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |14 de janeiro de 2020   |Versão 1808 (Build 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |10 de dezembro de 2019   |Versão 1808 (Build 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1464) <br/> |
-|12 de novembro de 2019   |Versão 1808 (Build 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1449) <br/>  |
+
 
 
 
@@ -60,7 +61,8 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
-|4 de maio de 2020|Versão 2004 (Build 12730.20250)  |Corrige um problema em que determinados projetos do VBA que continham referências a bibliotecas de código com caracteres DBCS (byte duplo) no nome ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento. <br/>  |
+|12 de maio de 2020|Versão 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901)  <br/>  |
+|04 de maio de 2020|Versão 2004 (Build 12730.20250)  |Corrige um problema em que determinados projetos do VBA que continham referências a bibliotecas de código com caracteres DBCS (byte duplo) no nome ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento. <br/>  |
 |29 de abril de 2020|Versão 2004 (Build 12730.20236)  |Várias correções de bugs e de desempenho. <br/>  |
 |15 de abril de 2020|Versão 2003 (Build 12624.20466)  |Várias correções de bugs e de desempenho. <br/>  |
 |14 de abril de 2020|Versão 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0991) <br/> |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: 6780bc8f117f78ff3d0ffc5f66dd82ff1ca4e5a7
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163553"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211256"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -26,7 +26,8 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
+> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
@@ -34,6 +35,9 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 
 [//]: # (NÃO REMOVA)
+
+**11 de maio de 2020**<br/>
+Versão 2004 (Build 12730.20270)<br/>
 
 **04 de maio de 2020**<br/>
 Versão 2004 (Build 12730.20250)<br/>

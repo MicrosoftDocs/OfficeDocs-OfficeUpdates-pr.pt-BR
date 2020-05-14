@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: ae18e941739bcbfd20cf4a7cadcdc515f09d157f
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: 587c06f30792a2f66104cb2fbf56af9a4f81af52
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521139"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211196"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é a **15.0.5233.1000**, que foi lançada em 14 de abril de 2020.
+> A versão mais recente do Office 2013 é **15.0.5241.1000**, que foi lançada no dia 12 de maio de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020|14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
+|2020|12 de maio   |15.0.5241.1000   |[4549680 KB ](https://support.microsoft.com/help/4549680 )  |
+||14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
 ||13 de março   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
 ||11 de fevereiro   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14 de janeiro   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |

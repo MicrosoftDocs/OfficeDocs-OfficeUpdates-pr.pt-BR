@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: 6eae8ac8a39d5225d781a0e93c5d8f0830559ddd
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: a626236899faeeef1708e22726fce7c28dcc4a8e
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715137"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210966"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -34,6 +34,51 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 [//]: # (NÃO REMOVA)
+
+
+## <a name="may-12-2020"></a>12 de maio de 2020
+*Versão 16.37 (Build 20051002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Diga a verdade:** Você tem uma pergunta sobre seu dados? Nas Ideias do Excel, insira uma pergunta e te daremos a resposta. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Os usuários podem começar a ler grandes arquivos na nuvem mais rapidamente, uma vez que o conteúdo grande seja baixado no plano de fundo:** Em vez de baixar todas as imagens e vídeos grandes em uma apresentação em uma nuvem antes de poder ler, agora o PowerPoint atrasará o download desse conteúdo, permitindo que você comece a ler um documento mais cedo
+
+- **Vincular ao Slide:** Peça a um colega para contribuir com o conjunto de slides e inicie-o diretamente no slide para o qual você precisa de ajuda. [Saiba mais](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
+
+- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+
+### <a name="word"></a>Word
+
+- **Digite com as Mãos Livres:** Tem um microfone? Clique em Ditar e veja o Word digitar enquanto você fala.  [Saiba mais](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
+
+
+- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
 ## <a name="april-14-2020"></a>14 de abril de 2020
 *Versão 16.36 (Build 20041300)*
 
@@ -565,8 +610,8 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Preservar a aparência do seu texto:** incorporar fontes para garantir que o texto do documento fique igual em todos os computadores. Sem mais surpresas! [Saiba mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Visualizar fontes inseridas em documentos:** permite que fontes inseridas em um arquivo sejam renderizadas no Word para Mac.<br/><br/>**Barra de status invocável do modo de foco:** no modo de Foco, é mais fácil visualizar a contagem de palavras e acessar controles de zoom com a barra de status invocável.<br/><br/>**Obtenha mais com o Modo de Foco:** ouvimos você! Agora, o Modo de Foco é aberto no nível de zoom definido por você, e também mostra o número da página enquanto você navega.| |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Do iPhone para o PowerPoint em um piscar de olhos:** usar a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu slide. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Exige o Mojave macOS.  <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Exige o Mojave macOS.  <br/><br/>  **Do iPhone para o PowerPoint em um piscar de olhos:** usar a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu slide. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Compartilhar seu calendário:** compartilhar seu calendário com familiares, amigos e colegas. Abrir calendários compartilhados com você no Mac, PC ou versões de nuvem do Outlook. [Saiba mais](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Desabilitar o encaminhamento para uma reunião** Impede que os participantes encaminhem reuniões para outras pessoas. [Saiba mais](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Usar o Teams para conectar a suas reuniões:** Trabalha com equipes remotas? Use o Teams no Outlook para agendar e ingressar em reuniões online. [Saiba mais](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Veja quem estará presente na reunião:** clique em qualquer reunião ou evento no seu calendário para ver quem pretende comparecer.<br/><br/> **Veja três fusos horários:** Precisa agendar uma reunião em diferentes fusos horários? Adicione vários fusos ao seu calendário para ver facilmente a disponibilidade dos participantes e escolha um horário que funcione para todos. [Saiba Mais](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.6 <br/>| Catálogos de atualização de segurança para conter hashes SHA-256 em vez de SHA-1 <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Pacote do Office  <br/>|**Os ícones da faixa de opções ganharam uma nova aparência:** não se preocupe, tudo funciona da mesma maneira. Além disso, todos os ícones têm uma aparência incrível em telas de todos os tamanhos. [Saiba Mais](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Painel de texto Alt atualizado:** torne seu conteúdo mais acessível ao adicionar legendas úteis ou até marcar elementos como decorativos. |<br/>||
@@ -943,8 +988,8 @@ Esta versão oferece as seguintes atualizações.
 |**Aplicativo**|**Atualizações de recurso**|**Atualizações de segurança**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Planos de fundo modernos no Modo de foco:** escolha entre os fundos Crepúsculo ou Noite Polar quando estiver no Modo de foco na guia **Exibição**. [Saiba mais](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Grupos:** exiba seus 10 principais grupos e leia ou responda a conversas em grupo diretamente da pasta Grupos.  <br/> <br/> **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Pacote do Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-0254): vulnerabilidade de corrupção de memória do Microsoft Office   |
 
