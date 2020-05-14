@@ -9,16 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
-ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
+ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44170621"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210936"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
 Este artigo contém notas de versão para versões Insider do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, destacaremos novos recursos interessantes, correções importantes e quaisquer problemas significativos sobre os quais desejamos informá-lo. Em geral, disponibilizamos recursos (e, às vezes, até mesmo correções) para os participantes do programa Office Insider ao longo do tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, caso você não veja algo descrito abaixo, não se preocupe.  
+
+> [!IMPORTANT]
+> Estamos fazendo algumas alterações nos canais de atualização para os Aplicativos do Microsoft 365, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - As notas de versão são publicadas semanalmente e podem ser uma compilação de várias compilações.

@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 645e13aee4bbcf86541a0618c07be4811414c414
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 2764d01ea6acb7a8ee3bcedfe8a32c9ed3bf6934
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029871"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211136"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Mensal em 2020
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão inclusas em atualizações de 2020 do Canal Mensal para Aplicativos do Microsoft 365 para empresas, Aplicativos do Microsoft 365 para negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e Visio.
+
+> [!IMPORTANT]
+> Estamos fazendo algumas alterações nos canais de atualização do Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal corporativo mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -28,6 +31,23 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2004-may-12"></a>Versão 2004: 12 de maio
+*Version 2004 (Criação 12730.20270)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- <div>Soluciona um problema que fazia com que os usuários experimentassem uma falha ao exibirem notificações do sistema.&nbsp;</div>
 
 
 
@@ -149,7 +169,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-2003-april-14"></a>Versão 2003: 14 de abril
 *Versão 2003 (Build 12624.20442)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -265,7 +285,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-march-10"></a>Versão 2002: 10 de março
 *Versão 2002 (Build 12527.20278)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -351,7 +371,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2001-february-11"></a>Versão 2001: 11 de fevereiro
 *Versão 2001 (Build 12430.20264)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -462,7 +482,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1912-january-14"></a>Versão 1912: 14 de janeiro
 *Versão 1912 (Build 12325.20298)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>Versão 1912: 08 de janeiro
 *Versão 1912 (Build 12325.20288)*

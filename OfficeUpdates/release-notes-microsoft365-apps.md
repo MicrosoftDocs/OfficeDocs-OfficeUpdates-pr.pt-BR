@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: 892731e23b47f5c918d08db7b54a3ffc1a2acfa9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163603"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211096"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
@@ -33,18 +33,20 @@ Para obter uma lista completa das atualizações de segurança, confira o seguin
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Histórico de atualizações das versões do Microsoft 365 Apps
 
 Para obter uma lista completa de lançamentos e as versões compatíveis de cada canal, confira o seguinte artigo:
- - [Histórico de atualização do Microsoft 365 Apps (listado por data)](update-history- microsoft365-apps-by-date.md)
+
+- [Histórico de atualização dos Aplicativos do Microsoft 365 relacionado por data](update-history-microsoft365-apps-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Tamanhos de atualização das versões do Microsoft 365 Apps
 
 Para obter uma lista completa dos tamanhos de versões atualizadas, consulte o seguinte artigo:
- - [Tamanhos de download para atualizações do Aplicativos do Microsoft 365] (download-sizes-microsoft365-apps-updates .md)
+ - [Tamanhos de download das atualizações do Microsoft 365 Apps](download-sizes-microsoft365-apps-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de versão das versões do Microsoft 365 Apps
 
 Para obter uma lista completa das notas de versão por canal de atualização e ano, confira estes artigos:
  - Mensal: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Canal Empresarial Mensal:  [2020](monthly-enterprise-channel-2020.md)
  - Semestral (Direcionado): [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Semestral: [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
