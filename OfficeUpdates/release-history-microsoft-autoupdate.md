@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714671"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211106"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,26 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2020-release"></a>Lançamento de maio de 2020
+
+**Data do lançamento:** 12 de maio de 2020
+
+*Atualização automática da Microsoft 4.23*
+
+**Correções de bugs e melhorias:**
+- Para dispositivos que usam MacOS 10.13 ou superior e versões do Office 2016, os usuários verão as notificações do Office 2016 chegar ao fim do suporte. 
+- Se os aplicativos Word, Excel e PowerPoint não tiverem uma janela aberta e o dispositivo estiver no modo de atualização automático do Microsoft AutoUpdate, os usuários não precisarão sair desses aplicativos para aplicar as atualizações. 3. O Microsoft AutoUpdate agora atualizará automaticamente o painel de atualização do com as versões mais recentes na CDN, sem que seja necessário atualizá-lo ou iniciar uma nova sessão do AutoUpdate.
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.23](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>Versão de abril de 2020
 
