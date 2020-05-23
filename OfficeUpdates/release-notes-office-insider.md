@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: d711d401d87c4ca92fbe49e31a1d6fd126fcc46d
+ms.sourcegitcommit: 300468367ec95cc504d2ca34f71017602fa2cc13
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210936"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254582"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -28,6 +28,53 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2006-may-15"></a>Versão 2006: 15 de maio
+*Versão 2006 (Build 12905.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Fazer uma conexão em PDF:** Conectar, importar, atualizar dados de um PDF. [Saiba mais](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+
+### <a name="outlook"></a>Outlook
+
+- **Encontre o que você precisa:** Restrinja sua pesquisa com opções como pasta, remetente, data, informações do anexo e muito mais.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Não é preciso dar um clique: seus earbuds fazem isso por você** Use seu Surface Earbuds para controlar suas apresentações de PowerPoint. Importante: Você deve parear seu Surface Earbuds com o aplicativo Surface Audio para Windows 10 para usar gestos para controlar as apresentações. As instruções sobre como começar a usar o aplicativo de áudio Surface no Windows 10 estão disponíveis aqui. [Saiba mais](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+### <a name="word"></a>Word
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="excel"></a>Excel
+- Consertamos um problema que resultou em um melhor tempo de desempenho para os usuários quando eles excluíam colunas mescladas.
+- <div>Consertamos um problema que causava a duplicação de nomes de impressora na lista de impressoras disponíveis.</div>
+
+### <a name="powerpoint"></a>PowerPoint
+- Consertamos um problema em que os atalhos de teclado e a verificação ortográfica não funcionavam conforme o esperado ao usar um teclado QWERTZ.
+
+### <a name="word"></a>Word
+- Resolvemos um problema em que a adição de um novo comentário em um documento em branco não faria nada.
+- Consertamos um problema em que inserir ou atualizar um índice em um documento que contém mais de cem entradas resultaria no travamento do aplicativo.
+- Consertamos um problema em que os arquivos com valores XML personalizados abriam muito lentamente.
+
+### <a name="office-suite"></a>Pacote Office
+- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
