@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Fornece aos profissionais de ti links para o conteúdo de lançamento do Office para os produtos do Office 365 ProPlus, Office para Mac, perpétua Office e Office Server
-ms.openlocfilehash: 2bdea84afebdfdfd525776aaa50e2540c9d67507
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
+ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714541"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44163443"
 ---
 # <a name="office-updates"></a>Atualizações do Office
 
@@ -32,11 +32,11 @@ Obtenha informações sobre recursos, atualizações de segurança e atualizaç�
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Aplicativos da Microsoft 365</h3>
-                        <p><a href="release-notes-office365-proplus.md">Notas de versão</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">Histórico de atualizações (por data)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">Tamanhos de atualização</a></p>
-                        <p><a href="office365-proplus-security-updates.md">Atualizações de segurança</a></p>
+                        <h3>Aplicativos do Microsoft 365</h3>
+                        <p><a href="release-notes-microsoft365-apps.md">Notas de versão</a></p>
+                        <p><a href="update-history-microsoft365-apps-by-date.md">Histórico de atualizações (por data)</a></p>
+                        <p><a href="download-sizes-microsoft365-apps-updates.md">Tamanhos de atualização</a></p>
+                        <p><a href="microsoft365-apps-security-updates.md">Atualizações de segurança</a></p>
                     </div>
                 </div>
             </div>

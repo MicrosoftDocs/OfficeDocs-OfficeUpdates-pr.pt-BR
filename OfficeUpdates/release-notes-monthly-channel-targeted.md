@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: e6eedc0e585da38dd65f367514255dca6916b22d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211006"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44428996"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -32,6 +32,223 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+## <a name="version-2005-may-29"></a>Versão 2005:29 de maio
+*Versão 2005 (Build 12827,20268)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+
+### <a name="excel"></a>Excel
+
+- **Modo de exibição de planilha:** Classificar/filtrar ao colaborar com outras pessoas na área de trabalho do Excel.
+
+### <a name="outlook"></a>Outlook
+
+- **Botões adicionais adicionados às notificações de notificação do Outlook:** Agora, os botões de ação rápida aparecem nas notificações do Outlook em caso de execução do Outlook no Windows 10.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Foi corrigido um problema que fazia com que os usuários das versões do Windows 10 Server vejam o status de aviso de antivírus: inválido. Esta versão do Windows oferece suporte à detecção de antivírus, mas nenhum antivírus foi encontrado, apesar de ter o antivírus instalado corretamente.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- O host do Office estava falhando no Windows, quando um suplemento é ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth é definida como zero. Essa alteração resolveria esse problema.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-may-21"></a>Versão 2005:21 de maio
+*Versão 2005 (Build 12827,20210)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Obter dados de organização do Power bi usando os tipos de dados do Excel:** Você pode inserir dados da sua organização usando tipos de dados do Excel. Converta uma célula na sua pasta de trabalho e obtenha informações adicionais e atualize os dados sempre que precisar!
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Correção de um problema em que o Excel pode parar de responder após usar Ctrl + Shift + teclas de direção para rolar quando a janela do Excel é compartilhada por meio do teams.
+
+
+- Em alguns casos, clicar em um hiperlink para um local dentro da mesma pasta de trabalho fará com que a pasta de trabalho fique oculta.
+
+
+### <a name="outlook"></a>Outlook
+
+- Foi corrigido um problema com o evento CLP de auditoria para o rótulo de resposta/encaminhamento.
+
+
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao enviar comentários de uma notificação de administrador.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-may-14"></a>Versão 2005:14 de maio
+*Versão 2005 (Build 12827,20160)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Não é preciso dar um clique: seus earbuds fazem isso por você** Use seu Surface Earbuds para controlar suas apresentações de PowerPoint. Importante: Você deve parear seu Surface Earbuds com o aplicativo Surface Audio para Windows 10 para usar gestos para controlar as apresentações. As instruções sobre como começar a usar o aplicativo de áudio Surface no Windows 10 estão disponíveis aqui. [Saiba mais](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+### <a name="word"></a>Word
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="excel"></a>Excel
+
+- Foi aumentado o tamanho dos controles de edição de referência de célula na caixa de diálogo Barras de Erros Personalizadas usada com gráficos.
+
+- Corrigimos um problema em que a tabela de dados do gráfico poderia processar incorretamente valores em um eixo de datas.
+
+- Corrigimos um problema em que as quebras de página poderiam não ser desabilitadas após entrar no Layout da Página ou na Visualização da Quebra de Página.
+
+- Corrigimos um problema em que os estilos de linha do gráfico poderiam ser perdidos após ocultar e reexibir colunas com dados de série.
+
+- Correção de um problema em que a inserção de uma coluna em uma lista filtrada levaria mais tempo do que o esperado.
+
+- Foi corrigido um problema com o dimensionamento de caixas de seleção nos controles de formulário quando impressos.
+
+- Correção de um problema em que o link externo para de funcionar depois que o arquivo for reaberto se o caminho do arquivo for muito longo.
+
+- As pastas de trabalho salvas com uma assinatura digital no Excel 2016 podem ter a assinatura invalidada ao serem abertas na versão atual do Excel.
+
+- O Application.Evaluate (VBA) não estava funcionando para funções definidas pelo usuário em alguns casos.
+
+- As pastas de trabalho salvas com uma assinatura digital no Excel 2016 podem ter a assinatura invalidada ao serem abertas na versão atual do Excel.
+
+- Essa alteração corrige um problema em que as informações de formatação condicional (CF) não estavam sendo salvas nos arquivos XLSB corretamente.
+
+- Essa alteração corrige um problema em que o valor do R-quadrado da linha de tendência do gráfico (no caso de interceptação em y forçado) estava incorreto, mesmo que a função PROJ.LIN retorne o valor correto.
+
+- Essa alteração corrige um problema em que a formatação personalizada da linha de tendência do gráfico nem sempre estava sendo salva.
+
+- Uma falha pode ocorrer ao tentar listar alterações em uma nova planilha para uma pasta de trabalho usando o modo de "pasta de trabalho compartilhada" herdado.
+
+- Corrigimos um problema em que a formatação personalizada em gráficos dinâmicos pode não ser salva quando a opção "inverter se negativo" estiver habilitada.
+
+- Corrigimos um problema em que a formatação personalizada de um único ponto de dados em um Gráfico dinâmico não era salva se a opção "inverter se negativo" tivesse sido selecionada.
+
+- Essa alteração corrige um problema em que o caractere ' @ ' carregado em um arquivo CSV resultaria na conversão da cadeia de caracteres após o caractere ' @ ' em uma fórmula.
+
+- Corrigimos um problema em que os valores decimais na função SEQUÊNCIA não eram arredondados corretamente.
+
+### <a name="onenote"></a>OneNote
+
+- Foi corrigido um problema em que as quebras de linha estavam sendo armazenadas como guias verticais.
+
+### <a name="outlook"></a>Outlook
+
+- Resolve um problema que fazia com que os usuários não pudessem adicionar um Grupo de Contatos Pessoais como participante da reunião.
+
+- Correção de um problema em que o botão categorizar para calendários de grupo na faixa de opções do Office foi desabilitado.
+
+- Foi solucionado um problema que causava uma falha no Outlook ao abrir arquivos .msg ou .oft que eram salvos localmente após uma atualização do Windows.
+
+- Corrigimos um problema em que os clientes corporativos com pastas de grupo não implementadas ou que não funcionavam resultaria na exibição da mensagem “não respondendo” no Outlook.
+
+- Solucionamos um problema que causaria um safelinks muito longo que os usuários clicaram no cliente da área de trabalho do Outlook para falha ao carregar devido ao truncamento.
+
+- Corrigimos um problema em que as pastas do Outlook com nomes que continham caracteres DBCS (conjunto de caracteres de dois bytes) poderiam desaparecer de forma intermitente ao sincronizar com o servidor. Para que isso aconteça, o Outlook tinha que ser configurado com uma conta IMAP e estar sendo executado em um sistema com a localidade definida como japonês.
+
+- Foi corrigido um problema que provocou as regras de exclusão criadas para caixas de correio diferentes da caixa de correio principal do usuário para se tornarem inválidas.
+
+- Solucionamos um problema que fazia com que os anexos sejam descartados ao encaminhar uma mensagem criptografada.
+
+- Solucionamos um problema que causaria reuniões com mais de dois meses de falha para exibir um assunto de reunião no assistente de agendamento.
+
+- Resolvemos um problema que fazia com que os usuários vissem truncamento do corpo da mensagem ao encaminhar mensagens HTML grandes.
+
+- Foi adicionada a capacidade de impor a configuração de assinatura padrão S/MIME pela política de grupo.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que, se um usuário criasse um comentário sem postá-lo, fechasse o painel Comentários, abrisse uma nova janela, navegasse por vários slides, fechasse a janela e, por fim, reabrisse o painel Comentários na apresentação original, os comentários de rascunho não estariam disponíveis.
+
+- Corrigimos um problema em que passar o mouse sobre o símbolo de asterisco (*) não exibia o nome de usuário e a data da última pessoa a atualizar o documento.
+
+### <a name="project"></a>Project
+
+- Quando dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado.
+
+- Corrigimos um problema em que o Project podia falhar ao alterar o campo de status do quadro em um projeto conectado a uma lista de tarefas do Microsoft Office SharePoint Online.
+
+- Correção de um problema em que o Project pode falhar ao salvar projetos criados com versões anteriores do Project.
+
+- Correção de um problema em que, se o projeto estiver conectado ao Project Web App e o separador decimal for uma vírgula, o método TaskDependencies Add falhará quando o retardo for adicionado.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que a inserção de comentários em um documento no modo de colaboração nem sempre funcionava.
+
+- Essa alteração corrige um problema em que o cartão Pessoas piscava se o @ da menção estivesse selecionado.
+
+- Habilitar a opção "Mostrar indicadores" não exibia os indicadores. Isso foi corrigido.
+
+- Corrigimos um problema em que o fechamento de um documento com comentários de rascunho perguntaria para o usuário se eles gostaria de fechar o documento sem salvar os comentários. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
+
+- Corrigimos um problema na cópia e na colagem de cabeçalhos.
+
+- Correção de um problema em que a conversão de um comentário Postado resultaria no erro "falha ao inserir texto traduzido".
+
+- Essa alteração corrige um problema em que o texto com hiperlinks pode não ser exibido se a opção: "mostrar códigos de campo em vez de seus valores" estiver habilitada.
+
+- No leitor Exibição da Web/Imersivo, clicar em uma dica rolaria a tela para cima, mesmo que ele já estivesse em exibição. Isso foi corrigido.
+
+- Corrigimos um problema em que, ao tentar salvar um arquivo que contém uma macro com um novo nome, o arquivo poderia ser salvo com a extensão. docx e com o nome de arquivo WRO0004.docx, independentemente de qual nome o usuário inseriu, tornando o documento inutilizável.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Quando um usuário recebe uma política que as transfere apenas para o Microsoft Teams, ainda era possível usar o suplemento do Outlook para o Skype for Business para agendar reuniões.  Após esta atualização, você não poderá mais agendar reuniões do Skype for Business depois que o cliente lê a política que indica que o usuário é apenas o Microsoft Teams e insere o modo somente ingresso na reunião.  Além disso, o suplemento do Outlook para o Skype for Business não se ativará enquanto é iniciado se ele estiver no modo somente ingresso na reunião.
+
+- Esta atualização corrige um problema no Microsoft Office, em que os projetos do Visual Basic for Applications com referências esperadas para localizar localizações especificadas na variável de ambiente PATH podem não ser encontrados corretamente no tempo de execução, levando a erros de tempo de execução VBA.
+
+- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2004-may-11"></a>Versão 2004: 11 de maio
 *Versão 2004 (Criação 12730.20270)*
@@ -51,7 +268,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba Mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -62,7 +279,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -76,7 +293,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2004-may-04"></a>Versão 2004: 04 de maio
 *Versão 2004 (Build 12730.20250)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -90,7 +307,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote Office
@@ -99,12 +316,12 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2004-april-29"></a>Versão 2004: 29 de abril
 *Versão 2004 (Build 12730.20236)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -116,7 +333,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -142,7 +359,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 - Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Essa correção resolve um erro que ocorre impedindo o acesso restrito e protegendo os arquivos com uma senha simultaneamente.
 
@@ -168,7 +385,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2004-april-15"></a>Versão 2004: 15 de abril
 *Versão 2004 (Build 12730.20150)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -192,7 +409,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -345,7 +562,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-april-09"></a>Versão 2003: 09 de abril
 *Versão 2003 (Build 12624.20442)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -365,16 +582,16 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-april-03"></a>Versão 2003: 03 de abril
 *Versão 2003 (Criação 12624.20410)*
@@ -417,7 +634,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="project"></a>Projeto
@@ -441,7 +658,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-march-21"></a>Versão 2003: 21 de março
 *Versão 2003 (Build 12624.20276)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -461,7 +678,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 *Versão 2003 (Build 12624.20224)*
 
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -485,11 +702,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -615,7 +832,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
@@ -640,7 +857,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - <div>Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.</div>
 
 
@@ -649,7 +866,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Criação 12527.20242)*
@@ -677,10 +894,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Versão 2002 (Build 12527.20174)
 
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
 - **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
 
@@ -693,7 +910,7 @@ Versão 2002 (Build 12527.20174)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -719,7 +936,7 @@ Versão 2002 (Build 12527.20174)
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-february-18"></a>Versão 2002: 18 de fevereiro
 *Versão 2002 (Build 12527.20138)*
@@ -741,7 +958,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
 
@@ -750,7 +967,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -843,483 +1060,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 - Essa alteração soluciona problemas relatados com adaptadores gráficos que utilizam a GPU integrada da Intel.
-
-
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-2001-january-29"></a>Versão 2001: 29 de janeiro
-*Versão 2001 (Build 12430.20184)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="word"></a>Word
-
-- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-
-### <a name="outlook"></a>Outlook
-
-- Soluciona um problema que fazia com que os usuários experimentassem falhas ao renomear uma assinatura.
-
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-2001-january-27"></a>Versão 2001: 27 de janeiro
-*Versão 2001 (build 12430.20170)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="excel"></a>Excel
-
-- **Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.
-
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-- **Criação de perfil de dados no editor de consultas:** obtenha uma análise rápida dos dados em suas colunas, identifique erros e valores vazios, consulte histogramas de distribuição e muito mais.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-### <a name="word"></a>Word
-
-- **Pronto, definir, desenhar:** quando você selecionar sua caneta Surface, estará pronto para desenhar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
-
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente</span></span></div>
-
-
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-2001-january-17"></a>Versão 2001: 17 de janeiro
-*Versão 2001 (Build 12430.20120)*
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="word"></a>Word
-
-- **Selecione facilmente Tinta no Word desenhando uma forma ao redor dela:** a ferramenta Laço na guia Desenhar ajuda a selecionar objetos desenhados à tinta. Selecione traços individuais ou palavras inteiras. Isso é útil quando há muita tinta e deseja apenas trabalhar com algumas delas. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="excel"></a>Excel
-
-- O cliente do Excel está causando problemas em vários cenários (como impressão, execução de macros, zoom,...) em uma Versão 2001 que não está em inglês para usuários com o build 12430.20050 e executando a versão de 32 bits do Excel. 
-
-## <a name="version-2001-january-14"></a>Versão 2001: 14 de janeiro.
-*Versão 2001 (Build 12430.20050)*
-
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-## <a name="version-1912-january-08"></a>Versão 1912: 08 de janeiro
-*Versão 1912 (Build 12325.20288)*
-
-## <a name="version-1912-january-07"></a>Versão 1912: 07 de janeiro
-*Versão 1912 (Build 12325.20280)*
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="outlook"></a>Outlook
-
-- Solucionamos um problema que fazia com que os usuários vissem os e-mails enviados para um endereço que não correspondia ao endereço SMTP exibido em algumas circunstâncias.</div>
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-1912-january-06"></a>Versão 1912: 06 de janeiro
-*Versão 1912 (Build 12325.20264)*
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="powerpoint"></a>PowerPoint
-
-- **GIFs em uma piscar olhos:** um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
-
-## <a name="version-1912-december-30"></a>Versão 1912: 30 de dezembro
-*Versão 1912 (Build 12325.20240)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="excel"></a>Excel
-
-- **Traga o contexto junto com seus objetos SVG!:** Agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Office.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Traga o contexto junto com seus objetos SVG!:** Agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Office.
-
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="outlook"></a>Outlook
-
-- <div>Soluciona um problema que fazia com que os usuários experimentassem travamentos no Outlook ao recuperar as configurações da nuvem.</div>
-
-
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-1912-december-19"></a>Versão 1912: 19 de dezembro
-*Versão 1912 (Build 12325.20214)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="word"></a>Word
-
-- **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você. [Saiba mais](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="outlook"></a>Outlook
-
-- Solucionamos um problema que fazia com que os usuários percebessem um atraso notável ao interagir com as pastas da caixa de correio por meio dos atalhos de teclado.
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-1912-december-12"></a>Versão 1912: 12 de dezembro
-*Versão 1912 (Build 12325.20172)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="excel"></a>Excel
-
-- Os usuários podem encontrar um erro ao salvar as alterações enquanto usam alguns conjuntos de caracteres que não estão em inglês.
-
-- Editar fórmulas de matriz dinâmica dentro de uma célula pode fazer o texto ficar alinhado fora do limite da célula.
-
-- A funcionalidade Texto em Coluna pode falhar em algumas localizações.
-
-- Resolvido um problema com a personalização da faixa de opções que não carregava ao abrir a pasta de trabalho inserida.
-
-- Os usuários podem encontrar um erro ao acessar um intervalo nomeado oculto.
-
-- O menu suspenso de Margem pode não ser renderizado corretamente.
-
-- A desativação da aceleração de gráficos de hardware com resolução de 4K poderá causar um atraso na renderização de células ao usar a rolagem.
-
-- Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.
-
-### <a name="onenote"></a>OneNote
-
-- O OneNote pode não abrir através do suplemento “Anotações da Reunião” do Outlook.
-
-### <a name="outlook"></a>Outlook
-
-- Falha intermitente envolvendo conteúdo de pastas cruzadas.
-
-- As imagens inseridas embutidas nas mensagens de email do Outlook às vezes podem ser redimensionadas.
-
-- Foi adicionada a capacidade de impor a configuração de assinatura padrão S/MIME pela política de grupo.
-
-- Imagens inseridas podem ser exibidas menor que o esperado.
-
-- Os rótulos da política de retenção podem exibir o período de retenção entre parênteses.
-
-- Corrige um problema que fazia com que as Dicas de política deixassem de ser exibidas ao usar um remetente alternativo.
-
-- Espaços em branco podem aparecer nos cartões de Contato com o pacote de idioma japonês.
-
-- Corrige um problema que fazia com que o local de uma reunião fosse adicionado novamente à reunião após a limpeza.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- O cursor pode desaparecer após mover o foco do texto.
-
-- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
-
-- Em alguns casos, a rolagem com dispositivos de toque não funcionará.
-
-- Se um usuário tiver dois (ou mais) vídeos diferentes em um slide de um arquivo na nuvem, as imagens de vídeos são processadas corretamente, mas quando o usuário clica em cada uma delas, o conteúdo do vídeo é o mesmo.
-
-- O menu suspenso de Margem pode não ser renderizado corretamente.
-
-### <a name="project"></a>Project
-
-- Se você estiver no modo Escuro, ao acessar o painel do inspetor de tarefas em uma tarefa com um recurso superalocado, não será possível ler a tabela.
-
-- Os usuários podem ter um erro de licenciamento.
-
-- O botão Hoje no seletor de data pode, às vezes, definir a data incorreta.
-
-- O Project pode falhar ao usar o recurso de Comparar Projetos.
-
-- O esforço para definir tarefas que não têm atribuições está arredondado para um dia.
-
-### <a name="word"></a>Word
-
-- Selecionar uma dica de comentário agora mostra o painel de comentários modernos quando oculto no seletor do painel.
-
-- O clique com o botão direito do mouse às vezes pode não resultar na seleção da palavra inteira.
-
-- Os links seguros de um aplicativo do Office para outro podem não iniciar o aplicativo vinculado.
-
-- O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.
-
-- Alguns temas podem dificultar a determinação do comentário selecionado.
-
-- O cursor pode permanecer ativo dentro de um objeto após convertê-lo para um formato sugerido.
-
-- As imagens nas mensagens podem ser dimensionadas incorretamente em alguns cenários.
-
-- Às vezes, o painel de comentários é recarregado ao usar a opção de copiar/colar.
-
-- Às vezes, os comentários não são colados na ordem correta.
-
-- Ao mencionar um usuário em um cartão de comentários, um JSON poderá ser exibido.
-
-- O menu suspenso de Margem pode não ser renderizado corretamente.
-
-- O redimensionamento de uma borda da tela dividida poderá introduzir uma tela dividida adicional.
-
-- A aplicação de um modelo que consiste em uma lista de vários níveis com estilos personalizados para documentos existentes pode não preservar o estilo sob determinadas condições.
-
-- Salvar um arquivo após fazer uma mala direta pode não funcionar em determinadas condições.
-
-### <a name="office-suite"></a>Pacote Office
-
-- Colar um gráfico do Excel para o PowerPoint pode reduzir o tamanho do gráfico.
-
-- Responder a um comentário pode fazer com que a caixa de texto se expanda verticalmente além da borda do painel.
-
-- Para produtos com base japonesa, o nome do usuário da conta e o sobrenome podem aparecer em ordem incorreta.
-
-- Corrigimos um prolema na ODT e na configuração da Data Limite da Atualização do GPO, onde a data limite relativa só funciona na primeira vez que é definida, a correção habilita a data limite relativa para as atualizações subsequentes.
-
-- Passar o cursor do mouse sobre os comentários poderá exibir uma estrutura de tópicos de caixa de texto em torno do comentário.
-
-- Corrigimos um problema em que as atualizações do Office podem ter baixado arquivos da CDN do Office inesperadamente, em vez da origem pretendida, como um compartilhamento de rede ou local ou um local fornecido pelo Configuration Manager.
-
-
-
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-## <a name="version-1911-december-10"></a>Versão 1911: 10 de dezembro
-*Versão 1911 (Build 12228.20364)*
-
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="excel"></a>Excel
-
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-### <a name="outlook"></a>Outlook
-
-- **Política de Nome de Grupo:** Uma política de nome de grupo permite que o administrador de TI padronize e gerencie os nomes do grupos criados pelos usuários na organização. O administrador pode exigir o uso de um prefixo ou sufixo específico para o nome de um grupo quando ele é criado e pode bloquear o uso de palavras específicas. Isso ajuda a minimizar o uso de palavras inadequadas em nomes de grupos, além de gerenciar a representação de grupos no diretório. A Política de Nome também ajuda as organizações que implantam sites de equipe a categorizar com base no departamento.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Repe-tinta-ção Instantânea:** Ao escrever à tinta nos slides, aplique uma animação de repetição para reproduzir o desenho real da sua tinta durante a apresentação de slides. [Saiba mais](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
-
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar.
-
-### <a name="word"></a>Word
-
-- **Outras pessoas veem suas alterações rapidamente:** os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
-
-- **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-## <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="excel"></a>Excel
-
-- Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.
-
-- Corrigimos o menu do botão direito do mouse de Gráficos Dinâmicos para habilitar a opção Mostrar Detalhes.
-
-### <a name="outlook"></a>Outlook
-
-- Resolvido um problema que fazia com que os suplementos da Web acessassem mensagens Gerenciadas por Direitos Digitais.
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
-
-## <a name="version-1911-november-20"></a>Versão 1911: 20 de novembro
-*Version 1911 (Build 12228.20250)*
-
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="outlook"></a>Outlook
-
-- **Configurações avançadas de email do grupo:** Esse recurso ajuda os usuários de grupos a personalizar quais emails ou eventos receber/acompanhar na caixa de entrada.
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
-
-## <a name="version-1911-november-15"></a>Versão 1911: 15 de novembro
-*Versão 1911 (Build 12228,20206)*
-
-## <a name="version-1911-november-12"></a>Versão 1911: 12 de novembro
-*Versão 1911 (Build 12228,20120)*
-
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="excel"></a>Excel
-
-- **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="outlook"></a>Outlook
-
-- **Enviar email acessível para quem mais precisa:** O Outlook exibirá uma dica de email para ajudar a garantir que seu conteúdo seja acessível ao enviar para um usuário que prefira este tipo de conteúdo.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
-
-### <a name="visio"></a>Visio
-
-- **Crie diagramas elegantes do Visio no Excel:** visualize seus dados de forma rápida e fácil nos diagramas elegantes do Visio no Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="word"></a>Word
-
-- **Melhorias de coautoria:** experiência de coautoria melhorada, tornando mais provável que as alterações de conteúdo sejam recebidas por outras pessoas em tempo real.
-
-### <a name="office-suite"></a>Pacote Office
-
-- **O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção:** O Upload Center está sendo substituído pela experiência de Arquivos Que Precisam de Atenção, que será mostrado dentro dos aplicativos do Office em Arquivo > Abrir. Essa nova experiência é mais moderna, integrada e menos invasiva em comparação ao Upload Center.
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
-
-### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
-
-- A contagem de registros pode estar incorreta.
-
-### <a name="excel"></a>Excel
-
-- Resolvido um problema em que a exclusão de planilhas com dados que faziam referência a dados de outra planilha fazia o arquivo ser identificado como corrompido ao ser aberto novamente.
-- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
-- As caixas de seleção não podem ser processadas corretamente.
-- As caixas de diálogo Selecionar Fonte de Dados não diferenciam maiúsculas de minúsculas em alguns campos.
-- Algumas funções do VBA retornariam um erro em um novo gráfico.
-- Os usuários podem ser impedidos de salvar no formato de Pasta de Trabalho do Office 365 Excel.
-- Resolvido um problema em que os controles da caixa de seleção podiam diminuir ao usar o AutoAjuste para ajustar a altura da linha.
-- Resolvido um problema em que resultados incorretos eram obtidos ao converter filtros de relatórios com o restante da tabela dinâmica para consultas a servidores de tabela SQL.
-- Resolvido um problema que poderia causar falha no Excel ao editar um arquivo protegido a partir de um compartilhamento de rede não confiável.
-- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
-- Resolvido um problema em que a seleção de uma célula após a rolagem poderia resultar na seleção da célula errada.
-- Melhoramos significativamente o desempenho da exclusão de colunas com células mescladas.
-
-### <a name="onenote"></a>OneNote
-
-- Identificado um problema que podia afetar a sincronização de um recurso local para um recurso na nuvem.
-
-### <a name="outlook"></a>Outlook
-
-- A ferramenta Localizador de Sala pode estar exibindo &quot;Nenhuma&quot; para salas disponíveis.
-- Identificado um problema em que a caixa de pesquisa podia desaparecer quando a faixa de opções estivesse configurada para ocultar automaticamente.
-- Identificado um problema que poderia fazer com que assinaturas digitais fossem corrompidas ao assinar um email com um anexo assinado digitalmente.
-- Um email encaminhado pode não apresentar imagens inseridas.
-- Os usuários talvez não consigam criar perfis do Outlook com restrição estrita de locatário.
-- Identificado um problema em que os nomes de arquivos longos eram truncados após arrastar e soltar no corpo da mensagem.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
-- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
-- Identificado um problema em que a taxa de proporção da visualização do slide não estava sendo bloqueada/desbloqueada corretamente.
-
-### <a name="project"></a>Project
-
-- Identificado um problema em que as anotações podiam não persistir se inseridas durante a realização de tarefas de atualização.
-- O usuário não consegue marcar uma tarefa como concluída, e ela é definida como 99%.
-- As superalocações não são resolvidas por nivelamento.
-- Identificado um problema em que os usuários podiam receber várias mensagens ao abrir um projeto somente leitura.
-- Identificado um problema em que um arquivo podia ser bloqueado por um usuário, mas nenhum nome de usuário seria exibido na mensagem de erro.
-
-### <a name="publisher"></a>Editor
-
-- As formas podem aparecer fora da borda do gráfico.
-
-### <a name="word"></a>Word
-
-- As sugestões de revisão não são exibidas nos menus de contexto.
-- As alterações feitas em um tamanho de gráfico não puderam ser salvas.
-- As formas podem aparecer fora da borda do gráfico.
-- Identificado um problema ao visualizar comentários usando um leitor de tela.
-- Identificado um problema em que algumas críticas foram identificadas incorretamente como sendo críticas de ortografia ou gramática.
-- Os links de cid: imagens de mensagens do Outlook podem ser interrompidas com sucesso quando solicitado.
-- Caracteres incorretos podem ser exibidos ao usar a AutoCorreção de coreano/inglês.
-- A pesquisa no Painel navegação pode falhar.
-- Usar o Narrador e a Lupa ao mesmo tempo pode causar uma falha.
-- As políticas de conteúdo estão sendo aplicadas incorretamente a comentários.
-- Rótulos de políticas mais baixos poderão ser aplicados quando um rótulo de política mais alto precisar ter prioridade.
-- Abrir documentos herdados e acessar a guia Informações pode causar uma falha.
-- Identificado um problema em que um nova caixa de diálogo de comentários podia, às vezes, não ter foco.
-- Um cartão de visita poderia ser impedido de abrir após aplicar a formatação a uma @ menção.
-- Realçar o texto pode ser desafiador.
-- Resolvemos um problema em que os usuários poderiam não conseguir salvar documentos do Word, Excel e PowerPoint. Esse problema afeta os usuários que criam um novo arquivo e escolhem a opção "Salvar como" após clicar no ícone Salvar ou pressionar Ctrl + S.
-- Comentários herdados escritos com texto escuro não são visíveis no Modo Escuro.
-- Um usuário poderia ser impedido de navegar para um item individual no editor.
-- Os erros de gramática ou ortografia podem não estar realçados.
-
-### <a name="office-suite"></a>Pacote Office
-
-- Alguns desenhos podem não ser exibidos na visualização ou na apresentação de slides.
-- Corrigimos um problema que uma atualização poderia ser impedida por uma mensagem de erro incorreta de “Outra instalação em andamento”
-- Alguns caracteres Katakana podem ser exibidos incorretamente em uma caixa de texto vertical.
-- Tentar salvar um arquivo em um compartilhamento de rede desconectado podem ocasionar uma falha.
-- Problema de desempenho ao usar Formas no Windows 7.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 

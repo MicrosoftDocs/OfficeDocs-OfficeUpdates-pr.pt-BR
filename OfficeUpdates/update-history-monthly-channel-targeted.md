@@ -1,6 +1,6 @@
 ---
 title: Histórico de atualizações do Office – Canal Mensal (direcionado)
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211256"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429006"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Histórico de atualizações do Office – Canal Mensal (direcionado) para Windows
 
@@ -35,6 +35,15 @@ Se você estiver inscrito no nível do Canal Mensal (Direcionado), anteriormente
 
 
 [//]: # (NÃO REMOVA)
+
+**29 de maio de 2020**<br/>
+Versão 2005 (Build 12827,20268)<br/>
+
+**21 de maio de 2020**<br/>
+Versão 2005 (Build 12827,20210)<br/>
+
+**14 de maio de 2020**<br/>
+Versão 2005 (Build 12827,20160)<br/>
 
 **11 de maio de 2020**<br/>
 Versão 2004 (Build 12730.20270)<br/>
