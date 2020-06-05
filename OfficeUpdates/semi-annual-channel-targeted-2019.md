@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796117"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565046"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -27,7 +27,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ## <a name="version-1908-december-10"></a>Versão 1908: 10 de dezembro 
 *Versão 1908 (Build 11929.20516)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -129,7 +129,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-november-12"></a>Versão 1908: 12 de novembro
 *Versão 1908 (Build 11929.20436)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -157,7 +157,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.</div>
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
 - Correção de confiabilidade: Corrigido um problema em que o suplemento de terceiros poderia causar falha no PowerPoint.
 
 ### <a name="project"></a>Project
@@ -206,7 +206,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-october-08"></a>Versão 1908:8 de outubro
 *Versão 1908 (Build 11929.20388)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -246,7 +246,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-september-10"></a>Versão 1908: 10 de setembro
 *Versão 1908 (Build 11929.20300)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -457,7 +457,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-august-13"></a>Versão 1902: 13 de agosto
 *Versão 1902 (Build 11328.20392)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 - Correção de um problema em que o ícone limpar filtro era mostrado para segmentações de dados filtradas e não filtradas nas tabelas.
@@ -479,7 +479,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-july-09"></a>Versão 1902: 09 de julho
 *Versão 1902 (Build 11328.20368)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
@@ -521,7 +521,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ## <a name="version-1902-june-11"></a>Versão 1902: 11 de junho
 *Versão 1902 (Build 11328.20318)*
-<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
  - Foi resolvido um problema que causava uma falha ao salvar um arquivo contendo um mapa XML em PDF.
