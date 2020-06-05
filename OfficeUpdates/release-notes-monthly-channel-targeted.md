@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44428996"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563671"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -33,10 +33,49 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
+## <a name="version-2005-june-04"></a>Versão 2005:04 de junho
+*Versão 2005 (Build 12827,20320)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Mantenha-se atualizado com os tempos! O tipo de dados estendidos de data/hora tem uma precisão melhor.:** apresentando um novo e aprimorado tipo de dados.  Para aprimorar a compatibilidade de sintaxe com o SQL e para aumentar a precisão e o nível de detalhes nos registros que incluem datas e horas, estamos implementando o tipo de dados DateTime2 no Access. Essa data adicional & o tipo de dados de hora incluirá um intervalo de datas maior (0001-01-01 a 9999-12-31), com precisão de tempo mais elevada (nanossegundos, em vez de segundos) que você poderá fornecer e realizar cálculos. Para habilitar, selecione novo campo > data & tempo estendido. [Saiba mais](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro.
+
+### <a name="outlook"></a>Outlook
+
+- **Opção para reabrir rapidamente os itens da sessão anterior do Outlook:** Adicionamos uma opção para reabrir rapidamente os itens de uma sessão anterior do Outlook.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Isso corrige uma falha quando os usuários têm comentários modernos e antigos em um arquivo, disparando uma atualização nos comentários.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolvemos o problema de taxa de falha do ValidateInstall Configurando a validação de instalação de Complementos do Bing como true por padrão e considerando o MSI Return Success como uma instalação bem-sucedida.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 ## <a name="version-2005-may-29"></a>Versão 2005:29 de maio
 *Versão 2005 (Build 12827,20268)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 
@@ -405,11 +444,11 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 - **Faça anotações na sua cópia particular:** crie anotações redigidas à mão para você mesmo, fazendo uma cópia privada de um documento compartilhado. Vá para Exibir > Criar uma cópia privada para começar.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -582,7 +621,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 <br/>
 
@@ -591,7 +630,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-april-03"></a>Versão 2003: 03 de abril
 *Versão 2003 (Criação 12624.20410)*
@@ -637,7 +676,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">Correção de um problema em que o usuário não conseguiu entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.</span><br></div>
 
@@ -702,11 +741,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -832,7 +871,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
@@ -841,7 +880,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Correção de um problema em que, quando vários documentos da mesma biblioteca do SharePoint estivessem abertos no Word/Excel/PowerPoint, somente o primeiro documento aberto era verificado quanto à conformidade com Políticas.
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-05"></a>Versão 2002: março de 2005
 *Versão 2002 (Build 12527.20278)*
@@ -866,7 +905,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Criação 12527.20242)*
@@ -897,7 +936,7 @@ Versão 2002 (Build 12527.20174)
  (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
 
@@ -958,7 +997,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
 
@@ -967,7 +1006,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
