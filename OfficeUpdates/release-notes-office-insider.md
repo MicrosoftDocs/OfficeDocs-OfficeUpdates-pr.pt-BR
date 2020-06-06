@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424583"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581780"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -29,7 +29,67 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 [//]: # (NÃO REMOVA)
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2006-june-05"></a>Versão 2006:05 de junho
+*Versão 2006 (Build 13001,20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Classificar/filtrar ao colaborar no Excel:** Agora você pode classificar e filtrar o arquivo do Excel enquanto estiver colaborando com outras pessoas. Este novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento.
+
+- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **Reabrir rapidamente os itens da sessão anterior:** Adicionamos uma opção para reabrir rapidamente os itens de uma sessão anterior do Outlook. Se o Outlook falhar ou fechá-lo, agora você poderá reinicializar os itens rapidamente ao reabrir o aplicativo. Este recurso está ativado por padrão. Para desativá-la, acesse opções > opções gerais de > de inicialização.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que os valores personalizados no eixo do gráfico não são aplicados corretamente.
+- Corrigimos um problema em que as planilhas contendo várias fórmulas com nomes definidos resultavam em tempos mais longos ao salvar arquivos.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que a janela IME (editor de método de entrada) iria sobrepor o texto subjacente inserido por meio do IME ao usar vários monitores com diferentes resoluções.
+- Corrigimos um problema em que exibir um modelo ao redigir uma nova mensagem de email resultaria em uma falha.
+- Corrigimos um problema em que os usuários não conseguiram trocar as pastas públicas do 2010 após a versão 1911 do Outlook.
+- Corrigimos um problema em que o botão categorizar para calendários de grupo na faixa de opções do Office foi desabilitado.
+- Corrigimos um problema que faria com que os usuários com contatos conflitantes experimentassem falhas no Outlook.
+- Corrigimos um problema que resultou na lista suspensa de arquivo morto online nas propriedades da pasta que está ausente para usuários em monitores de DPI alto.
+- Corrigimos um problema que fazia com que os usuários experimentassem uma falha no Outlook ao trabalhar com hiperlinks em emails de texto sem formatação.
+- Corrigimos um problema que fazia com que o Outlook fosse incapaz de analisar os nomes de arquivo longos codificados com o RFC2231.
+- Corrigimos um problema que estava fazendo com que os usuários do Outlook experimentassem interrupções intermitentes ao usarem leitores de tela.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema com a abertura de arquivos configurados pelo servidor com autenticação baseada em formulários.
+- Corrigimos um problema em que os arquivos do PowerPoint com gráficos/pastas de trabalho incorporados podem resultar em falhas ao salvar o arquivo.
+- Corrigimos um problema em que um painel de comentários que foi fechado pelo usuário seria reaberto automaticamente.
+- Resolvemos um problema em que o editor de slides de um slide se sobrepõe ao próximo slide.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema que impedia que tarefas órfãas fossem excluídas ou reatribuídas após o plano pai ser excluído.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que os carimbos de data/hora em painéis de comentários não foram baseados no horário local do sistema.
+- Correção de um problema em que os comentários entre o aplicativo Web e o aplicativo de área de trabalho não estavam sincronizados.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 
 ## <a name="version2006may29"></a>Versão 2006:29 de maio
 *Versão 2006 (Build 12920,20000)*
@@ -75,7 +135,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ## <a name="version-2006-may-22"></a>Versão 2006:22 de maio
 *Versão 2006 (Build 12914,20000)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -143,7 +203,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Não é preciso dar um clique: seus earbuds fazem isso por você** Use seu Surface Earbuds para controlar suas apresentações de PowerPoint. Importante: Você deve parear seu Surface Earbuds com o aplicativo Surface Audio para Windows 10 para usar gestos para controlar as apresentações. As instruções sobre como começar a usar o aplicativo de áudio Surface no Windows 10 estão disponíveis aqui. [Saiba Mais](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Não é preciso dar um clique: seus earbuds fazem isso por você** Use seu Surface Earbuds para controlar suas apresentações de PowerPoint. Importante: Você deve parear seu Surface Earbuds com o aplicativo Surface Audio para Windows 10 para usar gestos para controlar as apresentações. As instruções sobre como começar a usar o aplicativo de áudio Surface no Windows 10 estão disponíveis aqui. [Saiba mais](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
@@ -207,10 +267,10 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Investigamos e resolvemos o problema em que uma implantação do Office 365 ProPlus via InTune era pausada após um desligamento do sistema operacional.
 
@@ -219,7 +279,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ## <a name="version-2005-may-01"></a>Versão 2005: 1 de maio
 *Version 2005 (Build 12827.20030)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -230,7 +290,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -362,7 +422,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -420,7 +480,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ## <a name="version-2004-march-27"></a>Versão 2004: 27 de março
 *Versão 2004 (Build 12718.20010)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -431,7 +491,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -453,7 +513,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 ## <a name="version-2004-march-20"></a>Versão 2004: 20 de março
 *Versão 2004 (Build 12711.20000)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -466,11 +526,11 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 - **Atualizar slides durante a apresentação de slides:** os slides de atualização alterados por outros autores durante a sua apresentação.
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -530,12 +590,12 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
 - **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -615,7 +675,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -638,12 +698,12 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 - Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2003-february-21"></a>Versão 2003: 21 de fevereiro
 *Versão 2003 (Build 12615.20000)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="office-suite"></a>Pacote do Office
@@ -654,7 +714,7 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -674,15 +734,15 @@ Este artigo contém notas de versão para versões Insider do Word, Excel, Power
 - Corrigido um problema em que os cartões de comentários nem sempre são destacados quando um ponteiro do mouse passa sobre o cartão de comentários.
 - Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
 *Versão 2003 (Build 12607.20000)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
