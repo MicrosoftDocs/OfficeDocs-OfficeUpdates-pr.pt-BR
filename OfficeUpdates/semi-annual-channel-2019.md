@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2019
-ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 4c996b8fb804c82f14e747910f5f9bac76f538ba
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565066"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581770"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral em 2019
 
@@ -25,9 +25,6 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 > - O OneNote 2016 não será incluído por padrão, quando um usuário no Canal Semestral baixar e instalar o Office 365 no Windows 10 do Portal do Office.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
-
-
-
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
