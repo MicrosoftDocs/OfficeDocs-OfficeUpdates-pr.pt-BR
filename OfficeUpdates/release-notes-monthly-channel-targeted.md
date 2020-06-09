@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563671"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618927"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Notas de Versão do Canal Mensal do Office (Direcionado)
 
@@ -32,6 +32,20 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+## <a name="version-2005-june-08"></a>Versão 2005:8 de junho
+*Versão 2005 (Build 12827,20336)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema com a caixa de diálogo substituir fontes em que Replace Font DropDown só mostra fontes na apresentação, em vez de fontes instaladas no sistema.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2005-june-04"></a>Versão 2005:04 de junho
 *Versão 2005 (Build 12827,20320)*
@@ -75,7 +89,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2005-may-29"></a>Versão 2005:29 de maio
 *Versão 2005 (Build 12827,20268)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 
@@ -112,7 +126,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2005-may-21"></a>Versão 2005:21 de maio
 *Versão 2005 (Build 12827,20210)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -149,7 +163,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2005-may-14"></a>Versão 2005:14 de maio
 *Versão 2005 (Build 12827,20160)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -307,7 +321,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba Mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -332,7 +346,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2004-may-04"></a>Versão 2004: 04 de maio
 *Versão 2004 (Build 12730.20250)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -360,7 +374,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2004-april-29"></a>Versão 2004: 29 de abril
 *Versão 2004 (Build 12730.20236)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -398,7 +412,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 - Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Essa correção resolve um erro que ocorre impedindo o acesso restrito e protegendo os arquivos com uma senha simultaneamente.
 
@@ -424,7 +438,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 ## <a name="version-2004-april-15"></a>Versão 2004: 15 de abril
 *Versão 2004 (Build 12730.20150)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -444,11 +458,11 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 - **Faça anotações na sua cópia particular:** crie anotações redigidas à mão para você mesmo, fazendo uma cópia privada de um documento compartilhado. Vá para Exibir > Criar uma cópia privada para começar.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -524,7 +538,7 @@ Este artigo contém notas de versão para builds de Canal Mensal (Direcionado) d
 
 - Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
@@ -601,7 +615,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-april-09"></a>Versão 2003: 09 de abril
 *Versão 2003 (Build 12624.20442)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -621,7 +635,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -661,7 +675,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-march-31"></a>Versão 2003: 31 de março
 *Versão 2003 (Build 12624.20382)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access
@@ -692,7 +706,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-march-23"></a>Versão 2003: 23 de março
 *Versão 2003 (Build 12624.20296)*
 
-- Várias correções de bugs e de desempenho.
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-2003-march-21"></a>Versão 2003: 21 de março
 *Versão 2003 (Build 12624.20276)*
@@ -745,7 +759,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -880,7 +894,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Correção de um problema em que, quando vários documentos da mesma biblioteca do SharePoint estivessem abertos no Word/Excel/PowerPoint, somente o primeiro documento aberto era verificado quanto à conformidade com Políticas.
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-march-05"></a>Versão 2002: março de 2005
 *Versão 2002 (Build 12527.20278)*
@@ -905,7 +919,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Criação 12527.20242)*
@@ -922,12 +936,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-february-24"></a>Versão 2002: 24 de fevereiro
 *Versão 2002 (Criação 12527.20194)*
 
-- Várias correções de bugs e de desempenho.
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-2002-february-22"></a>Versão 2002: 22 de fevereiro
 *Versão 2002 (Criação 12527.20186)*
 
-- Várias correções de bugs e de desempenho.
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-2002-february-21"></a>Versão 2002: 21 de fevereiro
 Versão 2002 (Build 12527.20174)
@@ -945,11 +959,11 @@ Versão 2002 (Build 12527.20174)
 - **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -975,7 +989,7 @@ Versão 2002 (Build 12527.20174)
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-february-18"></a>Versão 2002: 18 de fevereiro
 *Versão 2002 (Build 12527.20138)*
