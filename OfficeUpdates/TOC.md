@@ -36,8 +36,8 @@
 ## [Histórico de versão da ODT](ODT-release-history.md)
 
 # Office para Mac
-## [Histórico de atualizações (Office 365, 2019)](update-history-office-for-mac.md)
-## [Notas de versão (Office 365, 2019)](release-notes-office-for-mac.md)
+## [Histórico de atualizações (Microsoft 365, 2019)](update-history-office-for-mac.md)
+## [Notas de versão (Microsoft 365, 2019)](release-notes-office-for-mac.md)
 ## [Histórico de atualizações (2016)](release-notes-office-2016-mac.md)
 ## [Histórico de versões do MAU](release-history-microsoft-autoupdate.md)
 
