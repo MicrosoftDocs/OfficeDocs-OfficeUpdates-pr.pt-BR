@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
-ms.openlocfilehash: f11e6287ecdbda4afb7959489c03ba8f5fee83be
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
+ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211206"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44666583"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
@@ -33,7 +33,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7249.5000**, que foi lançado em 12 de maio de 2020.
+> A versão mais recente do Office 2010 é o **14.0.7252.5000**, que foi lançado em 9 de junho de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -57,7 +57,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020|12 de maio  <br/> |14.0.7249.5000  <br/> |[KB 4549680](https://support.microsoft.com/help/4549680 ) <br/> |
+|2020|9 de junho  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+||12 de maio  <br/> |14.0.7249.5000  <br/> |[4549680 KB ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||14 de abril  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11 de março  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
 ||11 de fevereiro  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
