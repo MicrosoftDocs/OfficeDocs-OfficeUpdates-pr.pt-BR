@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668048"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814300"
 ---
 # <a name="release-notes-for-office-insiders"></a>Notas de versão do Office Insiders
 
@@ -31,6 +31,81 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
+## <a name="version-2007-june-19"></a>Versão 2007:19 de junho
+*Versão 2007 (Build 13012,20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o XML CustomUI para uma guia de faixa de opções personalizada foi removido ao salvar uma pasta de trabalho no SharePoint/OneDrive.
+- Corrigimos um problema em que as pastas de trabalho eram somente leitura quando o arquivo apenas era somente leitura recomendado.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que a janela do editor de método de entrada (IME) sobrepõe o texto subjacente inserido pelo IME ao usar vários monitores com diferentes resoluções.
+- Corrigimos um problema que fazia com que os usuários vejam o erro a seguir ao fechar um compromisso salvo anteriormente: "o item não pode ser salvo porque foi alterado por outro usuário ou em outra janela. Você deseja fazer uma cópia na pasta padrão do item? "
+- Corrigimos um problema em que as datas no mini calendário não puderam ser exibidas em negrito para usuários no Japão.
+- Corrigimos um problema que impedia lembretes de calendário de mostrar horários exatos para reuniões em menos de uma semana.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de um problema em que o indicador de cor de presença de um usuário não estava sendo atualizado na Galeria de coautoria durante uma sessão de coautoria ao vivo.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que, se as tarefas de duração fixa estiverem em 100% concluída, mas o término real não for especificado, a tarefa% concluída exibirá menos de 100%.
+
+### <a name="word"></a>Word
+
+- Corrigido um problema em que a cor do hiperlink HTML não estava sendo renderizada corretamente.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema em que as URLs que não eram baseadas em http ou HTTPS não estavam sendo exibidas na lista de usados mais recentemente.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2007-june-12"></a>Versão 2007:12 de junho
+*Versão 2007 (Build 13006,20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Obter dados de organização do Power bi usando tipos de dados:** Os tipos de dados do Excel do Power BI estão sendo disponibilizados para insiders nas organizações com o Office 365 E5/a5 ou Microsoft 365 E5/a5. Obter as informações necessárias e atualizá-las facilmente é fundamental para muitos fluxos de trabalho diários. Estamos dando acesso às informações da sua empresa ou organização do Power BI como um tipo de dados no Excel, que expande sua capacidade de reunir informações vinculadas em suas planilhas. [Saiba mais](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema que fazia com que o Microsoft Access falhasse ao identificar uma coluna de identidade em uma tabela vinculada do SQL Server, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
+
+### <a name="excel"></a>Excel
+
+- Correção de um problema em que não foi possível formatar corretamente as linhas de grade principais de gráficos de radar.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que o evento ProjectBeforeTaskChange não foi acionado quando houve uma alteração na tarefa de resumo do projeto, seja o campo Iniciar/tarefa do projeto.
+- Corrigimos um problema em que uma redefinição ou atualização de linha de base poderia alterar os recursos de custo/trabalho do orçamento em fases e a linha de base pode refletir valores de orçamento incorretos.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que a capacidade de limpar a formatação dentro do painel de comentários por meio do botão limpar formatação na faixa de opções do Office não estava funcionando.
+- Corrigimos um problema em que alterar o tamanho de uma tabela quando a régua não é exibida fez com que outros aplicativos executados em segundo plano comecem a piscar.
+- Corrigimos um problema em modo de coautoria, as respostas de comentários às vezes não aparecem no painel de comentários, mas ficariam visíveis no painel de revisões.
+- Corrigimos um problema em que, se o Word tivesse uma lista de mais de 50 documentos abertos com frequência, depois de salvar e abrir um documento, um histórico de revisão seria exibido mesmo que nenhuma revisão tenha sido feita nesse documento.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
 ## <a name="version-2006-june-05"></a>Versão 2006:05 de junho
 *Versão 2006 (Build 13001,20002)*
 
@@ -41,7 +116,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - **Classificar/filtrar ao colaborar no Excel:** Agora você pode classificar e filtrar o arquivo do Excel enquanto estiver colaborando com outras pessoas. Este novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento.
 
-- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro. [Saiba Mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -140,7 +215,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Salvar em pastas fixas:** Fixar suas pastas facilita a economia dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos entusiasmados a trazer um novo recurso para você: fixar suas pastas na caixa de diálogo salvar. Esse novo recurso tornará mais fácil salvar seus arquivos do Word, Excel e PowerPoint.<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **Salvar em pastas fixas:** Fixar suas pastas facilita a economia dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos entusiasmados a trazer um novo recurso para você: fixar suas pastas na caixa de diálogo salvar. Esse novo recurso tornará mais fácil salvar seus arquivos do Word, Excel e PowerPoint.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -267,7 +342,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote do Office
@@ -284,13 +359,13 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba Mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -422,7 +497,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -459,7 +534,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que o usuário não conseguia entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.
 
@@ -595,11 +670,11 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="word"></a>Word
 - **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -625,7 +700,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 - Consertamos um problema ao mesclar dois documentos em um único documento.
 - Correção de um problema em que a marcação de revisões envolvendo equações podem resultar em uma falha ao salvar o arquivo.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-march-06"></a>Versão 2003: 06 de março
 *Versão 2003 (Build 12624.20086)*
@@ -665,7 +740,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows.
+- **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -734,10 +809,10 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 - Corrigido um problema em que os cartões de comentários nem sempre são destacados quando um ponteiro do mouse passa sobre o cartão de comentários.
 - Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
 *Versão 2003 (Build 12607.20000)*
@@ -753,7 +828,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - **Encontre o Editor de Tinta na caixa de ferramentas de desenho:** Selecione Desenhar e, em seguida, escolha a caneta do Editor de Tinta para editar seu documento com o dedo ou uma caneta digital. [Saiba Mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
 
@@ -761,7 +836,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -787,10 +862,10 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ## <a name="version-2002-february-07"></a>Versão 2002: 7 de fevereiro
 *Versão 2002 (Build 12527.20040)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
 - **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
 

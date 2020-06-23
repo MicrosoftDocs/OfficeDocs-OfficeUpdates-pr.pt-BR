@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668006"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810863"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão para lançamentos de canais atuais no 2020
 
@@ -354,13 +354,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="onenote"></a>OneNote
 
-- Melhor sincronização e estabilidade do servidor ao desabilitar, temporariamente, a transferências de páginas para a lixeira. Aos usuários que desejam excluir uma página, em vez disso, receberão uma caixa de diálogo perguntando se optaram por excluir permanentemente a página.
-
 - Informa os usuários, por meio da barra de informações, sobre ajustes temporários no Microsoft OneNote que ajudarão a melhorar a sincronização e o serviço durante o uso intenso pelo mundo inteiro.
 
-- Melhor sincronização e estabilidade do serviço, alterando temporariamente a frequência com que os históricos de versão de página são criados.
-
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que o usuário não conseguia entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.
 
@@ -408,8 +404,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Melhor sincronia e estabilidade do serviço, reduzindo temporariamente o tamanho máximo permitido de novos anexos inseridos para 50 MB. Para os arquivos que excederem esse limite, os usuários terão a opção de carregar o arquivo para o OneDrive e inserir um link para o OneNote.
 
-- Melhor sincronia e estabilidade do serviço desabilitando temporariamente a gravação de vídeo no aplicativo no OneNote 2016. Os blocos de anotações locais não são afetados por essa medida.
-
 - Melhor sincronia e estabilidade do serviço desabilitando temporariamente a gravação de vídeo no aplicativo no OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
@@ -443,7 +437,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Foi corrigido um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
 
@@ -473,16 +467,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Agora, os usuários têm a capacidade de salvar objetos no Word e Excel como SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como SVG. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **Estatísticas da pasta de trabalho:** células, fórmulas, gráficos, tabelas... Contamos para que você não precise contar.
 
 - **Criação de perfil de dados no editor de consultas:** obtenha uma análise rápida dos dados em suas colunas, identifique erros e valores vazios, consulte histogramas de distribuição e muito mais.
-
-### <a name="word"></a>Word
-
-- **Agora, os usuários têm a capacidade de salvar objetos no Word e Excel como SVG:** os usuários podem salvar objetos como gráficos, formas, tinta, ícones, imagens e muito mais como SVG. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)

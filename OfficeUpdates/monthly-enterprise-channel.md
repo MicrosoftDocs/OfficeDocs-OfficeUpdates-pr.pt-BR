@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695573"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735451"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -42,10 +42,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
-
 - **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **O suporte ao conector do Facebook terminou:** a partir de abril de 2020, o Excel não dará mais suporte a conexões de dados externos que usam o conector do Facebook.
@@ -53,8 +49,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Novas imagens para dar vida às suas pastas de trabalho:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em suas pastas de trabalho. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
-
-- **Linha Para: mais inteligente:** ao clicar na linha Para: para endereçar a mensagem, sugerimos os destinatários com mais chances de serem escolhidos. Além disso, você pode ver a imagem deles, para saber que está enviando para a pessoa certa. [Saiba mais](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
@@ -66,10 +60,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Ver o que está atrás de uma imagem:** coloque uma imagem em um slide, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
-
 - **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Sincronizar alterações durante a apresentação:** Sincronizar alterações sempre que elas forem feitas, mesmo quando a apresentação estiver no modo de apresentação de slides. [Saiba mais](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
@@ -78,21 +68,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="word"></a>Word
 
-- **Encontre e corrija problemas de revisão relevantes.** Agora, o painel do editor exibe uma visão geral dos problemas de revisão de ortografia encontrados em seu documento, portanto, o foco está na correção de aqueles que são mais relevantes para você.
-
-- **Ver o que está atrás de uma imagem:** coloque uma imagem em um slide, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
-
 - **Laço a tinta:** a ferramenta laço na guia desenhar ajuda a selecionar objetos desenhados à tinta. Selecione traços individuais ou palavras inteiras. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Novas imagens para dar vida aos seus documentos:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em seus documentos. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
-### <a name="office-suite"></a>Pacote do Office
-
-- **Os ícones do Office estão com um novo visual:** Os ícones do Office foram reprojetados para refletir as experiências simples, poderosas e inteligentes do Office.
+### <a name="office-suite"></a>Pacote Office
 
 - **Rótulos de confidencialidade:** agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas.
 
@@ -101,7 +83,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -134,7 +116,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Correção de um problema de clique para executar que resultava em uma falha de atualização ao tentar vincular vínculos simbólicos físicos.
 
@@ -159,7 +141,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Esta atualização corrige um problema no Microsoft Office, em que os projetos do Visual Basic for Applications com referências esperadas para localizar localizações especificadas na variável de ambiente PATH podem não ser encontrados corretamente no tempo de execução, levando a erros de tempo de execução VBA.
 
@@ -229,7 +211,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695557"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814290"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -47,11 +47,11 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Microsoft 365 Apps para a versão mais recente, confira [Tamanhos de download para atualizações do Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-A tabela a seguir fornece uma lista da versão e os números de build de cada atualização para os aplicativos do Microsoft 365 lançados nos seguintes canais de atualização: Mensal, Semestral (direcionado) e Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.  
+A tabela a seguir fornece uma lista dos números de versão e compilação de cada atualização para os aplicativos do Microsoft 365 lançados nos seguintes canais de atualização: atual, mensal Enterprise, semianual Enterprise (Preview) e Enterprise semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
-|**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal empresarial semestral (visualização)**|**Canal empresarial semestral**|
+|**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2020|09 de junho|[Versão 2005 (Build 12827,20336)](current-channel.md#version-2005-june-09)|[Versão 2004 (Build 12730,20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[Versão 2003 (Build 12624,20708)](monthly-enterprise-channel.md#version-2003-june-09)|[Versão 2002 (Build 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Versão 1908 (Build 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Versão 1902 (Build 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|Junho de 2002|[Versão 2005 (Build 12827,20268)](current-channel.md#version-2005-june-02)| | | |

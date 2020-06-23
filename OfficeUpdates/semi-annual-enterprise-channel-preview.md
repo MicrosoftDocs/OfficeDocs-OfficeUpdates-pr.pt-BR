@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) dos aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 301194a89cdd6208a98bd0baa471c531e4d8c80e
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
+ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668055"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44724962"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de versão para lançamentos do canal empresarial semestral (visualização) no 2020
 
@@ -283,7 +283,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **Todas as opções de criptografia em um só lugar:** Basta ir para Opções > Criptografar para escolher como proteger sua mensagem de email. [Saiba mais](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **O menu Inserir Link no Outlook inserirá um link com a permissão definida pelo administrador do locatário:** um link do Inserir Link MRU no Outlook insere um link que só funcionou para usuários que já tinham permissões. Isso causou uma troca de emails frequente entre os usuários solicitando o acesso a um documento. Atualizamos essa experiência e agora o link é inserido com a permissão padrão definida pelo administrador do locatário. No MSIT, é "A organização pode editar", para que todos os usuários internos que recebem um link compartilhado dessa maneira possam acessá-lo.
 
@@ -314,7 +314,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Legendas em tempo real:** As palavras do apresentador aparecem na tela automaticamente como legendas ou traduzidas para o idioma que escolher. [Saiba mais](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Encontre o que está procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -377,7 +377,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
-- **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
+- **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo. [Saiba mais](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
