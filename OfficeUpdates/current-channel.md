@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810863"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874777"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão para lançamentos de canais atuais no 2020
 
@@ -31,6 +31,74 @@ Estas notas de versão fornecem informações sobre os novos recursos e atualiza
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-june-24"></a>Versão 2005:24 de junho
+*Versão 2005 (Build 12827,20470)*
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esse bug já foi corrigido; Você deve ser capaz de chamar o tipo de dados estendido de data/hora para o seu código sem ter ocorrido nenhuma falha em seu aplicativo. Informe a equipe se você tiver problemas adicionais.
+
+
+- Esse problema foi corrigido. Agora você pode reverter para a versão mais atualizada do Access e usar o DAO/VBA para gerenciar e editar um tipo de dados decimal. Deixe a equipe do Access saber se você encontrou outros problemas ao usar nosso tipo de dados.
+
+
+### <a name="excel"></a>Excel
+
+- Correção de um problema que causou a remoção de XML CustomUI para uma guia de faixa de opções personalizada ao salvar no SharePoint/OneDrive.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Foi corrigido um problema em que o Outlook falhou ao habilitar a política de proteção contra perda de dados pessoas para usuários que tenham pago pelo serviço que estão nos planos do M365 Business Plus.
+
+
+- Solucionamos um problema que fazia com que os usuários vejam a data de criação de anexos copiados para o sistema de arquivos por meio do recurso de arrastar e soltar por meio de 1 de janeiro de 4501.
+
+
+- Foi corrigido um problema que fazia com que os usuários vejam as &quot; regras deste computador que não correspondem às regras da mensagem do Microsoft Exchange &quot; ao atualizar suas regras no Outlook.
+
+
+- Solucionamos um problema que fazia com que os usuários dos aprimoramentos do calendário compartilhado vejam as falhas de calendário.
+
+
+- Solucionamos um problema que fazia com que os usuários experimentassem interrupções intermitentes e falhas em alguns cenários.
+
+
+- Solucionamos um problema que fazia com que os usuários vejam o Outlook para que eles executem a ferramenta de reparo da caixa de entrada.
+
+
+- Solucionamos um problema que causou a pesquisa de um recurso que sugere um recurso para não retornar nenhum resultado e deixar o usuário sem opção para enviar uma nova ideia de recurso.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema de falha com o painel de sugestões.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que uma tarefa marcada 100% conclusão está incorreta para ser inferior a 100% concluída.
+
+### <a name="word"></a>Word
+
+- Resolvido um problema que pode ter causado uma falha ao arrastar parte do conteúdo do aplicativo.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Essa alteração atende a possíveis interrupções ao carregar e reproduzir conteúdo animado, como GIFs ou modelos 3D.
+
 
 
 
@@ -128,7 +196,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -165,7 +233,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2004-may-21"></a>Versão 2004:21 de maio
 *Versão 2004 (Build 12730,20352)*
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -306,7 +374,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Corrigido um problema em que, se você estivesse usando o Project conectado ao Project Web App e o separador decimal fosse vírgula, o método Adicionar TaskDependencies falhará ao tentar adicionar retardo a uma dependência.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Resolvia um erro que ocorre porque é possível restringir o acesso e a proteção de arquivos com uma senha simultaneamente.
 
@@ -335,7 +403,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Resolvido um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão "X" no mouse.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Quando dados do Predecessor/Sucessor são editados em um modo de exibição de Formulário, um evento ProjectBeforeTaskChange adicional é acionado.
 
@@ -380,7 +448,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - **Rótulos de confidencialidade:** agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas.
 
@@ -437,13 +505,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Foi corrigido um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Build 12527.20242)*
@@ -457,7 +525,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-february-25"></a>Versão 2002: 25 de Fevereiro
 *Versão 2002 (Criação 12527.20194)*
@@ -501,7 +569,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2001-february-19"></a>Versão 2001: 19 de fevereiro
 *Versão 2001 (Build 12430.20288)*

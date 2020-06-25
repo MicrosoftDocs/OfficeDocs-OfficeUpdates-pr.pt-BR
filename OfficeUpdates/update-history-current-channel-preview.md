@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece Insiders com histórico de atualizações mensais para os lançamentos do Canal Mensal Direcionado para a área de trabalho do Windows
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796692"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874827"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Histórico de atualização do canal atual do Office (versão prévia) para Windows
 
@@ -24,7 +24,7 @@ Clique [aqui](https://insider.office.com/) para obter mais informações sobre o
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versões e Builds do canal atual do Office (versão prévia)
 
 Se você estiver inscrito no nível de canal atual (visualização), que anteriormente era chamado de insider Slow, você receberá uma nova atualização de recurso do Office aproximadamente uma vez por mês, além de versões subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra as versões e compilações recentes do canal atual (versão prévia), com **a compilação liberada mais recentemente em primeiro lugar**. Novas compilações contêm todas as atualizações contidas em compilações anteriores.
-Para encontrar notas de versão, consulte [What ' s New for Office insiders](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Para encontrar notas de versão, [consulte](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Além disso, você pode ver [o que há de novo no Office Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 
 > [!IMPORTANT]
