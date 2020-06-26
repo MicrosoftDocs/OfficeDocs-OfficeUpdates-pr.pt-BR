@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796682"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889057"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de versão do canal atual do Office (visualização)
 
@@ -32,6 +32,46 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+
+## <a name="version-2006-june-25"></a>Versão 2006:25 de junho
+*Versão 2006 (Build 13001,20266)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="visio"></a>Visio
+
+- **Faça diagramas elegantes do Visio no Excel:** Criar um gráfico de fluxo ou de organização com base nos dados em uma planilha.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- <div>Esse problema agora está resolvido. Informe a equipe se você tiver mais problemas com esse processo.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">Aborda um problema que fazia com que os <span>&nbsp;</span> usuários vejam</span> <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">a data de criação de &nbsp; anexos que eles copiaram para o sistema de arquivos por meio do recurso de arrastar e soltar &nbsp; , configurando a 1º de janeiro de 4501.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Aborda um problema que fazia com que os usuários de aprimoramentos do calendário compartilhado vejam as falhas de calendário.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Aborda um problema que fazia com que os usuários vejam o Outlook para que eles executem a ferramenta de reparo da caixa de entrada.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Aborda um problema que causou a pesquisa de um recurso que sugere um recurso para não retornar nenhum resultado e deixar o usuário sem opção para enviar uma nova ideia de recurso.</span><br></div>
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2006-june-18"></a>Versão 2006:18 de junho
 *Versão 2006 (Build 13001,20198)*
@@ -515,7 +555,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba Mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -526,7 +566,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -550,11 +590,11 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 - **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba Mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote Office
@@ -563,7 +603,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2004-april-29"></a>Versão 2004: 29 de abril
 *Versão 2004 (Build 12730.20236)*
@@ -732,7 +772,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 - Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
@@ -829,7 +869,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Seletor de conteúdo M365 Premium:** dê vida aos seus documentos! Explore milhares de imagens, ícones e adesivos isentos de direitos autorais [Saiba mais](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -925,7 +965,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 *Versão 2003 (Build 12624.20224)*
 
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -949,7 +989,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 <br/>
 
@@ -1104,7 +1144,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 - <div>Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.</div>
 
 
@@ -1113,7 +1153,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Criação 12527.20242)*
@@ -1135,7 +1175,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-february-22"></a>Versão 2002: 22 de fevereiro
 *Versão 2002 (Criação 12527.20186)*
 
-- Várias correções de bugs e de desempenho.
+- Várias correções de bugs e desempenho.
 
 ## <a name="version-2002-february-21"></a>Versão 2002: 21 de fevereiro
 Versão 2002 (Build 12527.20174)
@@ -1157,7 +1197,7 @@ Versão 2002 (Build 12527.20174)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -1183,7 +1223,7 @@ Versão 2002 (Build 12527.20174)
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-february-18"></a>Versão 2002: 18 de fevereiro
 *Versão 2002 (Build 12527.20138)*
@@ -1205,7 +1245,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
 
@@ -1214,7 +1254,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
