@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874787"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906906"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de versão do canal beta
 
@@ -30,6 +30,34 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2007-june-26"></a>Versão 2007:26 de junho
+*Versão 2007 (Build 13020,20004)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema em que o Gerenciador de tabelas vinculadas solicitaria uma chave primária se uma tabela SQL vinculada tiver sido atualizada.
+- Corrigimos um problema em que as consultas no editor de consultas rolaram de modo de exibição.
+- Corrigimos um problema em que a execução da consulta estava levando aproximadamente duas vezes mais tempo para ser concluída do que o esperado.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que os usuários não conseguiram "enviar como" ou "enviar em nome" de uma lista de distribuição.
+- Corrigimos um problema no qual inserimos uma imagem embutida em uma mensagem e, em seguida, salvar a mensagem como rascunho resultaria em um redimensionamento da imagem.
+- Corrigimos um problema que provocou o corpo de uma mensagem de notificação de falha na alteração de Unicode para ASCII após a edição do assunto.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que os links do planejador de projeto nos ambientes de nuvem da Comunidade governamental foram desabilitados.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema em que o texto inserido em um gráfico vetorial escalonável (SVG) estava ilegível após inseri-lo em um arquivo do Word, Excel ou PowerPoint, salvando e fechando o arquivo e, em seguida, reabrindo o arquivo.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-june-19"></a>Versão 2007:19 de junho
 *Versão 2007 (Build 13012,20000)*
@@ -288,7 +316,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -497,7 +525,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
@@ -566,7 +594,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -601,11 +629,11 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - **Atualizar slides durante a apresentação de slides:** os slides de atualização alterados por outros autores durante a sua apresentação.
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -670,7 +698,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="word"></a>Word
 - **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -773,7 +801,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2003-february-21"></a>Versão 2003: 21 de fevereiro
 *Versão 2003 (Build 12615.20000)*
@@ -789,7 +817,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -809,15 +837,15 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 - Corrigido um problema em que os cartões de comentários nem sempre são destacados quando um ponteiro do mouse passa sobre o cartão de comentários.
 - Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
 *Versão 2003 (Build 12607.20000)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
