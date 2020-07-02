@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889057"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001175"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Notas de versão do canal atual do Office (visualização)
 
@@ -362,10 +362,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="excel"></a>Excel
 
-- **Obter dados de organização do Power bi usando os tipos de dados do Excel:** Você pode inserir dados da sua organização usando tipos de dados do Excel. Converta uma célula na sua pasta de trabalho e obtenha informações adicionais e atualize os dados sempre que precisar!
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -566,7 +563,7 @@ Este artigo contém notas de versão para o canal atual (visualização) de vers
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -1175,7 +1172,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-february-22"></a>Versão 2002: 22 de fevereiro
 *Versão 2002 (Criação 12527.20186)*
 
-- Várias correções de bugs e desempenho.
+- Várias correções de bugs e de desempenho.
 
 ## <a name="version-2002-february-21"></a>Versão 2002: 21 de fevereiro
 Versão 2002 (Build 12527.20174)

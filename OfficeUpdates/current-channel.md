@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874777"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015623"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão para lançamentos de canais atuais no 2020
 
@@ -31,6 +31,89 @@ Estas notas de versão fornecem informações sobre os novos recursos e atualiza
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2006-june-30"></a>Versão 2006:30 de junho
+*Versão 2006 (Build 13001,20266)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Nomes de arquivo mais longos:** A área de trabalho do Excel para Windows agora oferece suporte a arquivos do OneDrive/SharePoint com nomes e caminhos de até 400 caracteres.
+
+### <a name="outlook"></a>Outlook
+
+- **Nova opção para desabilitar sugestões de @menções ao redigir emails no Outlook:** você considera o seletor @mencionar mais irritante que útil? Agora você pode desativá-lo, se preferir.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Botões adicionais adicionados às notificações de notificação do Outlook:** Agora, os botões de ação rápida aparecem nas notificações do Outlook para executar o Outlook no Windows 10
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Desempenho aprimorado de vídeo de fluxo no PowerPoint:** Fizemos melhorias no desempenho de reprodução dos vídeos de Stream da Microsoft para minimizar o tempo de carregamento do vídeo e criar uma experiência de exibição tranqüila. Use seus vídeos corporativos do Microsoft Stream para criar apresentações melhores.
+
+### <a name="teams"></a>Teams
+
+- **Os números de telefone do participante PSTN são mascarados de usuários externos:** Para clientes com audioconferência habilitado para suas reuniões do Teams, iremos mascarar o número de telefone do participante PSTN para os usuários que ingressaram de fora da sua organização.
+
+- **Maneira simplificada de gerenciar suas configurações de notificação de canal:** Por meio da lista de equipes e canais ou do cabeçalho do canal, os usuários podem gerenciar rapidamente suas configurações de notificação, ativando ou desativando todas as atividades com um único clique ou mergulhando em Personalizar para definir suas permutações preferidas.
+
+- **Walkie talkie:** Comunicação de voz instantânea usando Push-to-Talk.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema em que a execução da consulta estava levando aproximadamente duas vezes mais tempo para ser concluída do que o esperado.
+
+
+### <a name="excel"></a>Excel
+
+- Correção de um problema que causou a remoção de XML CustomUI para uma guia de faixa de opções personalizada ao salvar no SharePoint/OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Solucionamos um problema que fazia com que os usuários vejam a data de criação de anexos copiados para o sistema de arquivos por meio do recurso de arrastar e soltar por meio de 1 de janeiro de 4501.
+
+- Solucionamos um problema que fazia com que os usuários dos aprimoramentos do calendário compartilhado vejam as falhas de calendário.
+
+
+- Solucionamos um problema que fazia com que os usuários vejam o Outlook para que eles executem a ferramenta de reparo da caixa de entrada.
+
+
+- Foi corrigido um problema que fazia com que CTRL + clique para parar de funcionar quando as configurações de nuvem foram habilitadas.
+
+
+- Solucionamos um problema que causou a pesquisa de um recurso que sugere um recurso para não retornar nenhum resultado e deixar o usuário sem opção para enviar uma nova ideia de recurso.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que os projetos não puderam ser abertos no cliente de área de trabalho do Project a partir do Project Web App, se a URL terminou no. com.
+
+
+- Correção de um problema em que o evento ProjectBeforeTaskChange não é acionado quando há uma alteração na tarefa de resumo do projeto-o campo Iniciar/tarefa do projeto.
+
+
+- Correção de um problema em que uma tarefa marcada 100% conclusão está incorreta para ser inferior a 100% concluída.
+
+
+### <a name="word"></a>Word
+
+- Resolvido um problema ao abrir documentos do Word a partir de uma entrega de documento personalizada (aspx) quando a URL contém um componente de consulta.
 
 
 
@@ -494,7 +577,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-march-10"></a>Versão 2002: 10 de março
 *Versão 2002 (Build 12527.20278)*
@@ -505,13 +588,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Foi corrigido um problema em que o evento OnUndoOrRedo não era acionado sem executar o método OpenUndoTransaction.
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-march-01"></a>Versão 2002: 01º de março
 *Versão 2002 (Build 12527.20242)*
@@ -525,7 +608,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-2002-february-25"></a>Versão 2002: 25 de Fevereiro
 *Versão 2002 (Criação 12527.20194)*
@@ -569,7 +652,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2001-february-19"></a>Versão 2001: 19 de fevereiro
 *Versão 2001 (Build 12430.20288)*
@@ -706,7 +789,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
 
-- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba Mais](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
