@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906906"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037075"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de versão do canal beta
 
@@ -30,6 +30,58 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2007-july-03"></a>Versão 2007: julho de 2003
+*Versão 2007 (Build 13029,20006)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Criar pesquisas no Outlook com pesquisa rápida:** Criar facilmente uma pesquisa, coletar votos e exibir resultados em um email [saiba mais](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que as tabelas de modelo de dados criadas em determinadas versões do Excel não puderam ser vistas na ' visualização da tabela ', embora a consulta associada à tabela não tenha sido editada.
+- Corrigimos um problema em que desabilitar as referências "ignorar relativa/absoluta" na caixa de diálogo Definir nome \ aplicar nomes faria com que as fórmulas não funcionem.
+- Corrigimos um problema em que a limpeza de um filtro de dados avançado pode perder a formatação da tabela.
+- Corrigimos um problema em que o caminho completo de um documento PDF incorporado mostraria na legenda do documento, e não apenas o nome do arquivo.
+- Corrigimos um problema em que, após desabilitar o Wolfram Cloud Connector e salvar e reabrir uma pasta de trabalho do Excel, pode resultar em uma falha.
+- Corrigimos um problema em que a inicialização do Excel com o suplemento Solver habilitado resultaria em uma falha.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que o Outlook travaria se havia mais de 130 destinatários na linha ' para ' e também aprimoramos o desempenho da renderização do texto.
+- Corrigimos um problema na "barra de tarefas pendentes" onde os eventos que abarcaram mais de dois dias, exibidos na mesma hora de término de todos os dias subsequentes.
+- Corrigimos um problema que fazia com que os usuários do Outlook vejam sua lista de mensagens parem de atualizar por vários minutos após o uso de calendários compartilhados.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que colar HTML em uma área de texto em um slide, em vez disso, seria colado em uma caixa de texto criada na parte superior do slide.
+- Corrigimos um problema em que selecionar todos os slides no modo de exibição do apresentador e, em seguida, sair do modo de exibição do apresentador usando ALT + TAB e retornar à apresentação de slides e clicar em ' finalizar apresentação ' resultarão em uma exceção sem tratamento.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que o Project pode falhar ao abrir determinados arquivos XML.
+- Corrigimos um problema em que não foi possível abrir um arquivo de projeto de uma biblioteca de documentos do SharePoint se a biblioteca estava no modo moderno.
+- Corrigimos um problema em que os projetos não puderam ser abertos no cliente de área de trabalho do Project a partir do Project Web App, se a URL terminou em '. com '.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema durante o modo de coautoria quando há um conflito de mesclagem e o usuário já optou por descartar as alterações, não exibimos mais a opção para salvar ou descartar as alterações.
+- Corrigimos um problema que, ao tentar salvar um arquivo contendo uma macro sob um novo nome, faria com que ele fosse salvo com uma extensão. docx e o nome de arquivo ' WRO0004.docx ', independentemente do que o usuário inseriu, tornando o documento inutilizável.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-june-26"></a>Versão 2007:26 de junho
 *Versão 2007 (Build 13020,20004)*
@@ -144,7 +196,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - **Classificar/filtrar ao colaborar no Excel:** Agora você pode classificar e filtrar o arquivo do Excel enquanto estiver colaborando com outras pessoas. Este novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento.
 
-- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro. [Saiba Mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Criar tabelas dinâmicas a partir de conjuntos de no Power bi no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de os DataSets armazenados no Power BI com alguns cliques.Isso permite obter o melhor das tabelas dinâmicas e do Power BI. Calcule, resuma e analise os dados com tabelas dinâmicas de seus conjuntos de dados do Power BI seguro. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -316,7 +368,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -370,7 +422,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote do Office
@@ -387,13 +439,13 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba Mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -562,7 +614,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - Essa alteração corrige um problema em que encontrar caracteres especiais usando "localizar somente palavras inteiras" nem sempre funcionava como esperado.
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Correção de um problema em que o usuário não conseguia entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.
 
@@ -594,7 +646,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -629,11 +681,11 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - **Atualizar slides durante a apresentação de slides:** os slides de atualização alterados por outros autores durante a sua apresentação.
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -702,7 +754,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -801,7 +853,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 - Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2003-february-21"></a>Versão 2003: 21 de fevereiro
 *Versão 2003 (Build 12615.20000)*
@@ -817,7 +869,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
@@ -845,7 +897,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
 *Versão 2003 (Build 12607.20000)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -854,9 +906,9 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 ### <a name="word"></a>Word
 
-- **Encontre o Editor de Tinta na caixa de ferramentas de desenho:** Selecione Desenhar e, em seguida, escolha a caneta do Editor de Tinta para editar seu documento com o dedo ou uma caneta digital. [Saiba Mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Encontre o Editor de Tinta na caixa de ferramentas de desenho:** Selecione Desenhar e, em seguida, escolha a caneta do Editor de Tinta para editar seu documento com o dedo ou uma caneta digital. [Saiba mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - **Ícones mais claros da barra de status:** Agora é mais fácil visualizar os ícones da barra de status.
 
@@ -864,7 +916,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -890,10 +942,10 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 ## <a name="version-2002-february-07"></a>Versão 2002: 7 de fevereiro
 *Versão 2002 (Build 12527.20040)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - **Seja mais produtivo trabalhando no Query Designer, no SQL View e na janela Relações:** clique com o botão direito em uma tabela para abrir, criar, dimensionar e ocultá-la. Pesquise e substitua o texto no SQL View. Selecione várias tabelas na janela Relações.
 
