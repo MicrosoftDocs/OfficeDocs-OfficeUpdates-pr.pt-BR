@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037075"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052624"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de versão do canal beta
 
@@ -997,3 +997,7 @@ Este artigo contém notas de versão do canal beta versões do Word, Excel, Powe
 - Resolve um problema que pode ter causado a instalação incorreta do pacote de ferramentas de revisão Nynorsk da Noruega (nn-no).
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+
+[//]: # (NÃO MODIFICAR O CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (NÃO MODIFICAR O CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
