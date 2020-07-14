@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 073e9fac962b8340f6598a485dc82cd19fa0884a
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210846"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001121"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
-A Microsoft lança atualizações de segurança e de qualidade para a versão do Office 2016 com Clique para Executar e para o Office 2019, que é exclusivamente Clique para Executar. Essas atualizações são lançadas cerca de uma vez por mês, geralmente na segunda terça-feira do mês.
+Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
 
-Se você quiser confirmar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário. Para verificar sua versão do Office, faça o seguinte:
+If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
 
   1.    Abra um aplicativo do Office, como o Word ou o Excel.
   2.    Escolha **Arquivo > Conta**.
   3.    Em **Informações do Produto**, anote o número da versão na **seção Sobre**.
 
-Se o número da versão corresponder à versão mais recente, então está tudo atualizado. Caso contrário, atualize manualmente para obter a versão mais recente do Office. Para atualizar o Office, [realize estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-A tabela a seguir fornece o histórico de atualização para a versão de licença por volume do Office 2019, bem como as versões de varejo do Office 2016 com Clique para Executar e do Office 2019, e contém a data de lançamento mais recente listada no início. A tabela inclui o número da versão e do build do lançamento, relaciona as atualizações de segurança que acompanham o lançamento, além de um link para mais informações sobre a atualização de segurança.
+The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
 
 As novas versões contêm todas as atualizações presentes nas versões anteriores.
 
@@ -38,6 +38,7 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|9 de junho de 2020   |Versão 1808 (Compilação 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1322) <br/>|
 |12 de maio de 2020   |Versão 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901) <br/> |
 |14 de abril de 2020   |Versão 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10 de março de 2020   |Versão 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0892) <br/>  |
@@ -61,8 +62,13 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|30 de junho de 2020|Versão 2006 (Compilação 13001.20266)  |Várias correções de bugs e desempenho.  <br/>  |
+|24 de junho de 2020|Versão 2005 (Compilação 12827.20470)  |Várias correções de bugs e desempenho.  <br/>  |
+|9 de junho de 2020|Versão 2005 (Compilação 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1322)  <br/>|
+|2 de junho de 2020|Versão 2005 (Compilação 12827.20268)  |Várias correções de bugs e de desempenho.  <br/>  |
+|21 de maio de 2020|Versão 2004 (Compilação 12730.20352)  |Várias correções de bugs e de desempenho.  <br/>  |
 |12 de maio de 2020|Versão 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901)  <br/>  |
-|04 de maio de 2020|Versão 2004 (Build 12730.20250)  |Corrige um problema em que determinados projetos do VBA que continham referências a bibliotecas de código com caracteres DBCS (byte duplo) no nome ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento. <br/>  |
+|04 de maio de 2020|Versão 2004 (Build 12730.20250)  |[Link](https://support.microsoft.com/office/excel-word-powerpoint-file-becomes-corrupt-when-opening-a-file-that-contains-a-vba-project-or-after-enabling-a-macro-in-an-open-file-ad6ee6ca-db23-4614-a403-282821eb99f6?ui=en-us&rs=en-us&ad=us)<br/>  |
 |29 de abril de 2020|Versão 2004 (Build 12730.20236)  |Várias correções de bugs e de desempenho. <br/>  |
 |15 de abril de 2020|Versão 2003 (Build 12624.20466)  |Várias correções de bugs e de desempenho. <br/>  |
 |14 de abril de 2020|Versão 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0991) <br/> |

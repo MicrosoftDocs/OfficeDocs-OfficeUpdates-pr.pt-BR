@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
-ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
+ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
+ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083357"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45091047"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -38,9 +38,42 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
 
+## <a name="july-9-2020"></a>09 de julho de 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>A versão esperada é a Versão 2005 (Build 12827.20550).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2004 (Build 12730.20430) <br/> |09 de junho de 2020 <br/> |174<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
+
+<i>A versão esperada é a Versão 2002 (Build 12527.20880).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.20720) <br/> |09 de junho de 2020 <br/> |50<br/> |
+|Versão 2002 (Build 12527.20612) <br/> |12 de maio de 2020 <br/> |59<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>A versão esperada é a Versão 2002 (Build 12527.20880).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 1908 (Build 11929.20838) <br/> |09 de junho de 2020 <br/> |291<br/> |
+|Versão 1908 (Build 11929.20776) <br/> |12 de maio de 2020 <br/> |291<br/> |
 
 
 [//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+
+
 
 
 ## <a name="june-30-2020"></a>30 de junho de 2020
