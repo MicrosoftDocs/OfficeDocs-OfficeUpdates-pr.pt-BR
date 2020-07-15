@@ -1,5 +1,5 @@
 ---
-title: Notas de versão para lançamentos do canal empresarial semestral no 2020
+title: Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -8,30 +8,30 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Fornece aos profissionais de TI as notas de versão para as versões do Canal mensal do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668057"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121751"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do canal empresarial semestral no 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
-Estas notas de versão fornecem informações sobre novos recursos e atualizações que não são de segurança incluídas nas atualizações do canal empresarial semestral no 2020 para aplicativos da Microsoft 365 para empresas, aplicativos do Microsoft 365 para empresas e as versões de assinatura dos aplicativos da área de trabalho para o Project e o Visio.
+Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionadas à segurança que estão inclusas nas atualizações de 2020 do Canal Empresarial Semestral do Microsoft 365 Apps para Pequenos e Médios Negócios, Microsoft 365 Apps para Grandes Empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para os Aplicativos do Microsoft 365, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- O OneNote 2016 será incluído por padrão quando um usuário no canal empresarial semestral baixa e instala o Microsoft 365 aplicativos no Windows 10 do portal do Office.
+>- O OneNote 2016 já está incluído por padrão quando um usuário no Canal Empresarial Semestral baixar e instalar o Microsoft 365 Apps no Windows 10 do Portal do Office.
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-1908-june-09"></a>Versão 1908:9 de junho
-*Versão 1908 (Build 11929,20838)*
+## <a name="version-1908-june-09"></a>Versão 1908: 09 de junho
+*Versão 1908 (Build 11929.20838)*
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -41,7 +41,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Correção de um problema em que o Excel pode parar de responder após usar Ctrl + Shift + teclas de direção para rolar quando a janela do Excel é compartilhada por meio do teams.
+- Consertamos um problema em que o Excel poderia ficar sem resposta após usar Ctrl+Shift+Teclas de direção para rolar quando a janela do Excel era compartilhada por meio do Teams.
 
 - Foi corrigido um problema com o dimensionamento de caixas de seleção nos controles de formulário quando impressos.
 
@@ -51,15 +51,15 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Resolvemos um problema que fazia com que os usuários vissem truncamento do corpo da mensagem ao encaminhar mensagens HTML grandes.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
-- Atualizamos os nomes dos canais para as bifurcações de Janeiro e de julho de 2019 para os novos nomes de canal.
+- Atualizamos os nomes dos canais para as bifurcações de janeiro e julho de 2019 para os novos nomes de canal.
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-1902-june-09"></a>Versão 1902:9 de junho
-*Versão 1902 (Build 11328,20602)*
+## <a name="version-1902-june-09"></a>Versão 1902: 09 de junho
+*Versão 1902 (Build 11328.20602)*
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -69,9 +69,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote Office
 
-- Atualizamos os nomes dos canais para as bifurcações de Janeiro e de julho de 2019 para os novos nomes de canal.
+- Atualizamos os nomes dos canais para as bifurcações de janeiro e julho de 2019 para os novos nomes de canal.
 
-- Removemos as referências obsoletas dos arquivos de linha de base que estavam dividindo a compilação C2R.
+- Removemos referências obsoletas dos arquivos de linha de base que estavam dividindo a compilação C2R.
 
 
 
@@ -92,13 +92,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao abrir os arquivos msg e. oft após a aplicação de uma atualização recente do Windows.
+- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao abrir arquivos msg e .oft após aplicar uma atualização recente do Windows.
 
 ### <a name="word"></a>Word
 
 - Corrigimos um problema ao unir dois documentos em um único documento.
 
-- Corrigimos um problema com o recurso comparar em documentos protegidos para edição.
+- Corrigimos um problema com o recurso Comparar em documentos protegidos para edição.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -121,7 +121,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-may-04"></a>Versão 1908: 04 de maio
-*Versão 1908 (Build 11929.20752)*
+*Versão 1908 (Criação 11929.20752)*
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -132,7 +132,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Foi solucionado um problema que fazia com que o botão "Salvar na nuvem" não estivesse presente nas Ferramentas de Anexo.
 
-- Por padrão, os rótulos da política de retenção podem exibir o período de retenção entre parênteses.Isso fornece uma chave do registro para permitir que os administradores especifiquem que apenas o nome da política deve ser exibido.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = padrão 1 = só mostraremos PolicyName para o texto da política de retenção.
+- Por padrão, os rótulos da política de retenção podem exibir o período de retenção entre parênteses.Isso fornece uma chave do registro para permitir que os administradores especifiquem que apenas o nome da política deve ser exibido. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Default 1 = we will only show the PolicyName for Retention policy text.
 
 ### <a name="office-suite"></a>Pacote Office
 
@@ -146,15 +146,15 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
 
-## <a name="version1908april-26"></a>Versão 1908:26 de abril
-*Versão 1908 (Build 11929,20736)*
+## <a name="version1908april-26"></a>Versão 1908: 26 de abril
+*Versão 1908 (Build 11929.20736)*
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Corrigido um problema de desempenho que os usuários podem ter ao usar uma VBA macro para limpar o conteúdo de um intervalo.
+- Corrigimos um problema de desempenho que os usuários podem ter ao usar uma VBA macro para limpar o conteúdo de um intervalo.
 
 - Corrigimos um problema com o VBA no qual a escrita de valores em um intervalo seria menor do que o esperado.
 
@@ -165,7 +165,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeu
 
 ### <a name="onenote"></a>OneNote
 
-- Localiza a notificação que permite que o usuário saiba mais sobre medidas temporárias que estão sendo aplicadas na experiência do usuário do OneNote para melhorar a sincronização e a estabilidade do serviço.
+- Localiza a notificação de que o usuário pode saber mais sobre as medidas temporárias que estão sendo aplicadas na experiência de usuário do OneNote para melhorar a estabilidade e o serviço.
 
 
 ## <a name="version-1908-april-14"></a>Versão 1908: 14 de abril
@@ -214,7 +214,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -255,7 +255,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -323,7 +323,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -358,7 +358,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Manter as guias dos objetos de banco de dados:** Veja as guias ativas, arraste as guias facilmente para reorganizá-las, e feche os objetos de banco de dados com apenas um clique.
 
-- **Alterne facilmente:** o novo gerente de contas mostra todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **Aplicar zoom com mais espaço:** aumente a caixa Zoom, altere a fonte e o Zoom lembrará de tudo. [Saiba mais](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
 
@@ -372,7 +372,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex na pasta de trabalho. [Saiba mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **Saiba mais sobre seus dados:** O novo botão Ideias procura padrões em seus dados e os usa para criar sugestões inteligentes e personalizadas. [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Discover more about your data:** The new Ideas button looks for patterns in your data, and uses them to create intelligent, personalized suggestions. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **A colaboração ficou mais fácil** : Os aperfeiçoamentos de coautoria significam que, ao trabalhar com acesso condicional, estilos de célula e muito mais, suas alterações são mescladas perfeitamente com as de seus colaboradores.
 
@@ -394,7 +394,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Escolha a sua ação favorita:** não use Sinalizar e Excluir? E quanto a Arquivar ou Marcar como Lida? Personalize o menu de ação rápida com os comandos que você mais usa.
 
-- **As pessoas verão o Meme que você usou:** se o texto ou as imagens estáticas não forem suficientes, use GIFs animados para convencer. [Saiba mais](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b).
+- **They'll see what you meme:** When text or static images just won't do, use an animated GIF to make your point. [Learn more](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **Uma maneira mais rápida de adicionar contas:** graças às melhorias de configuração de conta, ficou mais fácil adicionar contas do Outlook.com e do Gmail que usam a autenticação de dois fatores no Outlook. [Saiba mais](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
@@ -410,21 +410,21 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Aumente o alcance do seu conteúdo:** precisa tornar suas apresentações acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
 
-- **Alterne facilmente:** o novo gerente de contas mostra todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **Os vídeos online têm um novo lar:** salve um vídeo no Microsoft Stream para que qualquer pessoa em sua organização possa vê-lo. Insira o link de vídeo e desfrute de uma apresentação multimídia com uma fração do tamanho do arquivo. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Salvar suas alterações conforme elas acontecem:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
+- **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
-- **Saiba a opinião de seu público através de um questionário ou pesquisa:** coloque um questionário ou uma pesquisa em um slide. O Office coleta e armazena as respostas para você. [Saiba mais](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Ask your audience with a quiz or survey:** Put a quiz or survey on a slide. Office collects and stores the responses for you. [Learn more](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **Inserir um vídeo online está mais fácil do que nunca:** Deseja colocar um vídeo do Vimeo ou YouTube no slide? O link da página de vídeo é tudo o que você precisa. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Inserting an online video is easier than ever:** Want to put a video from Vimeo or YouTube on your slide? The video page link is all you need. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
-- **Alterne facilmente:** o novo gerente de contas mostra todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 ### <a name="visio"></a>Visio
 
@@ -434,9 +434,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Estênceis criados diretamente no Azure:** crie um aplicativo de nuvem ou planeje uma arquitetura usando dezenas de estênceis do Azure. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **Diga adeus aos links desfeitos do Excel:** não consegue encontrar a pasta de trabalho do Excel vinculada ao seu diagrama do Visualizador de Dados? Vincule-o novamente para que tudo volte ao normal. [Saiba mais](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **Alterne facilmente:** o novo gerente de contas mostra todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+- **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **Exporte elementos visuais do Visio a partir do Power BI:** os elementos visuais do Visio para o Power BI agora estão sendo exibidos corretamente ao exportar relatórios do Power BI como PDFs, arquivos do PowerPoint e muito mais. [Saiba mais](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
@@ -444,9 +444,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **O modo Ferramentas de Aprendizagem tem suporte adicional para mais cores de página:** as Ferramentas de Aprendizagem no Word adicionam suporte para mais cores de tema de página, o que permite a alteração da cor da tela de fundo da página. Várias pessoas têm desafios de leitura com um plano de fundo todo branco ou preto, então ampliamos as opções de cores no Word para PC e para Mac.
 
-- **A edição ocorre naturalmente com o Editor por Tinta:** com um único traçado, divida ou una palavras, adicione uma nova linha ou insira palavras usando uma caneta. [Saiba mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **Transforme seu documento de estático para incrível: ** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **Aumente o alcance do seu conteúdo:** precisa tornar seus documentos acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
 
@@ -454,7 +454,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Alterne facilmente:** o novo gerente de contas exibe todas as suas contas pessoais e profissionais do Office 365 em um só lugar. Nunca foi tão fácil alternar entre elas. [Saiba mais](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Melhore a compreensão com Line Focus:** percorra a linha de um documento sem distrações. Ajuste o foco para colocar uma, três ou cinco linhas na visualização de cada vez. [Saiba mais](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **Salve suas alterações assim que forem realizadas:** Carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
@@ -547,7 +547,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Essa alteração contorna um problema com certos drivers gráficos Intel, aproveitando a renderização do software.
 
-- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidas com sucesso quando solicitado.
 
 - Esta atualização corrige um erro em que os documentos do Office podem falhar ao carregar no OneDrive for Business com a mensagem "Falha no Carregamento".
 
@@ -555,7 +555,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidas com sucesso quando solicitado.
 
 - Correção de um problema em que os usuários que atualizavam a caixa de correio de uma autenticação básica para a moderna acabavam com a conta errada associada ao perfil do Outlook.
 
@@ -623,7 +623,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Correção de um problema em que alguns suplementos lançavam erros inesperados relacionados às formas nos gráficos.
 
-- Os links de cid: imagens de mensagens do Outlook podem ser interrompidos com sucesso quando solicitado.
+- Os links de cid: imagens de mensagens do Outlook podem ser interrompidas com sucesso quando solicitado.
 
 - Essa alteração restaura o nome acessível para os controles de vídeo do PowerPoint.
 
@@ -745,3 +745,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 > [!NOTE]
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
+
+
+[//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
