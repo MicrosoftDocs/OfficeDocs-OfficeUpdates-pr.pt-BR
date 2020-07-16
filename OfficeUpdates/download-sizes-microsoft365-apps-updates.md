@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
-ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
+ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45091047"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138567"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+## <a name="july-14-2020"></a>14 de julho de 2020
 
-## <a name="july-9-2020"></a>09 de julho de 2020
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 14 de julho de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2006 (Build 13001.20384).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2006 (Build 13001.20266) <br/> |30 de junho de 2020 <br/> |61<br/> |
+|Versão 2005 (Compilação 12827.20470) <br/> |24 de junho de 2020 <br/> |350<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
-<i>A versão esperada é a Versão 2005 (Build 12827.20550).</i>
+A versão mais atual é a Versão 2005 (Build 12827.20538).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
 
-<i>A versão esperada é a Versão 2002 (Build 12527.20880).</i>
+A versão mais atual é a Versão 2002 (Build 12527.20880).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
 
-<i>A versão esperada é a Versão 2002 (Build 12527.20880).</i>
+A versão mais atual é a Versão 2002 (Build 12527.20880).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 1908 (Build 11929.20776) <br/> |12 de maio de 2020 <br/> |291<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 14 de julho de 2020)
+
+
+
 
 
 

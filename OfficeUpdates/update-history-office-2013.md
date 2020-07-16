@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 587c06f30792a2f66104cb2fbf56af9a4f81af52
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 1b1dd6974f76fc1182edacaa3b82c66e54d84ded
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211196"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138777"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5241.1000**, que foi lançada no dia 12 de maio de 2020.
+> A versão mais recente do Office 2013 é **15.0.5259.1000**, lançada em 14 de julho de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,9 +45,11 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020|12 de maio   |15.0.5241.1000   |[4549680 KB ](https://support.microsoft.com/help/4549680 )  |
-||14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
-||13 de março   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
+|2020|14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
+||9 de junho   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|
+||12 de maio   |15.0.5241.1000   |[4549680 KB ](https://support.microsoft.com/help/4549680)  |
+||14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670)  |
+||13 de março   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705)  |
 ||11 de fevereiro   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14 de janeiro   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|10 de dezembro   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão das atualizações de segurança do Microsoft 365 Apps
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211701"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138517"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Notas de versão das atualizações de segurança do Microsoft 365 Apps
 
@@ -31,6 +31,80 @@ Essas informações se aplicam ao Microsoft 365 Apps para empresas, Microsoft 36
  
 
 [//]: # (NÃO REMOVA A LINHA ACIMA, ela é usada para o espaçamento)  
+
+## <a name="july-14-2020"></a>14 de julho de 2020
+Canal Mensal: Versão 2006 (Build 13001.20384)  
+Canal Empresarial Mensal: Versão 2005 (Build 12827.20538)  
+Canal Empresarial Mensal: Versão 2004 (Build 12730.20602)  
+Canal Empresarial Semestral (Visualização): Versão 2002 (Build 12527.20880)  
+Canal Empresarial Semestral: Versão 2002 (Build 12527.20880)  
+Canal Empresarial Semestral: Versão 1908 (Build 11929.20904)  
+Canal Empresarial Semestral: Versão 1902 (Build 11328.20624)  
+Microsoft 365 Apps no Windows 7: Versão 2002 (Build 12527.20880)  
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Pacote Office
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+
+## <a name="june-09-2020"></a>09 de junho de 2020
+Canal Atual: Versão 2005 (Build 12827.20336)  
+Canal Empresarial Mensal: Versão 2004 (Build 12730.20430)  
+Canal Empresarial Mensal: Versão 2003 (Build 12624.20708)  
+Canal Empresarial Semestral (Visualização): Versão 2002 (Build 12527.20720)  
+Canal Empresarial Semestral: Versão 1908 (Build 11929.20838)  
+Canal Empresarial Semestral: Versão 1902 (Build 11328.20602)  
+Microsoft 365 Apps no Windows 7: Versão 2002 (Build 12527.20720)  
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Pacote Office
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
 
 ## <a name="may-12-2020"></a>12 de maio de 2020
 Canal Mensal: Versão 2004 (Build 12730.20270)  
