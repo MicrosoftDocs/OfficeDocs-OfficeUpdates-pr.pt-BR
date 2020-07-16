@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121741"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138677"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,111 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2005-july-14"></a>Versão 2005: 14 de julho
+*Versão 2005 (Build 12827.20538)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Melhores resultados — em uma piscar olhos:** atualizamos a experiência de pesquisa para torná-la mais inteligente, rápida e mais confiável do que nunca. [Saiba mais](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **Fale de outra maneira:** quando você quiser dizer algo de forma diferente, o Reescrever estará lá para ajudar. O Reescrever oferece alternativas para refinar a suas frases.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Corrige um problema para possibilitar o uso do tipo de dados de Data/Hora Estendida em seu código sem o aplicativo falhar.
+
+- Corrige um problema para poder reverter para a versão mais atualizada do Access e usar o DAO/VBA para gerenciar e editar um tipo de dados decimais.
+
+### <a name="excel"></a>Excel
+
+- Consertamos um problema em que o Excel poderia ficar sem resposta após usar Ctrl+Shift+Teclas de direção para rolar quando a janela do Excel era compartilhada por meio do Teams.
+
+- Em alguns casos, clicar em um hiperlink para um local na mesma pasta de trabalho fará com que a pasta de trabalho seja ocultada.
+
+- Corrige um problema que causava a remoção de XML do CustomUI de uma guia da faixa de opções personalizada ao salvar no SharePoint/OneDrive.
+
+- Soluciona um problema no qual o Excel poderia falhar ao tentar inserir Tabelas Dinâmicas em uma planilha de gráfico.
+
+### <a name="outlook"></a>Outlook
+
+- Soluciona uma falha que ocorria ao enviar comentários de uma Notificação de Administrador.
+
+- Corrige um problema que fazia com que a pesquisa de um recurso em Sugerir um recurso não retornasse resultados e deixasse o usuário sem a opção de enviar uma nova ideia de recurso.
+
+- Corrige um problema que fazia com que o Outlook solicitasse continuamente para os usuários executarem a Ferramenta Reparo da Caixa de Entrada.
+
+- Corrige um problema em versões do Windows 10 Server que exibia o aviso “Status da proteção antivírus: Inválido. Esta versão do Windows oferece suporte à detecção de proteção antivírus, mas nenhum antivírus foi encontrado” mesmo após a instalação correta do antivírus.
+
+- Soluciona um problema que causava falhas e travas intermitentes em algumas situações.
+
+- Corrige um problema que causava falhas no calendário em aperfeiçoamentos do Calendário Compartilhado.
+
+- Soluciona um problema que exibia a mensagem &quot;As regras neste computador não correspondem às regras no Microsoft Exchange&quot; ao atualizar as regras no Outlook.
+
+- Corrige um problema que exibia a data de criação dos anexos&nbsp; que os usuários copiavam para o sistema de arquivos arrastando e soltando, definido para 1 de janeiro, 4501.
+
+- Soluciona um problema que causava falha no Outlook ao habilitar as dicas da política de Proteção Contra Perda de Dados para usuários que pagaram pelo serviço nos planos M365 Business Plus.
+
+- Corrige um problema com o evento de auditoria clp do rótulo responder/encaminhar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Isso corrige uma falha quando os usuários têm comentários modernos e antigos em um arquivo, disparando uma atualização nos comentários.
+
+- Soluciona um problema que causava falha no painel de sugestões.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que o evento ProjectBeforeTaskChange não é acionado quando há uma alteração na tarefa resumo do projeto, o campo início/tarefa do projeto.
+
+- Correção de um problema em que uma tarefa marcada como 100% concluída mudava incorretamente para menos do que 100% concluída.
+
+### <a name="skype"></a>Skype
+
+- Quando um usuário recebe uma política que os move para o modo Teams Only, ele ainda poderá usar o suplemento do Outlook do Skype for Business para agendar reuniões. Após essa atualização, você não poderá mais agendar reuniões do Skype for Business depois que o cliente ler a política, indicando que o usuário está no modo Teams Only, e entrar no modo somente ingresso na reunião. Além disso, o suplemento Skype for Business no Outlook não será ativado durante a inicialização, caso veja que o cliente do Skype for Business está no modo somente ingresso na reunião.
+
+### <a name="word"></a>Word
+
+- Soluciona um problema que pode ter causado uma falha ao arrastar conteúdo do aplicativo.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Essa alteração soluciona as possíveis travas ao carregar e reproduzir conteúdo animado, como GIFs ou modelos 3D.
+
+- Resolvemos o problema de taxa de falha do ValidateInstall configurando a validação de instalação do Bing Addon como verdadeira por padrão e considerando o sucesso do retorno MSI como um sucesso na instalação.
+
+- Esta atualização corrige um problema no Microsoft Office, em que os projetos do Visual Basic for Applications com referências esperadas para localizar localizações especificadas na variável de ambiente PATH podem não ser encontrados corretamente no tempo de execução, levando a erros de tempo de execução VBA.
+
+- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
+
+- O host do Office estava falhando no Windows, quando um suplemento está sendo ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth está definida como zero. Essa alteração corrigiria esse problema.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2004-july-14"></a>Versão 2004: 14 de julho
+*Versão 2004 (Build 12730.20602)*
+
+Atualizações de segurança estão listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2004-june-09"></a>Versão 2004: 09 de junho
 *Versão 2004 (Build 12730.20430)*
@@ -311,4 +416,5 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
