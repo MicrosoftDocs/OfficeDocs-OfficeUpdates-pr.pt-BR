@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
+ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211106"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45145108"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -30,9 +30,52 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="july-2020-release"></a>Versão de julho de 2020
+
+**Data de lançamento:** 14 de julho de 2020
+
+*Microsoft AutoUpdate 4.25*
+
+**Correções de bugs e melhorias:**
+- Detectar o fechamento do aplicativo e remover automaticamente a exibição do diálogo relativo a “abrir o aplicativo”.
+- Reversão do recurso introduzido na versão de abril de acordo com o qual usuários com Atualizações Automáticas estavam vendo a Interface do Microsoft AutoUpdate apenas uma vez por semana.
+- Correção de um problema no qual o Assistente de Atualização estava sendo fechado antes de a instalação começar, após baixar as atualizações.
+- Correção de um problema em que o Assistente de Atualização não estava fechando após um período prolongado durante o qual as notificações do usuário estavam pendentes.
+- Correção de um problema no qual a interface do Microsoft AutoUpdate (MAU) estava reabrindo (ou não podia ser reaberta) após a instalação. A interface do usuário deveria reabrir após a instalação caso a atualização tivesse sido iniciada a partir da própria interface do MAU, ou se uma atualização fosse iniciada explicitamente pelo usuário (por meio do Finder, do Terminal etc.).
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.25](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
+
+<br/><br/>
+
+## <a name="june-2020-release"></a>Versão de junho de 2020.
+
+**Data de lançamento:** 18 de junho de 2020
+
+*Microsoft AutoUpdate 4.24*
+
+**Correção de bugs e melhorias:**
+- Campanha de mensagens para o cliente: O suporte do Office para Mac 2016 será descontinuado em outubro de 2020. 
+- Correção de segurança da conexão da ferramenta XPC de auxílio ao MAU.
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.24](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
+
+<br/><br/>
+
 ## <a name="may-2020-release"></a>Lançamento de maio de 2020
 
-**Data do lançamento:** 12 de maio de 2020
+**Data do Lançamento:** 12 de maio de 2020
 
 *Atualização automática da Microsoft 4.23*
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094641"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147873"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,193 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2007-july-15"></a>Versão 2007: 15 de julho
+*Versão 2007 (Build 13029.20200)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Corrigimos um problema no qual o gerenciador de tabelas vinculadas solicitava uma chave primária se uma tabela SQL vinculada tivesse sido atualizada.
+
+- Consertamos um problema em que as consultas no Editor de Consultas rolavam para fora da área de visualização. 
+
+- Consertamos um problema em que a execução da consulta estava levando aproximadamente duas vezes mais para ser terminada do que o esperado. 
+
+- Consertamos um problema que fazia com que o Microsoft Access não conseguisse identificar uma Coluna de Identidade em uma tabela do Servidor SQL vinculada, o que poderia fazer com que as linhas fossem relatadas como excluídas incorretamente.
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema no qual os URLs que não eram baseados em http ou https não eram exibidos na lista de Usados Mais Recentemente.
+
+- Corrigimos um problema no qual um erro ou falha poderiam ocorrer ao se carregar uma pasta de trabalho com diversas planilhas no modo de visualização com quebra de página.
+
+- Consertamos um problema em que as tabelas do modelo de dados criadas em determinadas versões do Excel não podiam ser vistas na 'Visualização de Tabela', embora a consulta associada à tabela não tivesse sido editada.
+
+- Ignorar as referências Relativas/Absolutas na caixa de diálogo Definir Nome\Aplicar Nomes fazia com que as fórmulas não funcionassem.
+
+- Consertamos um problema que provocava a remoção de XML do CustomUI de uma guia da faixa de opções personalizada ao salvar uma pasta de trabalho no SharePoint/OneDrive.
+
+- Consertamos um problema em que as pastas de trabalho eram somente leitura quando o arquivo só era recomendável como somente leitura.
+
+- Corrigimos um problema no qual um erro ou falha poderiam ocorrer ao se carregar uma pasta de trabalho com diversas planilhas no modo de visualização com quebra de página.
+
+- Corrigimos um problema no qual as principais linhas de grade de gráficos de radar não podiam ser formatadas corretamente.
+
+
+- Consertamos um problema em que a limpeza de um filtro de dados avançado podia ocasionar a perda da formatação da tabela.
+
+
+- Consertamos um problema em que o caminho completo de um documento PDF inserido era mostrado na legenda do documento, em vez de apenas o nome do arquivo.
+
+
+- Consertamos um problema em que depois de desabilitar o conector em nuvem Wolfram e, depois, salvar e abrir novamente uma pasta de trabalho do Excel, podia resultar em uma falha.
+
+
+- Consertamos um problema em que a inicialização do Excel com o suplemento Solver habilitado resultava em uma falha.
+
+
+### <a name="outlook"></a>Outlook
+
+- Consertamos um problema em que o Outlook travava se houvesse mais de 130 destinatários na linha "Para" e também melhoramos o desempenho da renderização do texto.
+
+
+- Consertamos um problema em que o IME (Editor de Método de Entrada) poderia se sobrepor ao texto subjacente sendo inserido por meio do IME ao usar vários monitores com resoluções diferentes.
+
+
+- Consertamos um problema na barra "Tarefas Pendentes", no qual os eventos que se estendiam por mais de dois dias exibiam a mesma hora de término para todos os dias subsequentes.
+
+
+- Aborda um problema que fazia com que os usuários vissem a data de criação de anexos que haviam copiado para seu sistema de arquivos por meio de arrastar e colar sendo definida como 1° de janeiro de 4501.
+
+
+- Corrigimos um problema no qual os usuários não conseguiam 'Enviar Como' ou 'Enviar em nome' de uma lista de distribuição.
+
+
+- Aborda um problema que fazia com que os representantes recebessem uma mensagem de erro ao editar um compromisso existente no calendário de um gerente.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem o seguinte erro ao fechar um compromisso salvo anteriormente: "O item não pôde ser salvo porque foi alterado por outro usuário ou em outra janela. Deseja fazer uma cópia na pasta padrão do item?"
+
+
+- Aborda um problema que fazia com que a opção “Permitir o Encaminhamento” estivesse ausente das “Opções de Resposta” de uma reunião do calendário compartilhada quando a opção Baixar pasta compartilhada NÃO estava marcada.
+
+
+- Aborda um problema que fazia com que os usuários não conseguissem salvar anexos do OneDrive de fora de seu locatário para seu computador local ao selecionar a opção “Salvar” no diálogo de segurança.
+
+
+- Corrigimos um problema que fazia com que os usuários do Outlook vissem a lista de mensagens parar de ser atualizada por vários minutos após o uso de calendários compartilhados.
+
+
+- Corrigimos um problema que impedia que lembretes do calendário mostrassem os horários exatos de reuniões marcadas para dali a menos de uma semana. 
+
+
+- Consertamos um problema em que inserir uma imagem embutida em uma mensagem e, em seguida, salvar a mensagem como um rascunho resultava em um redimensionamento da imagem.
+
+
+- Consertamos um problema que fazia com que o corpo de uma mensagem de NDR mudasse de Unicode para ASCII após editar o assunto.
+
+
+- Corrigimos um problema no qual as datas no minicalendário não eram exibidas em negrito para os usuários no Japão.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema em que o indicador de cor de presença de um usuário não era atualizado na galeria de coautoria durante uma sessão de coautoria em tempo real.
+
+
+- Consertamos um problema em que colar HTML em uma área de texto em um slide resultava que fosse colado em uma caixa de texto criada na parte superior do slide.
+
+
+- Consertamos um problema em que selecionar todos os slides no Modo de Exibição do Apresentador e, em seguida, sair do modo de exibição do Apresentador usando Alt+Tab e retornar à apresentação de slides e clicar em "Finalizar Apresentação" poderia resultar em uma exceção não tratada.
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema no qual não era possível salvar um PDF/XPS do Project em uma biblioteca de documentos no SharePoint.
+
+
+- Corrigimos um problema no qual não era possível abrir projetos no cliente da área de trabalho do Project a partir do aplicativo web do Project caso o URL terminasse em .com.
+
+
+- Corrigimos um problema no qual o Project poderia falhar ao abrir determinados arquivos XML.
+
+
+- Consertamos um problema em que os projetos não podiam ser abertos no cliente de área de trabalho do Project a partir do Project Web App, se a URL terminasse em '.com'.
+
+
+- Corrigimos um problema no qual, se você colasse uma tarefa que tivesse várias dependências, nem todas as dependências eram copiadas corretamente.
+
+
+- Corrigimos um problema no qual a tarefa selecionada na caixa de diálogo para atribuir recursos não era a mesma que a tarefa selecionada no modo de exibição do quadro de tarefas.
+
+
+- Consertamos um problema em que o evento ProjectBeforeTaskChange não era acionado quando havia uma alteração na tarefa resumo do projeto ou no campo início/tarefa do projeto.
+
+
+- Consertamos um problema em que, se as tarefas de duração fixa estiverem em 100% concluídas, mas o término real não for especificado, a % concluída da tarefa exibia menos de 100%.
+
+- Consertamos um problema em que uma redefinição de linha de base ou uma atualização poderia alterar os recursos de custo/trabalho e a linha de base poderia refletir valores de orçamento.
+
+
+- Corrigimos um problema no qual os links do Planner do Project na Nuvem da Comunidade Governamental tinham sido desabilitados.
+
+
+- Corrigimos um problema no qual não era possível abrir um arquivo do Project a partir de uma biblioteca de documentos do SharePoint se a biblioteca estivesse no modo moderno.
+
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que a capacidade de limpar a formatação dentro do Painel comentários por meio do botão Limpar Formatação na Faixa de Opções do Office não estava funcionando.
+
+
+- Consertamos um problema em que o texto inserido em um Elemento Gráfico Vetorial Escalonável (SVG) ficava ilegível após inseri-lo em um arquivo do Word, Excel ou PowerPoint, salvando e fechando o arquivo e reabrindo o arquivo.
+
+
+- Consertamos um problema em que alterar o tamanho de uma tabela quando a régua não é exibida fazia com que outros aplicativos executados em segundo plano começassem a piscar.
+
+
+- Consertamos um problema em que, em modo de coautoria, as respostas a comentários, às vezes, não apareciam no painel comentários, mas ficavam visíveis no painel revisões.
+
+
+- Consertamos um problema durante o modo de coautoria quando há um conflito de mesclagem e o usuário já optou por descartar as alterações. Não mais exibimos a opção para salvar ou descartar alterações.
+
+
+- Corrigimos um problema no qual a cor do hiperlink HTML não estava sendo visualizada corretamente.
+
+
+- Consertamos um problema em que o Word tinha uma lista com mais de 50 documentos abertos com frequência e, depois que você salvava e abria um documento, um histórico de revisão era exibido, ainda que nenhuma revisão tivesse sido realizada no documento.
+
+
+- Corrigimos um problema com o salvamento automático durante a coautoria.
+
+
+- Consertamos um problema em que, ao tentar salvar um arquivo que contém uma macro com um novo nome, fazia com que o arquivo fosse salvo com a extensão .docx e com o nome de arquivo 'WRO0004.docx', independentemente do que o usuário inseriu, tornando o documento inutilizável.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Um problema de tempo poderia causar uma falha ao se fechar arquivos do Office
+
+- A correção para esse problema foi garantir que o serviço computasse corretamente os produtos adicionados. Filtramos os produtos recém-adicionados (garantindo que também estejam presentes na nova configuração) e os adicionamos no final das IDs de lançamento dos produtos existentes.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2006-july-09"></a>Versão 2006: 09 de julho
 *Versão 2006 (Build 13001.20384)*
@@ -97,21 +284,21 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
 
-- <div>Esse problema já foi resolvido. Informe a equipe se você tiver mais problemas com esse processo.</div>
+- Esse problema já foi resolvido. Informe a equipe se você tiver mais problemas com esse processo.
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">Corrige um problema que fazia com que os usuários vissem<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">a data de criação dos anexos&nbsp; que eles copiaram para o sistema de arquivos por meio de arrastar e soltar, configurando a&nbsp; como 1 de janeiro de 4501.</span><br></div>
+- <span style="display:inline !important;">Corrige um problema que fazia com que os usuários vissem<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">a data de criação dos anexos&nbsp; que eles copiaram para o sistema de arquivos por meio de arrastar e soltar, configurando a&nbsp; como 1 de janeiro de 4501.</span><br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Corrige um problema que fazia com que os usuários das melhorias do Calendário Compartilhado vissem as falhas de calendário.</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Corrige um problema que fazia com que os usuários das melhorias do Calendário Compartilhado vissem as falhas de calendário.</span><br>
 
 
-- <div><span style="display:inline !important;">Corrige um problema que fazia com que os usuários vissem o Outlook solicitando continuamente que executassem a ferramenta Reparo da Caixa de Entrada.</span><br></div>
+- <span style="display:inline !important;">Corrige um problema que fazia com que os usuários vissem o Outlook solicitando continuamente que executassem a ferramenta Reparo da Caixa de Entrada.</span><br>
 
 
-- <div><span style="display:inline !important;">Corrige um problema que fazia com que a pesquisa de um recurso em Sugerir um recurso não retornasse resultados e deixasse o usuário sem a opção de enviar uma nova ideia de recurso.</span><br></div>
+- <span style="display:inline !important;">Corrige um problema que fazia com que a pesquisa de um recurso em Sugerir um recurso não retornasse resultados e deixasse o usuário sem a opção de enviar uma nova ideia de recurso.</span><br>
 
 
 
@@ -967,7 +1154,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="project"></a>Projeto
 
-- <div><span style="display:inline !important;">Correção de um problema em que o usuário não conseguiu entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.</span><br></div>
+- <span style="display:inline !important;">Correção de um problema em que o usuário não conseguiu entrar no trabalho da linha de base com divisão ao longo do tempo quando a configuração para proteger o trabalho real está ativada.</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
 ### <a name="project"></a>Projeto
-- <div>Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.</div>
+- Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
 ### <a name="office-suite"></a>Pacote do Office
-- <div>Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.</div>
+- Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
 
 
 
@@ -1202,7 +1389,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- <div>Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar e-mails.</div>
+- Resolve um problema que fazia com que aplicativos de terceiros não pudessem enviar e-mails.
 
 
 
@@ -1243,24 +1430,24 @@ Versão 2002 (Build 12527.20174)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">Corrigido um problema em que as funções do CUBEVALUE, às vezes, retornavam um resultado incorreto.&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">Corrigimos um problema no qual as funções VALORCUBO, às vezes, retornavam um resultado incorreto.&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>Corrige um problema que fazia com que as vírgulas no campo local de uma reunião se transformassem em ponto e vírgula.</div>
+- Corrige um problema que fazia com que as vírgulas no campo local de uma reunião se transformassem em ponto e vírgula.
 
 
-- <div>Resolve um problema que pode resultar em uma falha ao exibir o mesmo item em várias janelas.</div>
+- Resolve um problema que pode resultar em uma falha ao exibir o mesmo item em várias janelas.
 
 
-- <div>Resolve um problema que fez com que o Outlook sincronize inesperadamente todos os e-mails, mesmo quando o controle deslizante de sincronização estiver definido como uma configuração menor.&nbsp;</div>
+- Resolve um problema que fez com que o Outlook sincronize inesperadamente todos os e-mails, mesmo quando o controle deslizante de sincronização estiver definido como uma configuração menor.&nbsp;
 
 
-- <div>Resolve um problema que fez com que os usuários com o Tema Preto consultem o &quot;De&quot; da lista suspensa mostrem um texto branco sobre um fundo branco..</div>
+- Resolve um problema que fez com que os usuários com o Tema Preto consultem o &quot;De&quot; da lista suspensa mostrem um texto branco sobre um fundo branco..
 
 
-- <div><span style="display:inline !important;">Essa alteração restaura a capacidade de visualizar assuntos de várias linhas no cabeçalho da mensagem.</span><br></div>
+- <span style="display:inline !important;">Essa alteração restaura a capacidade de visualizar assuntos de várias linhas no cabeçalho da mensagem.</span><br>
 
 
 
