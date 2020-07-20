@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098665"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166709"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,47 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2008-july-17"></a>Versão 2008: 17 de julho
+*Versão 2008 (Compilação 13115.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Consertamos um problema em que a qualquer momento em que um gráfico dinâmico com linhas de preenchimento ocultas era salvo e reaberto, as linhas de preenchimento se tornavam visíveis.
+
+- Consertamos um problema em que os gráficos nem sempre eram atualizados conforme o esperado quando o ' ForceFullCalculation ' estava habilitado via VBA para a pasta de trabalho.
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema em torno da criação de vários perfis no Outlook a partir do mesmo domínio de email.
+- Resolve um problema que provocou a falha da exibição do ícone de bloqueio no cabeçalho de mensagens criptografadas S/MIME.
+- Soluciona um problema que causou a remoção dos anexos de mensagens S/MIME quando enviadas sem criptografia.
+- Corrige um problema que provocou mensagens de texto S/MIME sem formatação se tornarem truncadas ao enviar.
+- Resolve um problema que causa a corrupção de um arquivo ao enviar um email S/MIME não criptografado.
+- Soluciona um problema que fazia com que os usuários não conseguissem salvar anexos do OneDrive de fora de seu locatário em seu computador local ao selecionar a opção 'Salvar' na caixa de diálogo de segurança.
+- Resolve um problema que fazia com que os destinatários não conseguirem salvar mensagens protegidas por direitos, mesmo quando a permissão para salvar era concedida pelo remetente.
+- Corrige um problema que fazia com que as etiquetas de algumas opções de Pesquisa Avançada fossem truncadas em alguns idiomas.
+
+### <a name="project"></a>Project
+
+- Resolvemos um problema em que as tarefas listadas no modo de exibição Quadro de Tarefas não estavam sincronizadas com as do diálogo Atribuir Recursos.
+- Corrigimos um problema no qual, se você copiasse e colasse uma tarefa que tivesse várias dependências, nem todas as dependências eram copiadas corretamente.
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que o comando 'Editor' era desabilitado quando o foco estava em uma caixa de texto de comentário.
+- Resolvemos um problema em que o comando 'Mostrar Marcação' era desabilitado quando o foco estava em uma caixa de texto de comentário.
+- Corrigimos um problema no XML personalizado no qual o estado dos comentários poderia ser perdido ao abrir o documento.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Consertamos um problema em que, após o usuário abrir uma nova janela de aplicativo na barra de tarefas e criar um novo documento em branco, arquivos adicionais eram criados.
+- Resolvemos um problema em que, se um usuário estava editando um documento mas teve permissões perdidas, não estávamos notificando sobre o usuário de que ele tinha que se autenticar novamente.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-july-10"></a>Versão 2008: 10 de julho
 *Versão 2008 (Build 13102.20002)*
@@ -1022,5 +1063,6 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|versão-10-de-julho-2008|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
