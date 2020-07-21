@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f32bdae61df487a920d3a5a7186db9113b37310a
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138807"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187601"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -154,8 +154,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
 - **Compartilhamento rápido de arquivo**: compartilhe seus documentos diretamente da lista usada recentemente sem precisar abrir o arquivo.
-
-- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
 
