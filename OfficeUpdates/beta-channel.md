@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
-ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
+ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
+ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45166709"
+ms.lasthandoff: 07/24/2020
+ms.locfileid: "45410707"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,35 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2008-july-24"></a>Versão 2008: 24 de Julho
+*Versão 2008 (Compilação 13117.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="onenote"></a>OneNote
+
+- Consertamos um problema em que o texto no espaço reservado da caixa de edição Pesquisar transbordaria se a janela do aplicativo fosse redimensionada a uma menor dimensão.
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que o texto no espaço reservado da caixa de edição Pesquisar transbordaria se a janela do aplicativo fosse redimensionada a uma menor dimensão.
+- Consertamos um problema em que a opção 'Pessoas Específicas' para o Controlar Alterações era desabilitada.
+- Consertamos um travamento ocasional ao abrir arquivos HTML.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-july-17"></a>Versão 2008: 17 de julho
 *Versão 2008 (Compilação 13115.20000)*
@@ -1063,6 +1092,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|versão-10-de-julho-2008|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
