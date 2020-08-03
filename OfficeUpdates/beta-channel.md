@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 55376627b5c8bc71bf346861a774ecce3cda9240
-ms.sourcegitcommit: 766e2f8782023972acd7a53c458f39219a8493b3
+ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/24/2020
-ms.locfileid: "45410707"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532596"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,67 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2008-july-31"></a>Versão 2008: 31 de Julho
+*Versão 2008 (Build 13127.20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="outlook"></a>Outlook
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="word"></a>Word
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acessar
+
+- Esta correção resolve o problema de quando na tentativa de executar determinadas consultas tenha previamente produzido a mensagem de erro 'Consulta é muito complexa'.
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que, se a ordem de uma série de gráficos tiver sido alterada, a caixa de seleção correspondente alinhada com a série não foi reordenada juntamente com a série.
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+
+### <a name="outlook"></a>Outlook
+
+- Isto corrige um problema que fazia com que os usuários não conseguissem adicionar uma assinatura ao responder a uma mensagem gerenciada por direitos digitais de uma janela do inspetor quando o usuário não teve permissões de proprietário na mensagem que está sendo respondida.
+- Esta correção resolve um problema que estava causando falha no Outlook ao exibir quebras de linha corretamente em conteúdo de markdown.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+- Corrigimos um problema em que o botão Formulários no PowerPoint não permitia a criação de Formulários quando o acesso ao Office Store não era permitido.
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que, para uma lista de tarefas do SharePoint, os botões da faixa de opções na segunda guia podem ficar desabilitados.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+- Corrigimos um problema em que, se um comentário foi adicionado para acompanhar uma alteração, o painel revisões seria aberto inesperadamente.
+- Corrigimos um problema em que os links para documentos não estavam sendo inseridos na caixa de comentários por meio de Inserir -> Link suspenso.
+- Corrigimos um problema em que a contagem de hiperlinks na coleção de hyperlinks do VBA não foi iterada corretamente após a adição de uma imagem contendo um hiperlink.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-july-24"></a>Versão 2008: 24 de Julho
 *Versão 2008 (Compilação 13117.20000)*
@@ -1092,6 +1153,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|versão-10-de-julho-2008|)
