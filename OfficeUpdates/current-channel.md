@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
+ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532586"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46580844"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -686,6 +686,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Suas funções favoritas do Excel acabaram de ficar mais rápidas:** As funções SOMASES, MÉDIASES, CONT.SES, MÁXIMOSES e MÍNIMOSES estão muito mais rápidas do que nunca. Chegue ao resultado final mais rapidamente. Experimente agora.
+
 ### <a name="outlook"></a>Outlook
 
 - **Arraste o email para um grupo que você possui:** Mova e copie mensagens e conversas arrastando-as da sua caixa de entrada. As mensagens que você arrastar serão compartilhadas com todos os membros do grupo.
