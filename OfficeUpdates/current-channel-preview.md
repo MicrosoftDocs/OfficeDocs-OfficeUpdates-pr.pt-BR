@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525052"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576793"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,36 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
+*Versão 2007 (Compilação 13029.20344)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Resolvido um problema que fazia com que o Outlook não recuperasse as sugestões de pesquisa.
+
+
+- Resolvido um problema que causava um ocasional travamento para os usuários ao recuperar informações pessoais.
+
+
+### <a name="project"></a>Projeto
+
+- Corrigido um problema onde um projeto que estava em um estado ruim não podia ser aberto.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
 
 ## <a name="version-2007-july-29"></a>Versão 2007: 29 de julho
 *Versão 2007 (Build 13029.20308)*
