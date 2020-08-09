@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: c9d5dfb323a27aacb792d93293cf3aba09d43432
-ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
+ms.openlocfilehash: e6eed857b8283a1fc54df709d9c467e86ef27abc
+ms.sourcegitcommit: a08ea72a9245e2d6136f3d9430a784777f2ff1e4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46532596"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "46590298"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,22 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2009-august-07"></a>Versão 2009: 07 de Agosto
+*Versão 2009 (Build 13130.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Consertamos um problema em que os atributos da conta do usuário do Active Directory para "otherTelephone" e "otherHomePhone" não estavam mapeados para os atributos LDAP do Outlook correspondente.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema em que os usuários estavam vendo a barra da faixa de opções/ título sendo exibida em determinadas condições.
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-july-31"></a>Versão 2008: 31 de Julho
 *Versão 2008 (Build 13127.20002)*
@@ -1153,6 +1169,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-july-17|)
