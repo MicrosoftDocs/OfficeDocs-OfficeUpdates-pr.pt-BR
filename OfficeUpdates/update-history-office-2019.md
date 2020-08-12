@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530340"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612333"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -36,6 +36,9 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versões de licenciamento por volume do Office 2019
 As informações a seguir aplicam-se às versões de licenciamento por volume do Office 2019, como o Office Professional Plus 2019 comprado por meio de um contrato de licenciamento por volume.
 
+[//]: # (NÃO REMOVA O INÍCIO DA TABELA VL)
+
+
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
 |14 de julho de 2020   |Versão 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 |11 de fevereiro de 2020   |Versão 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NÃO REMOVA O FINAL DA TABELA VL)
+
+<details>
+<summary>Versões anteriores</summary>
+ 
+[//]: # (NÃO REMOVA O INÍCIO DA ANTIGA TABELA VL)
 
 
+|**Data de lançamento**|**Número da versão**|**Mais informações**|
+|:-----|:-----|:-----|
 
+
+[//]: # (NÃO REMOVA O FINAL DA ANTIGA TABELA VL)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Versões de varejo do Office 2016 com Clique para Executar e do Office 2019
 As informações a seguir se aplicam às versões de varejo do Office 2016 com Clique para Executar e do Office 2019, que compartilham as mesmas datas de lançamento e os mesmos números de versão.
+
+[//]: # (NÃO REMOVA O INÍCIO DA TABELA DE VAREJO)
+
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 |30 de junho de 2020|Versão 2006 (Compilação 13001.20266)  |Várias correções de bugs e desempenho.  <br/>  |
 |24 de junho de 2020|Versão 2005 (Compilação 12827.20470)  |Várias correções de bugs e desempenho.  <br/>  |
 |9 de junho de 2020|Versão 2005 (Compilação 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (NÃO REMOVA O FINAL DA TABELA DE VAREJO)
+
+<details>
+<summary>Versões anteriores</summary>
+ 
+[//]: # (NÃO REMOVA O INÍCIO DA ANTIGA TABELA DE VAREJO)
+
+
+|**Data de lançamento**|**Número da versão**|**Mais informações**|
+|:-----|:-----|:-----|
 |2 de junho de 2020|Versão 2005 (Compilação 12827.20268)  |Várias correções de bugs e de desempenho.  <br/>  |
 |21 de maio de 2020|Versão 2004 (Compilação 12730.20352)  |Várias correções de bugs e de desempenho.  <br/>  |
 |12 de maio de 2020|Versão 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 |11 de fevereiro de 2020   |Versão 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NÃO REMOVA O FINAL DA ANTIGA TABELA DE VAREJO)
 
+</details>
 
 
 
