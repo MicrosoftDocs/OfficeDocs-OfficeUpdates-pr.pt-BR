@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 786855ce6b1b1aefd40b631045e450bb49c212b4
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: b9a83dff401ba017968d20a9b85f7a327749ff97
+ms.sourcegitcommit: dc791a00230b0eb2db3e8c36e03825f57af1a03a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637649"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649611"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -58,7 +58,9 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 <details>
 <summary>Versões anteriores</summary>
  
+
 [//]: # (NÃO REMOVA O INÍCIO DA ANTIGA TABELA VL)
+
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
@@ -90,7 +92,9 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 <details>
 <summary>Versões anteriores</summary>
  
+
 [//]: # (NÃO REMOVA O INÍCIO DA ANTIGA TABELA DE VAREJO)
+
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|

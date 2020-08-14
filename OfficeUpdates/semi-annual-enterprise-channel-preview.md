@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: e567d3139d7766b54d05e0ddf5272bc683c6f82a
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187581"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634867"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -23,6 +23,43 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 > [!IMPORTANT]
 > Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2002-august-11"></a>Versão 2002: 11 de agosto
+*Versão 2002 (Compilação 12527.20988)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema que impedia a capacidade de mudar para editar arquivos que foram abertos como "leitura somente recomendado".
+
+### <a name="onenote"></a>OneNote
+
+- Removido as chamadas de identidade redundantes para reduzir a utilização de recursos
+
+- Melhoria na detecção de status de coautoria para reduzir a utilização de recursos.
+
+- Melhoria na capacidade de detecção de erros e na experiência de sincronização com qualidade.
+
+### <a name="outlook"></a>Outlook
+
+- Foi abordado um problema que causava um problema de desempenho significativo ao iniciar o Outlook para alguns locatários.
+
+### <a name="skype"></a>Skype
+
+- Corrigido um problema em que iniciar um compartilhamento de tela pode falhar em um cliente do Skype for Business de 32 bits após ele estiver sendo executado por vários dias.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema em que, quando o salvamento automático estava desativado na política de grupo, alguns documentos não podiam mostrar o conteúdo mais recente do servidor na abertura até o usuário clicar em "Atualizações disponíveis".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-july-14"></a>Versão 2002: 14 de julho
 *Versão 2002 (Build 12527.20880)*
@@ -465,9 +502,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
-- Esta atualização corrige um problema no Microsoft Access que pode causar o erro &quot;A consulta está corrompida&quot; quando uma Consulta Atualização é executada ou uma instrução UPDATE é usada em SQL.
+- Esta atualização corrige um problema no Microsoft Access que pode causar o erro “A consulta está corrompida” quando uma Consulta Atualização é executada ou uma instrução UPDATE é usada no SQL.
 
 - Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
 
@@ -535,13 +572,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionamos um problema que fazia com que aplicativos de terceiros não conseguissem enviar emails.
 
-- Corrigido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão &quot;OK&quot; ao tentar contatar o suporte do contexto de Criação de Conta.
+- Resolvido um problema que fazia com que os usuários vissem uma caixa de mensagem vazia com um botão “OK” ao tentar contatar o suporte do contexto de Criação de Conta.
 
 - Solucionamos um problema que fazia com que os usuários experimentassem uma falha durante a criação do perfil.
 
 - Solucionamos um problema que fazia o Outlook sincronizar inesperadamente todos os emails, mesmo quando o controle deslizante de sincronização estivesse definido com uma configuração menor.
 
-- Solucionamos um problema que fazia com que a suspensa &quot;De&quot; mostrasse texto branco em um fundo branco para usuários com o Tema Preto.
+- Solucionamos um problema que fez que usuários com tema escuro vissem o “De” suspenso mostrar texto branco sobre fundo branco.
 
 - Solucionado um problema que fazia com que os usuários experimentassem uma falha ao cancelar a configuração da conta.
 
@@ -549,7 +586,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionado um problema que fazia com que a opção desativar o realce do item sinalizado deixasse de ser respeitada em alguns cenários.
 
-- Solucionamos um problema que fazia com que usuários vissem um prompt &quot;As regras neste computador não correspondem às regras no Microsoft Exchange&quot; ao abrir a caixa de diálogo de Regras.
+- Resolvido um problema que fazia com que usuários vissem um aviso “As regras neste computador não correspondem às regras no Microsoft Exchange” ao abrir a caixa de diálogo de Regras.
 
 - Solucionado um problema que fazia com que os usuários experimentassem uma falha ao especificar um endereço De inválido.
 
@@ -573,7 +610,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionamos problemas relacionados a reuniões e compromissos no fuso horário de Brasília.
 
-- Foi corrigido um problema que fazia com que emails fossem enviados inesperadamente ao pressionar a tecla &quot;S&quot; após fechar o painel do verificador de acessibilidade.
+- Foi corrigido um problema que fazia com que emails fossem enviados inesperadamente ao pressionar a tecla “S” após fechar o painel do verificador de acessibilidade.
 
 - Isso atualiza a lógica de bloqueio de anexos no Outlook para também bloquear anexos de python.
 
@@ -603,7 +640,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Corrigimos um problema em que, em alguns casos, ao tentar salvar um arquivo existente a caixa de diálogo Salvar Como aparecia e o arquivo nunca era realmente salvo.
 
-- O organizador de blocos de construção pode exibir um alerta inválido: &quot;Você modificou estilos, blocos de construção&quot;.
+- O organizador de blocos de construção pode exibir um alerta inválido: “Você modificou estilos, blocos de construção”.
 
 ### <a name="office-suite"></a>Pacote do Office
 
@@ -731,5 +768,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
