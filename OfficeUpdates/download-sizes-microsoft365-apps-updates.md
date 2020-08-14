@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: c2f321c0c1465fd2814232eaab6e1782f83629b9
-ms.sourcegitcommit: 66c77c0b4b04bd91b4624dc741a9aed272bf9807
+ms.openlocfilehash: 7ccf04ceb82ce5552de8852e2b7c062402be7f38
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "46588093"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634817"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+## <a name="august-11-2020"></a>11 de agosto de 2020
 
-## <a name="august-6-2020"></a>6 de agosto de 2020
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 11 de agosto de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2007 (Compilação 13029.20344).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2007 (Compilação 13029.20308) <br/> |30 de julho de 2020 <br/> |50<br/> |
+|Versão 2006 (Build 13001.20498) <br/> |28 de julho de 2020 <br/> |374<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
-<i>O lançamento esperado é o da Versão 2006 (Build 13001.20540).</i>
+A versão mais atual é a Versão 2006 (Compilação 13001.20520).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -53,25 +62,28 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
 
-<i>O lançamento esperado é o da Versão 2002 (Build 12527.20964).</i>
+A versão mais atual é a Versão 2002 (Compilação 12527.20988).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |57<br/> |
+|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |58<br/> |
 |Versão 2002 (Build 12527.20720) <br/> |9 de junho de 2020 <br/> |62<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
 
-<i>O lançamento esperado é o da Versão 2002 (Build 12527.20964).</i>
+A versão mais atual é a Versão 2002 (Compilação 12527.20988).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |57<br/> |
+|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |58<br/> |
 |Versão 1908 (Build 11929.20838) <br/> |09 de junho de 2020 <br/> |291<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 11 de agosto de 2020)
+
+
+
 
 ## <a name="july-30-2020"></a>30 de julho de 2020
 

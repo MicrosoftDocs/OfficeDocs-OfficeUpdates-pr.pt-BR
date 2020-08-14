@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
-ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
+ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46576793"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634847"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,125 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2008-august-11"></a>Versão 2008: 11 de agosto
+*Versão 2008 (Compilação 13127.20164)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acessar
+
+- Esta correção resolve o problema de quando na tentativa de executar determinadas consultas tenha previamente produzido a mensagem de erro 'Consulta é muito complexa'.
+
+- Se você tiver o Office 365 instalado, não será mais necessário instalar nosso Mecanismo Redistribuível ACE para exposição do ACE fora do ecossistema do Office. Portanto, para aqueles com Office 365, você não precisará mais do Mecanismo de Pacote Redistribuível ACE e, consequentemente, você não terá esse problema.
+
+- Este problema foi resolvido - agora você pode usar nosso driver ODBC fora das aplicações de Clicar para Executar do Office.
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que, se a ordem de uma série de gráficos tiver sido alterada, a caixa de seleção correspondente alinhada com a série não foi reordenada juntamente com a série.
+
+- Pode ocorrer um erro ao tentar salvar um arquivo que contenha uma fórmula usando a função LET ().
+
+- Corrigimos um problema em que os gráficos nem sempre eram atualizados conforme o esperado quando o “ForceFullCalculation” estava habilitado via VBA para a pasta de trabalho.
+
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+
+### <a name="onenote"></a>OneNote
+
+- Consertamos um problema em que o texto no espaço reservado da caixa de edição Pesquisar transbordaria se a janela do aplicativo fosse redimensionada a uma menor dimensão.
+
+### <a name="outlook"></a>Outlook
+
+- Solucionado um problema em torno da criação de vários perfis no Outlook a partir do mesmo domínio de email.
+
+- Solucionado um problema que impediu alguns usuários do recurso de melhorias do Calendário Compartilhado de poderem visualizar um calendário compartilhado recém-adicionado.
+
+- Solucionado um problema que provocou a falha da exibição do ícone de bloqueio no cabeçalho de mensagens criptografadas S/MIME.
+
+- Consertamos um problema em que a opção “Permitir Encaminhamento” estava ausente das "Opções de Resposta" da reunião com calendário compartilhado, caso a pasta compartilhada Download NÃO tivesse sido ativada.
+
+- Solucionado um problema que fazia com que os usuários não conseguissem salvar os anexos do OneDrive de fora de seu locatário no computador local ao selecionar a opção "Salvar" na caixa de diálogo de segurança.
+
+- Corrigimos um problema que exibia o botão imprimir em um estado desabilitado, mesmo que o usuário tivesse as permissões de impressão apropriadas.
+
+- Solucionado um problema que causou a remoção dos anexos de mensagens S/MIME quando enviadas sem criptografia.
+
+- Solucionado um problema que provocou mensagens de texto S/MIME sem formatação se tornarem truncadas ao enviar.
+
+- Solucionado um problema que causa a corrupção de um arquivo ao enviar um email S/MIME não criptografado.
+
+- Solucionado um problema que fazia com que os destinatários não conseguirem salvar mensagens protegidas por direitos, mesmo quando a permissão para salvar era concedida pelo remetente.
+
+- Isto corrige um problema que fazia com que os usuários não conseguissem adicionar uma assinatura ao responder a uma mensagem gerenciada por direitos digitais de uma janela do inspetor quando o usuário não teve permissões de proprietário na mensagem que está sendo respondida.
+
+- Esta correção resolve um problema que estava causando falha no Outlook ao exibir quebras de linha corretamente em conteúdo de markdown.
+
+- Solucionado um problema que fazia com que as etiquetas de algumas opções de Pesquisa Avançada fossem truncadas em alguns idiomas.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+
+- Corrigimos um problema em que o botão Formulários no PowerPoint não permitia a criação de Formulários quando o acesso para o Office Store não era permitido.
+
+### <a name="project"></a>Project
+
+- Resolvemos um problema em que as tarefas listadas no modo de exibição Quadro de Tarefas não estavam sincronizadas com as do diálogo Atribuir Recursos.
+
+- Consertamos um problema no qual quando você tentava salvar um PDF/XPS do Project em uma biblioteca de documentos do SharePoint, nada acontecia.
+
+- Corrigimos um problema no qual, se você copiasse e colasse uma tarefa que tivesse várias dependências, nem todas as dependências eram copiadas corretamente.
+
+- Corrigido um problema em que, para uma lista de tarefas do SharePoint, os botões da faixa de opções na segunda guia podem ficar desabilitados.
+
+### <a name="skype"></a>Skype
+
+- Alterado o tom de pele do emoticon que dança para cor neutra
+
+### <a name="visio"></a>Visio
+
+- Após esta correção, se o usuário tiver interrompido a execução do comando excluir por qualquer mecanismo dentro da (neste caso, foi através de um suplemento) memória, este não será perdido e o computador inteiro não será afetado.
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que o Word deixava de responder depois de colar um texto e uma imagem na caixa de comentários.
+
+- Corrigimos um problema em que uma cópia de uma imagem com um preenchimento de gradiente radial não correspondeu ao original.
+
+- Consertamos um problema em que o texto no espaço reservado da caixa de edição Pesquisar transbordaria se a janela do aplicativo fosse redimensionada a uma menor dimensão.
+
+- Corrigimos um problema em que, se um comentário foi adicionado para acompanhar uma alteração, o painel revisões seria aberto inesperadamente.
+
+- Corrigimos um problema em que o comando 'Editor' era desabilitado quando o foco estava em uma caixa de texto de comentário.
+
+- Corrigimos um problema em que o comando 'Mostrar Marcação' era desabilitado quando o foco estava em uma caixa de texto de comentário.
+
+- Corrigimos um problema em que o botão "Novo comentário" era desabilitado após a exclusão do último comentário.
+
+- Corrigimos um problema em que a opção 'Pessoas Específicas' para Controlar Alterações era desabilitada.
+
+- Corrigimos um problema em que os links para documentos não estavam sendo inseridos na caixa de comentários por meio de Inserir -> Link suspenso.
+
+- Corrigimos um travamento ocasional ao abrir arquivos HTML.
+
+- Corrigimos um problema no XML personalizado no qual o estado dos comentários poderia ser perdido ao abrir o documento.
+
+- Corrigimos um problema em que a contagem de hiperlinks na coleção de hyperlinks do VBA não foi iterada corretamente após a adição de uma imagem contendo um hiperlink.
+
+- Para o antigo painel de Compartilhamento não baseado na Web, ao fechar o documento enquanto o painel de Compartilhamento abria, isso poderia causar uma falha. Isto agora está corrigido.
+
+- Consertamos um problema em que, após o usuário abrir uma nova janela de aplicativo na barra de tarefas e criar um novo documento em branco, arquivos adicionais eram criados.
+
+- Resolvemos um problema em que, se um usuário estava editando um documento mas teve permissões perdidas, não estávamos notificando sobre o usuário de que ele tinha que se autenticar novamente.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
 *Versão 2007 (Compilação 13029.20344)*
@@ -71,10 +190,6 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="outlook"></a>Outlook
 
 - **Escolha onde Pesquisar:** O novo escopo da pesquisa a lista suspensa permite que você modifique a pesquisa com mais facilidade e alterne entre as pastas atuais e a caixa de correio atual. Agradecer a todas as pessoas no Em Breve, que forneceram comentários sobre a nova pesquisa na primeira experiência. Esse design e essa atualização acabaram com esse comentário!
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Melhor desempenho de streaming de vídeo no PowerPoint:** fizemos melhorias no desempenho da reprodução do Microsoft Stream para minimizar o tempo de carregamento de vídeos e criar uma experiência de exibição agradável. Use seus vídeos corporativos do Microsoft Stream para criar apresentações melhores.
 
 ### <a name="word"></a>Word
 

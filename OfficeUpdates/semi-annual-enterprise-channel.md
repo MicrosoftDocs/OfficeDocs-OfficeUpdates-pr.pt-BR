@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187601"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634597"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -26,6 +26,57 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 > [!NOTE]
 >
 >- O OneNote 2016 já está incluído por padrão quando um usuário no Canal Empresarial Semestral baixar e instalar o Microsoft 365 Apps no Windows 10 do Portal do Office.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2002-august-11"></a>Versão 2002: 11 de agosto
+*Versão 2002 (Compilação 12527.20988)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema que impedia a capacidade de mudar para editar arquivos que foram abertos como "leitura somente recomendado".
+
+### <a name="onenote"></a>OneNote
+
+- Removido as chamadas de identidade redundantes para reduzir a utilização de recursos
+
+- Melhoria na detecção de status de coautoria para reduzir a utilização de recursos.
+
+- Melhoria na capacidade de detecção de erros e na experiência de sincronização com qualidade.
+
+### <a name="outlook"></a>Outlook
+
+- Foi abordado um problema que causava um problema de desempenho significativo ao iniciar o Outlook para alguns locatários.
+
+### <a name="skype"></a>Skype
+
+- Corrigido um problema em que iniciar um compartilhamento de tela pode falhar em um cliente do Skype for Business de 32 bits após ele estiver sendo executado por vários dias.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema em que, quando o salvamento automático estava desativado na política de grupo, alguns documentos não podiam mostrar o conteúdo mais recente do servidor na abertura até o usuário clicar em "Atualizações disponíveis".
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1908-august-11"></a>Versão 1908: 11 de agosto
+*Versão 1908 (Compilação 11929.20934)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-1902-august-11"></a>Versão 1902: 11 de agosto
+*Versão 1902 (Compilação 11328.20644)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -1611,5 +1662,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

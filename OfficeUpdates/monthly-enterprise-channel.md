@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138677"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634797"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,112 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2006-august-11"></a>Versão 2006: 11 de agosto
+*Versão 2006 (Compilação 13001.20520)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+- **Filtre e classifique sem interromper os outros:** Agora você pode classificar e filtrar seu arquivo do Excel enquanto colabora com outras pessoas através do Modo de Exibição de Planilha. Esse novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento. [Saiba mais](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **Ajude a proteger os dados de seu grupo:** o rótulo de Confidencialidade que você escolheu ao criar um grupo é aplicado a emails de grupo, documentos e sites de equipe.
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+- **Nova opção para desabilitar sugestões de @menções ao redigir emails no Outlook:** você considera o seletor @mencionar mais irritante que útil? Agora você pode desativá-lo, se preferir.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Mantenha suas fotos em alta definição ao enviá-las como parte de um email:** Uma nova configuração do Outlook está disponível para limitar a compactação de imagem quando você envia fotos como parte do conteúdo de emails.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+- **Melhor desempenho de streaming de vídeo no PowerPoint:** fizemos melhorias no desempenho da reprodução do Microsoft Stream para minimizar o tempo de carregamento de vídeos e criar uma experiência de exibição agradável. Use seus vídeos corporativos do Microsoft Stream para criar apresentações melhores.
+
+### <a name="word"></a>Word
+
+- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Consertamos um problema em que a execução da consulta estava levando aproximadamente duas vezes mais para ser terminada do que o esperado. 
+
+- Resolveu um problema com a inserção de tabelas SQL vinculadas que incluem um campo identidade (por exemplo, numeração automática).
+
+
+### <a name="excel"></a>Excel
+
+- Correção de um problema que provocava a remoção de XML do CustomUI de uma guia da faixa de opções personalizada ao salvar no SharePoint/OneDrive.
+
+- Corrigimos um problema no qual um erro ou falha poderiam ocorrer ao se carregar uma pasta de trabalho com diversas planilhas no modo de visualização com quebra de página.
+
+- Correção de uma falha que poderia ocorrer quando você tentasse criar uma conexão de dados se tivesse saído da sua conta.
+
+- A classificação automática de documentos pode ter ocorrido para as pastas de trabalho que estavam e modo somente leitura.
+
+### <a name="onenote"></a>OneNote
+
+- Melhore a detecção de status de coautoria para reduzir a utilização de recursos.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema ao copiar e colar imagem SVG.
+
+- Corrige um problema que fazia com que a pesquisa de um recurso em Sugerir um recurso não retornasse resultados e deixasse o usuário sem a opção de enviar uma nova ideia de recurso.
+
+- Corrige um problema que fazia com que Ctrl+clique parasse de funcionar quando as configurações de nuvem estavam habilitadas.
+
+- Aborda um problema que fazia com que os usuários não conseguissem salvar anexos do OneDrive de fora de seu locatário para seu computador local ao selecionar a opção “Salvar” no diálogo de segurança.
+
+- Corrige um problema que fazia com que o Outlook solicitasse continuamente para os usuários executarem a Ferramenta Reparo da Caixa de Entrada.
+
+- Corrige um problema que causava falhas no calendário em aperfeiçoamentos do Calendário Compartilhado.
+
+- Corrige um problema que fazia com que os usuários vissem a data de criação de  anexos que haviam copiado para seu sistema de arquivos por meio de arrastar e colar sendo  definida como 1° de janeiro de 4501.
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que o evento ProjectBeforeTaskChange não é acionado quando há uma alteração na tarefa resumo do projeto, o campo início/tarefa do projeto.
+
+- Correção de um problema em que uma tarefa marcada como 100% concluída mudava incorretamente para menos do que 100% concluída.
+
+- Corrigimos um problema no qual não era possível abrir projetos no cliente da área de trabalho do Project a partir do aplicativo web do Project caso o URL terminasse em .com.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema ao copiar e colar imagem SVG.
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Fizemos uma nova AppV51 para corrigir uma regressão no AppV51 anterior.
+
+- Um problema de tempo poderia causar uma falha ao se fechar arquivos do Office
+
+- Foi corrigido um problema de falha com o host do Office no Windows quando um suplemento é ativado enquanto o valor TabProcGrowth do registro é tipo REG_SZ.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2005-august-11"></a>Versão 2005: 11 de agosto
+*Versão 2005 (Compilação 12827.20656)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2005-july-14"></a>Versão 2005: 14 de julho
 *Versão 2005 (Build 12827.20538)*
@@ -82,9 +188,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Corrige um problema que causava falhas no calendário em aperfeiçoamentos do Calendário Compartilhado.
 
-- Soluciona um problema que exibia a mensagem &quot;As regras neste computador não correspondem às regras no Microsoft Exchange&quot; ao atualizar as regras no Outlook.
+- Soluciona um problema que exibia a mensagem “A regras neste computador não correspondem às regras no Microsoft Exchange” ao atualizar as regras no Outlook.
 
-- Corrige um problema que exibia a data de criação dos anexos&nbsp; que os usuários copiavam para o sistema de arquivos arrastando e soltando, definido para 1 de janeiro, 4501.
+- Aborda um problema que fazia com que os usuários vissem a data de criação de anexos que haviam copiado para seu sistema de arquivos por meio de arrastar e colar sendo definida como 1° de janeiro de 4501.
 
 - Soluciona um problema que causava falha no Outlook ao habilitar as dicas da política de Proteção Contra Perda de Dados para usuários que pagaram pelo serviço nos planos M365 Business Plus.
 
@@ -416,5 +522,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

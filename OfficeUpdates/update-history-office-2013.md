@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 1b1dd6974f76fc1182edacaa3b82c66e54d84ded
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7a8ea9fc651d9fa889d7d494c264dd82de6bb554
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138777"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634527"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5259.1000**, lançada em 14 de julho de 2020.
+> A versão mais recente do Office 2013 é **15.0.5267.1000**, que foi lançada em 11 de agosto de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020|14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
+|2020| 11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
+||14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 de junho   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|
 ||12 de maio   |15.0.5241.1000   |[4549680 KB ](https://support.microsoft.com/help/4549680)  |
 ||14 de abril   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670)  |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145108"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637639"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,30 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="august-2020-release"></a>Versão de agosto de 2020.
+
+**Data da Versão:** 11 de agosto de 2020
+
+*Microsoft Auto Update 4.26*
+
+**Correção de bugs e melhorias:**
+-   O ícone MAU no Dock agora exibirá o número de atualizações disponíveis. 
+-   O MAU será iniciado em estado minimizado quando as atualizações forem detectadas.
+-   Adicionada uma nova preferência "IgnoreUIOpenAfterInstall" que pode ser usada para evitar a inicialização da interface de usuário do MAU após a instalação.
+-   Solucionado um problema de permissões que provocava e mostrava uma mensagem de “Instalação incorreta” 
+-   Estendeu a persistência da mensagem de notificação do MAU "Prazo de atualização" de 60 segundos para 1 hora.
+
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.26](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>Versão de julho de 2020
 
