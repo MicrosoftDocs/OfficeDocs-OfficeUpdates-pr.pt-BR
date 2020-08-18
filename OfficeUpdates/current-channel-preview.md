@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
+ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634847"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46788951"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,29 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2008-august-17"></a>Versão 2008: 17 de agosto
+*Versão 2008 (Compilação 13127.20208)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Tratamos de um problema que fazia com que as reuniões não fossem retiradas do calendário de um gerente, quando recusadas por um representante em algumas circunstâncias.
+
+
+- Tratamos de um problema que fazia com que os usuários de alguns conjuntos de caracteres vissem os nomes de arquivos exibidos incorretamente ao adicionar um Smart Link a um arquivo do SharePoint.
+
+
+- Tratamos de um problema que fazia com que os usuários experimentassem uma falha ao excluir 4 ou mais emails de uma conta POP com a opção "Baixar Apenas Cabeçalhos" selecionada.
+
+
+- Tratamos de um problema que fazia com que o menu de contexto do botão direito do mouse não fosse exibido nos controles de pesquisa.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-august-11"></a>Versão 2008: 11 de agosto
 *Versão 2008 (Compilação 13127.20164)*
@@ -1124,7 +1147,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
