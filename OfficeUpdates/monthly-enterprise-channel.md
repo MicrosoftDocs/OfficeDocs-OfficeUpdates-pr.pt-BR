@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
+ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634797"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798367"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -60,6 +60,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="word"></a>Word
 
 - **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.
+
+- **Fale de outra maneira:** quando você quiser dizer algo de forma diferente, o Reescrever estará lá para ajudar. O Reescrever oferece alternativas para refinar a suas frases.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -146,12 +148,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Melhores resultados — em uma piscar olhos:** atualizamos a experiência de pesquisa para torná-la mais inteligente, rápida e mais confiável do que nunca. [Saiba mais](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-### <a name="word"></a>Word
-
-- **Fale de outra maneira:** quando você quiser dizer algo de forma diferente, o Reescrever estará lá para ajudar. O Reescrever oferece alternativas para refinar a suas frases.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -267,7 +267,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **O calendário recebe um novo formato:** ver atualizações visuais que facilitam a pesquisa do calendário. [Saiba mais](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Novas imagens para dar vida às suas mensagens:** milhares de imagens de estoque, ícones e adesivos gratuitas que você pode usar em suas mensagens de email. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Novas imagens para dar vida às suas mensagens:** milhares de imagens de estoque, ícones e adesivos gratuitas que você pode usar em suas mensagens de email. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -275,7 +275,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Sincronizar alterações durante a apresentação:** Sincronizar alterações sempre que elas forem feitas, mesmo quando a apresentação estiver no modo de apresentação de slides. [Saiba mais](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Novas imagens para dar vida aos seus slides:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em suas apresentações. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Novas imagens para dar vida aos seus slides:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em suas apresentações. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
@@ -487,7 +487,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Solucionamos um problema em que o evento ProjectBeforeTaskChange não detecta quando uma tarefa foi desabilitada/ativada por meio do botão Desativar.
 
 
-- Correção de um problema em que o evento ProjectBeforeTaskChange não detecta quando uma tarefa foi desabilitada/ativada por meio do botão Desativar.
+- Solucionamos um problema em que o evento ProjectBeforeTaskChange não detecta quando uma tarefa foi desabilitada/ativada por meio do botão Desativar.
 
 
 - Correção de um problema em que o Project pode falhar ao salvar projetos criados com versões anteriores do Project.
