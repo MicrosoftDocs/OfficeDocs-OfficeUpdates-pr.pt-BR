@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634818"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818350"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -254,8 +254,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Walkie Talkie:** Comunicação de voz instantânea usando o recurso pressionar para falar.
 
+### <a name="word"></a>Word
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+- **Confirmação de ação nos leitores de tela:** Confirmação de ação é um requisito de acessibilidade importante. Com a introdução de uma nova API de Notificação do Windows, agora vamos alertar os usuários do leitor de tela sobre o sucesso de suas ações. Recortar, copiar, colar, negrito, itálico, sublinhado, desfazer, refazer, correções automáticas e todas as maiúsculas agora são anunciadas para os usuários do Narrador no Word Win32. Para habilitar esse recurso, ative o Narrador pressionando a tecla windows + ctrl + enter.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
