@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
-ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
+ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
+ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46695295"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852517"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,47 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2009-august-21"></a>Versão 2009: 21 de agosto
+*Versão 2009 (Compilação 13212.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Caneta de Ação no Excel:** Ferramenta de caneta para ajudá-lo a escrever à mão e fazer edições rápidas em seus dados
+
+### <a name="outlook"></a>Outlook
+
+- **Excluir conversa pelo proprietário da mensagem:** Este recurso permite excluir uma conversa pelo proprietário da mensagem.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Corrigimos um problema onde as conexões a um banco de dados ODBC não estavam funcionando com aplicações de terceiros.
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema onde usando um macro para definir a propriedade FormulaR1C1 para um intervalo, as referências de células estariam incorretas se uma planilha de gráfico fosse a planilha ativa. 
+- Corrigimos um problema em que a escrita à tinta poderia fazer com que o Excel não respondesse.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema onde os usuários podem agora desabilitar o IRM (Gerenciamento de Direitos de Informação) para o Outlook sem ter que desabilitá-lo para o resto das aplicações do Office.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que o Word podia falhar depois que os comentários fossem excluídos.
+- Corrigimos um problema onde, em alguns casos, os marcadores não são exibidos corretamente no email.
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2009-august-14"></a>Versão 2009: 14 de agosto
 *Versão 2009 (Compilação 13205.20000)*
@@ -1190,6 +1231,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
