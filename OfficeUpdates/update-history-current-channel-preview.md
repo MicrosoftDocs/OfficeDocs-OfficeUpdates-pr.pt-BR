@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais dos lançamentos do Canal Mensal Direcionado para a Área de Trabalho do Windows
-ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
-ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
+ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826854"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895735"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Histórico de atualizações do Canal Atual do Office (Visualização) para Windows
 
@@ -24,7 +24,7 @@ Clique [aqui](https://insider.office.com/) para obter mais informações sobre o
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versões e Builds do Canal Atual do Office (Visualização)
 
 Se estiver inscrito no nível Canal Atual (Visualização), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além de builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Atual (Visualização), **começando pelo build mais recente**. Os novos builds contêm todas as atualizações presentes nas versões anteriores.
-Para localizar as notas de versão, [confira](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Além disso, você pode ver [Novidades para os participantes do programa Office Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Para localizar as notas de versão, [confira](https://docs.microsoft.com/pt-BR/OfficeUpdates/current-channel-preview). Além disso, você pode ver [Novidades para os participantes do programa Office Insider](https://insider.office.com/pt-BR/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -36,7 +36,9 @@ Para localizar as notas de versão, [confira](https://docs.microsoft.com/en-us/O
 > - As notas de versão são atualizadas em uma cadência mais lenta e podem ser uma compilação de atualizações de vários builds até o número do build publicado nas notas de versão.
 
 
-[//]: # (NÃO REMOVA)
+
+**25 de agosto de 2020**<br/>
+Versão 2008 (Compilação 13127.20268)<br/>
 
 **17 de agosto de 2020**<br/>
 Versão 2008 (Compilação 13127.20208)<br/>
