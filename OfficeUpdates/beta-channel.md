@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852517"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300305"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,33 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2009-august-28"></a>Versão 2009: 28 de agosto
+*Versão 2009 (Build 13219.20004)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Aborda um problema que provocou os usuários a enviarem conteúdo de email que tinha uma política "Não Encaminhar" aplicada ao OneNote ao selecionar mais de uma mensagem.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que a funcionalidade para inserir um vídeo foi desabilitada.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que o usuário não conseguisse sair do cabeçalho/rodapé ao selecionar um comentário.
+- Corrigimos um problema que impedia que os usuários vissem os threads de comentário que excediam o limite sidetrack porque a rolagem por meio do sidetrack não estava funcionando.
+- Corrigimos um problema em que a pesquisa por comentários resolvidos no painel sidetrack não estava funcionando.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema na Ferramenta de Implantação do Office, em que a configuração estava falhando ao usar o recurso RemoveMSI com o produto do Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
+- Corrigimos um problema na caixa de diálogo Compactar imagem, onde algumas configurações DPI selecionadas pelo usuário não eram mantidas.
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2009-august-21"></a>Versão 2009: 21 de agosto
 *Versão 2009 (Compilação 13212.20000)*
@@ -1231,6 +1258,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
