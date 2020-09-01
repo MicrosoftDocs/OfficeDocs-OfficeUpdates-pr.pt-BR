@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291069"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318998"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -35,7 +35,109 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+
+## <a name="version-2008-august-31"></a>Versão 2008: 31 de agosto
+*Versão 2008 (Build 13127.20296)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="outlook"></a>Outlook
+
+- **Links aprimorados no email:** quando você incluir um link a um arquivo, o nome do arquivo substituirá a URL. Você pode alterar as permissões para que todos os destinatários tenham acesso. [Saiba mais](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Suporte a Idioma Natural na Pesquisa:** com a implementação do Suporte a Idioma Natural na Pesquisa, os usuários podem filtrar os resultados da pesquisa facilmente sem lembrar da sintaxe de pesquisa específica.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="teams"></a>Teams
+
+- **Mesclar Chamada:** O recurso Mesclar Chamada  oferece aos usuários finais a capacidade de mesclar suas chamadas de 1-1 ativas para outra chamada 1-1 ou outra chamada de grupo. Isso se aplica a chamadas de VOIP e chamadas PSTN no Teams.
+
+- **Os administradores podem configurar a presença baseada em turno (No turno, Fora do turno) para os funcionários da sua primeira conta:** Os administradores  podem configurar os primeiros profissionais de trabalho para ter estados de presença baseada em turno: No turno, Ocupado (pode ser alternado quando No turno) e Fora do turno.
+
+- **Habilidades de voz da Cortana no Teams:** As habilidades de voz da Cortana no aplicativo móvel do Teams ajudam os usuários a executar tarefas de reunião, comunicação e colaboração usando o idioma natural. Os usuários podem falar com a Cortana clicando no botão de microfone no aplicativo do Teams e fazer solicitações, como "Ligara para Sara" ou "Enviar uma mensagem para a próxima reunião", caso precisem se conectar com alguém enquanto faz suas tarefas de casa ou leva o cachorro para passear ou em praticamente qualquer lugar. Os usuários podem entrar em contato simplesmente dizendo "Entrar na próxima reunião" ou verificar o calendário ao perguntar "o que eu tenho nesta manhã?". Uma vez em uma reunião ou uma chamada, eles podem invocar a Cortana no menu suspenso no palco da reunião e executar tarefas comuns da reunião, como a adição de pessoas por nome ou número ("Adicionar Sara à chamada"), apresentação de revisão ("apresentar o conjunto de revisão trimestral") ou navegar por slides ("Ir para o slide de apêndice"). Outras coisas para as quais o recurso oferece suporte são procurar e compartilhar arquivos, pesquisa e geralmente navegar no aplicativo do Teams ("Abrir minha conversa com João, Ir para minhas atividade não lidas, Ir para minhas menções, etc.). A Cortana no Teams atende às mesmas promessas de privacidade, segurança e conformidade de nível empresarial para os serviços corporativos da Cortana, conforme refletido nos [Termos de Serviços Online (OST).](https://www.microsoft.com/licensing/product-licensing/products)
+
+- **Aumento de chat em grupo:** O Teams agora adicionou a capacidade de ter 250 participantes em um chat de grupo.
+
+- **Marcação por Turno:** com esse recurso, as pessoas recebem automaticamente marcas que correspondem ao seu cronograma e ao nome do grupo no [Aplicativo de turnos](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) no Teams.
+
+### <a name="word"></a>Word
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="office-suite"></a>Pacote Office
+
+- **Painéis com Guias:** Agora, você pode alterar entre vários painéis usando uma interface de usuário de guia à direita do aplicativo. A interface de usuário ficará visível apenas quando você tiver dois painéis ou mais abertos.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Este problema foi resolvido - agora você pode usar nosso driver ODBC fora das aplicações de Clicar para Executar do Office.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocou os usuários que tentaram criar uma solicitação de reunião de uma conta secundária adicionada ao perfil, a não verem um campo em branco De: em vez de seus endereços de email.
+
+- Corrige um problema que fazia com que os usuários não conseguissem se conectar à pastas públicas após adicionar uma caixa de correio compartilhada.
+
+- Resolveu um problema que fazia com que as reuniões não fossem retiradas do calendário de um gerente, quando recusadas por um representante em algumas circunstâncias.
+
+- Resolveu um problema que impedia alguns usuários do recurso de Melhorias do Calendário Compartilhado de poderem visualizar um calendário compartilhado recém-adicionado.
+
+- Corrige um problema que causava falhas ocasionais quando os usuários interagiam com anexos na nuvem.
+
+- Tratamos de um problema que fazia com que os usuários de alguns conjuntos de caracteres vissem os nomes de arquivos exibidos incorretamente ao adicionar um Smart Link a um arquivo do SharePoint.
+
+- Soluciona um problema que fazia com que os usuários experimentassem uma falha ao responder ou redigir um novo email.
+
+- Tratamos de um problema que fazia com que os usuários experimentassem uma falha ao excluir 4 ou mais emails de uma conta POP com a opção "Baixar Apenas Cabeçalhos" selecionada.
+
+- Resolveu um problema que provocava falha na exibição da página do Assistente de Agendamento.
+
+- Corrige um problema que causava falhas ocasionais quando os usuários editavam destinatários.
+
+- Corrige um problema que causava os usuários de ver anormalidades ao usar o modo de exibição compacto.
+
+- Resolveu de um problema que fazia com que o menu de contexto do botão direito do mouse não fosse exibido nos controles de pesquisa.
+
+- Aborda um problema que fez com que os usuários recebessem o seguinte erro ao responder ou a redigir um novo email: “Alguns arquivos desta página da Web não estão no local esperado. Deseja baixá-los mesmo assim? Se tiver certeza de que a página da Web é de uma fonte confiável, clique em Sim.”
+
+
+### <a name="project"></a>Project
+
+- Corrigiu um problema em que a data de término do Projeto não está sendo atualizada para projetos conectados à lista de tarefas do SharePoint.
+
+- Corrigiu um problema em que, se um recurso tivesse mais de uma tabela de taxas de custo definida, os custos restantes nem sempre eram calculados corretamente.
+
+### <a name="skype"></a>Skype
+
+- Alterou o tom de pele do emoticon que dança para uma cor neutra.
+
+### <a name="word"></a>Word
+
+- Essa alteração corrige um problema em que os aplicativos do Office poderiam ficar presos em um estado de falha silencioso de salvamento após uma sessão anterior de coautoria.
+
+- Resolvemos um problema em que a macro AutoOpen era executada antes do AutoExec
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2007-august-25"></a>Versão 2007: 25 de agosto
 *Versão 2007 (Compilação 13029.20460)*
@@ -1063,6 +1165,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
