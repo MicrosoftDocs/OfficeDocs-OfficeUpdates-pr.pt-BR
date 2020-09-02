@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
-ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
+ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47294373"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47320789"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -32,11 +32,6 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 *Versão 2008 (Build 13127.20296)*
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="outlook"></a>Outlook
-
-- **Receba sugestões de anexos ao pesquisar:** enquanto digita os termos de pesquisa no Outlook, você receberá os arquivos mais relevantes apresentados nas sugestões.
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -621,7 +616,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários de usuários que desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos entusiasmados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. <br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1223,7 +1218,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -1397,7 +1392,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 
 
@@ -1668,7 +1663,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
@@ -1705,7 +1700,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Versão 2002 (Build 12527.20174)
 
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações mais recentes sobre atualizações que não são de segurança para versões perpétuas do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 24c7c09611d2af4c88edf989ba7fae08e61675ac
-ms.sourcegitcommit: 1a9ceb0e62ff42213babaf1dbb854b4d911f0e7a
+ms.openlocfilehash: 23d6532d7d2f6abe0a866b14f9affba16e7dd497
+ms.sourcegitcommit: 337679abc3e6d820d9f8e4bdae892c57b517914c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560096"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47322065"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas atualizações não relacionadas à segurança para versões do Office que usam o Windows Installer (MSI)
 
@@ -25,6 +25,17 @@ Esta página lista as atualizações não relacionadas à segurança do Office, 
 > - As informações neste artigo não se aplicam ao Microsoft 365 Apps.
 > - Para saber mais sobre como instalar as atualizações do Office, confira [Instalar atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="september-1-2020"></a>1 de setembro de 2020
+**Office 2016**<br/>
+Atualização para o Microsoft Office 2016 ([KB4484251](https://support.microsoft.com/help/4484251))<br/>
+Atualização para o Microsoft Office 2016 ([KB4484395](https://support.microsoft.com/help/4484395))<br/> Atualização para o Microsoft Office 2016 ([KB4484500](https://support.microsoft.com/help/4484500)) <br/>
+Atualização para o Microsoft Outlook 2016 ([KB4484511](https://support.microsoft.com/help/4484511)) <br/>
+Atualização para o Skype for Business 2016 ([KB4484501](https://support.microsoft.com/help/4484501)) <br/>
+
+**Office 2013**<br/>
+Atualização para o Microsoft Visio 2013 ([KB4484355](https://support.microsoft.com/help/4484355))<br/>
+
 ## <a name="august-4-2020"></a>4 de agosto de 2020
 
 **Office 2016**<br/>
@@ -75,13 +86,6 @@ Atualização para o Microsoft Office 2016 ([KB4484248](https://support.microsof
 Atualização para o Microsoft OneNote 2016 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
 Atualização para o Skype for Business 2016 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
 
+<br/>
 
-## <a name="march-3-2020"></a>3 de março de 2020
-
-**Office 2016**<br/>
-Atualização para o Microsoft Office 2016 ([KB4484247](https://support.microsoft.com/help/4484247))<br/> Atualização para o Pacote de Interface de Idioma do Microsoft Office 2016 ([KB4484136](https://support.microsoft.com/help/4484136))<br/>
-Atualização para o Skype for Business 2016 ([KB4484245](https://support.microsoft.com/help/4484245)) <br/>
-
-**Office 2013**<br/>
-Atualização para o Skype for Business 2015 ([KB4484097](https://support.microsoft.com/help/4484097))<br/>
-
+ 
