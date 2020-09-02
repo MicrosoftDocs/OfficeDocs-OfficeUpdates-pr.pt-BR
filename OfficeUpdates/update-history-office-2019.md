@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 128359540241fd27fa2b6947421cd7c9aa0f5c58
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 52d3ee327fe67488f87677ae7445beed16ebdf7f
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895725"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319004"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -81,12 +81,12 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|31 de agosto de 2020|Versão 2008 (Compilação 13127.20296)| |
 |25 de agosto de 2020|Versão 2007 (Compilação 13029.20460)| |
 |11 de agosto de 2020|Versão 2007 (Compilação 13029.20344)|Confira a [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30 de julho de 2020|Versão 2007 (Build 13029.20308)  |Várias correções de bugs e de desempenho.  <br/>  |
 |28 de julho de 2020|Versão 2006 (Build 13001.20498)  |Várias correções de bugs e de desempenho.  <br/>  |
 |14 de julho de 2020|Versão 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1458) <br/>|
-|30 de junho de 2020|Versão 2006 (Compilação 13001.20266)  |Várias correções de bugs e de desempenho.  <br/>  |
 
 
 [//]: # (NÃO REMOVA O FINAL DA TABELA DE VAREJO)
@@ -100,6 +100,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|30 de junho de 2020|Versão 2006 (Compilação 13001.20266)  |Várias correções de bugs e desempenho.  <br/>  |
 |24 de junho de 2020|Versão 2005 (Compilação 12827.20470)  |Várias correções de bugs e desempenho.  <br/>  |
 |9 de junho de 2020|Versão 2005 (Compilação 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1322)  <br/>|
 |2 de junho de 2020|Versão 2005 (Compilação 12827.20268)  |Várias correções de bugs e de desempenho.  <br/>  |
