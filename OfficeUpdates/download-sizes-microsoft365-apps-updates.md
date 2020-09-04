@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: e5fa97ddcf22460a7fe9c3005cfdf933e245bb1f
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: 5f78997f33f73d23e4b8be0261b2f8a0e42618a5
+ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47318988"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364162"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+## <a name="september-3-2020"></a>3 de setembro de 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>O lançamento esperado é o da Versão 2007 (Build 13029.20514).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2006 (Compilação 13001.20520) <br/> |11 de agosto de 2020 <br/> |157<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.20360).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |375<br/> |
+|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |600<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>O lançamento esperado é o da Versão 2002 (Build 12527.21074).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |67<br/> |
+|Versão 2002 (Build 12527.20880) <br/> |14 de julho de 2020 <br/> |72<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="august-31-2020"></a>31 de agosto de 2020
 
