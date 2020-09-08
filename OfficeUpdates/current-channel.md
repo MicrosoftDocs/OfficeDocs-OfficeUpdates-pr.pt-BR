@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364172"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399648"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -527,6 +527,25 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Laço e borracha na Caixa de ferramentas de tinta:** ao usar as ferramentas de desenho, o laço e a borracha já estão disponíveis na Caixa de ferramentas de tinta.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Laço e borracha na Caixa de ferramentas de tinta:** ao usar as ferramentas de desenho, o laço e a borracha já estão disponíveis na Caixa de ferramentas de tinta.
+
+### <a name="word"></a>Word
+
+- **Laço e borracha na Caixa de ferramentas de tinta:** ao usar as ferramentas de desenho, o laço e a borracha já estão disponíveis na Caixa de ferramentas de tinta.
+
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
