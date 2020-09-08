@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300305"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395420"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,79 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2010-september-04"></a>Versão 2010: 04 de setembro
+*Versão 2010 (Criação 13301.20004)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Criar tipos de dados com o Power Query:** criar tipos de dados valiosos com o Power Query por meio de qualquer fonte de dados
+
+- **Alinhamento da marca Azure Synapse Analytics:** o conector de dados Azure SQL Data Warehouse foi rebatizado para Azure Synapse Analytics
+
+### <a name="outlook"></a>Outlook
+
+- **E-mail de fixação:** Esse recurso ajuda os usuários a rastrearem os e-mails que precisam reenviar para você ou terem como um lembrete, mantendo-os no topo da lista de mensagens.
+
+- **Receba sugestões por e-mail ao pesquisar por pessoa:** ao digitar os termos de pesquisa no Outlook, você receberá os e-mails mais relevantes apresentados nas sugestões.
+
+- **Receba sugestões por e-mail ao pesquisar por pessoa:** ao digitar os termos de pesquisa no Outlook, você receberá os e-mails mais relevantes apresentados nas sugestões.
+
+- **O Microsoft Editor recebe uma atualização dos clientes da área de trabalho do Word e do Outlook:** estamos introduzindo um novo modelo de clique para revisar das sugestões de ortografia, gramática e estilo avançado do Editor. Essa alteração também inclui uma nova superfície de cartão dedicado para revisar as sugestões.
+
+### <a name="word"></a>Word
+
+- **O Microsoft Editor recebe uma atualização dos clientes da área de trabalho do Word e do Outlook:** estamos introduzindo um novo modelo de clique para revisar das sugestões de ortografia, gramática e estilo avançado do Editor. Essa alteração também inclui uma nova superfície de cartão dedicado para revisar as sugestões.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Resolvemos um problema no qual, se você abrisse um arquivo contendo a função LET, ele exibiria o alerta: "Encontramos um problema de conteúdo no "seu arquivo.xlsx". Você quer que tentemos recuperar o máximo possível? Se você confiar na origem dessa pasta de trabalho, clique em Sim".
+- Corrigimos um erro relacionado às referências de suplemento XLAM e intervalos nomeados.
+- Resolvemos um problema no qual os usuários não conseguiam modificar um filtro PivotTable porque ele estava definido com um valor que não estava mais presente em um banco de dados do Analysis Services.
+- Resolvemos um problema no qual, se um usuário aplicou um estilo personalizado a uma matriz dinâmica, ele receberá o erro: "Não é possível alterar partes de uma matriz". Essa era uma restrição herdada que foi removida.
+- Resolvemos um problema no qual a barra de fórmulas do Excel não será processada completamente depois que a conexão com um dispositivo for perdida, como uma sessão remota conectar/desconectar ou uma alteração de monitor.
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fornece mais flexibilidade para habilitar/desabilitar as opções de log padrão através da política de grupo.
+- Resolvemos um problema no qual o Nome de domínio herdado de um remetente de e-mail foi preservado e exibido depois que um rascunho de e-mail foi movido entre as caixas de correio com permissões de assistente e permissões de gerente.
+- Resolvemos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado off-line até que eles optassem por trabalhar manualmente on-line.
+- Resolvemos um problema em que a execução do código VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage"), depois de habilitar a Fita de Linha Única (SLR), resultaria em um erro de tempo de execução.
+- Resolvemos um problema no qual as teclas "OK" e "Cancelar" no diálogo Respostas automáticas não seriam visíveis em um sistema com alta resolução (como 1750 x 1920) combinado com um grande tamanho de texto (como 175%).
+- Resolvemos uma condição na qual enviar um pedido de reunião de um grupo de contato vazio para outro grupo de contato resultaria em um acidente.
+- Resolvemos um problema que fazia com que os usuários experimentassem um erro ao selecionar determinados resultados de pesquisa.
+- Resolvemos um problema no qual, se a política de grupo exigir um suplemento para ser sempre habilitada, o monitoramento do suplemento ficará indisponível para impedir que os usuários desabilitem o suplemento.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Resolvemos um problema em que os vídeos não eram automaticamente reproduzidos nas apresentações de slides.
+- Resolvemos um problema no qual, depois de iniciar o PowerPoint, inserindo um slide e abrindo e fechando o painel de comentários, os slides no painel de miniaturas eram exibidos como sendo sobrepostos.
+
+### <a name="project"></a>Project
+
+- Resolvemos um problema no qual, se um recurso tiver várias tabelas de taxas de custo, talvez o custo restante não seja calculado corretamente.
+- Resolvemos um problema no qual a Data de término do projeto não era atualizada nos projetos conectados à lista de tarefas do SharePoint.
+
+### <a name="word"></a>Word
+
+- Resolvemos um problema no qual o Cartão de comentários exibia uma borda ao redor do texto do comentário se o usuário clicava no mesmo.
+- Resolvemos um problema no qual o foco não ia para o painel de comentários se o documento fosse ampliado para 160% ou mais e o painel de comentários não fosse visível.
+- Resolvemos um problema no qual os comentários em um documento eram exibidos em outros documentos abertos depois da alteração entre os vários documentos abertos.
+- Resolvemos um problema no qual, se um usuário criasse um rascunho de comentário ancorado em uma linha que já contivesse comentários confirmados, o rascunho era organizado na ordem errada em relação ao comentário comprometido no SideTrack.
+- Resolvemos um problema no qual os links longos não eram dispostos ao salvar um documento no formato HTML.
+- Resolvemos um problema no qual a macro AutoOpen era executada antes do AutoExec.
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2009-august-28"></a>Versão 2009: 28 de agosto
 *Versão 2009 (Build 13219.20004)*
@@ -1258,6 +1331,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
