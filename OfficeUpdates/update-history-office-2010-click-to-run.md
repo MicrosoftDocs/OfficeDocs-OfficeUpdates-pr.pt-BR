@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
-ms.openlocfilehash: 9e3ae5ac437c67270c7e8fdb561887249cff3ddf
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 734ec43002528cfe422a26c6fdf56e48fe4275ab
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637669"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413149"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
@@ -33,7 +33,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7257.5000**, que foi lançado em 11 de agosto de 2020.
+> A versão mais recente do Office 2010 é o **14.0.7258.5000**, que foi lançado em 8 de setembro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -57,7 +57,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020| 11 de agosto <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
+|2020|8 de setembro|14.0.7258.5000 <br/> |[KB 4576653](https://support.microsoft.com/help/4576653)<br/>|
+|| 11 de agosto <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
 ||14 de julho <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
 ||9 de junho  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||12 de maio  <br/> |14.0.7249.5000  <br/> |[4549680 KB ](https://support.microsoft.com/help/4549680 ) <br/> |
