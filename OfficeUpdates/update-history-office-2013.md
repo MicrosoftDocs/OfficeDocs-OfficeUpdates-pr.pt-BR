@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 7a8ea9fc651d9fa889d7d494c264dd82de6bb554
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: b99154c661f1ac0a8f4f2efe71f10cdd2f7c986d
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634527"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413139"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é **15.0.5267.1000**, que foi lançada em 11 de agosto de 2020.
+> A versão mais atual do Office 2013 é **15.0.5275.1000**, que foi lançada em 8 de setembro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020| 11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
+|2020| 8 de setembro| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
+||11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 de junho   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|
 ||12 de maio   |15.0.5241.1000   |[4549680 KB ](https://support.microsoft.com/help/4549680)  |

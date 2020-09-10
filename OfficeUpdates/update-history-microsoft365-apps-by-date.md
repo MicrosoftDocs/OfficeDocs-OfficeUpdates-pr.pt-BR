@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: b71337f775b0787e0c0d4a869db263dfb29915f4
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: 8886b44e67501b018e2b0a6937d8acb3d438fc02
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47319018"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47420705"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -36,13 +36,12 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2008<br/>|13127.20296<br/>|31 de agosto de 2020<br/>|Lançamento da versão 2009<br/>|
-|Canal Empresarial Mensal<br/>|2006<br/>|13001.20520<br/>|11 de agosto de 2020<br/>|13 de outubro de 2020<br/>|
-|Canal Empresarial Mensal<br/>|2005<br/>|12827.20656<br/>|11 de agosto de 2020<br/>|8 de setembro de 2020<br/>|
-|Canal Empresarial Semestral (Visualização)<br/>|2002<br/>|12527.20988<br/>|11 de agosto de 2020<br/>|8 de setembro de 2020<br/>|
-|Canal Empresarial Semestral<br/>|2002<br/>|12527.20988<br/>|11 de agosto de 2020<br/>|14 de setembro de 2021<br/>|
-|Canal Empresarial Semestral<br/>|1908<br/>|11929.20934<br/>|11 de agosto de 2020<br/>|9 de março de 2021<br/>|
-|Canal Empresarial Semestral<br/>|1902<br/>|11328.20644<br/>|11 de agosto de 2020<br/>|8 de setembro de 2020<br/>|
+|Canal Atual<br/>|2008<br/>|13127.20408<br/>|9 de setembro de 2020<br/>|Lançamento da versão 2009<br/>|
+|Canal Empresarial Mensal<br/>|2007<br/>|13029.20534<br/>|8 de setembro de 2020<br/>|10 de novembro de 2020<br/>|
+|Canal Empresarial Mensal<br/>|2006<br/>|13001.20648<br/>|8 de setembro de 2020<br/>|13 de outubro de 2020<br/>|
+|Canal Empresarial Semestral (Pré-visualização)<br/>|2008<br/>|13127.20408<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
+|Canal Empresarial Semestral<br/>|2002<br/>|12527.21104<br/>|8 de setembro de 2020<br/>|14 de setembro de 2021<br/>|
+|Canal Empresarial Semestral<br/>|1908<br/>|11929.20946<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -54,6 +53,8 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|9 de setembro|[Versão 2008 (Build 13127.20408)](current-channel.md#version-2008-september-09)| | | |
+|2020|8 de setembro| |[Versão 2007 (Build 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[Versão 2006 (Build 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[Versão 2008 (Build 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[Versão 2002 (Build 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[Versão 1908 (Build 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
 |2020|31 de agosto|[Versão 2008 (Build 13127.20296)](current-channel.md#version-2008-august-31)| | | |
 |2020|25 de agosto|[Versão 2007 (Compilação 13029.20460)](current-channel.md#version-2007-august-25)| | | |
 |2020|11 de agosto|[Versão 2007 (Compilação 13029.20344)](current-channel.md#version-2007-august-11)|[Versão 2006 (Compilação 13001.20520)](monthly-enterprise-channel.md#version-2006-august-11)<br/>[Versão 2005 (Compilação 12827.20656)](monthly-enterprise-channel.md#version-2005-august-11)|[Versão 2002 (Compilação 12527.20988)](semi-annual-enterprise-channel-preview.md#version-2002-august-11)|[Versão 2002 (Compilação 12527.20988)](semi-annual-enterprise-channel.md#version-2002-august-11)<br/>[Versão 1908 (Compilação 11929.20934)](semi-annual-enterprise-channel.md#version-1908-august-11)<br/>[Versão 1902 (Compilação 11328.20644)](semi-annual-enterprise-channel.md#version-1902-august-11)|
