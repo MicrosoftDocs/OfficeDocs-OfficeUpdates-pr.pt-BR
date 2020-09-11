@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634597"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413069"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -28,7 +28,42 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 >- O OneNote 2016 já está incluído por padrão quando um usuário no Canal Empresarial Semestral baixar e instalar o Microsoft 365 Apps no Windows 10 do Portal do Office.
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+
+## <a name="version-2002-september-08"></a>Versão 2002: 8 de setembro
+*Versão 2002 (Build 12527.21104)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Isso aborda um problema em que as conexões criadas pelo provedor de dados SQL nas versões anteriores do Office definem as propriedades da tabela interna de modo diferente do Office 365. Isso fazia com que a lista suspensa da Visualização de tabela / Editor de consulta fosse desabilitada para arquivos com conexões criadas em versões mais antigas do Office quando eram abertas usando o Office 365.
+
+
+- Resolvemos um problema em que a escrita à tinta poderia fazer com que o Excel não respondesse.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que fazia com que os usuários não conseguissem se conectar às Pastas Públicas após adicionar uma caixa de correio compartilhada.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Essa alteração corrige um problema com a caixa de diálogos Compactar imagem que não mantém determinadas configurações do usuário.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+
+## <a name="version-1908-september-08"></a>Versão 1908: 8 de setembro
+*Versão 1908 (Build 11929.20946)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-august-11"></a>Versão 2002: 11 de agosto
 *Versão 2002 (Compilação 12527.20988)*
@@ -1662,6 +1697,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
