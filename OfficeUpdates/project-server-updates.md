@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Localize e gerencie as atualizações para o Project Server 2013 e o Project Server 2010 em um só lugar. Use os links nesta página para saber mais sobre as atualizações e para baixá-las.
-ms.openlocfilehash: f497b68625eaa114d2de6db8739df57d0277f46b
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: c13511d5d62126ac6a91e122265d72121dec30f4
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634577"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413029"
 ---
 # <a name="project-server-updates"></a>Atualizações do Project Server
 
@@ -29,6 +29,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
   
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Setembro de 2020 <br/>|[KB4484521](https://support.microsoft.com/kb/4484521) <br/>|
 |Agosto de 2020 <br/>|[KB4484483](https://support.microsoft.com/kb/4484483) <br/>|
 |Julho de 2020  <br/> |[KB4484445](https://support.microsoft.com/kb/4484445) <br/>|
 |Junho de 2020  <br/> |[KB4484407](https://support.microsoft.com/kb/4484407) <br/>|
@@ -102,6 +103,7 @@ Use os links nesta página para saber mais sobre as atualizações do Project Se
 
 |**Data de lançamento**|**Número de KB**|
 |:-----|:-----|:-----|
+|Setembro de 2020 <br/>|[KB4484535](https://support.microsoft.com/kb/4484535) <br/>|
 |Agosto de 2020 <br/>|[KB4484493](https://support.microsoft.com/kb/4484493) <br/>|
 |Julho de 2020  <br/>  |[KB4484457](https://support.microsoft.com/kb/4484457) <br/>|
 |Junho de 2020  <br/>  |[KB4484412](https://support.microsoft.com/kb/4484412) <br/>|
