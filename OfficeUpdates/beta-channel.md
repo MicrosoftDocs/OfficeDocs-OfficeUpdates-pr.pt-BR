@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
-ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
+ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
+ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47395420"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47431570"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -39,9 +39,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Criar tipos de dados com o Power Query:** criar tipos de dados valiosos com o Power Query por meio de qualquer fonte de dados
-
-- **Alinhamento da marca Azure Synapse Analytics:** o conector de dados Azure SQL Data Warehouse foi rebatizado para Azure Synapse Analytics
+- **Criar tipos de dados com o Power Query:** criar tipos de dados ricos com o Power Query a partir de qualquer fonte de dados.
 
 ### <a name="outlook"></a>Outlook
 
