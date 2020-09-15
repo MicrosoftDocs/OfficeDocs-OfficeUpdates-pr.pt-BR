@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431570"
+ms.locfileid: "47449554"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,69 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2010-september-11"></a>Versão 2010: 11 de setembro
+*Versão 2010 (Build 13304.20000)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="excel"></a>Excel
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="onenote"></a>OneNote
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="outlook"></a>Outlook
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="project"></a>Project
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="publisher"></a>Publisher
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="visio"></a>Visio
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+### <a name="word"></a>Word
+
+- **O Office pode seguir a configuração de Modo Escuro do Windows 10:** usando o Windows 10 no Modo Escuro? Agora, o Office pode mudar de temas para corresponder automaticamente. Basta escolher "Usar configuração do sistema" como tema do Office.
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Correção de um problema em que podia haver um atraso perceptível ao alternar entre planilhas com grandes quantidades de dados quando 'Visualização de quebra de página ' estava habilitada.
+
+### <a name="outlook"></a>Outlook
+
+- Consertamos um problema com emails sendo ocultados após a desativação da Caixa de Entrada Destaques e a realização de uma classificação.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Solucionamos um problema em que o GIF animava apenas uma vez no editor e nas apresentações de slides.
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2010-september-04"></a>Versão 2010: 04 de setembro
 *Versão 2010 (Criação 13301.20004)*
@@ -1329,6 +1392,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
