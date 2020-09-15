@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público do Insider
-ms.openlocfilehash: 3ad72b7012b7220dfce130c8976158a496624882
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: cbb7abb985eccb0e7ee8669812ff4b9837565377
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399658"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47449544"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,163 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2009-september-10"></a>Versão 2009: 10 de setembro
+*Versão 2009 (Build 13231.20126)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esse problema foi resolvido e você não deve mais experimentar um travamento.
+
+
+- Corrigimos um problema onde as conexões a um banco de dados ODBC não estavam funcionando com aplicações de terceiros.
+
+
+### <a name="excel"></a>Excel
+
+- Resolvemos um problema no qual, se você abrisse um arquivo contendo a função LET, ele exibiria o alerta: "Encontramos um problema de conteúdo no "seu arquivo.xlsx". Você quer que tentemos recuperar o máximo possível? Se você confiar na origem dessa pasta de trabalho, clique em Sim".
+
+
+- Corrigimos um problema onde se um usuário digitasse um nome de fórmula, incluindo o parêntese e invocasse ajuda via F1, o tópico da ajuda específico a essa fórmula não seria exibido.
+
+
+- Corrigimos um problema onde usando um macro para definir a propriedade FormulaR1C1 para um intervalo, as referências de células estariam incorretas se uma planilha de gráfico fosse a planilha ativa. 
+
+
+- Resolvemos um problema no qual os usuários não conseguiam modificar um filtro PivotTable porque ele estava definido com um valor que não estava mais presente em um banco de dados do Analysis Services.
+
+
+- Corrigimos um erro relacionado às referências de suplemento XLAM e intervalos nomeados.
+
+
+- Resolvemos um problema no qual, se um usuário aplicou um estilo personalizado a uma matriz dinâmica, ele receberá o erro: "Não é possível alterar partes de uma matriz". Essa era uma restrição herdada que foi removida.
+
+
+- Corrigido um problema onde os macros atribuídos a botões eram quebrados após restaurar uma versão mais antiga do arquivo.
+
+
+- Corrigimos um problema em que a escrita à tinta poderia fazer com que o Excel não respondesse.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fornece mais flexibilidade para habilitar/desabilitar as opções de log padrão através da política de grupo.
+
+
+- Resolvemos um problema no qual o Nome de domínio herdado de um remetente de e-mail foi preservado e exibido depois que um rascunho de e-mail foi movido entre as caixas de correio com permissões de assistente e permissões de gerente.
+
+
+- Resolvemos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado off-line até que eles optassem por trabalhar manualmente on-line.
+
+
+- Resolvemos um problema em que a execução do código VBA ActiveInspector.CommandBars.ExecuteMso("ShowSchedulingPage"), depois de habilitar a Fita de Linha Única (SLR), resultaria em um erro de tempo de execução.
+
+
+- Resolvemos um problema no qual as teclas "OK" e "Cancelar" no diálogo Respostas automáticas não seriam visíveis em um sistema com alta resolução (como 1750 x 1920) combinado com um grande tamanho de texto (como 175%).
+
+
+- Resolvemos uma condição na qual enviar um pedido de reunião de um grupo de contato vazio para outro grupo de contato resultaria em um acidente.
+
+
+- Resolvemos um problema que fazia com que os usuários experimentassem um travamento ao abrir certos emails muito grandes.
+
+
+- Resolvemos um problema no qual, se a política de grupo exigir um suplemento para ser sempre habilitada, o monitoramento do suplemento ficará indisponível para impedir que os usuários desabilitem o suplemento.
+
+
+- Aborda um problema que provocou os usuários a enviarem conteúdo de email que tinha uma política "Não Encaminhar" aplicada ao OneNote ao selecionar mais de uma mensagem.
+
+
+- Corrigimos um problema onde os usuários podem agora desabilitar o IRM (Gerenciamento de Direitos de Informação) para o Outlook sem ter que desabilitá-lo para o resto das aplicações do Office.
+
+
+- Consertamos um problema em que os atributos da conta do usuário do Active Directory para "otherTelephone" e "otherHomePhone" não estavam mapeados para os atributos LDAP do Outlook correspondente.
+
+
+- Esta alteração corrige um problema onde a página da Reunião continuaria a ser exibida depois que o usuário trocasse as guias da página de Reunião para a página do Assistente de Agendamento.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema em que os usuários estavam vendo a barra da faixa de opções/ título sendo exibida em determinadas condições.
+
+
+- Resolvemos um problema no qual, depois de iniciar o PowerPoint, inserindo um slide e abrindo e fechando o painel de comentários, os slides no painel de miniaturas eram exibidos como sendo sobrepostos.
+
+
+- Corrigimos um problema em que a funcionalidade para inserir um vídeo foi desabilitada.
+
+
+- Resolvemos um problema em que os vídeos não eram automaticamente reproduzidos nas apresentações de slides.
+
+
+### <a name="project"></a>Project
+
+- Resolvemos um problema no qual, se um recurso tiver várias tabelas de taxas de custo, talvez o custo restante não seja calculado corretamente.
+
+
+- Corrige um problema em que a data de término do projeto não está sendo atualizada para os projetos conectados à lista de tarefas do SharePoint.
+
+
+### <a name="visio"></a>Visio
+
+- A visualização dinâmica trava no alinhamento do texto relatado pelos clientes. Principais travamentos da bifurcação de julho.
+
+
+### <a name="word"></a>Word
+
+- Resolvemos um problema no qual o Cartão de comentários exibia uma borda ao redor do texto do comentário se o usuário clicava no mesmo.
+
+
+- Corrigimos um problema onde o ícone da imagem de marcador não era exibido corretamente.
+
+
+- Corrigimos um problema em que o usuário não conseguia sair do cabeçalho/rodapé ao selecionar um comentário.
+
+
+- Corrigimos um problema em que o Word podia travar depois que os comentários fossem excluídos.
+
+
+- Resolvemos um problema no qual, se um usuário criasse um rascunho de comentário ancorado em uma linha que já contivesse comentários confirmados, o rascunho era organizado na ordem errada em relação ao comentário comprometido no SideTrack.
+
+
+- Resolvemos um problema no qual o foco não ia para o painel de comentários se o documento fosse ampliado para 160% ou mais e o painel de comentários não fosse visível.
+
+
+- Corrigimos um problema que impedia que os usuários vissem os threads de comentário que excediam o limite sidetrack porque a rolagem por meio do sidetrack não estava funcionando.
+
+
+- Corrigimos um problema em que a pesquisa por comentários resolvidos no painel sidetrack não estava funcionando.
+
+
+- Resolvemos um problema no qual os comentários em um documento eram exibidos em outros documentos abertos depois da alteração entre os vários documentos abertos.
+
+
+- Resolvemos um problema no qual os links longos não eram dispostos ao salvar um documento no formato HTML.
+
+
+- Corrigimos um problema no qual, em alguns casos, os marcadores não são exibidos corretamente no email.
+
+
+- Resolvemos um problema no qual a macro AutoOpen era executada antes do AutoExec.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema na Ferramenta de Implantação do Office, em que a configuração estava falhando ao usar o recurso RemoveMSI com o produto do Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
+
+
+- Corrigimos um problema na caixa de diálogo Compactar imagem, onde algumas configurações DPI selecionadas pelo usuário não eram mantidas.
+
+
+- Essa alteração corrige um problema com a caixa de diálogos Compactar imagem que não mantém determinadas configurações do usuário.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
