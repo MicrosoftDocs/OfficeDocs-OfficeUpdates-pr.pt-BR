@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: ddf8b1a255a945582a3d5274cf83bc6d2ad0e08a
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: fd7eb74462d6e3e8db5817481e81ed2cfd002bd5
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637659"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816562"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
   
@@ -36,8 +36,8 @@ Para exibir notas da versão, confira [Notas da versão.](release-notes-office-f
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO)
 
-### <a name="august-11-2020"></a>11 de agosto de 2020
-Versão 16.40 (20081000)
+### <a name="september-15-2020"></a>15 de setembro de 2020
+Versão 16.41 (20091302)
 
 [//]: # (NÃO REMOVA O FINAL DO CONTEÚDO)
 
@@ -45,13 +45,13 @@ Versão 16.40 (20081000)
 
 |**Aplicativo**|**Links para download**|**Hash SHA-256 para pacote de instalação**|
 |:-----|:-----|:-----|
-|Pacote do Office (com o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=2009112)|D24240229EA15B15F8851C081DAB0472723D533825499BEE1DC1E0E58279E2BD|
-|Pacote do Office (sem o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525133)|AE510E5780059CC7FF1A2FC2A2E54D2CA7F5BF3CE74DB98CBB403029211C2DA6|
-|Word|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.40.20081000_Updater.pkg)|3B8D896DBC79982EF300A1760B3391BE86C1A000C809FCCA37B13106422BD265|
-|Excel|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.40.20081000_Updater.pkg)|40B74A808158411C1AE032A9F85AF5987782944ACD7F580D1839EAE2673BBA98|
-|PowerPoint|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.40.20081000_Updater.pkg)|F84864B3F2DECA700C16C8632626EBBEDFA5C3F90F14A5E9239D4AF6498A127C|
-|Outlook|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.40.20081000_Updater.pkg)|5178ADE39528F5863A782F9576872E57C13ABAACD5BFEC56846CEB9A386476A8|
-|OneNote|[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.40.20081000_Updater.pkg)|Não aplicável|
+|Pacote do Office (com o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=2009112)|94FF88F8E661100C79A718FF2E8C823D9EB4CDB883D78C37B9AD9EE14A27E8EF|
+|Pacote do Office (sem o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525133)|66DAE65F35B105EDAFAE5A094FD1A8B4B0F5D92B0B958F5D13D932CE0F5BACDE|
+|Word|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.41.20091302_Updater.pkg)|44AF9FBDD89E62202AEF42FFF2275D078D0CAC452E825682E37A6E26D95A1468|
+|Excel|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525135)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.41.20091302_Updater.pkg)|E9B0B512034B6E388662F7218B5CD2FE67B0BF260892C94874D53962A63A6DA9|
+|PowerPoint|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.41.20091302_Updater.pkg)|8EEF68B30FECA7DB82FCF461F674A7B575C382EDF1E37EDF68C2A061255D52EA|
+|Outlook|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.41.20091302_Updater.pkg)|6495B4804C9AFF332E89EF2C8DFEE17F0C60A35B406059ACAFF296E2C899DD2E|
+|OneNote|[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.41.20091302_Updater.pkg)|Não aplicável|
 
 [//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DO APP)
 
@@ -68,6 +68,7 @@ A tabela a seguir fornece links para download e informações de histórico de v
 
 |**Data de lançamento**|**Versão**|**Pacote de instalação**|**Pacotes de atualização**|
 |:-----|:-----|:-----|:-----|
+|15 de setembro de 2020|16.41 (20091302)|[Pacote do Office (com o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.41.20091302_BusinessPro_Installer.pkg)<br/><br/>[Pacote do Office (sem o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.41.20091302_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.41.20091302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.41.20091302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.41.20091302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.41.20091302_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.41.20091302_Updater.pkg)|
 |11 de agosto de 2020|16.40 (20081000)|[Pacote do Office (com o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.40.20081000_BusinessPro_Installer.pkg)<br/><br/>[Pacote do Office (sem o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.40.20081000_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.40.20081000_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.40.20081000_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.40.20081000_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.40.20081000_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.40.20081000_Updater.pkg)|
 |14 de julho de 2020|16.39 (20071300)|[Pacote do Office (com o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_BusinessPro_Installer.pkg)<br/><br/>[Pacote do Office (sem o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.39.20071300_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.39.20071300_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.39.20071300_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.39.20071300_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.39.20071300_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.39.20071300_Updater.pkg)|
 |16 de junho de 2020|16.38 (20061401)|[Pacote do Office (com o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.38.20061401_BusinessPro_Installer.pkg)<br/><br/>[Pacote do Office (sem o Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.38.20061401_Installer.pkg)|[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.38.20061401_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.38.20061401_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.38.20061401_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.38.20061401_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.38.20061401_Updater.pkg)|
