@@ -1,20 +1,20 @@
 ---
 title: Tamanhos de download das atualizações do Microsoft 365 Apps
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: a6407186bb113b209692db657f7a62c1e68839fa
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: 5b3deb3916a978c4277b42d3abd47e762d6f2492
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420715"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942838"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 

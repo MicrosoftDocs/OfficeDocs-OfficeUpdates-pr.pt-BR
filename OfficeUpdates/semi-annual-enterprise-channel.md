@@ -1,20 +1,20 @@
 ---
 title: Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413069"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942768"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -819,7 +819,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionado um problema que fazia com que os usuários tivessem problemas com as pastas de calendário compartilhadas sincronizadas com o OST, resultando em erros de permissão quando tentavam interagir com essas pastas.
 
-- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/pt-BR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrigido um problema com a seleção de algoritmo SMIME.
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 96de2ef290f1c69a7ac5cce730151276bf028b46
+ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637689"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816582"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -41,6 +41,33 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+
+
+
+## <a name="september-15-2020"></a>15 de setembro de 2020
+*Versão 16.41 (Build 20091302)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1224)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1338)
+
+### <a name="office-suite"></a>Pacote Office
+
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-16855)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
 ## <a name="august-11-2020"></a>11 de agosto de 2020
 *Versão 16.40 (Compilação 20081000)*
@@ -679,7 +706,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
  Esta versão oferece as seguintes atualizações:
 
-|**Application**|**Atualizações de recursos**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
+|**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Outlook  <br/>| Corrigido um problema com a autenticação para contas do Google.<br/><br/> Corrigido um problema com a sincronização de calendário. <br/>  | |[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19022000_Updater.pkg) <br/>|
  
