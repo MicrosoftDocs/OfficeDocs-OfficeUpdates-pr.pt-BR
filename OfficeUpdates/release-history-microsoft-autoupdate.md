@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
+ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637639"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947157"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,25 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="september-2020-release"></a>Lançamento de setembro de 2020
+
+**Data do lançamento:** 16 de setembro de 2020
+
+*Microsoft Auto Update 4.27*
+
+**Correção de bugs e melhorias:**
+-   O Assistente de Atualização do MAU iniciará agora as atualizações atrás de uma tela bloqueada, mesmo que o ciclo de verificação regular não seja alcançado.
+
+**Link de Atualização do MAU:**
+
+[Baixar o pacote do Microsoft AutoUpdate 4.27](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+7AF6ACDC5E1278CF4D227F305A127A6FE5A275094D945C1504DC108C2090F2CB
+
+<br/><br/>
 
 ## <a name="august-2020-release"></a>Versão de agosto de 2020.
 
