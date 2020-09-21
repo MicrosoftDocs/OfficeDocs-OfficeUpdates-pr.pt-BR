@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942828"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100193"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -45,7 +45,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="access"></a>Access
 
-- O Access resolveu esse problema atual, mas estaremos analisando nossas interfaces adicionais para garantir que esse problema não persista. A equipe informará a você sobre atualizações futuras. Agradecemos sua paciência.
+- Essa alteração corrige um problema que poderia fazer com que Access falhasse ao lançar a caixa Zoom (Shift + F2) para editar texto.
 
 
 ### <a name="excel"></a>Excel
@@ -1196,7 +1196,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
 
-- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/pt-BR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
