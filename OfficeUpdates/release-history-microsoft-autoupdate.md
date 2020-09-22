@@ -1,20 +1,20 @@
 ---
 title: Histórico de versões do Microsoft AutoUpdate
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
-ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
+ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "47947157"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174630"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -166,7 +166,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Os computadores MacOS com SSD terão atualizações mais rápidas e tempo de inatividade de aplicativos insignificante devido a atualizações.
 
 
-Confira [CVE-2020-0984](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0984)
+Confira [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **Link de Atualização do MAU:**
 
