@@ -1,20 +1,20 @@
 ---
 title: Histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781564"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174640"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
 
@@ -23,12 +23,22 @@ A ODT (ferramenta de implantação do Office) é uma ferramenta de linha de coma
 
 A ODT dá mais controle sobre uma instalação do Office. É possível definir quais produtos e idiomas são instalados, como os produtos devem ser atualizados e se deseja ou não exibir a experiência de instalação para os usuários. Para saber mais sobre como usar a ODT, confira [Visão geral da Ferramenta de Implantação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- ** Sistema Operacional com Suporte**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2 
+ O **Sistema Operacional com Suporte**: Windows 10, Windows 8.1, Windows Server 2019 ou Windows Server 2016. 
  
  **Instruções de Instalação**: Baixe e execute o arquivo executável de extração automática, que contém o executável da Ferramenta de Implantação do Office (setup.exe) e um arquivo de configuração de exemplo (configuration.xml). 
 
 [Baixar a Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+
+## <a name="june-9-2020"></a>9 de junho de 2020
+
+Versão 16.0.12827.20268 (setup.exe versão 16.0.12827.20258)
+- O canal atual agora é o canal padrão quando um canal não é especificado
+- Suporte adicional ao Canal Empresarial Mensal
+- Suporte adicional para novos nomes de canal
+- Recursos adicionais de resiliência para continuar a instalar, se possível, mesmo quando alguns recursos de idioma estão indisponíveis
+- Recursos expandidos do MSIRemove para remover produtos do Office 2007
+- Recursos expandidos do MSIRemove para remover Mecanismo do Banco de Dados do Access 
 
 ## <a name="april-15-2020"></a>15 de abril de 2020
 
