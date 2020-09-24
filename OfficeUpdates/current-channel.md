@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100193"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222477"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -35,7 +35,52 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
+
+## <a name="version-2008-september-22"></a>Versão 2008: 22 de setembro
+*Versão 2008 (Build 13127.20508)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Correção de um problema em que o Excel pode falhar ao usar a Análise Rápida após congelar a linha superior da planilha.
+
+
+- Correção de um problema que pode causar um aviso sobre uma pasta de trabalho corrompida se contiver fórmulas usando SENÃODISP().
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que fez com que os usuários não conseguissem fechar os calendários compartilhados, clicando no "X" no canto.
+
+
+- Corrige um problema de desempenho com o carregamento de anexos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema que estava causando a falha no aplicativo PowerPoint.
+
+
+### <a name="visio"></a>Visio
+
+- A visualização dinâmica trava no alinhamento do texto relatado pelos clientes. Principais travamentos da bifurcação de julho.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema com a caixa de diálogo Galeria de Estilos.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrige o alto uso de CPUs em ociosidade com GIF/modelo em 3D animado
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
 
 ## <a name="version-2008-september-09"></a>Versão 2008: 9 de setembro
 *Versão 2008 (Build 13127.20408)*
@@ -1233,6 +1278,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
