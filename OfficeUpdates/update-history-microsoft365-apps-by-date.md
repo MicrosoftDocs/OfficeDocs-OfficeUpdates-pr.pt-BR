@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 1c55b9a3b85ca625f1d2157496d76bf98c724d85
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: c468adc345448b12502aff2a21214dc90af3180e
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222467"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297144"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -36,7 +36,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2008<br/>|13127.20508<br/>|22 de setembro de 2020<br/>|Lançamento da versão 2009<br/>|
+|Canal Atual<br/>|2009<br/>|13231.20262<br/>|28 de setembro de 2020<br/>|A versão 2010 foi lançada<br/>|
 |Canal Empresarial Mensal<br/>|2007<br/>|13029.20534<br/>|8 de setembro de 2020<br/>|10 de novembro de 2020<br/>|
 |Canal Empresarial Mensal<br/>|2006<br/>|13001.20648<br/>|8 de setembro de 2020<br/>|13 de outubro de 2020<br/>|
 |Canal Empresarial Semestral (Pré-visualização)<br/>|2008<br/>|13127.20408<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
@@ -53,6 +53,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|28 de setembro|[Versão 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de setembro|[Versão 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9 de setembro|[Versão 2008 (Build 13127.20408)](current-channel.md#version-2008-september-09)| | | |
 |2020|8 de setembro| |[Versão 2007 (Build 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[Versão 2006 (Build 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[Versão 2008 (Build 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[Versão 2002 (Build 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[Versão 1908 (Build 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
