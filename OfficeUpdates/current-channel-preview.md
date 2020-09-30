@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
+ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174580"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293193"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,25 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2009-september-26"></a>Versão 2009: 26 de setembro
+*Versão 2009 (Build 13231.20262)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocou o envio de emails gerados automaticamente com um corpo em branco quando a linha de assunto fica em branco.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que, se você tiver um código de eventos em execução e tentar fazer alterações por meio de um modo de exibição Formulário de Tarefas, clicar no botão OK pode não confirmar as alterações.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2009-september-21"></a>Versão 2009: 21 de setembro
 *Versão 2009 (Build 13231.20200)*
