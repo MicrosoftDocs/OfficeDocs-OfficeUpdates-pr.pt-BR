@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos insiders o histórico de atualizações dos lançamentos mensais do Canal Insider Fast para a área de trabalho do Windows
-ms.openlocfilehash: 4f5087370f388675dbeb9f22a8b26e13d78ca125
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: d753e265abaa0748cca4342fb5d82984bf6acc5c
+ms.sourcegitcommit: 910b9571dac23a6aa56e789485fba7c875671e6f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297174"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319765"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Atualização do histórico para o Canal Beta do Office
 
@@ -37,6 +37,9 @@ Para saber as notas de versão, confira [Notas de versão Insider do Office para
 
 
 [//]: # (NÃO REMOVA)
+
+**30 de setembro de 2020**<br/>
+Versão 2010 (Build 13328.20000)<br/>
 
 **28 de setembro de 2020**<br/>
 Versão 2010 (Build 13324.20000)<br/>
