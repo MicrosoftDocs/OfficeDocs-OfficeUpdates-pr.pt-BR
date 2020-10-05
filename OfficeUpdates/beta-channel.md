@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Insider − Modo Rápido.
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276437"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340726"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,78 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2010-october-02"></a>Versão 2010: 2 de outubro
+*Versão 2010 (Build 13328.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Use a caixa de diálogo avançado para criar tipos de dados:** a caixa de diálogo avançada permite que você selecione manualmente as colunas que combinam o tipo de dados que você está criando.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="onenote"></a>OneNote
+
+- Consertamos um problema em que um usuário não conseguia selecionar e copiar o URL do bloco de texto no Arquivo OutSpace > Informações.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocava o envio de emails gerados automaticamente com um corpo em branco quando o assunto estava em branco.
+
+
+- Resolvemos um problema em que o GUID da pasta incorreto estava armazenado em cache para as pastas.
+
+
+- Quando um usuário copiava e colava um endereço de email no campo do destinatário com o nome de exibição, o endereço de email nem sempre era analisado corretamente e fazia aparecer um aviso informando que um endereço de email era inválido.  Foi corrigido para que o nome e o endereço de email sejam analisados ​​corretamente, de forma que o aviso não seja mais mostrado.
+
+
+- Corrigimos um problema em que as pastas compartilhadas online não retornavam o nome da pasta pai. Em vez de uma falha, ele retornava um caminho vazio que saia incorretamente para a conta primária.
+
+
+- Consertamos um problema em que as mudanças de acompanhamento se ativavam depois de reabrir um rascunho no painel de visualização somente leitura.
+
+
+- Consertamos um problema em que a opção Salvar como não estava disponível para anexos clássicos.
+
+
+- Corrigimos um problema para fornecer a um usuário uma maneira de personalizar o texto de justificação ao substituir uma política.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Solucionamos um problema em que o PowerPoint não exportava os pontos de marcadores de retângulo durante a exportação para PDF.
+
+
+- Consertamos um problema em que se você estivesse no último slide e passasse o dedo para o próximo slide depois de pressionar 'encerrar sessão' e antes do resumo ser exibido, a caixa de diálogo de sessão final também ficava visível na página de resumo.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que o Project poderia falhar se você aplicasse um grupo ao modo de exibição de uso do recurso ou de planilha e, em seguida, inserisse uma coluna.
+
+
+- Correção de um problema em que, se você tivesse campos personalizados com fórmulas e estivesse usando o valor agregado, você poderia experienciar atrasos na mudança nos modos de exibição e ao abrir detalhes do projeto/tarefa.
+
+
+- Correção de um problema em que o método VBA ConsolidateProjects poderia ser arquivado se você tentasse adicionar o mesmo projeto várias vezes e tivesse AttachToSources definido como falso.
+
+
+- Correção de um problema em que, se você tiver um código de eventos em execução e tentar fazer alterações por meio de um modo de exibição Formulário de Tarefas, clicar no botão OK pode não confirmar as alterações.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2010-september-25"></a>Versão 2010: 25 de setembro
 *Versão 2010 (Build 13318.20000)*
@@ -782,7 +854,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="excel"></a>Excel
 
-- Consertamos um problema em que o Excel era, ocasionalmente, encerrado ao iniciar o OneDrive.
+- Consertamos um problema em que o Excel ocasionalmente seria encerrado ao iniciar o OneDrive.
 - Consertamos um problema eu que clicar em um hiperlink marcado dentro da mesma pasta de trabalho fazia com que a pasta de trabalho fosse ocultada.
 - Consertamos um problema em que alguns dos links de gráfico copiado e colado usavam endereços de unidade mapeados, em vez de endereços universais.
 - Consertamos um problema em que o Excel poderia ficar sem resposta após usar Ctrl+Shift+Teclas de direção para rolar quando a janela do Excel era compartilhada por meio do Teams.
@@ -1514,6 +1586,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
