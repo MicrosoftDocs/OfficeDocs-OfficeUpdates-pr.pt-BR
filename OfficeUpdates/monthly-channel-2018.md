@@ -1,8 +1,8 @@
 ---
 title: Notas de versão para lançamentos do Canal Mensal em 2018
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: cd29e10e43af303ad4a9e8f336bbdceed76b8ee2
-ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
+ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44163453"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369889"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -32,18 +32,18 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
  ### <a name="excel-security-updates"></a>Excel: atualizações de segurança 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8598): vulnerabilidade de divulgação de informações do Microsoft Excel 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8636): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): vulnerabilidade de divulgação de informações do Microsoft Excel 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): vulnerabilidade de execução remota de código do Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8587): vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): vulnerabilidade de execução remota de código do Microsoft Outlook 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: atualizações de segurança 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint 
 
 
 ## <a name="version-1811-november-27"></a>Versão 1811: 27 de novembro
@@ -73,29 +73,29 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8522): vulnerabilidade de execução remota de código do Microsoft Outlook 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8524): Vulnerabilidade de execução remota de código do Microsoft Outlook 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8558): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8576): vulnerabilidade de Execução Remota de Código do Microsoft Outlook 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8579): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8582): vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Vulnerabilidade de execução remota de código do Microsoft Outlook 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): vulnerabilidade de Execução Remota de Código do Microsoft Outlook 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Vulnerabilidade de divulgação de informações do Microsoft Outlook 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): vulnerabilidade de execução remota de código do Microsoft Outlook 
 
 ### <a name="project-security-updates"></a>Project: atualizações de segurança 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8575): vulnerabilidade de execução remota de código do Microsoft Project 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): vulnerabilidade de execução remota de código do Microsoft Project 
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança  
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8573): vulnerabilidade de execução remota de código do Microsoft Word 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): vulnerabilidade de execução remota de código do Microsoft Word 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8546): Vulnerabilidade de negação de serviço do Microsoft Skype for Business 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Vulnerabilidade de negação de serviço do Microsoft Skype for Business 
 
  ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 
@@ -154,20 +154,20 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1809 (build 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8502): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): vulnerabilidade de execução remota de código do Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança 
--   [ADV180026](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180026): atualização de proteção abrangente do Microsoft Office 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): atualização de proteção abrangente do Microsoft Office 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: atualizações de segurança 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8501): vulnerabilidade de execução remota de código do Microsoft PowerPoint
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): vulnerabilidade de execução remota de código do Microsoft PowerPoint
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8504): vulnerabilidade de execução remota de código do Microsoft Word 
--   [ADV180026](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180026): atualização de proteção abrangente do Microsoft Office 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): vulnerabilidade de execução remota de código do Microsoft Word 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): atualização de proteção abrangente do Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8432): vulnerabilidade de execução remota de código do componente do Microsoft Graphics 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidade de execução remota de código do componente do Microsoft Graphics 
 
 
 ## <a name="version-1809-september-27"></a>Versão 1809: 27 de setembro
@@ -198,14 +198,14 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1808 (build 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel
--   [/CVE-2018-8429](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [/CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8430): Vulnerabilidade de execução remota de código em PDFs no Windows
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Vulnerabilidade de execução remota de código em PDFs no Windows
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8332): Vulnerabilidade de execução remota de gráficos Win32k
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Vulnerabilidade de execução remota de gráficos Win32k
 
 
 ## <a name="version-1808-september-5"></a>Versão 1808: 5 de setembro
@@ -242,18 +242,18 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1807 (build 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8375): vulnerabilidade de execução remota de código do Microsoft Excel 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8379): vulnerabilidade de execução remota de código do Microsoft Excel 
--   [/CVE-2018-8382](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8382): vulnerabilidade de divulgação de informações do Microsoft Excel 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): vulnerabilidade de execução remota de código do Microsoft Excel 
+-   [/CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilidade de divulgação de informações do Microsoft Excel 
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [ADV180021](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180021): atualização de proteção abrangente do Microsoft Office 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): atualização de proteção abrangente do Microsoft Office 
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8378): vulnerabilidade de Divulgação de Informações do Microsoft Office 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): vulnerabilidade de Divulgação de Informações do Microsoft Office 
 
 ## <a name="version-1807-july-25"></a>Versão 1807: 25 de julho
 *Versão 1807 (build 10325.20082)*
@@ -284,13 +284,13 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1806 (build 10228.20104)*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): vulnerabilidade Use-After-Free de execução remota de código do Microsoft Access
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8310): vulnerabilidade de adulteração do Microsoft Office
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): vulnerabilidade de adulteração do Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office
 
 ## <a name="version-1806-june-25"></a>Versão 1806: 25 de junho
 *Versão 1806 (build 10228.20080)*
@@ -336,11 +336,11 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1805 (build 9330.2118)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8246): vulnerabilidade de divulgação de informações confidenciais do Microsoft Excel
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): vulnerabilidade de divulgação de informações confidenciais do Microsoft Excel
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): vulnerabilidade de elevação de privilégios do Microsoft Outlook
 
 ### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
 
@@ -406,17 +406,17 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1804 (build 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8147): vulnerabilidade de execução remota de código do Microsoft Excel
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8148): vulnerabilidade de execução remota de código do Microsoft Excel
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8163): vulnerabilidade de divulgação de informações do Microsoft Excel
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): vulnerabilidade de divulgação de informações do Microsoft Excel
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8150): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): vulnerabilidade de bypass do recurso de segurança do Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8157): vulnerabilidade de execução remota de código do Microsoft Office
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8158): vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): vulnerabilidade de execução remota de código do Microsoft Office
 
 
 ## <a name="version-1804-april-25"></a>Versão 1804: 25 de abril
@@ -444,7 +444,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1803 (build 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1029): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
 -   Correção de um problema em que a coautoria de vários usuários na mesma apresentação gera uma duplicação incorreta dos slides mestres.
@@ -457,9 +457,9 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   Correção de um problema que causa a exibição de uma mensagem de memória insuficiente.
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0950): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1030): Vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Vulnerabilidade de execução remota de código do Microsoft Office
 -   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
 
 ## <a name="version-1803-march-27"></a>Versão 1803: 27 de março
@@ -499,13 +499,13 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1802 (build 9029.2253)*
 
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0903): vulnerabilidade de execução remota de código do Microsoft Access
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): vulnerabilidade de execução remota de código do Microsoft Access
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0907): bypass de recursos de segurança do Microsoft Office Excel
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): bypass de recursos de segurança do Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 
 
 ## <a name="version-1802-february-26"></a>Versão 1802: 26 de fevereiro
@@ -534,15 +534,15 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1801 (build 9001.2171)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0841): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): vulnerabilidade de execução remota de código do Microsoft Excel
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0850): vulnerabilidade de elevação de privilégio do Microsoft Outlook
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0852): vulnerabilidade de corrupção de memória do Microsoft Outlook
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): vulnerabilidade de elevação de privilégio do Microsoft Outlook
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): vulnerabilidade de corrupção de memória do Microsoft Outlook
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0851): vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): vulnerabilidade de corrupção de memória do Microsoft Office
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 
 
 ## <a name="version-1801-february-7"></a>Versão 1801: 7 de fevereiro
@@ -617,29 +617,29 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 *Versão 1711 (build 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel: atualizações de segurança
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0796): vulnerabilidade de execução remota de código do Microsoft Excel
--   [Supervisão 170021](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): vulnerabilidade de execução remota de código do Microsoft Excel
+-   [Supervisão 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): atualização de proteção abrangente do Microsoft Office
 
 ### <a name="outlook-security-updates"></a>Outlook: atualizações de segurança
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): vulnerabilidade de execução remota de código do Microsoft Outlook
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0792): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0794): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0798): Vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0801): Vulnerabilidade de execução remota de código do Microsoft Office
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0802): Vulnerabilidade de corrupção de memória do Microsoft Office
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0804): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0805): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0806): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0807): vulnerabilidade de execução remota de código do Microsoft Word
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0812): vulnerabilidade de corrupção de memória do Microsoft Word
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Vulnerabilidade de corrupção de memória do Microsoft Office
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Vulnerabilidade de execução remota de código do Microsoft Office
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Vulnerabilidade de corrupção de memória do Microsoft Office
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): vulnerabilidade de execução remota de código do Microsoft Word
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): vulnerabilidade de corrupção de memória do Microsoft Word
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0795): vulnerabilidade de execução remota de código do Microsoft Office
--   [Supervisão 180003](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180003): atualização de Proteção Abrangente do Microsoft Office
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): vulnerabilidade de execução remota de código do Microsoft Office
+-   [Supervisão 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): atualização de Proteção Abrangente do Microsoft Office
 
 
 ## <a name="version-1711-january-2"></a>Versão 1711: 2 de janeiro

@@ -1,8 +1,8 @@
 ---
 title: Notas de versão para lançamentos do canal semestral (direcionado) no 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canal semestral (direcionado) para o Office 365 ProPlus em 2015
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439136"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370099"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Notas de versão para lançamentos do canal semestral (direcionado) no 2015
 
@@ -30,13 +30,13 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-december-8"></a>Versão 1509:8 de dezembro
 *Versão 1509 (build 6001.1043)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Atualizações não relacionadas à segurança
+### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema que faz com que impressões ou XPS criados usando o cliente Windows de área de trabalho apareçam como um X vermelho para clientes Windows que não sejam de área de trabalho, pois esses clientes não dão suporte à renderização XPS nativa.
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Correção de um problema que faz com que um indicador que se estende por vários parágrafos seja criado, mas quando o email é recebido, somente o primeiro parágrafo do indicador é selecionado ao usar Ir Para.
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): atualização de segurança do componente do Microsoft Graphics para tratar da execução de código remoto (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
@@ -62,7 +62,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-security-updates"></a>Access: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
-### <a name="excel-security-updates"></a>Excel: atualizações de segurança
+### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
@@ -128,14 +128,14 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-october-21"></a>Versão 1509:21 de outubro
 *Versão 1509 (build 6001.1034)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Atualizações não relacionadas à segurança
+### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema que faz o OneNote falhar quando a mesma cor é selecionada duas vezes para uma borda no seletor de cores.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Correção de um problema em que um leitor de tela lê somente o primeiro parágrafo de uma assinatura de email com vários parágrafos ao editar a assinatura de email.
 -   Correção de um problema em que o cursor não está na posição correta ao escrever ou responder a um email.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que, em condições de memória insuficiente, tentar visualizar um aplicativo ou área de trabalho compartilhada resulta em desconexão e em repetidas tentativas de reingressar automaticamente e visualizar o aplicativo ou área de trabalho compartilhada.
 -   Correção de um problema que faz com que a experiência de área de trabalho compartilhada perca qualidade com o aumento no número de participantes.
 -   Correção de um problema que faz com que avisos repetidos de autenticação de telefone sejam recebidos durante o dia quando a autenticação multifator está configurada.
@@ -157,7 +157,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema que faz o recurso Controlar alterações mostrar exclusões de revisores com o mesmo nome.
 -   Correção de um problema com a coautoria em tempo real de documentos configurados para removerem informações pessoais, que faz com que as alterações sejam exibidas como alterações controladas todas vezes que o documento é salvo.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema que faz com que, ao abrir um aplicativo do Office pela primeira vez depois de atualizar para o 2016, o aplicativo funcione no modo de funcionalidade reduzida e precise ser reiniciado para obter todas as funcionalidades.
 -   Correção de um problema em que executar o Office com a ativação de computador compartilhado habilitada em um computador que execute os Serviços de Área de Trabalho Remota resulta em um erro, exibido ao abrir um aplicativo, que diz ao usuário que ele precisa usar uma edição de licenciamento por volume do Office.
 -   Correção de um problema que faz a instalação parar quando aproximadamente 90% dela está concluída.
@@ -171,7 +171,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1509-october-5"></a>Versão 1509:5 de outubro
 *Versão 1509 (build 4229.1029)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Atualizações não relacionadas à segurança
+### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema no Office 365 Business no qual usar o OneNote com o SharePoint resulta em uma mensagem de erro que informa aos usuários que eles têm que atualizar para uma versão diferente do Office.
 -   Correção de um problema no Surface Pro 3 em que a visualização de gravação de vídeo não exibe o que está sendo gravado.
 

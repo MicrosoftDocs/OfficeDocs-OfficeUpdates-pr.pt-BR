@@ -1,20 +1,20 @@
 ---
 title: Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral (Direcionado) do Office 365 ProPlus em 2019
-ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: e533b0ab787fe46830249721c9e8315232379c0e
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565046"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369969"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Notas de versão para lançamentos do Canal Semestral (Direcionado) em 2019
 
@@ -22,7 +22,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 > [!NOTE]
 > - Muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Semestral (direcionado) durante um período de tempo. Se você não encontrar imediatamente algo descrito abaixo, aguarde que muito em breve estará disponível. [Saiba mais](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+> - O Microsoft Teams está incluído nas novas instalações do Canal Semestral (Direcionado), começando com a Versão 1902. As equipes serão adicionadas às instalações existentes do Canal Semestral (Direcionado) quando elas forem atualizadas para a Versão 1908 ou posterior. Para obter mais informações, confira [Implantar o Microsoft Teams com Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 ## <a name="version-1908-december-10"></a>Versão 1908: 10 de dezembro 
 *Versão 1908 (Build 11929.20516)*
@@ -364,7 +364,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="office-suite"></a>Pacote do Office
 
-- **Instalação do Microsoft Teams:** O Teams foi adicionado nas instalações existentes do Office 365 ProPlus. [Saiba Mais](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:** O Teams foi adicionado nas instalações existentes do Office 365 ProPlus. [Saiba Mais](https://docs.microsoft.com/deployoffice/teams-install)
 
 - **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
@@ -668,7 +668,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Ver seus slides ganharem vida:** insira gráficos animados em 3D para ver batidas de corações, órbita de planetas e a fúria do T-Rex em toda a tela. [Saiba mais](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Você esboça, nós melhoramos:** transformamos textos e formas desenhadas em diagramas refinados. Basta selecionar seus traços de tinta para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Ver o que está atrás de uma imagem:** coloque uma imagem em uma planilha, selecione o valor predefinido e observe a alteração de transparência. É isso![Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Publicar no Microsoft Stream:** use o Microsoft Stream para compartilhar uma apresentação como vídeo de forma mais segura na organização. [Saiba mais](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **Publicar no Microsoft Stream:** use o Microsoft Stream para compartilhar uma apresentação como vídeo de forma mais segura na organização. [Saiba mais](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **Exportar para vídeo 4K:** quando você exporta uma apresentação para vídeo, a resolução 4K agora é uma opção.  [Saiba mais](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Arquivos grandes agora são abertos mais rapidamente: ** imagens, vídeos e outros elementos grandes agora são baixados em segundo plano quando você abre arquivos armazenados no OneDrive ou no SharePoint.

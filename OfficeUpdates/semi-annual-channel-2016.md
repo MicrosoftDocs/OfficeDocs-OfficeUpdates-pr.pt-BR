@@ -1,8 +1,8 @@
 ---
 title: Notas de versão para lançamentos do canal semestral no 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais semestral para o Office 365 ProPlus em 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614879"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370138"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Notas de versão para lançamentos do canal semestral no 2016
 
@@ -32,11 +32,11 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de segurança do Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que ocorre uma falha no Skype for Business ao ampliar o conteúdo compartilhado quando o compartilhador está usando uma implementação de terceiros do RDP.
 -   Correção de um problema em que ocorre uma falha no Skype for Business quando o leitor de tela JAWS está sendo executado e o usuário navega para uma lista, como a lista de contatos.
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 
@@ -47,9 +47,9 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 *Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2115), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
--   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
+-   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de segurança do Microsoft Office (3204068)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Atualização de Segurança do Microsoft Office (3204068)
 
 
@@ -74,9 +74,9 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 *Este é o lançamento do canal adiado que está disponível desde junho de 2016. Ele continuará a ter suporte e receberá atualizações de segurança até fevereiro de 2017. No entanto, já está disponível um novo lançamento do canal adiado, a versão 1605 (Build 6965,2105), que contém novos recursos, atualizações de segurança e outras atualizações não relacionadas a segurança.*
 
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
--   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de Segurança do Microsoft Office (3199168)
+-   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de segurança do Microsoft Office (3199168)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Atualização de Segurança do Microsoft Office (3199168)
 
 
@@ -176,7 +176,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Boletim de Segurança da Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Atualização de Segurança do Componente Microsoft Graphics (3177393)
 -   Boletim de Segurança da Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): atualização de segurança do componente Microsoft Graphics (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que, quando o usuário adiciona um representante ao Exchange Server, ele não é exibido no Skype for Business mesmo depois de reiniciá-lo.
 -   Correção de um problema no qual o Cliente do Skype for Business se conecta ao Skype for Business Server na rede externa, embora a rede corporativa interna esteja disponível.
 -   Correção de um problema em que o Skype falha para alguns usuários em reuniões grandes, como reuniões com mais de 30 participantes.
@@ -247,7 +247,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-120](https://technet.microsoft.com/library/security/ms16-120): atualização de segurança do componente Microsoft Graphics (3192884)
 
-### <a name="word-security-updates"></a>Word: atualizações de segurança
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 121](https://technet.microsoft.com/library/security/ms16-121): Atualização de segurança do Microsoft Office (3194063)
 
 
@@ -267,7 +267,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="visio-security-updates"></a>Visio: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 
@@ -283,7 +283,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16 107](https://technet.microsoft.com/library/security/ms16-107): Atualização de segurança do Microsoft Office (3185852)
 
 
@@ -300,13 +300,13 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Atualização de Segurança do Componente Microsoft Graphics (3177393)
 
-### <a name="word-security-updates"></a>Word: atualizações de segurança
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Atualização de segurança do Microsoft Office (3177451)
 
 
@@ -345,7 +345,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: atualizações de segurança
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 
@@ -361,7 +361,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
-### <a name="word-security-updates"></a>Word: atualizações de segurança
+### <a name="word-security-updates"></a>Word: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Atualização de segurança do Microsoft Office (3170008)
 
 
@@ -666,7 +666,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Atualização de segurança do Microsoft Office (3155544)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Atualização de segurança do Microsoft Office (3155544)
 
 
@@ -688,7 +688,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3141806)
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   Boletim de Segurança da Microsoft [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Atualização de Segurança do Microsoft Office para Tratar da Execução de Código Remoto (3141806)
 
 

@@ -1,8 +1,8 @@
 ---
 title: Notas de versão para lançamentos de canais mensais no 2017
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de ti para lançamentos de canais mensais do Office 365 ProPlus em 2017
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614872"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369899"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de versão para lançamentos de canais mensais no 2017
 
@@ -56,7 +56,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que uma falha no salvamento pode corromper um arquivo e fazer o Project falhar ao abrir.
 -   Correção de um problema em que não é possível arrastar tarefas no modo de exibição de Linha do Tempo e Planejador de Equipe.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que o programa mostra o autor da chamada em vez de mostrar o destinatário no Histórico da Conversa. Isso ocorre quando o número comercial do destinatário da chamada é modificado por meio do Active Directory.
 -   Correção de um problema em que as informações do destinatário ficam ausentes no histórico de chamadas do Histórico da Conversa, no caso das chamadas PSTN de saída para números de celular.
 -   Correção de um problema em que, ao iniciar uma mensagem instantânea em um email do Outlook, a linha do assunto do email não é incluída no assunto da mensagem instantânea.
@@ -67,7 +67,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de problemas de ajuste de DPI em janelas de mensagens instantâneas.
 -   Correção de um problema em que os dados do LinkedIn não são exibidos no Cartão de Visita do Skype for Business.
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Contagem de caracteres:** exiba a contagem de caracteres na barra de status enquanto digita. Habilite esta opção no menu Personalizar Barra de Status.
 -   **Acesse rapidamente sites e grupos:** use o menu Arquivo para trabalhar com documentos armazenados em seus sites e grupos usados frequentemente.
 
@@ -82,7 +82,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que é exibida incorretamente ao usuário a mensagem de erro "Falha catastrófica" ao abrir uma pasta de trabalho com macros no Office 2007 ou versão anterior (.xls ou .xla).
 -   Correção de um problema em que o Excel pode falhar quando um usuário abre um menu de contexto.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema em que o aplicativo do Office falha quando o usuário tenta ativá-lo usando a caixa de diálogo Ativar o Office.
 
 
@@ -92,14 +92,14 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-non-security-updates"></a>Access: atualizações não relacionadas à segurança
 -   Correção de um problema em que o aplicativo em tempo de execução do Access (arquivo .accde) gera a mensagem de erro "Este banco de dados está em um formato desconhecido" e não abre.
 
-### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Correção de um problema em que, quando o usuário tenta inserir um objeto em uma pasta de trabalho existente, o Excel falha quando o usuário clica em Navegar.
 -   Correção de um problema em que, ao proteger um intervalo com senha, a caixa de diálogo destinada a inserir a senha para desbloquear o intervalo não é exibida.
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Correção de um problema em que o Outlook falha ao alternar entre pastas durante o monitoramento com a ferramenta Accessible Event Watcher (AccEvent.exe).
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
 -   Correção de um problema em que as referências a códigos de inserção do YouTube com base no Flash Player resultam na abertura de uma nova janela para reproduzir o vídeo. Antigos códigos de inserção agora foram atualizados para fazer referência a vídeos do YouTube com base em HTML5 para que possam ser reproduzidos corretamente no lugar.
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
@@ -117,7 +117,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): vulnerabilidade de corrupção de memória do Microsoft Excel
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): vulnerabilidade de Corrupção de Memória do Microsoft Office
 
-### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Correção de um problema em que o usuário não conseguia fechar uma pasta de trabalho no modo de exibição protegido quando o nome do arquivo continha colchetes.
 
 ### <a name="word-security-updates"></a>Word: Atualizações de segurança
@@ -147,7 +147,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Modo de exibição Painel de Tarefas:** classifique as tarefas nos cartões no modo de exibição Painel de Tarefas. Reordene e mova os cartões entre colunas no quadro, assim como em projetos Agile.
 -   **Projetos Agile:** Gerencie seus projetos Agile usando listas de pendências, painéis de tarefas, sprints e muito mais. As metodologias Scrum ou Kanban têm suporte. [Mais informações](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção de um problema em que a disponibilidade de recursos não é exibida no Criador de Equipe.
 -   Correção de um problema em que os indicadores gráficos não são exibidos corretamente.
 -   Correção de um problema em que o Project trava durante o nivelamento de hora em hora ou de dia a dia.
@@ -162,7 +162,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que os usuários no lobby não são notificados quando o acesso deles à reunião é negado.
 -   Correção de um problema em que o controle de ganho automático aumenta incontrolavelmente durante as chamadas.
 
-### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
 -   **Crie um diagrama delineado para um site:** crie rapidamente um diagrama delineado de um site incluindo uma interface, navegação e como eles funcionam em conjunto. [Mais informações](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **Crie um delineado do seu aplicativo móvel:** use um modelo para criar um delineado do seu aplicativo móvel. [Mais informações](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 
@@ -180,7 +180,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="access-non-security-updates"></a>Access: atualizações não relacionadas à segurança
 -   Correção de um problema em que tentar selecionar o texto em uma caixa de texto ou caixa de combinação parecia selecionar todo o texto, em vez da seleção de indicação.
 
-### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
+### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Corrigido um problema em que o posicionamento da dica de ferramenta é desalinhado ao arrastar ou preencher arrastando.
 -   Corrigido um problema em que, ao salvar uma pasta de trabalho usando Arquivo \> Salvar Como, um nome de arquivo que contém pontos aparece em branco ou truncado na caixa de diálogo Salvar arquivo.
 -   Correção de um problema em que, ao salvar um arquivo com suporte para sincronização, a gravação em disco falha, mas o Office continua carregando o arquivo para o OneDrive. Com esta correção, os usuários passam a receber uma mensagem de erro e o carregamento é interrompido.
@@ -204,7 +204,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 -   **Execute uma apresentação de slides com sua caneta digital:** use a Caneta Surface ou outra caneta com um botão Bluetooth, para avançar os slides. Windows 10 Fall Creators Update necessário. [Mais informações](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   foi corrigido um problema no qual o Project podia falhar ao acessar relatórios com várias imagens.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações que não são de segurança
@@ -217,7 +217,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Aplicar dados gráficos aos diagramas do Visualizador de Dados:** Economize tempo ao criar um diagrama do Visualizador de Dados aplicando automaticamente dados de formas como gráficos de dados. [Mais informações](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **Colabore em desenhos:** Trabalhe com outras pessoas, compartilhando seus desenhos no OneDrive for Business ou SharePoint Online. Você pode ver quem está trabalhando no desenho, adicionar comentários e ver a atividade no arquivo.[Mais informações](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Painel de propriedades do SharePoint:** Exiba e edite valores da coluna de biblioteca do SharePoint a partir de um documento. Um botão da faixa de opções na guia Exibir fornece acesso fácil ao painel, e os administradores do SharePoint podem usar a configuração da biblioteca de documentos para abrir automaticamente o painel de propriedades.
 
 ### <a name="word-non-security-updates"></a>Word: atualizações que não são de segurança
@@ -270,7 +270,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
 -   Correção de um problema em que o Word falha ao abrir o painel Atividade de um documento aberto em um servidor do SharePoint mais antigo do que o SharePoint Server 2016.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema em que o progresso de Reparo Online não é exibido ao usuário.
 -   Correção de um problema em que as propriedades de arquivo do Office não são exibidas no Explorador de Arquivos.
 -   Correção de um problema em que os botões de suplemento do Office desaparecem da faixa de opções quando há um segundo documento aberto.
@@ -362,7 +362,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): vulnerabilidade de execução remota de código do PowerPoint
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): vulnerabilidade de execução remota de código do PowerPoint
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção de um problema no qual abrir determinados arquivos no Project Online faz com que o projeto falhe.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: atualizações de segurança
@@ -370,7 +370,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): vulnerabilidade de divulgação de informações de componente do Graphics
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): execução remota de código do componente do Microsoft Graphics
 
-### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
+### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 -   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744): Vulnerabilidade de corrupção de memória do Microsoft Office
 
@@ -390,7 +390,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="visio-non-security-updates"></a>Visio: atualizações não relacionadas à segurança
 -   Correção de um problema em que os suplementos de COM não recebem eventos de abertura do documento ao abrir um arquivo do Visio clicando duas vezes no respectivo ícone ou nome do arquivo.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Correção de um problema em que o aplicativo falha para alguns usuários ao clicar na guia Desenhar.
 -   Correção de um problema em que o aplicativo falha ao passar o cursor sobre um Controle Comum que contém uma dica de ferramenta.
 -   Correção de um problema em que um Erro de Licenciamento é exibido ao usar Controles Comuns.
@@ -404,7 +404,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que não é possível configurar uma conta IMAP no Outlook.
 -   Correção de um problema que causa falhas intermitentes ao abrir o Outlook.
 
-### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
+### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
 -   Correção de um problema em que o Word fecha inesperadamente ao carregar o suplemento Grammarly.
 -   Correção de um problema em que, em determinadas condições, o Word falha ao tentar recuperar arquivos baseados na nuvem.
 
@@ -472,7 +472,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção de um problema em que o trabalho real erroneamente é transferido para um recurso da empresa quando ela substitui um recurso local e o trabalho protegido está habilitado.
 -   Correção de um problema em que o projeto trava se você tiver uma tabela cuja primeira coluna é o nome da tarefa, a coluna esteja bloqueada e você clicar em uma tarefa.
 -   Correção de um problema em que você pode atribuir o mesmo recurso várias vezes à mesma tarefa por meio do modo de exibição de Uso da Tarefa.
@@ -480,7 +480,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o recuo de tarefas de nível superior não sincroniza corretamente do Project para uma lista de tarefas do SharePoint.
 -   Correção de um problema em que, se você importar tarefas, recursos ou informações sobre atribuição de uma pasta de trabalho no Excel, os valores no campo de trabalho podem ser ignorados.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Exibir o número de telefone do chamador em uma chamada de entrada manipulada pelo Atendedor Automático corporativo, se o nome do usuário for desconhecido.
 -   Adição de uma configuração de inband liberando a restrição para "Qualquer pessoa (sem restrições)" como uma opção para "Essas pessoas não precisam aguardar no lobby".
 -   Adição da capacidade de exibir ou ocultar a visualização do próprio vídeo para chamadas de vídeo P2P em VDIv2.
@@ -488,13 +488,13 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que representantes são removidos por usuários que alternam entre o Skype for Business e o Skype for Business Basic.
 -   Correção de um problema em que o item Invisível não é exibido ao usar as políticas de cliente Habilitar Status para Invisível e URL de Estado Personalizado.
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Editar usando Ferramentas de Aprendizagem:** As Ferramentas de Aprendizagem já estão disponíveis no modo de exibição de layout da Web do Word. Ajuste o espaçamento de texto e mostre as sílabas durante a edição. Em qualquer modo de exibição, veja cada letra realçada à medida que o documento é lido em voz alta. [Mais informações](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **Sintaxe LaTeX:** criar e editar equações matemáticas usando a sintaxe LaTeX.
 -   **Sons úteis melhoram a acessibilidade:** Ative as indicações de áudio para orientá-lo durante o trabalho. Para encontrar o recurso, vá para Arquivo \> Opções \> Facilidade de Acesso. Não é necessário usar suplementos. [Mais informações](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Locais de arquivos por conta:** ao abrir ou salvar um arquivo, a lista de locais é organizada pela conta associada a eles.
 
-### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
+### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações que não são de segurança
 -   Adição de suporte de 64 bits ao mscomctl.ocx, permitindo que os usuários que trabalham em versões de 64 bits do Office criem, editem e abram arquivos de macro com Controles Comuns.
 -   Melhoria de acessibilidade dos controles usados no mscomctl.ocx.
 
@@ -507,7 +507,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que o programa exibe erros ao tentar salvar alterações em documentos sincronizados com o cliente do OneDrive.
 -   Correção de um problema em que não é possível fazer alterações na planilha quando há uma Tabela Dinâmica com campos na área do Filtro, mas nenhum campo em outros locais.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Ampliação do botão Ingressar na Reunião para corrigir o truncamento de alguns idiomas localizados.
 
 ### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
@@ -560,9 +560,9 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que há uma falha na exibição da janela de conversa em branco, até que uma reunião seja incluída com êxito.
 -   Correção de um problema em que as informações do campo Departamento de um Cartão de Visita aparecem em branco nos resultados de pesquisa, quando o campo Título está em branco.
 -   Correção de falhas de entrada para usuários que migraram de ambientes locais para ambientes online devido a regras de firewall.
--   Adição de uma chave de registro DWORD para corrigir um problema em que, quando o usuário entra no cliente por meio de uma rede externa executando o serviço de Descoberta Automática do Lync, o cliente redefine a chave de registro OAuthUsed como falsa. Para corrigir o problema, defina o valor como 1 para EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket, em HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>.
+-   Adição de uma chave de registro DWORD para corrigir um problema em que, quando o usuário entra no cliente por meio de uma rede externa executando o serviço de Descoberta Automática do Lync, o cliente redefine a chave de registro OAuthUsed como falsa. Para corrigir o problema, defina o valor como 1 para o EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket em HKEY \_ Current \_ user \\ Software \\ Microsoft \\ Office \\ 16,0 \\ Lync \\ \<SipID\> .
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recursos
+### <a name="word-feature-updates"></a>Word: Atualizações de recurso
 - **Personalização de caneta:** escolha um conjunto pessoal de canetas e marca-textos para escrita à tinta. O conjunto personalizado ficará disponível em todos os computadores Windows.
 - **Inserir imagens online:** a nova página de chegada para seleção de imagens e informações de atribuição são inseridas automaticamente com a imagem.
 
@@ -601,7 +601,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Compartilhar consultas**: exporte qualquer definição de consulta em um arquivo ODC (Conexão do banco de dados do Office) e compartilhe-o entre pastas de trabalho ou com outras pessoas.
 -   **Carregar dados:** Carregue dados de uma consulta diretamente em tabelas dinâmicas ou gráficos dinâmicos sem precisar salvar os dados no modelo de dados.
 -   **Melhoria no recurso Obter e Transformar:** No Editor de Consultas, crie uma nova coluna fornecendo valores de exemplo. Conforme você digita, o Excel detecta as transformações necessárias e mostra uma visualização da nova coluna.
--   **Suporte à proteção de informações do Windows (WIP):**    o Excel agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à proteção de informações do Windows (WIP):**    O Excel agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que o botão Mesclar e Centralizar não funcionava em planilhas agrupadas.
@@ -616,7 +616,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 -   **Legendas ocultas para vídeos:** adicione legendas ocultas a um vídeo para torná-lo mais acessível. [Mais informações](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Melhoria do Designer:** o Designer agora recomenda ideias de design para gráficos adicionados aos seus slides.
--   **Suporte à proteção de informações do Windows (WIP):**    o PowerPoint agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à proteção de informações do Windows (WIP):**    O PowerPoint agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção da caixa de diálogo Criar Site do Projeto para mostrar o local correto do site, agora que no Project Online cada EPT (Modelo do Enterprise Project) terá a própria URL para sites de projetos.
@@ -643,10 +643,10 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção da direção incorreta do texto em hebraico quando enviado de um dispositivo móvel.
 -   Correção de um problema com a informação narrada por um leitor de tela para o recurso Apresentar Área de Trabalho/Conceder Controle.
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Assistência de escrita aprimorada com o painel Editor:** Use o painel Editor para obter recomendações de estilo de escrita, ortografia e gramática. Ele foi criado para ser acessado com suporte aprimorado a tecnologias adaptativas.
 -   **Criação de texto Alt:** um serviço baseado em nuvem gera automaticamente texto alternativo (texto alt) para imagens em um documento.
--   **Suporte à proteção de informações do Windows (WIP):**    o Word agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à proteção de informações do Windows (WIP):**    O Word agora é um aplicativo inteligente, e pode diferenciar dados corporativos e pessoais, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>Versão 1704:1º de junho
 *Versão 1704 (build 8067.2157)*
@@ -654,7 +654,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
 -   Correção de um problema em que a tela do OneNote oculta conteúdo ou é atualizada quando muitos parágrafos estão no modo de exibição.
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Correção de um problema em que o painel de navegação do Outlook para de renderizar quando a máquina está com pouca memória.
 
 
@@ -768,7 +768,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 -   **Opção para redefinir senha:** o link do botão Redefinir é exibido na janela de entrada, quando o usuário não consegue entrar pelo menos uma vez.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que os usuários não conseguem entrar quando alternam entre redes corporativas internas e externas.
 -   Correção de um problema em que a área do gráfico não é fechada ao fazer o escalonamento de IM para Áudio, na Transferência de consultoria.
 -   Correção de um problema em que os nomes são truncados nas notificações do sistema, ao usar o toque de dois pontos de extremidade em simultâneo.
@@ -781,12 +781,12 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Criar diagramas de dados do Excel:** Criar automaticamente um Fluxograma Básico ou um Fluxograma Multifuncional de dados do Excel usando novos modelos do Visualizador de Dados. [Mais informações](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Atividade de arquivo compartilhado:** Escolha o botão Atividade, no canto superior direito do arquivo, para ver quando ele foi compartilhado, editado, renomeado ou restaurado no OneDrive for Business ou no SharePoint.
 -   **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usa escrita árabe. [Mais informações](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Links seguros:** Quando um usuário clica em um link, a ATP (Proteção Avançada contra Ameaças) do Office 365 inspeciona o link para ver se é mal-intencionado. Se o link for considerado mal-intencionado, o usuário será redirecionado para uma página de aviso em vez da URL de destino original. [Mais informações](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-non-security-updates"></a>Word: atualizações não relacionadas à segurança
+### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança
 -   Ao salvar um documento em PDF, ele é salvo na versão 1.7 do PDF.
 
 
@@ -811,7 +811,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que salvar um arquivo grande no OneDrive for Business faz com que o arquivo seja bloqueado, e o usuário só consiga editar o arquivo depois de fechar e abrir novamente o Excel.
 -   Correção de um problema em que uma nova janela é exibida esmaecida quando uma pasta de trabalho .xls é aberta.
 
-### <a name="outlook-non-security-updates"></a>Outlook: atualizações não relacionadas à segurança
+### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Correção de um problema em que o usuário não consegue pesquisar arquivos PST.
 -   Correção de um problema em que o usuário vê um novo tipo de armazenamento do "Microsoft Exchange" na caixa de diálogo "Novo Arquivo de Dados do Outlook" e a seleção desse novo tipo de dados faz com que o perfil do usuário se torne inutilizável.
 
@@ -861,12 +861,12 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Remoção de segundo plano:** Remova o segundo plano da imagem com uma ferramenta de desenho de forma livre.
 -   **Melhorias do Designer:** Recomenda ideias de design profissional para listas orientadas para ação.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: atualizações não relacionadas à segurança
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
 -   Correção de um problema em que o PowerPoint falha quando o usuário está no painel Ideias de Design, se o arquivo mfplat.dll não estiver instalado no computador.
 -   Correção de um problema em que o botão de comando de um suplemento deixa de funcionar após atualizar ou remover e baixar novamente o suplemento da Office Store.
 
 ### <a name="project-feature-updates"></a>Project: Atualizações de recursos
--   **Nome de resumo da tarefa:**   campo de tarefa somente leitura que mostra o nome da tarefa de resumo da tarefa.  
+-   **Nome do resumo da tarefa:**   Campo de tarefa somente leitura que mostra o nome da tarefa de resumo da tarefa.  
 
 ### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
 -   Correção de um problema em que ocorre a perda de informações da linha de base ao salvar um projeto.
@@ -922,7 +922,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Atualizações que não são de segurança
 -   Corrigir um problema em que, ao recortar uma imagem, a parte recortada da imagem aparece escura.
 
-### <a name="project-non-security-updates"></a>Project: atualizações não relacionadas à segurança
+### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção de um problema em que nenhuma linha de link é exibida ao criar um link entre projetos entre o projeto principal e um subprojeto.
 -   Correção de um problema em que os valores de linha de base divididos ao longo do tempo não são sempre salvos corretamente no formato XML, especialmente os valores de custo e trabalho contendo durações parciais.
 -   Correção de um problema em que, ao aplicar atualizações de status, o trabalho real é adicionado à atribuição que o membro da equipe não relatou.
@@ -938,7 +938,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Transferência consultiva:** De dentro de uma chamada, consulte outro usuário via IM ou Call antes de transferir a chamada para esse usuário. [Mais informações](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Notificações de microfone:** mostre uma notificação na janela da conversa quando o microfone estiver mudo no sistema operacional ou se o microfone não estiver captando nenhum áudio.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Alteração dos botões de lobby usados para admitir ou recusar os participantes do texto para imagens (um X ou uma marca de seleção).
 -   Alteração do texto de notificação de lembrete da reunião de "Aceitar" para "Participar".
 -   Atualização da mensagem mostrada ao remetente de uma Mensagem Instantânea quando o status do destinatário estiver definido como Não Incomodar.
@@ -957,7 +957,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Correção de um problema em que as informações de notificação, como a duração da chamada, não são renderizadas corretamente nos idiomas da direita para a esquerda.
 -   Correção de um problema em que, ao criar um feed de tópico, a limpeza dos resultados de pesquisa não redefine os resultados para uma lista de salas visitadas.
 
-### <a name="visio-feature-updates"></a>Visio: atualizações de recursos
+### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
 -   **Suplemento de Modelagem de Banco de Dados:** Use o suplemento para criar um modelo de banco de dados de um banco de dados existente para ajudar a planejar um novo banco de dados ou para entender um existente. [Mais informações](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614),[Baixar suplemento](https://go.microsoft.com/fwlink/p/?linkid=835953)
 
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
@@ -978,7 +978,7 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: atualizações não relacionadas à segurança
 -   Correção de um problema em que, se o GrooveIntlResource.dll não puder ser carregado com êxito (o que é improvável em circunstâncias normais), um aplicativo do Office poderá falhar se o usuário tentar abrir ou salvar um arquivo em uma pasta sincronizada ou o Windows Explorer poderá falhar se o usuário navegar para uma pasta sincronizada usando o Windows Explorer.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Correção de um problema em que o Skype for Business trava quando várias janelas de conversação estão abertas ao mesmo tempo.
 
 
@@ -1043,13 +1043,13 @@ Estas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que nenhum microfone é detectado em uma chamada ao ser usado um dispositivo Polycom CX100.
 -   Foi corrigido um problema em que a escolha de um link como \\\\nomedoservidor ou arquivo:// em uma mensagem instantânea resulta em uma mensagem de erro em vez de abrir o local.
 -   Foi corrigido um problema em que, em um ambiente VDI (Virtual Desktop Infrastructure) que usa o roteamento baseado em localização, o usuário não pode fazer ou receber chamadas PSTN porque o servidor acha que o local do usuário não é válido para chamadas PSTN.
--   Altere a linha de assunto do email enviado para uma mensagem perdida, quando o status do usuário estiver definido como Não Incomodar ou Apresentando, de "Conversa perdida com \<nome\>"para"\<Nome\> lhe enviou uma mensagem no Skype for Business".
+-   Alterar a linha de assunto do email enviado para uma mensagem perdida, quando o status do usuário é definido como não incomodar ou apresentação, de "conversa perdida com \<name\> " como " \<Name\> Enviar uma mensagem no Skype for Business".
 -   Inicia a captura do carimbo de data/hora para a primeira entrada no dispositivo como parte dos [dados de censo](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) para ajudar a identificar tendências de confiabilidade de entrada.
 
 ### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
 -   **Melhorias na acessibilidade:** Suporte aprimorado para usar o teclado, o Narrador e outras tecnologias adaptativas para trabalhar com formas, editar com outras pessoas e muito mais.
 
-### <a name="word-feature-updates"></a>Word: Atualizações de recurso
+### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Alterações em arquivos compartilhados** Veja quem fez alterações em documentos compartilhados e restaure versões anteriores. [Mais informações](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-non-security-updates"></a>Word: Atualizações que não são de segurança

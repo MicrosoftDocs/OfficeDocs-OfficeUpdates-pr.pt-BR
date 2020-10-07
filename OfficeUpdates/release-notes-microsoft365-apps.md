@@ -1,8 +1,8 @@
 ---
 title: Informações de versão das atualizações do Microsoft 365 Apps
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695553"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370129"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
@@ -64,7 +64,7 @@ Para saber mais sobre as atualizações do Office para Mac, que está incluído 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Implantação do Office](https://docs.microsoft.com/deployoffice/)
 - [Novidades do Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roteiro do Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
