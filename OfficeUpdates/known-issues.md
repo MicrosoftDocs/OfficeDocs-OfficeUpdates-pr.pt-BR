@@ -1,6 +1,6 @@
 ---
 title: Problemas conhecidos do Office 365 ProPlus
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece informações sobre problemas conhecidos do Office 365 ProPlus
-ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715429"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369939"
 ---
-# <a name="office-365-proplus-known-issues"></a>Problemas conhecidos do Office 365 ProPlus
+# <a name="microsoft-365-apps-known-issues"></a>Problemas conhecidos do Microsoft 365 Apps
 
 Esses problemas conhecidos fornecem informações sobre as atualizações que não são de segurança incluídas no Canal Mensal, Canal Semestral (Direcionado) e atualizações de Canal Semestral em 2019 para Aplicativos do Microsoft 365 para empresas, Aplicativos do Microsoft 365 para pequenas empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
