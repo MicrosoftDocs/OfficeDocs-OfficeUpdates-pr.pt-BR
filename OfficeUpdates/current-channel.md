@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 0cc64d47a2e30409e6186e41a129ea6fb8512076
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: c9d58f34f90b8fac9d765ebc0242c49c169e72ff
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370149"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398396"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -32,6 +32,36 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2009-october-08"></a>Versão 2009: 8 de outubro
+*Versão 2009 (Build 13231.20368)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocou a pesquisa a retornar nenhum resultado durante a pesquisa de calendários compartilhados não armazenados em cache.
+
+
+- Corrige um problema que provocou alguns usuários a observarem o Outlook iniciar inesperadamente, a partir de um estado offline.
+
+
+- Corrige um problema que causou a visualização de falhas intermitentes ao abrir pastas compartilhadas em outra caixa de correio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de segurança para solucionar um problema que desativou a proteção de IRM ao abrir um arquivo do PowerPoint no modo de exibição protegido.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
 
 
 
@@ -1304,7 +1334,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Otimize sua apresentação para todos:** O Verificador de Acessibilidade ajuda a organizar os objetos em seus slides pensando nos leitores de tela.
 
-- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs em instantes:** Um slide, um quadro. Crie facilmente GIFs de loop no PowerPoint. [Saiba mais](https://support.office.com/pt-BR/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1341,6 +1371,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
@@ -1350,5 +1381,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

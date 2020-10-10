@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: e1c35c7ba1e829e3c035a2ab6ee80c83473cba26
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369879"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398386"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -36,7 +36,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2009<br/>|13231.20262<br/>|28 de setembro de 2020<br/>|A versão 2010 foi lançada<br/>|
+|Canal Atual<br/>|2009<br/>|13231.20368<br/>|8 de outubro de 2020<br/>|A versão 2010 foi lançada<br/>|
 |Canal Empresarial Mensal<br/>|2007<br/>|13029.20534<br/>|8 de setembro de 2020<br/>|10 de novembro de 2020<br/>|
 |Canal Empresarial Mensal<br/>|2006<br/>|13001.20648<br/>|8 de setembro de 2020<br/>|13 de outubro de 2020<br/>|
 |Canal Empresarial Semestral (Pré-visualização)<br/>|2008<br/>|13127.20408<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
@@ -53,6 +53,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|8 de outubro|[Versão 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 de setembro|[Versão 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de setembro|[Versão 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9 de setembro|[Versão 2008 (Build 13127.20408)](current-channel.md#version-2008-september-09)| | | |

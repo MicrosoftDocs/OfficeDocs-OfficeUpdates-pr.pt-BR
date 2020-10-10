@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 7d90ba304db45d7f105e37c99b3a24e730f1df32
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297154"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398366"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -35,6 +35,59 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="october-8-2020"></a>8 de outubro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de outubro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2009 (Build 13231.20368).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2009 (Build 13231.20262) <br/> |28 de setembro de 2020 <br/> |47<br/> |
+|Versão 2008 (Build 13127.20508) <br/> |22 de setembro de 2020 <br/> |361<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 8 de outubro de 2020)
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+## <a name="october-8-2020"></a>8 de outubro de 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.20618).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2007 (Build 13029.20534) <br/> |8 de setembro de 2020 <br/> |252<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.20600).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.20408) <br/> |8 de setembro de 2020 <br/> |48<br/> |
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>O lançamento esperado é o da Versão 2002 (Build 12527.21216).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |72<br/> |
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |86<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="september-28-2020"></a>28 de setembro de 2020
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368704"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382719"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,52 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2009-october-07"></a>Versão 2009: 7 de outubro
+*Versão 2009 (Build 13231.20360)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Criar tipos de dados com o Power Query:** criar tipos de dados valiosos com o Power Query por meio de qualquer fonte de dados
+
+### <a name="outlook"></a>Outlook
+
+- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/grammar-and-style-suggestions-available-in-outlook)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocou a pesquisa a retornar nenhum resultado durante a pesquisa de calendários compartilhados não armazenados em cache.
+
+
+- Corrige um problema que provocou alguns usuários a observarem o Outlook iniciar inesperadamente, a partir de um estado offline.
+
+
+- Corrige um problema que causou a visualização de falhas intermitentes ao abrir pastas compartilhadas em outra caixa de correio.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de segurança para solucionar um problema que desativou a proteção de IRM ao abrir um arquivo do PowerPoint no modo de exibição protegido.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2009-september-26"></a>Versão 2009: 26 de setembro
 *Versão 2009 (Build 13231.20262)*
@@ -42,7 +88,6 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="project"></a>Project
 
 - Correção de um problema em que, se você tiver um código de eventos em execução e tentar fazer alterações por meio de um modo de exibição Formulário de Tarefas, clicar no botão OK pode não confirmar as alterações.
-
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -956,7 +1001,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Manter o texto em vetores:** Agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Excel, no Word e no PowerPoint.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1907,7 +1952,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
