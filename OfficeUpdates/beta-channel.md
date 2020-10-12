@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368694"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409065"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -31,7 +31,80 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
-## <a name="version-2010-october-02"></a>Versão 2010: 2 de outubro
+## <a name="version-2011-october-09"></a>Versão 2011: 09 de outubro
+*Versão 2011 (Build 13406.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Criar fluxos de dados do Power Platform a partir de consultas:** Agora você pode exportar suas consultas para modelos do Power Query que podem ser usados para criar novos fluxos de dados do Power Platform
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
+
+- **Crie GIFs com Telas de Fundo Transparentes: **Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Consertamos um problema em que o nome do arquivo não era alterado após uma operação Salvar Como com suplementos COM habilitados.
+
+
+- Corrigimos um problema em que quando o Salvamento Automático falhava com uma mensagem de erro incorreta/enganosa quando havia uma definição de medida incorreta no modelo de dados do Excel.
+
+
+- Consertamos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique a localização e tente novamente ".
+
+
+- Corrigimos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado offline até que eles optassem por trabalhar manualmente online.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema em que aumentar e diminuir o zoom da área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que o NewVal no evento ProjectBeforeTaskChagne não tinha o valor correto se um atraso fosse alterado em uma visualização do tipo Formulário de Tarefa.
+
+
+- Corrigido um problema em que, se você tiver uma lista de tarefas em um site de projeto e agrupar a lista de tarefas, não será capaz de editar rapidamente a lista de tarefas.
+
+
+- Corrigido um problema em que, se você atualizar um recurso empresarial por meio do CSOM, as unidades máximas de recursos poderiam ser perdidas.
+
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema em que o Login interativo da API SSO retornava um código de erro.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2010-october-02"></a>Versão 2010: 02 de outubro
 *Versão 2010 (Build 13328.20000)*
 
 
@@ -1586,6 +1659,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
@@ -1595,5 +1669,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
