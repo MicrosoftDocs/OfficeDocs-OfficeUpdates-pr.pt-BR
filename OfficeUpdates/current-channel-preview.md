@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
-ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
+ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
+ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48382719"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "48422550"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,168 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2010-october-11"></a>Versão 2010: 11 de outubro
+*Versão 2010 (Build 13328.20154)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="word"></a>Word
+
+- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Consertamos um problema em que a posição da barra de rolagem não foi definida corretamente durante o carregamento da janela de consulta/relação salva enquanto é rolado.
+
+
+- Consertamos um problema em que o painel de tarefas adicionar tabela não estava exibindo nomes contendo '&' corretamente.
+
+
+### <a name="excel"></a>Excel
+
+- Consertamos um problema em que o intervalo de várias categorias de vários níveis não estava funcionando em gráficos.
+
+
+- Corrigido um problema com os Gráficos de Mapa 2D que não funcionavam ao usar o VBA para definir as cores dos valores como máximos, médios e mínimos de uma série.
+
+
+- Corrigido um problema que poderia causar um erro informando que o "Excel esgotou os recursos ao tentar calcular uma ou mais fórmulas".
+
+
+- Corrigido um problema que ocorria quando o idioma do Office era definido como espanhol, no qual as listas de validação de dados não mostravam todos os itens na lista.
+
+
+- Correção de um problema em que podia haver um atraso perceptível ao alternar entre planilhas com grandes quantidades de dados quando 'Visualização de quebra de página ' estava habilitada.
+
+
+- Consertamos um problema em que a adição a uma tabela usada para a validação de dados não atualizou as opções de todas as planilhas na pasta de trabalho.
+
+
+- Consertamos um problema que pode causar uma falha ao atualizar tabelas dinâmicas OLAP.
+
+
+- Corrigido um problema em que o ChartSheet falhava em alguns casos quando uma fórmula era inserida por meio da barra de fórmula.
+
+
+- Resolvemos um problema no qual a barra de fórmulas do Excel não será processada completamente depois que a conexão com um dispositivo for perdida, como uma sessão remota conectar/desconectar ou uma alteração de monitor.
+
+
+### <a name="onenote"></a>OneNote
+
+- Consertamos um problema em que um usuário não conseguia selecionar e copiar o URL do bloco de texto no Arquivo OutSpace > Informações.
+
+
+- Consertamos um problema ao passar o mouse sobre a cor verde no seletor de cores do bloco de anotações, os pop-ups lêem "giz vermelho".
+
+
+- Consertamos um problema em que o OneNote não encontrou cores de alto contraste na tela para temas personalizados.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrige um problema que provocava o envio de emails gerados automaticamente com um corpo em branco quando o assunto estava em branco.
+
+
+- Resolvemos um problema em que o GUID da pasta incorreto estava armazenado em cache para as pastas.
+
+
+- Quando um usuário copiava e colava um endereço de email no campo do destinatário com o nome de exibição, o endereço de email nem sempre era analisado corretamente e fazia aparecer um aviso informando que um endereço de email era inválido.  Foi corrigido para que o nome e o endereço de email sejam analisados ​​corretamente, de forma que o aviso não seja mais mostrado.
+
+
+- Corrigimos um problema em que as pastas compartilhadas online não retornavam o nome da pasta pai. Em vez de uma falha, ele retornava um caminho vazio que saia incorretamente para a conta primária.
+
+
+- Consertamos um problema em que a opção Salvar como não estava disponível para anexos clássicos.
+
+
+- Corrigimos um problema para fornecer a um usuário uma maneira de personalizar o texto de justificação ao substituir uma política.
+
+
+- Consertamos um problema em que as mudanças de acompanhamento se ativavam depois de reabrir um rascunho no painel de visualização somente leitura.
+
+
+- Consertamos um problema com emails sendo ocultados após a desativação da Caixa de Entrada Destaques e a realização de uma classificação.
+
+
+- Consertamos um problema que fazia com que o Outlook criasse uma segunda assinatura vazia para as pessoas com as configurações de nuvem habilitadas.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Solucionamos um problema em que o PowerPoint não exportava os pontos de marcadores de retângulo durante a exportação para PDF.
+
+
+- Solucionamos um problema em que o GIF animava apenas uma vez no editor e nas apresentações de slides.
+
+
+- Consertamos um problema em que o gráfico vinculado do Excel se altera incorretamente para a planilha do Excel quando o usuário altera o caminho de origem para a pasta local do OneDrive.
+
+
+- Consertamos um problema em que se você estivesse no último slide e passasse o dedo para o próximo slide depois de pressionar 'encerrar sessão' e antes do resumo ser exibido, a caixa de diálogo de sessão final também ficava visível na página de resumo.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Correção de um problema em que o método VBA ConsolidateProjects poderia ser arquivado se você tentasse adicionar o mesmo projeto várias vezes e tivesse AttachToSources definido como falso.
+
+
+- Correção de um problema em que, se você tiver um código de eventos em execução e tentar fazer alterações por meio de um modo de exibição Formulário de Tarefas, clicar no botão OK pode não confirmar as alterações.
+
+
+- Correção de um problema em que o método VBA ConsolidateProjects poderia ser arquivado se você tentasse adicionar o mesmo projeto várias vezes e tivesse AttachToSources definido como falso.
+
+
+- Correção de um problema em que, se você tivesse campos personalizados com fórmulas e estivesse usando o valor agregado, você poderia experienciar atrasos na mudança nos modos de exibição e ao abrir detalhes do projeto/tarefa.
+
+
+- Correção de um problema em que o Project poderia falhar se você aplicasse um grupo ao modo de exibição de uso do recurso ou de planilha e, em seguida, inserisse uma coluna.
+
+
+### <a name="word"></a>Word
+
+- Consertamos um problema em que os links para os arquivos habilitados para fluxo de trabalho não foram abertos conforme o esperado.
+
+
+- Corrigido um problema em que mostrava um pop-out de comentário quando um usuário tocava em uma alteração controlada (inserção/exclusão).
+
+
+- Corrigimos um problema com a exclusão de textos explicativos de comentários no Word.
+
+
+- Corrigimos um problema no Outlook com a mensagem definida como Não encaminhar.
+
+
+- Corrigimos um problema que ocorria ao salvar um documento do Word que continha citação e equação.
+
+
+- Corrigimos um problema com a caixa de diálogo Galeria de Estilos.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2009-october-07"></a>Versão 2009: 7 de outubro
 *Versão 2009 (Build 13231.20360)*
@@ -1001,7 +1163,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Manter o texto em vetores:** Agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Excel, no Word e no PowerPoint.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
 <br/>
 
