@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174630"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453179"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,27 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="october-2020-release"></a>Versão de outubro de 2020
+
+**Data da Versão:** 13 de outubro de 2020
+
+*Microsoft Auto Update 4.28*
+
+**Correção de bugs e melhorias:**
+-   MAU UI: o Modo de Exibição de Resumo agora mostra que a atenção do usuário é exigida em erros
+-   Tanto o MAU UI quanto o Assistente de Atualização são encerrados após 72 horas sem nenhuma ação.
+-   MAU UI: agora vem com um menu do Windows
+
+**Link de Atualização do MAU:**
+
+[Baixar o Pacote Microsoft Auto Update 4.28](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>Lançamento de setembro de 2020
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Os computadores MacOS com SSD terão atualizações mais rápidas e tempo de inatividade de aplicativos insignificante devido a atualizações.
 
 
-Confira [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+Confira [CVE-2020-0984](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0984)
 
 **Link de Atualização do MAU:**
 

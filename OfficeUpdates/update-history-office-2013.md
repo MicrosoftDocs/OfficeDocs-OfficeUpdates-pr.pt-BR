@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 48678f5621aa51279653f7a000261e3d776c973b
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174670"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453339"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais atual do Office 2013 é **15.0.5275.1000**, que foi lançada em 8 de setembro de 2020.
+> A versão mais recente do Office 2013 é a **15.0.5285.1000**, que foi lançada em 13 de Outubro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020| 8 de setembro| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
+|2020| 13 de outubro| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+||8 de setembro| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||9 de junho   |15.0.5249.1001   |[KB 4559448](https://support.microsoft.com/help/4559448)|

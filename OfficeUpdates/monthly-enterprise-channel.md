@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942798"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453309"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,210 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2008-october-13"></a>Versão 2008: 13 de outubro
+*Versão 2008 (Compilação 13127.20638)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Tem alguma pergunta? Pergunte ao Excel:** Agora o Excel ideias permite que você faça perguntas sobre seus dados. não é necessário gastar horas de escrita (disponível somente em inglês). [Saiba mais](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office.  Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Fazer uma conexão em PDF:** Conectar, importar, atualizar dados de um PDF. [Saiba mais](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **Criar pesquisas no Outlook com a Pesquisa Rápida:** criar facilmente uma votação, coletar votos e exibir resultados em um email [Saiba mais](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Novo cartão de perfil do Outlook:** Novo cartão de perfil do Outlook, incluindo uma melhor visão da Organização e correspondência ao estilo de cartão do Outlook Web. [Saiba mais](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office.  Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="word"></a>Word
+
+- **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office.  Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Este problema foi resolvido - agora você pode usar nosso driver ODBC fora das aplicações de Clicar para Executar do Office.
+
+
+- Essa alteração corrige um problema que poderia fazer com que Access falhasse ao lançar a caixa Zoom (Shift + F2) para editar texto.
+
+
+- Esse problema foi resolvido e você não deve mais experimentar um travamento.
+
+
+### <a name="excel"></a>Excel
+
+- Resolvemos um problema que poderia causar um aviso sobre uma pasta de trabalho corrompida se contivesse fórmulas usando IFNA().
+
+
+- Resolvemos um problema em que o Excel poderia falhar ao usar a Análise Rápida após congelar a linha superior da planilha.
+
+
+- Resolvemos um problema no qual os usuários não conseguiam modificar um filtro PivotTable porque ele estava definido com um valor que não estava mais presente em um banco de dados do Analysis Services.
+
+
+- Resolvemos um problema em que o Excel poderia falhar em determinadas circunstâncias ao usar o Pincel de Formatação.
+
+
+- Corrigimos um bug com APIs PivotDateFilter nas quais as condições de filtragem 'Antes' e 'Depois' eram invertidas.
+
+
+### <a name="outlook"></a>Outlook
+
+- Aborda um problema que fez com que os usuários recebessem o seguinte erro ao responder ou a redigir um novo email: “Alguns arquivos desta página da Web não estão no local esperado. Deseja baixá-los mesmo assim? Se tiver certeza de que a página da Web é de uma fonte confiável, clique em Sim.”
+
+
+- Resolvemos um problema que fazia com que o menu de contexto do botão direito do mouse não fosse exibido nos controles de pesquisa.
+
+
+- Corrige um problema que fazia com que os usuários vissem anormalidades ao usar o modo de exibição compacto.
+
+
+- Corrige um problema que causava falhas ocasionais quando os usuários editavam destinatários.
+
+
+- Resolveu um problema que provocava falha na exibição da página do Assistente de Agendamento.
+
+
+- Corrige um problema de desempenho com o carregamento de anexos.
+
+
+- Tratamos de um problema que fazia com que os usuários experimentassem uma falha ao excluir 4 ou mais emails de uma conta POP com a opção "Baixar Apenas Cabeçalhos" selecionada.
+
+
+- Corrige um problema que fazia com que os usuários vissem um erro na página de links seguros, em vez de no documento que tentavam abrir ao abrir um anexo na nuvem.
+
+
+- Corrige um problema que causava falhas ocasionais quando os usuários interagiam com anexos na Nuvem.
+
+
+- Corrige um problema que fazia com que os usuários não conseguissem fechar os calendários compartilhados, clicando no "X" no canto.
+
+
+- Corrige um problema que fazia com que os usuários não conseguissem se conectar à pastas públicas após adicionar uma caixa de correio compartilhada.
+
+
+- Resolveu um problema que fazia com que as reuniões não fossem retiradas do calendário de um gerente, quando recusadas por um representante em algumas circunstâncias.
+
+
+- Resolveu um problema que impedia alguns usuários do recurso de Melhorias do Calendário Compartilhado de poderem visualizar um calendário compartilhado recém-adicionado.
+
+
+- Corrige um problema que fazia com que a configuração "Habilitar melhorias no calendário compartilhado" falhasse, ocasionalmente, ao aplicar a calendários compartilhados existentes.
+
+
+- Corrige um problema que provocou os usuários que tentaram criar uma solicitação de reunião de uma conta secundária adicionada ao perfil, a não verem um campo em branco De: em vez de seus endereços de email.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Consertamos um problema que estava causando a falha no aplicativo PowerPoint.
+
+
+- Correção de segurança para solucionar um problema que desativava as proteções de IRM ao abrir um arquivo do PowerPoint no modo de Exibição Protegida.
+
+
+- Essa alteração corrige um problema com o recurso Exportar para GIF Animado em que clicar no botão Exportar não exportava.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigiu um problema em que a data de término do Projeto não está sendo atualizada para projetos conectados à lista de tarefas do SharePoint.
+
+
+- Corrigiu um problema em que, se um recurso tivesse mais de uma tabela de taxas de custo definida, os custos restantes nem sempre eram calculados corretamente.
+
+### <a name="skype"></a>Skype
+
+- Alterou o tom de pele do emoticon que dança para uma cor neutra.
+
+
+### <a name="visio"></a>Visio
+
+- A visualização dinâmica trava no alinhamento do texto relatado pelos clientes. Principais travamentos da bifurcação de julho.
+
+
+### <a name="word"></a>Word
+
+- Resolvemos um problema em que a macro AutoOpen era executada antes do AutoExec
+
+
+- Corrigimos um problema com a caixa de diálogo Galeria de Estilos.
+
+
+- Resolveu um problema que pode ter causado uma falha durante a inicialização do Word.
+
+
+- Resolvemos um problema em que os estilos básicos não eram atualizados com o estilo Normal.
+
+
+- Consertamos um problema em que o usuário poderia receber uma falha ao abrir um documento.
+
+
+- Resolvemos um problema em que o usuário poderia perder conteúdo ao redimensionar uma forma.
+
+
+- Resolvemos um problema que fazia com que os usuários experimentassem um travamento ao abrir certos emails muito grandes.
+
+
+- Soluciona um problema que fazia com que os usuários experimentassem uma falha ao responder ou redigir um novo email.
+
+
+- Essa alteração corrige um problema em que os aplicativos do Office poderiam ficar presos em um estado de falha silencioso de Salvamento após uma sessão anterior de coautoria.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Essa alteração corrige uma falha ao iniciar os aplicativos do Office devido à falha no carregamento de d2d1.dll.
+
+
+- Corrige o alto uso de CPUs em ociosidade com GIF/modelo em 3D animado
+
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2007-october-13"></a>Versão 2007: 13 de outubro
+*Versão 2007 (Compilação 13029.20708)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um bug com APIs PivotDateFilter nas quais as condições de filtragem 'Antes' e 'Depois' eram invertidas.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-september-08"></a>Versão 2007: 8 de setembro
 *Versão 2007 (Build 13029.20534)*
@@ -636,6 +840,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-august-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942768"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453409"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -28,7 +28,64 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 >- O OneNote 2016 já está incluído por padrão quando um usuário no Canal Empresarial Semestral baixar e instalar o Microsoft 365 Apps no Windows 10 do Portal do Office.
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2002-october-13"></a>Versão 2002: 13 de outubro
+*Versão 2002 (Compilação 12527.21236)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Você não deve mais receber a menagem "A consulta é muito complexa" ou "um recurso do sistema excedeu o erro" na versão de 64 bits do Access", desde que você esteja obedecendo as diretrizes e requisitos de banco de dados do Access.
+
+
+- Depois de usar nosso recurso de filtro após nosso designer de consulta, seu banco de dados não deve mais falhar. Verifique se.
+
+
+### <a name="excel"></a>Excel
+
+- Resolvemos um problema no qual os usuários não conseguiam modificar um filtro PivotTable porque ele estava definido com um valor que não estava mais presente em um banco de dados do Analysis Services.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- As novas apresentações criadas a partir de um modelo podem herdar uma configuração que impedia uma boa experiência de coautoria. Essa correção garante que a configuração esteja limpa neste caso.
+
+
+### <a name="word"></a>Word
+
+- Consertamos um problema no qual ao abrir documentos com quebras de página e colunas, o usuário pode encontrar uma mensagem de erro "você ultrapassou o número máximo de páginas permitidas pelo Microsoft Word ou o documento pode estar danificado"
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1908-october-13"></a>Versão 1908: 13 de outubro
+*Versão 1908 (Compilação 11929.20966)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2002-september-08"></a>Versão 2002: 8 de setembro
 *Versão 2002 (Build 12527.21104)*
@@ -819,7 +876,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionado um problema que fazia com que os usuários tivessem problemas com as pastas de calendário compartilhadas sincronizadas com o OST, resultando em erros de permissão quando tentavam interagir com essas pastas.
 
-- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/pt-BR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrigido um problema com a seleção de algoritmo SMIME.
 
@@ -1697,6 +1754,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
