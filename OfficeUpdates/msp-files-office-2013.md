@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de ti uma lista dos arquivos. msp mais recentes para versões perpétuas do Office 2013 que usam o Windows Installer (MSI)
-ms.openlocfilehash: 3b6bacd76cc7c947c415915ea22bad086f5473bb
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 2734bfd2d8f97694ad0b8269ccd26ea3a93439c8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174610"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453279"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Lista dos arquivos. msp mais recentes para os produtos do Office 2013
 
@@ -24,13 +24,14 @@ Essas informações só se aplicam aos produtos do Office 2013 que usam a tecnol
   
 ## <a name="most-recently-updated-msp-files"></a>Arquivos. msp atualizados mais recentemente
 
-A tabela a seguir lista os arquivos. msp que foram atualizados em **setembro de 2020**. 
+A tabela a seguir lista os arquivos. msp que foram atualizados em **outubro de 2020**. 
   
 |Atualizações que não são de segurança * * *|Atualizações de segurança * * *|
 |:-----|:-----|
-|Visio-x-None<br> |Excel-x-nenhum<br/>|
+| |Excel-x-nenhum<br/>|
 | |gráfico-x-nenhum<br/>|
-| |Die-x-None<br/>|
+| |Outlook-x-nenhum<br/>|
+| |vbe7-x-None<br/>|
 | |Word-x-None<br/>|
  
 
@@ -57,14 +58,14 @@ A tabela a seguir lista todos os arquivos. msp que foram lançados desde o lanç
 |duetserver-x-None<sup>1</sup> <br/> |Office 2013  <br/> |14 de abril de 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |descoberta eletrônica-x-None<sup>2</sup> <br/> |Office 2013  <br/> |5 de setembro de 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |eqnedt32-x-None  <br/> |Office 2013  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |9 de janeiro de 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|Excel-x-nenhum  <br/> |Excel 2013  <br/> |3 de julho de 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |8 de setembro de 2020  <br/> |[4484526](https://support.microsoft.com/help/4484526) <br/> |[4484449](https://support.microsoft.com/help/4484449) <br/>|
+|Excel-x-nenhum  <br/> |Excel 2013  <br/> |3 de julho de 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |13 de outubro de 2020  <br/> |[4486695](https://support.microsoft.com/help/4486695) <br/>|[4484526](https://support.microsoft.com/help/4484526) <br/> |
 |excelpp-x-None  <br/> |Office 2013  <br/> |6 de junho de 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |exppdf-x-None  <br/> |Office 2013  <br/> |5 de abril de 2016  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |FilterPack-x-None  <br/> |Office 2013  <br/> |5 de abril de 2016  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |FM20-x-None  <br/> |Office 2013  <br/> |14 de julho de 2015  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9 de dezembro de 2014  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Não aplicável  <br/> |
 |GFonts-x-None  <br/> |Office 2013  <br/> |14 de outubro de 2014  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |gkall-x-None  <br/> |Office 2013  <br/> |7 de junho de 2016  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|gráfico-x-nenhum  <br/> |Office 2013  <br/> |2 de abril de 2019  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |8 de setembro de 2020  <br/> |[4484517](https://support.microsoft.com/help/4484517) <br/> |[4484354](https://support.microsoft.com/help/4484354) <br/> |
+|gráfico-x-nenhum  <br/> |Office 2013  <br/> |2 de abril de 2019  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |13 de outubro de 2020  <br/> |[4486688](https://support.microsoft.com/help/4486688) <br/> |[4484517](https://support.microsoft.com/help/4484517) <br/> |
 |Groove-x-nenhum  <br/> |OneDrive for Business  <br/> |7 de agosto de 2018  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |ieawsdc-x-None  <br/> |Office 2013  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |11 de agosto de 2015  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Não aplicável  <br/> |
 |InfoPath-x-nenhum  <br/> |InfoPath 2013  <br/> |3 de maio de 2016  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8 de março de 2016  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -96,11 +97,11 @@ A tabela a seguir lista todos os arquivos. msp que foram lançados desde o lanç
 |otkruntimertl-x-None  <br/> |Office 2013  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |8 de março de 2016  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-None  <br/> |Office 2013  <br/> |5 de março de 2019  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Outlfltr-x-None  <br/> |Office 2013  <br/> |2 de agosto de 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Outlook-x-nenhum  <br/> |Outlook 2013  <br/> |1º de outubro de 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11 de agosto de 2020  <br/> |[4484486](https://support.microsoft.com/help/4484486) <br/> |[4484363](https://support.microsoft.com/help/4484363) <br/> |
+|Outlook-x-nenhum  <br/> |Outlook 2013  <br/> |1º de outubro de 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |13 de outubro de 2020  <br/> |[4484524](https://support.microsoft.com/help/4484524) <br/> |[4484486](https://support.microsoft.com/help/4484486) <br/> |
 |peopledatahandler-x-None  <br/> |Office 2013  <br/> |8 de setembro de 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |PowerPoint-x-nenhum  <br/> |PowerPoint 2013  <br/> |7 de julho de 2020  <br/> |[4484349](https://support.microsoft.com/help/4484349) <br/> |14 de abril de 2020  <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |
 |ppaddin-x-None  <br/> |Office 2013  <br/> |5 de setembro de 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Project-x-None  <br/> |Project 2013  <br/> |2 de abril de 2019 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |14 de julho de 2020  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
+|Project-x-None  <br/> |Project 2013  <br/> |2 de abril de 2019 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |14 de julho de 2020  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
 |prova de *revisão*   -   *CC* <sup>3</sup> <br/> |Office 2013  <br/> |7 de maio de 2019  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |13 de maio de 2014  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |Não aplicável  <br/> |
 |protocolhndlr-x-None  <br/> |Office 2013  <br/> |7 de junho de 2016  <br/> |[3023049](https://support.microsoft.com/kb/3023049) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Publisher-x-None  <br/> |Publisher 2013  <br/> |6 de dezembro de 2015  <br/> |[3114329](https://support.microsoft.com/help/3114329) <br/> |14 de abril de 2020  <br/> |[3162033](https://support.microsoft.com/help/3162033) <br/> |[3085561](https://support.microsoft.com/help/3085561) <br/> |
@@ -110,12 +111,12 @@ A tabela a seguir lista todos os arquivos. msp que foram lançados desde o lanç
 |spdcore-x-None  <br/> |Sharepoint Designer 2013  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |13 de maio de 2014  <br/> |[2752096](https://support.microsoft.com/kb/2752096) <br/> |Não aplicável  <br/> |
 |spdevsdk-x-None  <br/> |SDK de componentes de cliente do SharePoint Designer 2013  <br/> |1 de agosto de 2017  <br/> |[3213571](https://support.microsoft.com/help/3213571) <br/> |13 de maio de 2014  <br/> |[2863854](https://support.microsoft.com/kb/2863854) <br/> |Não aplicável  <br/> |
 |Stslist-x-None  <br/> |Office 2013  <br/> |5 de fevereiro de 2019  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|vbe7-x-None  <br/> |Office 2013  <br/> |2 de junho de 2020  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |14 de abril de 2020  <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |[3115153](https://support.microsoft.com/help/3115153) <br/> |
+|vbe7-x-None  <br/> |Office 2013  <br/> |2 de junho de 2020  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |13 de outubro de 2020  <br/> |[4484435](https://support.microsoft.com/help/4484435) <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |
 |visconv-x-None<sup>2</sup> <br/> |Pacote de compatibilidade do Visio 2013  <br/> |14 de julho de 2015  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |Visio-x-None  <br/> |Visio 2013  <br/> |1 de setembro de 2020  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |14 de abril de 2020  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
 |vviewer-x-None  <br/> |Visualizador do Visio 2013  <br/> |8 de abril de 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |WEC-x-None  <br/> |Office 2013  <br/> |7 de novembro de 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
-|Word-x-None  <br/> |Word 2013  <br/> |2 de julho de 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |8 de setembro de 2020  <br/> |[4484522](https://support.microsoft.com/help/4484522) <br/>|[4484484](https://support.microsoft.com/help/4484484) <br/>|
+|Word-x-None  <br/> |Word 2013  <br/> |2 de julho de 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |13 de outubro de 2020  <br/> |[4486692](https://support.microsoft.com/help/4486692) <br/>|[4484522](https://support.microsoft.com/help/4484522) <br/>|
 |wordpia-x-None  <br/> |Word 2013  <br/> |7 de novembro de 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |wxpcore-x-None  <br/> |Office 2013  <br/> |8 de março de 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
 |wxpnse-x-None  <br/> |Office 2013  <br/> |13 de outubro de 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Não aplicável  <br/> |Não aplicável  <br/> |Não aplicável  <br/> |
