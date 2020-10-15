@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 9bc7fd4a134c46d74198afb17147a81a151a4f64
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398366"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453269"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -36,6 +36,52 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
+## <a name="october-13-2020"></a>13 de outubro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO13 de outubro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2009 (Compilação 13231.20390).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2009 (Compilação 13231.20368) <br/> |8 de outubro de 2020 <br/> |42<br/> |
+|Versão 2009 (Build 13231.20262) <br/> |28 de setembro de 2020 <br/> |47<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+A versão mais atual é a Versão 2008 (Compilação 13127.20638).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2007 (Build 13029.20534) <br/> |8 de setembro de 2020 <br/> |252<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
+
+A versão mais atual é a Versão 2008 (Compilação 13127.20638).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.20408) <br/> |8 de setembro de 2020 <br/> |49<br/> |
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |499<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+A versão mais atual é a Versão 2002 (Compilação 12527.21236).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |76<br/> |
+|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |89<br/> |
+
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO13 de outubro de 2020)
+
 ## <a name="october-8-2020"></a>8 de outubro de 2020
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de outubro de 2020)
@@ -52,42 +98,8 @@ A versão mais atual é a Versão 2009 (Build 13231.20368).
 
 [//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 8 de outubro de 2020)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
-
-## <a name="october-8-2020"></a>8 de outubro de 2020
 
 
-### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
-
-<i>O lançamento esperado é o da Versão 2008 (Build 13127.20618).</i>
-
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 2007 (Build 13029.20534) <br/> |8 de setembro de 2020 <br/> |252<br/> |
-
-
-
-### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
-
-<i>O lançamento esperado é o da Versão 2008 (Build 13127.20600).</i>
-
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 2008 (Build 13127.20408) <br/> |8 de setembro de 2020 <br/> |48<br/> |
-|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |499<br/> |
-
-
-### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
-
-<i>O lançamento esperado é o da Versão 2002 (Build 12527.21216).</i>
-
-|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
-|:-----|:-----|:-----|
-|Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |72<br/> |
-|Versão 2002 (Build 12527.20988) <br/> |11 de agosto de 2020 <br/> |86<br/> |
-
-
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DA PREVISÃO)
 
 ## <a name="september-28-2020"></a>28 de setembro de 2020
 

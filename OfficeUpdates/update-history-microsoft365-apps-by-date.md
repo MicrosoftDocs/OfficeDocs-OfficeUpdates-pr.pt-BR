@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398386"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453099"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -36,12 +36,12 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2009<br/>|13231.20368<br/>|8 de outubro de 2020<br/>|A versão 2010 foi lançada<br/>|
-|Canal Empresarial Mensal<br/>|2007<br/>|13029.20534<br/>|8 de setembro de 2020<br/>|10 de novembro de 2020<br/>|
-|Canal Empresarial Mensal<br/>|2006<br/>|13001.20648<br/>|8 de setembro de 2020<br/>|13 de outubro de 2020<br/>|
-|Canal Empresarial Semestral (Pré-visualização)<br/>|2008<br/>|13127.20408<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
-|Canal Empresarial Semestral<br/>|2002<br/>|12527.21104<br/>|8 de setembro de 2020<br/>|14 de setembro de 2021<br/>|
-|Canal Empresarial Semestral<br/>|1908<br/>|11929.20946<br/>|8 de setembro de 2020<br/>|9 de março de 2021<br/>|
+|Canal Atual<br/>|2009<br/>|13231.20390<br/>|13 de outubro de 2020<br/>|A versão 2010 foi lançada<br/>|
+|Canal Empresarial Mensal<br/>|2008<br/>|13127.20638<br/>|13 de outubro de 2020<br/>|8 de dezembro de 2020<br/>|
+|Canal Empresarial Mensal<br/>|2007<br/>|13029.20708<br/>|13 de outubro de 2020<br/>|10 de novembro de 2020<br/>|
+|Canal Empresarial Semestral (Visualização)<br/>|2008<br/>|13127.20638<br/>|13 de outubro de 2020<br/>|9 de março de 2021<br/>|
+|Canal Empresarial Semestral<br/>|2002<br/>|12527.21236<br/>|13 de outubro de 2020<br/>|14 de setembro de 2021<br/>|
+|Canal Empresarial Semestral<br/>|1908<br/>|11929.20966<br/>|13 de outubro de 2020<br/>|9 de março de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|13 de outubro|[Versão 2009 (Compilação 13231.20390)](current-channel.md#version-2009-october-13)|[Versão 2008 (Compilação 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[Versão 2008 (Compilação 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versão 2002 (Compilação 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versão 1908 (Compilação 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|8 de outubro|[Versão 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28 de setembro|[Versão 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|22 de setembro|[Versão 2008 (Build 13127.20508)](current-channel.md#version-2008-september-22)| | | |
