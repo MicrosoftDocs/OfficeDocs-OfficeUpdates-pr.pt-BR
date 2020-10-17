@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453389"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466109"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
@@ -67,6 +67,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 - Correção de segurança para solucionar um problema que desativou a proteção de IRM ao abrir um arquivo do PowerPoint no Modo de Exibição Protegido.
+
+- Resolvemos um problema no diálogo de Configurações de Ação que estava causando uma falha no aplicativo PowerPoint.
+
+### <a name="visio"></a>Visio
+
+- Resolvemos um problema que fez com que a visualização ao vivo falhasse no alinhamento do texto.
 
 
 ### <a name="word"></a>Word

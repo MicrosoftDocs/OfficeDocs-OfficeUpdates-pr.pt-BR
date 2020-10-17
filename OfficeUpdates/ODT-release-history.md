@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174640"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469990"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
 
@@ -29,6 +29,12 @@ A ODT dá mais controle sobre uma instalação do Office. É possível definir q
 
 [Baixar a Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+## <a name="october-14-2020"></a>14 de outubro de 2020
+Versão 16.0.13231.20368 (setup.exe versão 16.0.13231.20350)
+- Todos os produtos agora usarão o Canal Mensal por padrão quando nenhum canal for especificado
+- Resolve um problema onde alguns produtos do Office 2007 podem bloquear inesperadamente a instalação ao utilizar o RemoveMSI
+- Maior segurança ao executar a ODT a partir de um diretório que contém outras DLL's
+- Melhoria da confiabilidade e da resiliência
 
 ## <a name="june-9-2020"></a>9 de junho de 2020
 
