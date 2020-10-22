@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: eecc9d0164fbec792cf944b6ee6e5cd361d53ef4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453319"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657319"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão inclusas em atualizações de 2020 do Canal Mensal do Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos para desktop do Project e Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
  > [!NOTE]
 >
@@ -32,6 +32,31 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2009-october-21"></a>Versão 2009: 21 de outubro
+*Versão 2009 (Compilação 13231.20418)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
+
+
+- Corrigimos um problema que fazia com que os usuários ao experimentarem o aplicativo e ele encerrasse inesperadamente ao selecionar um resultado de pesquisa. 
+
+
+- Corrigimos um problema que tornava os cabeçalhos das mensagens em Chinês ilegíveis ao responder ou encaminhar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o suplemento de conteúdo do Microsoft Forms não processa após a inserção até que o usuário clique em outro slide para exibi-lo.
 
 
 
@@ -405,7 +430,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
 
-- **Crie Tabelas Dinâmicas a partir de Conjuntos de Dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel conectadas a conjuntos de dados armazenados no Power BI com alguns cliques. Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1180,7 +1205,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Estatísticas da pasta de trabalho:** células, fórmulas, gráficos, tabelas... Contamos para que você não precise contar.
+- **Estatísticas da pasta de trabalho:** Células, fórmulas, gráficos, tabelas ... Nós os contamos para que você não precise fazer isso.
 
 - **Criação de perfil de dados no editor de consultas:** obtenha uma análise rápida dos dados em suas colunas, identifique erros e valores vazios, consulte histogramas de distribuição e muito mais.
 
@@ -1388,6 +1413,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20262|version-2009-september-28|)
@@ -1397,5 +1423,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
-[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
