@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495908"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750570"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
+## <a name="version-2011-october-23"></a>Versão 2011: 23 de outubro
+*Versão 2011 (Compilação 13415.20002)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="powerpoint"></a>PowerPoint
+
+- **Ensaie a apresentação com o Pré-visualizador do PowerPoint:** Obtenha feedback sobre coisas que ajudam a manter o público envolvido - como ritmo, argumento de venda, palavras de preenchimento, frases confidenciais e muito mais. [Saiba Mais](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema em que alguns usuários viam o erro "recurso do sistema excedido" quando tentavam exportar uma consulta de sua pasta OneDrive sincronizada.
+
+- Corrigimos um problema em que a troca 'automática' entre janelas de formulário estava mudando para outro formulário.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema ao colar um URL copiado do local da reunião para outro lugar (como um navegador), o URL contém um ponto e vírgula no final.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema ao duplicar a apresentação de slides para o monitor secundário. A apresentação de slides pode se esconder atrás de outra janela.
+
+### <a name="project"></a>Projeto
+
+- Corrigido um problema em que o Microsoft Project podia ser encerrado inesperadamente ao abrir arquivos em que os contornos dos recursos foram especificados de uma determinada maneira.
+
+### <a name="word"></a>Palavra
+
+- Corrigimos um problema no Controle de Alterações que às vezes a abertura de um documento do Word exibia uma caixa de diálogo de erro.
+
+- Corrigimos um problema de impressão quando rótulo de confidencialidade com marcas d'água são aplicadas.
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
 ## <a name="version-2011-october-16"></a>Versão 2011: 16 de outubro
 *Versão 2011 (Build 13408.20000)*
-
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -96,7 +139,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
 
-- **Crie GIFs com Telas de Fundo Transparentes: **Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.
+- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -239,7 +282,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="outlook"></a>Outlook
 
-- **Atualizações da Experiência do Usuário para Tasks: ** Uma atualização visual dos itens de tarefa
+- **Atualizações da Experiência do Usuário para Tasks:** Uma atualização visual dos itens de tarefa
 
 - **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.
 
@@ -905,7 +948,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Classificar/filtrar enquanto estiver colaborando no Excel:** Agora você pode classificar e filtrar o arquivo do Excel e colaborar com outras pessoas. Esse novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento.
 
-- **Crie Tabelas Dinâmicas a partir de Conjuntos de Dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel conectadas a conjuntos de dados armazenados no Power BI com alguns cliques. Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,25 +998,25 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 
-## <a name="version2006may29"></a>Versão 2006: 29 de maio
-*Versão 2006 (Build 12920.20000)*
+## <a name="version-2006-may-29"></a>Versão 2006: 29 de maio
+*Versão 2006 (Compilação 12920.20000)*
 
-### <a name="featureupdates"></a>Atualizações de recursos
+### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Botões adicionais adicionados às notificações do sistema do Outlook:** Os botões de Ação Rápida agora aparecem nas notificações do Outlook ao executar o Outlook no Windows 10.
+- **Botões adicionais adicionados às notificações do sistema do Outlook:** os botões de Ação Rápida agora aparecem nas notificações do Outlook ao executar o Outlook no Windows 10.
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Melhor desempenho de Streaming de vídeo no PowerPoint:** Fizemos melhorias no desempenho da reprodução do Microsoft Stream para minimizar o tempo de carregamento de vídeos e criar uma experiência de exibição agradável.  Use seus vídeos corporativos do Microsoft Stream para criar apresentações melhores.
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
-### <a name="resolvedissues"></a>Problemas resolvidos
+### <a name="resolved-issues"></a>Problemas resolvidos
 
 ### <a name="excel"></a>Excel
 
@@ -991,9 +1034,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Consertamos um problema em que não era possível copiar e colar o texto em um painel de comentários.
 - Consertamos um problema em que os balões de dicas de comentário apareciam borradas com zoom 100%.
 - Resolvemos um problema em que a habilitação da política do Word 2007 e Documentos Binários e Templates posteriores causavam falha em alguns casos de coautoria.
-- Consertamos um problema em que os arquivos com nomes de caminho longos (superiores a 32K) não abriam e uma mensagem de erro apropriada não estava sendo exibida.
+- Consertamos um problema em que os arquivos com nomes de caminho longos (superiores a 32K) não estavam abrindo e uma mensagem de erro apropriada não estava sendo exibida.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 
 ## <a name="version-2006-may-22"></a>Versão 2006: 22 de maio
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 
 ### <a name="excel"></a>Excel
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
