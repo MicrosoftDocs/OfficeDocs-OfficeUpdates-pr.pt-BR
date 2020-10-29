@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 09a5dc07d59e5b731f88fe334817b8327cf5cb57
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597754"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773593"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,63 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 [//]: # (NÃO REMOVA)
 
+## <a name="version-2010-october-27"></a>Versão 2010: 27 de outubro
+*Versão 2010 (Build 13328.20292)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que as Configurações de Nuvem não fossem ativadas para os usuários por padrão.
+
+
+- Corrigimos um problema que fazia com que as alterações na assinatura de um usuário não fossem salvas.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
+## <a name="version-2010-october-24"></a>Versão 2010: 24 de outubro
+*Versão 2010 (Build 13328.20278)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que tornava os cabeçalhos das mensagens em Chinês ilegíveis ao responder ou encaminhar.
+
+
+- Corrigimos um problema que fazia com que os caracteres Chineses fossem alterados para pontos de interrogação ao salvar como um arquivo OFT.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+- Corrigido um problema em que o NewVal no evento ProjectBeforeTaskChange não tinha o valor correto se um atraso fosse alterado em uma exibição do tipo Formulário de Tarefa.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
 ## <a name="version-2010-october-19"></a>Versão 2010: 19 de outubro
 *Versão 2010 (Build 13328.20210)*
 
@@ -40,7 +97,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
-- **Atualizações da experiência do usuário para Tarefas: ** Uma atualização visual dos itens de tarefa
+- **Atualizações da experiência do usuário para Tarefas:** Uma atualização visual dos itens de tarefa
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -76,15 +133,15 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Ajude a proteger seus dados de arquivos mal-intencionados:** o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Ajude a proteger seus dados de arquivos mal-intencionados:** o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **Ajude a proteger seus dados de arquivos mal-intencionados: **o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Ajude a proteger seus dados de arquivos mal-intencionados:** o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1364,7 +1421,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques. Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas dos conjuntos de dados seguros do Power BI.
+- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1941,7 +1998,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 <br/>
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 
 
@@ -1982,7 +2039,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access
 
-- **Painel de Tarefas "Adicionar Tabelas": ** O novo Painel de Tarefas "Adicionar Tabelas" do Access finalmente chegou! Esse recurso permite que você selecione/multi-selecione com facilidade quais tabelas gostaria de adicionar/remover à uma janela de consulta, sem navegar para a caixa de diálogo "Mostrar Tabelas" para consultas e para o modo de exibição de relação. Isso também inclui uma nova guia "links" para exibir tabelas vinculadas, uma caixa de pesquisa para filtrar a lista atual, comportamento "arrastar e soltar" e muito mais!
+- **Painel de Tarefas "Adicionar Tabelas":** O novo Painel de Tarefas "Adicionar Tabelas" do Access finalmente chegou! Esse recurso permite que você selecione/multi-selecione com facilidade quais tabelas gostaria de adicionar/remover à uma janela de consulta, sem navegar para a caixa de diálogo "Mostrar Tabelas" para consultas e para o modo de exibição de relação. Isso também inclui uma nova guia "links" para exibir tabelas vinculadas, uma caixa de pesquisa para filtrar a lista atual, comportamento "arrastar e soltar" e muito mais!
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2084,13 +2141,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>Problemas resolvidos

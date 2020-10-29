@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657299"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782276"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -23,8 +23,8 @@ A Microsoft lança atualizações de segurança e de qualidade para a versão do
 Se você quiser confirmar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário. Para verificar sua versão do Office, faça o seguinte:
 
   1.    Abra um aplicativo do Office, como o Word ou o Excel.
-  2.    Escolha **Arquivo > Conta**.
-  3.    Em **Informações do Produto**, anote o número da versão na **seção Sobre**.
+  2.    Escolha **Arquivo > Conta** .
+  3.    Em **Informações do Produto** , anote o número da versão na **seção Sobre** .
 
 Se o número da versão corresponder à versão mais recente, então está tudo atualizado. Caso contrário, atualize manualmente para obter a versão mais recente do Office. Para atualizar o Office, [realize estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|27 de outubro de 2020|Versão 2010 (Compilação 13328.20292)| |
 |21 de outubro de 2020|Versão 2009 (Compilação 13231.20418)| |
 |13 de outubro de 2020|Versão 2009 (Compilação 13231.20390)|Confira a [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8 de outubro de 2020|Versão 2009 (Build 13231.20368)| |
 |28 de setembro de 2020|Versão 2009 (Build 13231.20262)| |
 |22 de setembro de 2020|Versão 2008 (Build 13127.20508)| |
-|9 de setembro de 2020|Versão 2008 (Build 13127.20408)|Confira a [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (NÃO REMOVA O FINAL DA TABELA DE VAREJO)
@@ -104,6 +104,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|
+|9 de setembro de 2020|Versão 2008 (Build 13127.20408)|Confira a [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31 de agosto de 2020|Versão 2008 (Compilação 13127.20296)| |
 |25 de agosto de 2020|Versão 2007 (Compilação 13029.20460)| |
 |11 de agosto de 2020|Versão 2007 (Compilação 13029.20344)|Confira a [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
