@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 051e85e530d6b72821b46e12c67183d207035eb3
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657319"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782326"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Notas de versão do lançamento do Canal Atual em 2020
 
@@ -35,7 +35,105 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
+## <a name="version-2010-october-27"></a>Versão 2010: 27 de outubro
+*Versão 2010 (Compilação 13328.20292)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="access"></a>Access
+
+- **Mantenha-se atualizado com as horas! O tipo de dados Data/Hora Estendida está mais preciso.:** Apresentando um novo e aprimorado tipo de dados. Para melhorar a compatibilidade de sintaxe com o SQL e aumentar a precisão e o nível de detalhes nos registros que incluem datas e horas, estamos implementando o tipo de dados DateTime2 no Access. Esse tipo de dados de data e hora incluirá um intervalo de datas maior (0001-01-01 a 9999-12-31), com precisão de tempo superior (nanossegundos, em vez de segundos) que você poderá fornecer e executar cálculos. Para habilitar, selecione Novo campo > Data e Hora ampliada. [Saiba mais](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Criar tipos de dados com o Power Query:** criar tipos de dados valiosos com o Power Query por meio de qualquer fonte de dados
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+- **Faça edições rápidas usando a caneta de ação:** com a caneta de ação, você pode escrever à mão diretamente nas células, anotar dados com tinta que são automaticamente convertidos em dados do Excel.
+
+### <a name="outlook"></a>Outlook
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. [Saiba mais](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Ver detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/grammar-and-style-suggestions-available-in-outlook)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+### <a name="teams"></a>Teams
+
+- **Modelos no Microsoft Teams:** Com os Modelos no Teams, os usuários podem escolher entre uma variedade de modelos personalizáveis ​​ao criar uma nova equipe, ajudando-os a começar rapidamente. Os profissionais de TI também podem criar novos modelos personalizados para sua organização, permitindo-lhes padronizar estruturas de equipe, exibir aplicativos relevantes e dimensionar as práticas recomendadas.
+
+- **Postagens fixadas:** Este recurso permite que os usuários "fixem" qualquer mensagem em um canal no painel de informações do canal para que todos os membros do canal confiram. Qualquer membro com acesso ao canal poderá ver as mensagens fixadas. Qualquer membro de um canal poderá fixar qualquer mensagem (a menos que seja desativado por meio das configurações de moderação do canal).
+
+- **Enviar ao catálogo de aplicativos:** Você verá um link Enviar ao catálogo de aplicativos no canto inferior esquerdo desta tela. Além do App Studio e do Visual Studio, é outro lugar onde você pode enviar aplicativos para aprovação.
+
+- **Use o Freehand by Invision para criar um quadro branco na experiência de reunião suspensa:** Agora você pode usar o aplicativo Freehand by Invision para criar um quadro branco em qualquer reunião que participe da experiência de reunião suspensa. Comece o brainstorming sem problemas selecionando o aplicativo Freehand na bandeja de conteúdo de compartilhamento, instalando-o e iniciando a sessão de quadro branco com os colegas!
+
+### <a name="word"></a>Word
+
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acessar
+
+- Corrigimos um problema em que ao usar o DAO em aplicativos não pertencentes ao Office fazia com que o aplicativo fechasse inesperadamente.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que tornava os cabeçalhos das mensagens em Chinês ilegíveis ao responder ou encaminhar.
+
+
+- Corrigimos um problema que fazia com que os caracteres Chineses fossem alterados para pontos de interrogação ao salvar como um arquivo OFT.
+
+
+- Corrigimos um problema que fazia com que o Outlook criasse uma segunda assinatura vazia para pessoas que estavam com as configurações de nuvem ativadas.
+
+
+- Corrigimos um problema que fazia com que as configurações de nuvem não fossem ativadas para os usuários por padrão.
+
+
+- Corrigimos um problema que fazia com que as alterações na assinatura de um usuário não fossem salvas.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Essa é uma correção para um problema em que a solicitação de salvamento é exibida em um loop ao fechar o documento quando há um suplemento ouve o evento PresentationBeforeClose e verifica a propriedade Presentation.Saved como parte do manipulador de eventos.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+- Corrigido um problema em que o Microsoft Project pode terminar inesperadamente ao abrir arquivos onde os contornos dos recursos foram especificados de uma determinada maneira.
+
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+- Corrigido um problema em que NewVal no evento ProjectBeforeTaskChange não tinha o valor correto se um atraso fosse alterado em uma exibição do tipo Formulário de Tarefa.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2009-october-21"></a>Versão 2009: 21 de outubro
 *Versão 2009 (Compilação 13231.20418)*
@@ -1413,6 +1511,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
@@ -1422,5 +1521,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
