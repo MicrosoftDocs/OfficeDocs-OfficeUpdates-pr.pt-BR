@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
-ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "48750570"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815597"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,93 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2011-october-30"></a>Versão 2011: 30 de outubro
+*Versão 2011 (Build 13426.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Diálogos de Formatação Condicional aprimorados:** os diálogos de Formatação Condicional agora são redimensionáveis ​​e agora podem duplicar a regra com um único clique. [Saiba mais](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acessar
+
+- Corrigimos um problema em que ao usar o DAO em aplicativos não pertencentes ao Office fazia com que o aplicativo fechasse inesperadamente.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigido um problema com o Power Pivot ao usar uma conexão com um banco de dados do Oracle.
+
+
+- Corrigimos um problema em que o Excel fechava inesperadamente quando o processo de cálculo MTR e atualização do Objeto de Política de Grupo (por exemplo, por meio da Atualização remota da Política de Grupo) era acionado.
+
+
+- Essa alteração corrige um bug, que causa uma falha no Excel ao tentar carregar um arquivo atomsvc.
+
+
+- Corrigimos um problema em que o Word parecia travar ao inserir a pasta de trabalho do Excel em um documento do Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que o proprietário da caixa de correio não conseguia gerenciar a permissão Compartilhada para seu próprio Calendário porque a opção estava esmaecida.
+
+
+- Corrigimos um problema em que salvar modelos de email como .OFT alterava os caracteres Chineses para pontos de interrogação.
+
+
+- Corrigimos um problema em que o Outlook não conseguia criar uma mensagem com permissão restrita.
+
+
+- Resolvido um problema que fazia com que o Outlook parasse de funcionar esporadicamente ao adicionar ou salvar anexos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que as linhas de grade eram deslocadas dos slides ao fechar o painel de design.
+
+
+- Corrigimos um problema em que a barra de rolagem no slide começava a se ajustar depois de parar a gravação da tela com o painel de seleção aberto.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+- Corrigido um problema em que os compromissos de recursos procuravam um recurso por nome em vez de GUID, o que causaria problemas se houvesse vários recursos com o mesmo nome.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que clicar na dica de comentário não reduzia o zoom para mostrar o cartão de comentários.
+
+
+- Corrigimos um problema de layout que poderia ter mudado a linha entre as colunas.
+
+
+- Corrigimos um problema em que o Word parecia travar ao inserir a pasta de trabalho do Excel em um documento do Word.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema na Ferramenta de Implantação do Office, em que a configuração estava falhando ao usar o recurso RemoveMSI com o produto do Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2011-october-23"></a>Versão 2011: 23 de outubro
 *Versão 2011 (Compilação 13415.20002)*
@@ -1752,6 +1839,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
@@ -1761,5 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
