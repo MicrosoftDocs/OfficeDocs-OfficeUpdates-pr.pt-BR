@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos insiders o histórico de atualizações dos lançamentos mensais do Canal Insider Fast para a área de trabalho do Windows
-ms.openlocfilehash: b4867e5455923e7fde99fb3f81fe4f8810cf1b9f
-ms.sourcegitcommit: d467499b7c0725f8f998ce34bfe7f1286e37e683
+ms.openlocfilehash: 3220d75a6c2c248a9daed4982e99d037c5ae7322
+ms.sourcegitcommit: 0bc99107bfb04f1180b2cfb763cdc0f981f1b19a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48794382"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840440"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Atualização do histórico para o Canal Beta do Office
 
@@ -31,12 +31,15 @@ Olá, Insiders! Se você quer saber se possui a versão mais recente instalada o
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versões e compilações do Canal Office Beta
 
-Se você estiver inscrito no nível Insider, receberá atualizações frequentes com as novas características e melhorias. A lista seguinte mostra uma história de versões e construções recentes do Canal Beta, com **a compilações mais recente lançada, listada em primeiro lugar** . As novas compilações contêm todas as atualizações contidas nas compilações anteriores.
+Se você estiver inscrito no nível Insider, receberá atualizações frequentes com as novas características e melhorias. A lista seguinte mostra uma história de versões e construções recentes do Canal Beta, com **a compilações mais recente lançada, listada em primeiro lugar**. As novas compilações contêm todas as atualizações contidas nas compilações anteriores.
 
 Para saber as notas de versão, confira [Notas de versão Insider do Office para computadores Windows](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NÃO REMOVA)
+
+**02 de novembro de 2020**<br/>
+Versão 2012 (Build 13430.20000)<br/>
 
 **28 de outubro de 2020**<br/>
 Versão 2011 (Build 13426.20004)<br/>
