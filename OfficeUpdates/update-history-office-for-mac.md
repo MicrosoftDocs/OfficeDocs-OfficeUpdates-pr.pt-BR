@@ -9,30 +9,30 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: 6586961cb52e6682a5979278520970a8be7880f8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 2bf1f8618d5a9f202f7ddb1050b933129dbf45cb
+ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453079"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "48944156"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
   
 O Office para Mac que vem com uma assinatura do Microsoft 365 é atualizado regularmente para oferecer novos recursos, atualizações de segurança e atualizações não relacionadas à segurança. As informações a seguir destinam-se principalmente aos profissionais de TI que implantam o Office para Mac para usuários em suas organizações.
 
 > [!NOTE]
-> - Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21, se você estiver usando o pacote de instalação do Office. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> - A partir da Versão 16.21, o Microsoft Teams será instalado por padrão para * **novas** _ instalações se você estiver usando o pacote de instalação do pacote Office. Para obter mais informações, confira [Instalações do Microsoft Teams em um Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 > - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - A partir da versão 16.17 de setembro de 2018, essas informações também se aplicam ao Office 2019 para Mac, que é a versão do Office para Mac disponível como uma compra avulsa em uma loja de varejo ou por meio de um contrato de licenciamento por volume.
-> - O histórico de informações de atualização da versão 16.16 e anteriores também se aplica ao Office 2016 para Mac, que também é uma versão do Office para Mac disponível como uma compra avulsa. Versões mais antigas, até 16.16, inclusive, podem ser ativadas com uma licença de volume do Office 2016 para Mac. Não é possível ativar a versão 16.17 ou posterior com uma licença de volume do Office 2016 para Mac. Para saber mais sobre o Office 2016 para Mac e versões de setembro em diante, confira [Notas de versão do Office 2016 para Mac](release-notes-office-2016-mac.md).
 > - Para saber mais sobre os recursos, as atualizações de segurança e as atualizações não relacionadas a segurança que estão incluídas em determinada versão do Office para Mac, confira [Notas de versão do Office para Mac](release-notes-office-for-mac.md).
-> - Se desejar obter acesso antecipado a novas versões, ingresse no programa [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
+> - Para obter acesso antecipado a novos lançamentos, ingresse no programa [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Últimos pacotes do Office para Mac
 
 A tabela a seguir enumera os pacotes mais recentes do Office que incluem todos os aplicativos individuais, como Word, Excel e PowerPoint. Todos os pacotes são apenas para 64 bits. A data do build é listada entre parênteses, no formato AAMMDD, após o número da versão. O pacote de instalação será usado, caso você ainda não tenha o aplicativo instalado, enquanto o pacote de atualização será usado para atualizar uma instalação existente.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)
+
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO)
 
@@ -43,7 +43,7 @@ Versão 16.42 (20101102)
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO APP)
 
-|**Aplicativo**|**Links para download**|**Hash SHA-256 para pacote de instalação**|
+|_ *Aplicativo**|**Links para download**|**Hash SHA-256 para pacote de instalação**|
 |:-----|:-----|:-----|
 |Pacote do Office (com o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=2009112)|8AC425F0E31869B32C323F4349FB48E9B1C3A114B77EA68897D97C50D9B8BECB|
 |Pacote do Office (sem o Teams)|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=525133)|5FA1084BD240BF10FAAF94D908492939807EAD8E014582DCB2ADE7ECC484276B|
@@ -62,7 +62,9 @@ Versão 16.42 (20101102)
 A tabela a seguir fornece links para download e informações de histórico de versão do Office para Mac. A tabela é classificada por data de lançamento, com a data de lançamento mais recente listada primeiro. A data da compilação é listada entre parênteses, no formato AAMMDD, após o número da versão. Todas as versões posteriores a 22 de agosto de 2016 são apenas para 64 bits. Todas as versões anteriores a 22 de agosto de 2016 são apenas para 32 bits.
 
 > [!NOTE]
-> Os links para download são fornecidos apenas para as últimas versões.
+> - Os links para download são fornecidos apenas para as últimas versões.
+> - Apenas a versão lançada mais recentemente listada abaixo é compatível.
+
 
 [//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO HISTÓRICO)
 
