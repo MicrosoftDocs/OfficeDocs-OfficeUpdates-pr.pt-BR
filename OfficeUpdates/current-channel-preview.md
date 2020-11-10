@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944135"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950000"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -27,6 +27,158 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="version-2011-november-09"></a>Versão 2011: 09 de novembro
+*Versão 2011 (Compilação 13426.20184)*
+
+[//]: # (NÃO REMOVA O CONTEÚDO DE DETALHES DO RECURSO INICIAR)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Crie fluxos de dados Power Platform a partir de consultas:** agora você pode exportar suas consultas para modelos de Power Query que podem ser usados para criar novos fluxos de dados Power Platform
+
+
+[//]: # (NÃO REMOVA FIM DE CONTEÚDO DE RECURSOS DETALHES)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigimos um problema em que alguns usuários viam o erro "recurso do sistema excedido" quando tentavam exportar uma consulta de sua pasta OneDrive sincronizada.
+
+
+- Corrigimos um problema em que a troca "automática" entre as janelas do formulário estava mudando para outro formulário.
+
+
+- Corrigimos um problema em que ao usar o DAO em aplicativos não pertencentes ao Office fazia com que o aplicativo fechasse inesperadamente.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o Nome do Arquivo não era alterado após uma operação Salvar Como com suplementos COM habilitados.
+
+
+- Corrigido um problema com o Power Pivot ao usar uma conexão com um banco de dados do Oracle.
+
+
+- Corrigimos um problema em que quando o Salvamento Automático falhava com uma mensagem de erro incorreta/enganosa quando havia uma definição de medida incorreta no modelo de dados do Excel.
+
+
+- Corrigimos um problema em que o Excel fechava inesperadamente quando o processo de cálculo MTR e atualização do Objeto de Política de Grupo (por exemplo, por meio da Atualização remota da Política de Grupo) era acionado.
+
+
+- Corrigimos um problema em que um usuário não podia abrir diretamente um arquivo atomsvc (UTF8+BOM) do Microsoft Office SharePoint Online.
+
+
+- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+- Corrigimos um problema em que o Word parecia travar ao inserir a pasta de trabalho do Excel em um documento do Word.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema que fazia com que o Outlook parasse de funcionar esporadicamente ao adicionar ou salvar anexos.
+
+
+- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique a localização e tente novamente ".
+
+
+- Corrigimos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado offline até que eles optassem por trabalhar manualmente online.
+
+
+- Corrigimos um problema ao colar um URL copiado do local da reunião para outro lugar (como um navegador), o URL contém um ponto e vírgula no final.
+
+
+- Corrigimos um problema em que os usuários não conseguiram excluir os compromissos no Calendário dos grupos do Microsoft 365 na autenticação básica.
+
+
+- Consertamos um problema em que o Outlook falhou ao carregar o cache de apelidos.
+
+
+- Corrigimos um problema em que o proprietário da caixa de correio não conseguia gerenciar a permissão Compartilhada para seu próprio Calendário porque a opção estava esmaecida.
+
+
+- Corrigimos um problema em que o Outlook não conseguia criar uma mensagem com permissão restrita.
+
+
+- Corrigimos um problema em que salvar modelos de email como .OFT alterava os caracteres Chineses para pontos de interrogação.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+- Corrigimos um problema em que o ícone do espaço reservado para conteúdo ao lado de imagens não tinha dica de ferramenta.
+
+
+- Corrigimos um problema em que o modo de exibição de apresentação de slides, mostrado pelo arquivo pptsx, permite a captura de tela do documento protegido por IRM.
+
+
+- Corrigimos um problema em que as linhas de grade eram deslocadas dos slides ao fechar o painel de design.
+
+
+- Corrigimos um problema ao duplicar a apresentação de slides para o monitor secundário. A apresentação de slides pode se esconder atrás de outra janela.
+
+
+- Corrigimos um problema em que a barra de rolagem no slide começava a se ajustar depois de parar a gravação da tela com o painel de seleção aberto.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que o NewVal no evento ProjectBeforeTaskChagne não tinha o valor correto se um atraso fosse alterado em uma visualização do tipo Formulário de Tarefa.
+
+
+- Corrigido um problema em que o Microsoft Project podia ser encerrado inesperadamente ao abrir arquivos em que os contornos dos recursos foram especificados de uma determinada maneira.
+
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+- Corrigido um problema em que os compromissos de recursos procuravam um recurso por nome em vez de GUID, o que causaria problemas se houvesse vários recursos com o mesmo nome.
+
+
+- Corrigido um problema em que, se você tiver uma lista de tarefas em um site de projeto e agrupar a lista de tarefas, não será capaz de editar rapidamente a lista de tarefas.
+
+
+- Corrigido um problema em que, se você atualizar um recurso empresarial por meio do CSOM, as unidades máximas de recursos poderiam ser perdidas.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+
+
+- Corrigimos um problema em que clicar na dica de comentário não diminuía o zoom para mostrar o cartão de comentários.
+
+
+- Corrigimos um problema de layout que poderia ter mudado a linha entre as colunas.
+
+
+- Corrigimos um problema no Controle de Alterações que às vezes a abertura de um documento do Word exibia uma caixa de diálogo de erro.
+
+
+- Corrigimos um problema em que o Word parecia travar ao inserir a pasta de trabalho do Excel em um documento do Word.
+
+
+- Corrigimos um problema de impressão quando rótulo de confidencialidade com marcas d'água são aplicadas.
+
+
+### <a name="office-suite"></a>Pacote de aplicativos do Office
+
+- Corrigimos um problema na ferramenta de implantação do Office em que a configuração falhava ao usar o recurso RemoveMSI com o produto Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
+
+
+- Corrigimos um problema em que o Login interativo da API SSO retornava um código de erro.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2010-november-06"></a>Versão 2010: 06 de novembro
 *Versão 2010 (Build 13328.20356)*
@@ -903,7 +1055,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
 *Versão 2007 (Compilação 13029.20344)*
