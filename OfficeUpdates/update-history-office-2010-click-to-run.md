@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453399"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989930"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
 > [!IMPORTANT]
-> O suporte do Office 2010 termina em 13 de outubro de 2020.  Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> O suporte para o Office 2010 terminou em 13 de outubro de 2020. Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente usando uma tecnologia chamada Clique para Executar.
@@ -33,7 +33,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7261.5000**, que foi lançado em 13 de outubro de 2020.
+> A versão mais recente do Office 2010 é o **14.0.7261.5000** , que foi lançado em 13 de outubro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -41,7 +41,7 @@ Para verificar sua versão do Office, faça o seguinte:
     
 2. Escolha **arquivo** > **Ajuda**.
     
-3. Em **Atualizações de Produtos Clique para Executar**, observe o número da versão que está listado.
+3. Em **Atualizações de Produtos Clique para Executar** , observe o número da versão que está listado.
     
     Se o número da versão é compatível com a versão mais recente, você está atualizado. Caso contrário, é possível atualizar manualmente para obter a versão mais recente do Office 2010. Para atualizar o Office, [siga estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
