@@ -9,28 +9,70 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: c719a54075f57b031cf99ef7459fe38c0cab63dc
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453409"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990070"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
-Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionadas à segurança que estão inclusas nas atualizações de 2020 do Canal Empresarial Semestral do Microsoft 365 Apps para Pequenos e Médios Negócios, Microsoft 365 Apps para Grandes Empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
+Essas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança incluídas nas atualizações semestrais do Canal Empresarial Semestral em 2020 para Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos de desktop para o Microsoft Project e Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização para Microsoft 365 Apps, incluindo a adição de um novo canal de atualizações (Canal Empresarial Mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- O OneNote 2016 já está incluído por padrão quando um usuário no Canal Empresarial Semestral baixar e instalar o Microsoft 365 Apps no Windows 10 do Portal do Office.
+>- O OneNote 2016 agora será incluído por padrão quando um usuário no Canal Empresarial Semestral baixa e instala o Microsoft 365 Apps no Windows 10 a partir do Portal do Office.
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
-## <a name="version-2002-october-13"></a>Versão 2002: 13 de outubro
+## <a name="version-2002-november-10"></a>Versão 2002: 10 de novembro
+*Versão 2002 (Build 12527.21330)*
+
+Atualizações de segurança listadas[ aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o idioma do Office era definido como Espanhol, no qual as listas de validação de dados podem não mostrar todos os itens na lista.
+
+
+- Corrigimos um problema que poderia causar um travamento ao atualizar as tabelas dinâmicas OLAP.
+
+
+- Corrigido um bug em que certas funções teriam um resultado incorreto após carregar uma pasta de trabalho.
+
+
+- Corrigimos um problema em que o aplicativo fechava inesperadamente, o que estava relacionado a referências do suplemento XLAM e intervalos nomeados.
+
+
+- Corrigido um problema em que a execução da macro de filtro avançado relatava erros incorretamente.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os suplementos internos fossem inesperadamente desabilitados quando as experiências conectadas opcionais eram desabilitadas.
+
+
+- Corrigimos um problema que impedia os usuários de enviar como ou em nome de uma Lista de Distribuição que estava oculta na Lista de Endereços Global.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
+## <a name="version-1908-november-10"></a>Version 1908: 10 de novembro
+*Versão 1908 (Build 11929.20974)*
+
+Atualizações de segurança listadas[ aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-2002-october-13"></a>Version 2002: 13 de outubro
 *Versão 2002 (Compilação 12527.21236)*
 
 Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -188,7 +230,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
 - **Suplemento visualizador de dados:** cria rapidamente fluxogramas do Visio a partir do Excel. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -246,7 +288,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Encontre o que está procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -270,7 +312,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
-- **Compartilhamento rápido de arquivo**: compartilhe seus documentos diretamente da lista usada recentemente sem precisar abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : compartilhe seus documentos diretamente da lista usada recentemente sem precisar abrir o arquivo.
 
 - **Colaboração rápida e em tempo real no PowerPoint:** colaboração rápida e em tempo real no PowerPoint
 
@@ -296,7 +338,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Criar PDFs mais acessíveis:** crie um PDF e o verificador de acessibilidade informará os problemas de acessibilidade para corrigir antes de salvar. [Saiba mais](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)
 
-- **Compartilhamento rápido de arquivo**: compartilhe seus documentos diretamente da lista usada recentemente sem precisar abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : compartilhe seus documentos diretamente da lista usada recentemente sem precisar abrir o arquivo.
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)
 
@@ -316,7 +358,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D:** corrigido um problema de corrupção de documento causado pela mesclagem de objetos 3D.
 
-- **Aperfeiçoamentos de coautoria**: desempenho aperfeiçoado do Word durante a coautoria em documentos com alterações controladas.
+- **Aperfeiçoamentos de coautoria** : desempenho aperfeiçoado do Word durante a coautoria em documentos com alterações controladas.
 
 - **Melhorias na coautoria** confiabilidade aprimorada durante a coautoria.
 
@@ -675,11 +717,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Para proteger a segurança dos clientes do Office, as atualizações do Microsoft Office agora são assinadas usando o algoritmo SHA-2 exclusivamente.
 
-- O host do Office estava falhando no Windows quando um suplemento era ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth era definida como zero. Essa alteração corrige esse problema.
+- O host do Office estava falhando no Windows quando um suplemento era ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth era definida como zero. Essa alteração corrigiria esse problema.
 
-- Soluciona um problema que causava falha no host do Office no Windows, quando um suplemento é ativado enquanto o valor TabProcGrowth do registro é do tipo REG_SZ.
+- Resolvido um problema de travamento com o host do Office no Windows, quando um suplemento era ativado enquanto o valor TabProcGrowth do registro era do tipo REG_SZ.
 
-- Esta atualização corrige um problema no Microsoft Office, em que os projetos do Visual Basic for Applications com referências esperadas para localizar localizações especificadas na variável de ambiente PATH podem não ser encontrados corretamente no tempo de execução, levando a erros de tempo de execução VBA.
+- Esta atualização corrige um problema no Microsoft Office em que os projetos do VBA com referências que devem ser encontradas pesquisando locais especificados na variável de ambiente CAMINHO podem não ser encontrados corretamente no tempo de execução, levando a erros de tempo de execução do VBA.
 
 - Resolvemos o problema em que o Access e o Publisher podiam não inicializar corretamente dependendo de quais idiomas foram instalados.
 
@@ -826,7 +868,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Resolvido um problema que provocou falha na exibição de URLs de foco simples em alguns safelinks.
 
-- Isso atualiza a lógica de bloqueio de anexos no Outlook para também bloquear anexos de python.
+- Isso atualiza a lógica de bloqueio de anexos no Outlook para também bloquear anexos do python.
 
 - Corrige um problema que fazia com que um subconjunto de usuários POP3 visualizasse todos os seus e-mails formatados em texto simples, independentemente das configurações. Essa correção restaurará o modo de exibição das mensagens formatadas como HTML.
 
@@ -1098,13 +1140,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ao abrir arquivos msg e .oft após aplicar uma atualização recente do Windows.
+- Resolvido um problema que fazia com que os usuários travassem ao abrir arquivos msg e oft após a aplicação de uma atualização recente do Windows.
 
 ### <a name="word"></a>Word
 
 - Corrigimos um problema ao unir dois documentos em um único documento.
 
-- Corrigimos um problema com o recurso Comparar em documentos protegidos para edição.
+- Corrigimos um problema com o recurso comparar em documentos protegidos para edição.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
@@ -1134,13 +1176,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Foi solucionado um problema que fazia com que os usuários experimentassem uma falha ao selecionar determinados resultados de pesquisa.
+- Resolvido um problema que fazia com que os usuários experienciassem uma falha ao selecionar determinados resultados de pesquisa.
 
 - Foi solucionado um problema que fazia com que o botão "Salvar na nuvem" não estivesse presente nas Ferramentas de Anexo.
 
-- Por padrão, os rótulos da política de retenção podem exibir o período de retenção entre parênteses.Isso fornece uma chave do registro para permitir que os administradores especifiquem que apenas o nome da política deve ser exibido. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Default 1 = we will only show the PolicyName for Retention policy text.
+- Por padrão, os rótulos da política de retenção podem exibir o período de retenção entre parênteses. Isso fornece uma chave do registro para permitir que os administradores especifiquem que apenas o nome da política deve ser exibido. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Padrão 1 = mostraremos apenas o PolicyName para o texto da política de Retenção.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote de aplicativos do Office
 
 - Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
 
@@ -1150,17 +1192,17 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="office-suite"></a>Pacote Office
 
-- Correção de um problema no Visual Basic for Applications no Microsoft Office, em que determinados projetos VBA que continham referências a bibliotecas de códigos com caracteres DBCS no nome da biblioteca ou no caminho da biblioteca eram exibidos pelo aplicativo do Office como corrompidos durante o carregamento.
+- Corrigido um problema que não era no VBA e no Microsoft Office, onde certos projetos do VBA que continham referências a bibliotecas de código com caracteres DBCS não forneciam uma biblioteca ou não percorriam a biblioteca foram vistos pelo aplicativo Office como corrompidos durante o carregamento.
 
-## <a name="version1908april-26"></a>Versão 1908: 26 de abril
+## <a name="version-1908-april-26"></a>Versão 1908: 26 de abril
 *Versão 1908 (Build 11929.20736)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas[ aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Corrigimos um problema de desempenho que os usuários podem ter ao usar uma VBA macro para limpar o conteúdo de um intervalo.
+- Corrigido um problema de desempenho em que os usuários podem ter experimentado ao usar uma macro do VBA para limpar o conteúdo de um intervalo.
 
 - Corrigimos um problema com o VBA no qual a escrita de valores em um intervalo seria menor do que o esperado.
 
@@ -1452,7 +1494,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **A edição ocorre naturalmente com o Editor por Tinta:** com um único traçado, divida ou una palavras, adicione uma nova linha ou insira palavras usando uma caneta. [Saiba mais](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **Transforme seu documento de estático para incrível: ** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Transforme seu documento de estático para incrível:** transforme seu documento em uma página da web interativa e fácil de compartilhar, com uma aparência ótima em qualquer dispositivo. [Saiba mais](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **Aumente o alcance do seu conteúdo:** precisa tornar seus documentos acessíveis? Deixe o verificador de acessibilidade fazer isso por você, sem atrapalhar seu trabalho. Experimente clicando em Revisão > Verificar Acessibilidade. Informaremos quando encontrarmos algo que você precise ver na barra de status.
 
@@ -1476,7 +1518,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Os produtos do Ofiice estão com um novo visual**Os ícones de produtos foram recriados para refletir as experiências simples, poderosas e inteligentes do Office.
+- **Os produtos do Ofiice estão com um novo visual** Os ícones de produtos foram recriados para refletir as experiências simples, poderosas e inteligentes do Office.
 
 - **Instalação do Microsoft Teams:** o Microsoft Teams vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
 
@@ -1754,7 +1796,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
-[//]: # (|Win32|CC|Production| |16.0.12527.21236|version-2002-october-13|)
+[//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
