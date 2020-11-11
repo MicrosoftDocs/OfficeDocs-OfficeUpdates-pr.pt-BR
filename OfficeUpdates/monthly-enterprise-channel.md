@@ -9,23 +9,188 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453309"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990150"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
-Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão inclusos em atualizações mensais do Canal Corporativo Mensal em 2020 para Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
+Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão incluídas nas atualizações do Canal Empresarial Mensal em 2020 para o Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos para área de trabalho do Microsoft Project e Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para os aplicativos do Microsoft 365, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização para Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal Empresarial Mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2009-november-10"></a>Versão 2009: 10 de novembro
+*Versão 2009 (Build 13231.20514)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+### <a name="word"></a>Word
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que tornava os cabeçalhos das mensagens em Chinês ilegíveis ao responder ou encaminhar.
+
+
+- Resolvido um problema que fazia com que os delegados vissem falhas intermitentes ao abrir pastas compartilhadas em outra caixa de correio.
+
+
+- Resolvido um problema que fazia com que alguns emails gerados automaticamente fossem enviados com um corpo em branco quando a linha de assunto estava em branco.
+
+
+- Resolvido um problema que causava com que alguns usuários observassem o Outlook iniciando inesperadamente em um estado offline.
+
+
+- Resolvido um problema que fazia com que a Pesquisa não retornasse nenhum resultado ao pesquisar calendários compartilhados não armazenados em cache.
+
+
+- Corrigimos um problema que fazia com que os usuários experimentassem o aplicativo encerrar inesperadamente ao selecionar um resultado de pesquisa.
+
+
+- Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema que causava coautoria lenta em arquivos que continham um grande número de um determinado tipo de objeto de dados (E2o).
+
+
+- Corrigimos um problema que desabilitava as proteções IRM ao abrir um arquivo do PowerPoint no Modo de Exibição Protegido.
+
+
+- Corrigimos um problema em que o suplemento de conteúdo do Microsoft Forms não renderiza após a inserção até que o usuário clique em outro slide para mostrá-lo.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema onde se você tivesse um código de eventos em execução e tentasse fazer alterações por meio do Modo de Exibição Formulário de Tarefas, clicando no botão OK podia não confirmar as alterações.
+
+
+- Corrigido um problema onde o Project podia terminar inesperadamente ao abrir arquivos onde os contornos dos recursos foram especificados de uma determinada maneira.
+
+
+- Corrigido um problema em que, ao salvar um projeto do PWA em um arquivo mpp local, o ProjectBeforeTaskChangeEvent disparava para dados que não foram realmente alterados pelo usuário.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema com a caixa de diálogo Galeria de Estilos.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema com a caixa de diálogo Compactar Imagem, que não mantinha certas configurações do usuário.
+
+
+- Corrigido um problema em que a prevenção contra perda de dados do Ponto de extremidade do Microsoft 365 não conseguia classificar os documentos do Office no disco.
+
+
+- Quando o usuário imprime qualquer documento/arquivo em impressoras jato de tinta do Office e a tinta da impressora está baixa, a mensagem "Pouco toner" ou "Sem toner" será exibida, mesmo que as impressoras jato de tinta não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+
+## <a name="version-2008-november-10"></a>Versão 2008: 10 de novembro
+*Versão 2008 (Build 13127.20760)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que, ao usar uma macro para definir a propriedade FormulaR1C1 para um intervalo, as referências de célula estariam incorretas se uma planilha de gráfico fosse a planilha ativa.
+
+
+- Corrigido um problema que poderia causar um erro de que "Excel esgotou os recursos ao tentar calcular uma ou mais fórmulas".
+
+
+- Corrigido um problema quando a linguagem do Office era definida como Espanhol, no qual as listas de validação de dados podem não mostrar todos os itens na lista.
+
+
+- Corrigimos um problema que poderia causar um travamento ao atualizar as tabelas dinâmicas OLAP.
+
+
+- Corrigimos um problema em que certas funções apresentavam resultados incorretos após o carregamento de uma pasta de trabalho.
+
+
+- Corrigimos um problema onde o aplicativo fechava inesperadamente, o que estava relacionado a referências do suplemento XLAM e intervalos nomeados.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os cabeçalhos das mensagens em Chinês ficassem distorcidos ao responder ou encaminhar.
+
+
+- Resolvido um problema que fazia com que alguns emails gerados automaticamente fossem enviados com um corpo em branco quando a linha de assunto estava em branco.
+
+
+- Resolvido um problema que fazia com que os delegados vissem falhas intermitentes ao abrir pastas compartilhadas em outra caixa de correio.
+
+
+- Corrigimos um problema que fazia com que as pesquisas nos calendários do Grupo não retornassem nenhum resultado.
+
+
+- Corrigimos um problema que fazia com que os usuários experimentassem o aplicativo encerrar inesperadamente ao selecionar um resultado de pesquisa.
+
+
+- Corrigimos um problema em que os usuários agora podem desabilitar o IRM (Gerenciamento de Direitos de Informação) para o Outlook sem ter que desabilitá-lo para o restante dos aplicativos do Office.
+
+
+- Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
+
+
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Confira os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta é uma correção para um problema em que o prompt de salvamento mostra em um loop ao fechar o documento quando há um suplemento que escuta o evento PresentationBeforeClose e verifica a propriedade Presentation.Saved como parte do manipulador de eventos.
+
+
+- Corrigimos um problema em que o suplemento de conteúdo do Microsoft Forms não processa após a inserção até que o usuário clique em outro slide para mostrá-lo.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Resolvido um problema para clientes comerciais que utilizam o Centro do Sistema de Gerenciador de Configurações ou outra ferramenta de gerenciamento para a Atualização do Office usando a prevenção contra perda de dados do ponto de extremidade do Microsoft 365.
+
+- Corrigido um problema de que a API de Mensagens para Suplementos do Office não está funcionando.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2008-october-13"></a>Versão 2008: 13 de outubro
 *Versão 2008 (Compilação 13127.20638)*
@@ -776,7 +941,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Solucionamos um problema que fazia com que os usuários vissem o processo do Outlook persistir no gerenciador de tarefas após sair.
 
 
-- Solucionamos um problema que fazia com que os usuários experimentassem uma falha ocasional ao usarem o botão no mouse.
+- Solucionamos um problema causava com que os usuários experimentassem uma falha ocasional ao usarem o botão no mouse.
 
 
 - Solucionamos um problema que fazia com que os usuários experimentassem falhas em aplicativos MAPI de terceiros.
@@ -840,7 +1005,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-august-13|)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
