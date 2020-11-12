@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: d94549f509b812d37638a5f0e6a0077fafd229f6
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782316"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989940"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -34,12 +34,12 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2010<br/>|13328.20292<br/>|27 de outubro de 2020<br/>|A versão 2011 foi lançada<br/>|
-|Canal Empresarial Mensal<br/>|2008<br/>|13127.20638<br/>|13 de outubro de 2020<br/>|8 de dezembro de 2020<br/>|
-|Canal Empresarial Mensal<br/>|2007<br/>|13029.20708<br/>|13 de outubro de 2020<br/>|10 de novembro de 2020<br/>|
-|Canal Empresarial Semestral (Visualização)<br/>|2008<br/>|13127.20638<br/>|13 de outubro de 2020<br/>|9 de março de 2021<br/>|
-|Canal Empresarial Semestral<br/>|2002<br/>|12527.21236<br/>|13 de outubro de 2020<br/>|14 de setembro de 2021<br/>|
-|Canal Empresarial Semestral<br/>|1908<br/>|11929.20966<br/>|13 de outubro de 2020<br/>|9 de março de 2021<br/>|
+|Canal Atual<br/>|2010<br/>|13328.20356<br/>|10 de novembro de 2020<br/>|A versão 2011 foi lançada<br/>|
+|Canal Empresarial Mensal<br/>|2009<br/>|13231.20514<br/>|10 de novembro de 2020<br/>|Janeiro de 12, 2021<br/>|
+|Canal Empresarial Mensal<br/>|2008<br/>|13127.20760<br/>|10 de novembro de 2020<br/>|8 de dezembro de 2020<br/>|
+|Canal Empresarial Semestral (Pré-visualização)<br/>|2008<br/>|13127.20760<br/>|10 de novembro de 2020<br/>|9 de março de 2021<br/>|
+|Canal Empresarial Semestral<br/>|2002<br/>|12527.21330<br/>|10 de novembro de 2020<br/>|14 de setembro de 2021<br/>|
+|Canal Empresarial Semestral<br/>|1908<br/>|11929.20974<br/>|10 de novembro de 2020<br/>|9 de março de 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -51,6 +51,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|10 de novembro|[Versão 2010 (Build 13328.20356)](current-channel.md#version-2010-november-10)|[Versão 2009 (Build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Versão 2008 (Build 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Versão 2008 (Build 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Versão 2002 (Build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Versão 1908 (Build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27 de outubro|[Versão 2010 (Build 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21 de outubro|[Versão 2009 (Compilação 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13 de outubro|[Versão 2009 (Compilação 13231.20390)](current-channel.md#version-2009-october-13)|[Versão 2008 (Compilação 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Versão 2007 (Compilação 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Versão 2008 (Compilação 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Versão 2002 (Compilação 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Versão 1908 (Compilação 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
@@ -161,7 +162,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 ||2 de janeiro   | [Versão 1711 (build 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |   |
 |2017|12 de dezembro  <br/> | [Versão 1711 (build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> |   | [Versão 1708 (build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Versão 1705 (build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [ Versão 1701 (build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||6 de dezembro  <br/> | [Versão 1711 (build 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |  <br/> |
-||27 de novembro  <br/> | [Versão 1710 (build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |  <br/> |
+||27 de novembro  <br/> | [Versão 1710 (Build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |  <br/> |
 ||24 de novembro  <br/> |  <br/> |  <br/> |  <br/> |[Versão 1705 (build 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
 ||20 de novembro  <br/> | [Versão 1710 (build 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |  <br/> |
 ||14 de novembro  <br/> | [Versão 1710 (build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> |  <br/> | [Versão 1708 (build 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [Versão 1705 (build 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [ Versão 1701 (build 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |

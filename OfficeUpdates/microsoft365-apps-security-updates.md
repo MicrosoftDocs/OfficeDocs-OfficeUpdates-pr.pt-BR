@@ -9,28 +9,62 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI anotações de lançamento das Atualizações de Segurança do Microsoft Office
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453289"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992686"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Notas de versão para atualizações de segurança do Microsoft Office
 
 Estas notas de versão fornecem informações das correções de segurança incluídas nas atualizações do Microsoft Office.
 
-Estas informações se aplicam ao Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios, Office 2016 Retail (C2R) e o Office 2019.
+Estas informações se aplicam ao Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios, Office 2016 Retail (C2R) e Office 2019.
 
 
 > [!IMPORTANT]
-> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
+> - Estamos fazendo algumas alterações nos canais de atualização para Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal Empresarial Mensal) e alterando os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Em nossa documentação, geralmente nos referiremos a ele apenas como Microsoft 365 Apps.
 
 
  
 
-[//]: # (NÃO REMOVA A LINHA ACIMA, ela é usada para o espaçamento)  
+[//]: # (NÃO REMOVA A LINHA ACIMA, ela é usada para espaçamento)  
+
+## <a name="november-10-2020"></a>10 de novembro de 2020
+Canal Atual: versão 2010 (Build 13328.20356)  
+Canal Empresarial Mensal: versão 2009 (Build 13231.20514)  
+Canal Empresarial Mensal: versão 2008 (Build 13127.20760)  
+Canal Empresarial Semestral (Pré-visualização): versão 2008 (Build 13127.20760)  
+Canal Empresarial Semestral: versão 2002 (Build 12527.21330)  
+Canal Empresarial Semestral: versão 1908 (Build 11929.20974)  
+Microsoft 365 Apps no Windows 7: versão 2002 (Build 12527.21330)  
+Varejo do Office 2019: versão 2010 (Build 13328.20356)  
+Varejo do Office 2016: versão 2010 (Build 13328.20356)  
+Licenciado por Volume do Office 2019: versão 1808 (Build 10368.20035)  
+
+[//]: # (NÃO REMOVA INICIAR CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Pacote de aplicativos do Office
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
 
 ## <a name="october-13-2020"></a>13 de outubro de 2020
 Canal Atual: Versão 2009 (Compilação 13231.20390)  

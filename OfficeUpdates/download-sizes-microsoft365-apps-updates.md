@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927134"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990130"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVA)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+## <a name="november-10-2020"></a>10 de novembro de 2020
 
-## <a name="november-5-2020"></a>5 de novembro de 2020
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de março de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a versão 2010 (Build 13328.20356).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2010 (Build 13328.20292) <br/> |27 de outubro de 2020 <br/> |57<br/> |
+|Versão 2009 (Build 13231.20418) <br/> |21 de outubro de 2020 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
-<i>O lançamento esperado é a Versão 2009 (Compilação 13231.20492).</i>
+A versão mais atual é a Versão 2009 (Build 13231.20514).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -51,9 +60,9 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
 
-<i>O lançamento esperado é a Versão 2008 (Compilação 13127.20760).</i>
+A versão mais atual é a Versão 2008 (Build 13127.20760).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -63,15 +72,18 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
 
-<i>O lançamento esperado é a Versão 2002 (Compilação 12527.21316).</i>
+A versão mais atual é a Versão 2002 (Build 12527.21330).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
 |Versão 2002 (Compilação 12527.21236) <br/> |13 de outubro de 2020 <br/> |63<br/> |
-|Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |77<br/> |
+|Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |76<br/> |
 
 
-[//]: # (NÃO REMOVER O CONTEÚDO DA PREVISÃO FINAL)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de novembro de 2020)
+
+
+
 
 ## <a name="october-27-2020"></a>27 de outubro de 2020
 

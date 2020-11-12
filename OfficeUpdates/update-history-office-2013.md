@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453339"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989950"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
-A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
+Certos produtos do Office 2013 são mantidos atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se deseja verificar se você está atualizado, verifique o número da versão do Office e atualize manualmente o Office, se necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2013 é a **15.0.5285.1000**, que foi lançada em 13 de Outubro de 2020.
+> A versão mais recente do Office 2013 é **15.0.5293.1000** , que foi lançada em 10 de novembro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -29,7 +29,7 @@ Para verificar sua versão do Office, faça o seguinte:
     
 2. Escolha **Arquivo** > **Conta**.
     
-3. Em **Informações do Produto**, anote o número da versão abaixo de **Atualizações do Office**.
+3. Em **Informações do Produto** , anote o número da versão abaixo de **Atualizações do Office**.
     
     Se o número da versão corresponder à versão mais recente, tudo estará atualizado. Caso contrário, atualize manualmente para obter a versão mais recente do Office 2013. Para atualizar o Office, [execute estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2020| 13 de outubro| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+|2020| 10 de novembro|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+||13 de outubro| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8 de setembro| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||11 de agosto | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||14 de julho    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
