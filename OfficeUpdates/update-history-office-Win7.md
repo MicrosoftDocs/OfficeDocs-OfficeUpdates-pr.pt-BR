@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos clientes notas de versão para o histórico de atualizações do Microsoft 365 Apps para Windows 7
-ms.openlocfilehash: 6a74e09a38c412cae85aabd097ecf4d59eb24f39
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: e7bf33b604fc142fe71c89c2dbf5b01e3fc209aa
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453069"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989886"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Histórico de atualizações do Microsoft 365 Apps para Windows 7 
 
@@ -41,6 +41,9 @@ Na segunda terça-feira de cada mês, um novo build da Versão 2002 será lança
 ##
 
 [//]: # (NÃO REMOVA)
+
+**10 de novembro de 2020**<br/>
+Versão 2002 (Build 12527.21330)<br/>
 
 **13 de outubro de 2020**<br/>
 Versão 2002 (Compilação 12527.21236)<br/>

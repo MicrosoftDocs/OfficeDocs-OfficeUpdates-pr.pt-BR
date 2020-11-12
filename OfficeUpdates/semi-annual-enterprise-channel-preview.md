@@ -9,20 +9,89 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
-ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
+ms.openlocfilehash: e448b5e1d0ea334401c9bd9c91291376f6579367
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "48466109"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990050"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Notas de versão para lançamentos do Canal Empresarial Semestral em 2020
 
-Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionadas à segurança que estão inclusas nas atualizações de 2020 do Canal Empresarial Semestral do Microsoft 365 Apps para Pequenos e Médios Negócios, Microsoft 365 Apps para Grandes Empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
+Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão incluídas nas atualizações do Canal Empresarial Semestral (Pré-visualização) em 2020 para Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos de desktop para o Microsoft Project e Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal Empresarial Mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-november-10"></a>Versão 2008: 10 de novembro
+*Versão 2008 (Build 13127.20760)*
+
+Atualizações de segurança listadas [ aqui ](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que certas funções apresentavam resultados incorretos após o carregamento de uma pasta de trabalho.
+
+
+- Corrigimos um problema em que o aplicativo fechava inesperadamente, o que estava relacionado a referências do suplemento XLAM e intervalos nomeados.
+
+
+- Corrigimos um problema em que, ao usar uma macro para definir a propriedade FormulaR1C1 para um intervalo, as referências de célula estariam incorretas se uma planilha de gráfico fosse a planilha ativa.
+
+
+- Corrigido um problema que poderia causar um erro de que "Excel esgotou os recursos ao tentar calcular uma ou mais fórmulas".
+
+
+- Corrigido um problema em que o idioma do Office era definido como Espanhol, no qual as listas de validação de dados podem não mostrar todos os itens na lista.
+
+
+- Corrigimos um problema que poderia causar um travamento ao atualizar as tabelas dinâmicas OLAP.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que os usuários agora podem desabilitar o IRM (Gerenciamento de Direitos de Informação) para o Outlook sem ter que desabilitá-lo para o restante dos aplicativos do Office.
+
+
+- Corrigimos um problema que impedia os usuários de conceder permissão de Editor aos seus delegados.
+
+
+- Corrigimos um problema que fazia com que os usuários experienciassem o aplicativo encerrar inesperadamente ao selecionar um resultado de pesquisa.
+
+
+- Corrigimos um problema que fazia com que as pesquisas nos calendários do Grupo não retornassem nenhum resultado.
+
+
+- Resolvido um problema que fazia com que os delegados vissem falhas intermitentes ao abrir pastas compartilhadas em outra caixa de correio.
+
+
+- Resolvido um problema que fazia com que alguns emails gerados automaticamente fossem enviados com um corpo em branco quando a linha de assunto estava em branco.
+
+
+- Corrigimos um problema que fazia com que os cabeçalhos das mensagens em Chinês ficassem distorcidos ao responder ou encaminhar.
+
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.  <br />Confira os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o suplemento de conteúdo do Microsoft Forms não processa após a inserção até que o usuário clique em outro slide para exibi-lo.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Resolvido um problema para clientes comerciais que utilizam o Centro do Sistema de Gerenciador de Configurações ou outra ferramenta de gerenciamento para o Atualização do Office usando a prevenção contra perda de dados do Ponto de extremidade do Microsoft 365.
+
+- Corrigido um problema de que a API de Mensagens para suplementos do Office não está funcionando.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2008-october-13"></a>Versão 2008: 13 de outubro
 *Versão 2008 (Compilação 13127.20638)*
@@ -124,7 +193,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques. Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Crie Tabelas Dinâmicas a partir dos Conjuntos de dados no Power BI no Excel:** Você pode criar Tabelas Dinâmicas no Excel que são conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 - **Suas funções favoritas do Excel acabaram de ficar mais rápidas:** As funções SOMASES, MÉDIASES, CONT.SES, MÁXIMOSES e MÍNIMOSES estão muito mais rápidas do que nunca. Chegue ao resultado final mais rapidamente. Experimente agora.
 
@@ -132,7 +201,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **As tualizações de calendário compartilhadas ficaram mais rápidas**: No caso de calendários compartilhados no Office 365, o Outlook pode atualizá-los usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.
+- **As tualizações de calendário compartilhadas ficaram mais rápidas** : No caso de calendários compartilhados no Office 365, o Outlook pode atualizá-los usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.
 
 - **Melhores resultados — em uma piscar olhos:** atualizamos a experiência de pesquisa para torná-la mais inteligente, rápida e mais confiável do que nunca. [Saiba mais](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
@@ -150,7 +219,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Chame a atenção com \@menções**: use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba Mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chame a atenção com \@menções** : use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba Mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
@@ -550,12 +619,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Correção de um problema em que poderia ocorrer uso excessivo da rede e da CPU durante a coautoria em arquivos grandes do PowerPoint.
 
-- Fizemos um novo AppV51 para corrigir uma regressão no AppV51 anterior.
+- Fizemos backport de uma nova queda do AppV51 para corrigir uma regressão no AppV51 anterior.
 
-- Soluciona um problema que causava falha no host do Office no Windows, quando um suplemento é ativado enquanto o valor TabProcGrowth do registro é do tipo REG_SZ.
+- Foi corrigido um problema de falha com o host do Office no Windows quando um suplemento é ativado enquanto o valor TabProcGrowth do registro é tipo REG_SZ.
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2002-june-09"></a>Versão 2002: 09 de junho
 *Versão 2002 (Build 12527.20720)*
@@ -710,9 +779,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão enviados para as células vizinhas automaticamente. [Saiba mais](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
-- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE and RANDARRAY.  [Saiba mais](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!** Linha por linha, encontre tudo o que precisa em uma tabela ou intervalo com XLOOKUP.  
+- **Digite uma fórmula que retorna vários valores:** digite rapidamente uma fórmula que retorna vários valores e eles serão automaticamente enviados para as células vizinhas. [Saiba mais](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- **Seis funções avançadas:** adicionamos seis novas funções para turbinar suas planilhas: FILTER, SORT, SORTBY, UNIQUE, SEQUENCE e RANDARRAY.  [Saiba mais](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP.  
   [Saiba mais](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO BUGDETAILS)
@@ -784,14 +853,14 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Chame a atenção com \@menções**: use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba Mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chame a atenção com \@menções** : use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba Mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **Encontre o que está procurando:** Pesquise comandos, pessoas, arquivos, fotos, artigos da Web e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 
 - **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. [Saiba Mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
 
@@ -819,7 +888,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Pesquisar com erros de ortografia ou digitação:** O Outlook encontrará o que você está procurando, mesmo quando a ortografia não corresponder.
 
-- **Emails de phishing fáceis de identificar:** As mensagens de spam e phishing têm uma aparência diferente, para que você possa identificá-las e eliminá-las facilmente na caixa de entrada.
+- **Emails de phishing são fáceis de detectar:** As mensagens de spam e phishing têm uma aparência diferente, para que você possa identificá-los e eliminá-los facilmente de sua caixa de entrada.
 
 - **Proteção avançada contra ataque:** com a proteção avançada contra ameaças do Office 365, você está protegido contra ataques por meio de hiperlinks dentro de assuntos de email, mensagens anexadas, mensagens assinadas, caminhos de rede e assim por diante.
 
@@ -843,7 +912,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Legendas em tempo real:** As palavras do apresentador aparecem na tela automaticamente como legendas ou traduzidas para o idioma que escolher. [Saiba Mais](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Encontre o que está procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -851,7 +920,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo.
 
@@ -869,9 +938,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você.
 
-- **Por que reinventa quando você pode reutilizar?:** poupar tempo usando novamente slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- **Por que reinventar quando você pode reutilizar?:** Economize tempo reutilizando slides que você criou ou que outras pessoas compartilharam com você. [Saiba mais](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
-- **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Altere a tinta manuscrita para formas, texto ou matemática no PowerPoint para Office 365:** Mude de tinta de formato livre para formas, texto ou expressão matemática do Office em alguns traços. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Pintar um slide esplêndido:** converta sua tinta para texto e formas padrão e obtenha ideias inteligentes de design de slides do Designer do PowerPoint. [Saiba mais](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
@@ -895,7 +964,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Edite documentos habilitados para macro de maneira colaborativa:** Salve arquivos docm no OneDrive for Business e edite-os com seus colaboradores em tempo real.
 
-- **Aperfeiçoamentos de coautoria**: melhor desempenho do Word durante a coautoria em documentos com alterações controladas.
+- **Aperfeiçoamentos de coautoria** : melhor desempenho do Word durante a coautoria em documentos com alterações controladas.
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba Mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -905,7 +974,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Apagar com precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições à tinta. [Saiba Mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
+- **Compartilhamento rápido de arquivo** : Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
 - **Não é mais necessário voltar ao navegador:** Você decide como os links para documentos do Office são abertos: no navegador ou no aplicativo. [Saiba mais](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
@@ -1194,7 +1263,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-august-13|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)
