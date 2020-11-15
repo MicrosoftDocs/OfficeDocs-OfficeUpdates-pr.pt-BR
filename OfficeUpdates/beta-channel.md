@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
-ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
+ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
+ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48939298"
+ms.lasthandoff: 11/13/2020
+ms.locfileid: "49071530"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -29,7 +29,48 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (NÃO REMOVA)
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVA O INÍCIO DE CONTEÚDO DE DETALHES DE RECURSOS)
+
+## <a name="version-2012-november-13"></a>Versão 2012: 13 de novembro
+*Versão 2012 (Criação 13510.20004)*
+
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DE DETALHES DE ERRO)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o comando Inserir Objeto não mostra o ícone correto ao inserir um arquivo na pasta de sincronização local do OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fez com que o campo Para: ficasse em branco nos relatórios de status da tarefa.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Resolvemos um problema de VBA em que Slide.Shapes.AddMediaObject2 travava com formatos de vídeo antigos (MPG-1,Mpeg-2).
+
+
+### <a name="project"></a>Projeto
+
+- Resolvemos um problema em que não foi possível eliminar as dependências dos produtos entregues se o site do SharePoint ao qual o produto entregue estava associado não existisse mais.
+
+
+- Resolvemos um problema em que os usuários abrem projetos que supostamente foram salvos com informações atualizadas, mas descobrem que as atualizações estão em falta.
+
+
+### <a name="word"></a>Word
+
+- Resolvemos um problema relacionado a imagens que ficavam borradas ao fazer zoom.
+
+
+- Consertamos um problema em que os hiperlinks longos estavam truncados.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
 
 ## <a name="version-2012-november-06"></a>Versão 2012: 06 de novembro
 *Versão 2012 (Build 13430.20000)*
@@ -919,7 +960,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Crie pesquisas no Outlook com a Pesquisa Rápida:** Crie facilmente uma pesquisa, colete votos e exiba os resultados em um email [Saiba mais](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+- **Novo localizador de salas:** pesquisar salas de conferência por diferentes recursos.
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
 
@@ -1877,7 +1918,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 
-[//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (NÃO MODIFICAR O INÍCIO DO CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
@@ -1887,5 +1929,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (NÃO MODIFICAR O FIM DO CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
