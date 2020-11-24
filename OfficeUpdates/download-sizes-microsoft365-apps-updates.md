@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990130"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387437"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
 Nosso objetivo é fornecer informações sobre o tamanho da atualização, se possível, antecipadamente para ajudar os clientes corporativos a planejar o uso da largura de banda de rede.
 
-As tabelas a seguir mostram o tamanho aproximado do download ao atualizar da versão anterior do Microsoft 365 Apps para a versão mais recente. Os tamanhos de download reais podem variar em até 50 MB. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -35,6 +35,38 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="november-23-2020"></a>23 de novembro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO23 de novembro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2011 (Build 13426.20274).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2010 (Build 13328.20408) <br/> |17 de novembro de 2020 <br/> |143<br/> |
+|Versão 2010 (Build 13328.20356) <br/> |10 de novembro de 2020 <br/> |148<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO23 de novembro de 2020)
+
+## <a name="november-17-2020"></a>17 de novembro de 2020
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO17 de novembro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2010 (Build 13328.20408).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2010 (Build 13328.20356) <br/> |10 de novembro de 2020 <br/> |51<br/> |
+|Versão 2010 (Build 13328.20292) <br/> |27 de outubro de 2020 <br/> |60<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO17 de novembro de 2020)
 
 ## <a name="november-10-2020"></a>10 de novembro de 2020
 
