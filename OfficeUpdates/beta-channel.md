@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 36166e5e6ab4c814e56d5a5458747ba1c67964e7
-ms.sourcegitcommit: 9775ae224ef323ec5f92db13c85a8d0abf256f9c
+ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
+ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/13/2020
-ms.locfileid: "49071530"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "49372265"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,42 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVA O INÍCIO DE CONTEÚDO DE DETALHES DE RECURSOS)
+
+## <a name="version-2012-november-20"></a>Versão 2012: 20 de novembro
+*Versão 2012 (Build 13512.20000)*
+
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Todas as reuniões online:** facilite o agendamento de reuniões online com uma nova configuração para tornar todas as reuniões online por padrão.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Biblioteca de Vídeos:** eleve os documentos com uma biblioteca de vídeo selecionados e livre de royalties disponíveis no aplicativo
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema em que o indicador de presença de um coautoria desconhecido não é totalmente atualizado, uma vez que mais informações sobre o coautoria estão disponíveis.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que o Word trava ao salvar o documento em PDF com texto oculto.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
 
 ## <a name="version-2012-november-13"></a>Versão 2012: 13 de novembro
 *Versão 2012 (Criação 13510.20004)*
@@ -690,7 +726,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Resolvemos um problema no qual os links longos não eram dispostos ao salvar um documento no formato HTML.
 - Resolvemos um problema no qual a macro AutoOpen era executada antes do AutoExec.
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2009-august-28"></a>Versão 2009: 28 de agosto
 *Versão 2009 (Build 13219.20004)*
@@ -805,21 +841,21 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -866,7 +902,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1074,9 +1110,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Obtenha Dados da Organização com o Power BI usando Tipos de Dados:** Os tipos de dados do Excel no Power BI agora estão sendo disponibilizados para os participantes do programa Office Insider em organizações com o Office 365 E5/A5 ou o Microsoft 365 E5/A5. Obter as informações necessárias e atualizá-las facilmente é fundamental para muitos fluxos de trabalho diários. Estamos oferecendo acesso às informações da sua empresa ou organização a partir do Power BI como tipo de dados no Excel, o amplia a capacidade de inserir informações vinculadas nas suas planilhas. [Saiba mais](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Obtenha Dados da Organização com o Power BI usando Tipos de Dados:** Os tipos de dados do Excel no Power BI agora estão sendo disponibilizados para os participantes do programa Office Insider em organizações com o Office 365 E5/A5 ou o Microsoft 365 E5/A5. Obter as informações necessárias e atualizá-las facilmente é fundamental para muitos fluxos de trabalho diários. Estamos oferecendo acesso às informações da sua empresa ou organização a partir do Power BI como tipo de dados no Excel, o amplia a capacidade de inserir informações vinculadas nas suas planilhas. [Saiba mais](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1224,7 +1260,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1499,7 +1535,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -1661,13 +1697,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Atualizações de recursos
 
 ### <a name="excel"></a>Excel
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1734,7 +1770,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ## <a name="version-2003-february-28"></a>Versão 2003: 28 de fevereiro
 *Versão 2003 (Criação 12619.20002)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -1768,7 +1804,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - Corrigido um problema em que o salvamento de um arquivo anteriormente protegido por senha em um armazenamento em nuvem não funcionava.
 
-### <a name="office-suite"></a>Pacote de aplicativos do Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Corrige um problema quando vários documentos são abertos no Word/Excel/PowerPoint da mesma biblioteca do SharePoint, apenas o primeiro documento aberto será verificado quanto à conformidade com a Diretiva.
 
@@ -1777,7 +1813,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ## <a name="version-2003-february-21"></a>Versão 2003: 21 de fevereiro
 *Versão 2003 (Build 12615.20000)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="office-suite"></a>Pacote do Office
@@ -1816,7 +1852,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ## <a name="version-2003-february-14"></a>Versão 2003: 14 de fevereiro
 *Versão 2003 (Build 12607.20000)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -1861,7 +1897,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ## <a name="version-2002-february-07"></a>Versão 2002: 7 de fevereiro
 *Versão 2002 (Build 12527.20040)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access
@@ -1919,6 +1955,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DO CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
@@ -1928,5 +1965,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (NÃO MODIFICAR O FIM DO CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
+ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48950000"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49408337"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
-Este artigo contém notas de versão para builds de Canal Atual (Visualização) do Word, Excel, PowerPoint, Outlook, Access e Project para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Observe que muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Atual (Visualização) durante um período de tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
+This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
 > We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
@@ -28,7 +28,88 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 [//]: # (NÃO REMOVA)
 
-## <a name="version-2011-november-09"></a>Versão 2011: 09 de novembro
+## <a name="version-2011-november-24"></a>Versão 2011: 24 de novembro
+*Versão 2011 (Build 13426.20294)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Correção de um problema com a cópia/colagem de uma equação do Word para o PowerPoint
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+
+## <a name="version-2011-november-21"></a>Versão 2011: 21 de novembro
+*Versão 2011 (Build 13426.20274)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="powerpoint"></a>PowerPoint
+
+- **Biblioteca de vídeo:** Eleve seus documentos com uma biblioteca de vídeo de royalties livres e gratuitas selecionadas disponíveis no aplicativo
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que causava a interrupção do evento MailItem. BeforeAttachmentAdd.
+
+
+- Adicionamos uma regkey que permite que os clientes desabilitem a inclusão de filetime para anexos nas operações do IDataObject (ou seja, arrastar e soltar, área de transferência). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes são excluídos. 1 = (padrão) filetimes estão incluídos
+
+
+- Corrigimos um problema que fazia com que as imagens embutidas desaparecessem ao responder a uma mensagem com um rótulo de proteção da Proteção de Informações do Azure.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+
+## <a name="version-2011-november-18"></a>Versão 2011: 18 de novembro
+*Versão 2011 (Build 13426.20250)*
+* Várias correções de bugs e de desempenho.
+
+## <a name="version-2011-november-16"></a>Versão 2011: 16 de novembro
+*Versão 2011 (Build 13426.20234)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Mesma assinatura, todos os dispositivos:** sua assinatura é armazenada na nuvem. Crie-o uma vez e use-o em todos os lugares onde usar o Outlook.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que o campo Para ficasse em branco ao enviar um relatório de status em uma tarefa.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Resolvemos um problema de VBA em que Slide.Shapes.AddMediaObject2 travava com formatos de vídeo antigos (MPG-1,Mpeg-2).
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+
+## <a name="version-2011-november-09"></a>Versão 2011: 9 de novembro
 *Versão 2011 (Compilação 13426.20184)*
 
 [//]: # (NÃO REMOVA O CONTEÚDO DE DETALHES DO RECURSO INICIAR)
@@ -207,9 +288,9 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Confira os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Confira os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportar GIF animado em um intervalo:** Selecione um intervalo de slides ao exportar para GIF animado
 
@@ -303,7 +384,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/text-predictions-in-word-outlook)
+- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
 
 - **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -509,10 +590,10 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="outlook"></a>Outlook
 
-- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/grammar-and-style-suggestions-available-in-outlook)
+- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -573,7 +654,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="excel"></a>Excel
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -585,13 +666,13 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Excluir conversa pelo proprietário da mensagem:** Este recurso permite excluir uma conversa pelo proprietário da mensagem.
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -609,7 +690,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="word"></a>Word
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1055,7 +1136,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
 *Versão 2007 (Compilação 13029.20344)*
@@ -1143,7 +1224,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1432,7 +1513,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários de usuários que desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos entusiasmados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. <br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1470,7 +1551,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Manter o texto em vetores:** Agora, você pode manter o texto em mapas, gráficos e outros vetores SVG ao converter esses objetos no Excel, no Word e no PowerPoint.
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2034,7 +2115,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -2351,13 +2432,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
@@ -2454,7 +2535,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
@@ -2479,7 +2560,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
@@ -2516,7 +2597,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 Versão 2002 (Build 12527.20174)
 
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="access"></a>Access
