@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Outlook 2016, Outlook 2013 e Outlook 2010
-ms.openlocfilehash: aa96c3580f834af83277bbd75275d3334ef38fca
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7136e7532588747443d19fa876be976b7d91ed3c
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989800"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601566"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Outlook que usam o Windows Installer (MSI)
 
@@ -43,20 +43,20 @@ A compatibilidade do Outlook com o Microsoft 365 e com o seu ambiente local depe
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de novembro de 2020 <br/>[KB4486720](https://support.microsoft.com/help/4486720) 
+|N/D  <br/> |PU de março de 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |PU de dezembro de 2020 <br/>[KB4486748](https://support.microsoft.com/help/4486748) 
 
 ## <a name="outlook-2013-updates"></a>Atualizações do Outlook 2013
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de dezembro de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Atualização Pública de outubro de 2020 <br/>[KB4484524](https://support.microsoft.com/help/4484524)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |PU de dezembro de 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |PU de dezembro de 2020 <br/>[KB4486732 ](https://support.microsoft.com/help/4486732 )  |
    
 ## <a name="outlook-2010-updates"></a>Atualizações do Outlook 2010
 > [!IMPORTANT]
-> O suporte do Office 2010 terminou em 13 de outubro de 2020.  Se você ainda não começou a atualizar o ambiente do Office 2010, recomendamos que inicie agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+> O suporte do Office 2010 terminou em 13 de outubro de 2020.  Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 |**Service Pack (SP) mais recente**|**Atualização mínima necessária**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU de outubro de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU de abril de 2015 para o Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Atualização Pública de outubro de 2020 <br/>[KB4486663](https://support.microsoft.com/help/4486663) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |PU de outubro de 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  PU de abril de 2015 para o Office 2010 para MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |PU de dezembro de 2020 <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
    
 

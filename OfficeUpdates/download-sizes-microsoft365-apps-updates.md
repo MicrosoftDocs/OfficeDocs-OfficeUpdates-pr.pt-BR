@@ -9,36 +9,117 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: d3645b8814459970e7eaf0a2788cb292be739825
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387437"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601426"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
 Nosso objetivo é fornecer informações sobre o tamanho da atualização, se possível, antecipadamente para ajudar os clientes corporativos a planejar o uso da largura de banda de rede.
 
-The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
+As tabelas a seguir mostram o tamanho aproximado do download ao atualizar da versão anterior do Microsoft 365 Apps para a versão mais recente. Os tamanhos de download reais podem variar em até 50 MB. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 
-If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
+Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
 
 
 > [!IMPORTANT]
-> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
+> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 > [!NOTE]
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão de 64 bits em pt-br do Microsoft 365 Apps.
 > - Somente versões dos últimos quatro meses estão listadas.
 
-[//]: # (NÃO REMOVA)
+[//]: # (NÃO REMOVER)
+
+## <a name="december-8-2020"></a>8 de dezembro de 2020
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO8 de dezembro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2011 (Build 13426.20332).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2011 (Build 13426.20308) <br/> |2 de dezembro de 2020 <br/> |55<br/> |
+|Versão 2011 (Build 13426.20294) <br/> |30 de novembro de 2020 <br/> |227<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+O lançamento mais atual é a versão 2010 (Build 13328.20478).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2009 (Build 13231.20514) <br/> |10 de novembro de 2020 <br/> |127<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
+
+A versão mais atual é a Versão 2008 (Build 13127.20910).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.20760) <br/> |10 de novembro de 2020 <br/> |68<br/> |
+|Versão 2008 (Build 13127.20638) <br/> |13 de outubro de 2020 <br/> |75<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+A versão mais atual é a Versão 2002 (Build 12527.21416).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2002 (Build 12527.21330) <br/> |10 de novembro de 2020 <br/> |68<br/> |
+|Versão 2002 (Build 12527.21236) <br/> |13 de outubro de 2020 <br/> |71<br/> |
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO8 de dezembro de 2020)
+
+
+
+
+## <a name="december-2-2020"></a>2 de dezembro de 2020
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO2 de dezembro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+O lançamento mais atual é a Versão 2011 (Build 13426.20308).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2011 (Build 13426.20294) <br/> |30 de novembro de 2020 <br/> |53<br/> |
+|Versão 2011 (Build 13426.20274) <br/> |23 de novembro de 2020 <br/> |241<br/> |
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO2 de dezembro de 2020)
+
+## <a name="november-30-2020"></a>30 de novembro de 2020
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO30 de novembro de 2020)
+
+### <a name="current-channel"></a>Canal Atual
+
+O lançamento mais atual é a Versão 2011 (Build 13426.20294).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2011 (Build 13426.20274) <br/> |23 de novembro de 2020 <br/> |40<br/> |
+|Versão 2010 (Build 13328.20408) <br/> |17 de novembro de 2020 <br/> |146<br/> |
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO30 de novembro de 2020)
 
 ## <a name="november-23-2020"></a>23 de novembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO23 de novembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO23 de novembro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -50,11 +131,11 @@ A versão mais atual é a Versão 2011 (Build 13426.20274).
 |Versão 2010 (Build 13328.20356) <br/> |10 de novembro de 2020 <br/> |148<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO23 de novembro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO23 de novembro de 2020)
 
 ## <a name="november-17-2020"></a>17 de novembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO17 de novembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO17 de novembro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -66,11 +147,11 @@ A versão mais atual é a Versão 2010 (Build 13328.20408).
 |Versão 2010 (Build 13328.20292) <br/> |27 de outubro de 2020 <br/> |60<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO17 de novembro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO17 de novembro de 2020)
 
 ## <a name="november-10-2020"></a>10 de novembro de 2020
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de março de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO10 de março de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -112,14 +193,14 @@ A versão mais atual é a Versão 2002 (Build 12527.21330).
 |Versão 2002 (Build 12527.21104) <br/> |8 de setembro de 2020 <br/> |76<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de novembro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO10 de novembro de 2020)
 
 
 
 
 ## <a name="october-27-2020"></a>27 de outubro de 2020
 
-[//]: # (NÃO REMOVA CONTEÚDO INÍCIO 27 de outubro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO27 de outubro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -131,11 +212,11 @@ A versão mais atual é a versão 2010 (Build 13328.20292).
 |Versão 2009 (Compilação 13231.20390) <br/> |13 de outubro de 2020 <br/> |133<br/> |
 
 
-[//]: # (NÃO REMOVA CONTEÚDO EM 27 de outubro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO27 de outubro de 2020)
 
 ## <a name="october-21-2020"></a>21 de outubro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 21 de outubro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO21 de outubro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -147,11 +228,11 @@ A versão mais atual é a Versão 2009 (Compilação 13231.20418).
 |Versão 2009 (Compilação 13231.20368) <br/> |8 de outubro de 2020 <br/> |173<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 21 de outubro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO21 de outubro de 2020)
 
 ## <a name="october-13-2020"></a>13 de outubro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO13 de outubro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO13 de outubro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -193,11 +274,11 @@ A versão mais atual é a Versão 2002 (Compilação 12527.21236).
 
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO13 de outubro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO13 de outubro de 2020)
 
 ## <a name="october-8-2020"></a>8 de outubro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de outubro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO8 de outubro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -209,14 +290,14 @@ A versão mais atual é a Versão 2009 (Build 13231.20368).
 |Versão 2008 (Build 13127.20508) <br/> |22 de setembro de 2020 <br/> |361<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 8 de outubro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO8 de outubro de 2020)
 
 
 
 
 ## <a name="september-28-2020"></a>28 de setembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 28 de setembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO28 de setembro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -232,7 +313,7 @@ A versão mais atual é a Versão 2009 (Build 13231.20262).
 
 ## <a name="september-22-2020"></a>22 de setembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 22 de setembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO22 de setembro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -248,7 +329,7 @@ A versão mais atual é a Versão 2008 (Build 13127.20508).
 
 ## <a name="september-9-2020"></a>9 de setembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 9 de setembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO9 de setembro de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -260,11 +341,11 @@ A versão mais atual é a Versão 2008 (Compilação 13127.20408).
 |Versão 2007 (Compilação 13029.20460) <br/> |25 de agosto de 2020 <br/> |510<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 9 de setembro de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO9 de setembro de 2020)
 
 ## <a name="september-8-2020"></a>8 de setembro de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de setembro de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO8 de setembro de 2020)
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
@@ -302,7 +383,7 @@ A versão mais atual é a Versão 2002 (Compilação 12527.21104).
 
 ## <a name="august-31-2020"></a>31 de agosto de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO31 de agosto de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO31 de agosto de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -314,11 +395,11 @@ A versão mais atual é a Versão 2008 (Compilação 13127.20296).
 |Versão 2007 (Compilação 13029.20344) <br/> |11 de agosto de 2020 <br/> |251<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO31 de agosto de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO31 de agosto de 2020)
 
 ## <a name="august-25-2020"></a>25 de agosto de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 25 de agosto de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO25 de agosto de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -330,11 +411,11 @@ A versão mais atual é a versão 2007 (Compilação 13029.20460).
 |Versão 2007 (Compilação 13029.20308) <br/> |30 de julho de 2020 <br/> |50<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 25 de agosto de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO25 de agosto de 2020)
 
 ## <a name="august-11-2020"></a>11 de agosto de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 11 de agosto de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO11 de agosto de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -376,14 +457,14 @@ A versão mais atual é a Versão 2002 (Compilação 12527.20988).
 |Versão 1908 (Build 11929.20838) <br/> |09 de junho de 2020 <br/> |291<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 11 de agosto de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO11 de agosto de 2020)
 
 
 
 
 ## <a name="july-30-2020"></a>30 de julho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 30 de julho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO30 de julho de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -395,11 +476,11 @@ A versão mais atual é a Versão 2007 (Build 13029.20308).
 |Versão 2006 (Compilação 13001.20384) <br/> |14 de julho de 2020 <br/> |158<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 30 de julho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO30 de julho de 2020)
 
 ## <a name="july-28-2020"></a>28 de julho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 28 de julho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO28 de julho de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -411,11 +492,11 @@ A versão mais atual é a Versão 2006 (Compilação 13001.20498).
 |Versão 2006 (Build 13001.20266) <br/> |30 de junho de 2020 <br/> |62<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 28 de julho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO28 de julho de 2020)
 
 ## <a name="july-14-2020"></a>14 de julho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 14 de julho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO14 de julho de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -457,7 +538,7 @@ A versão mais atual é a Versão 2002 (Build 12527.20880).
 |Versão 1908 (Build 11929.20776) <br/> |12 de maio de 2020 <br/> |291<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 14 de julho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO14 de julho de 2020)
 
 
 
@@ -473,13 +554,13 @@ A versão mais atual é a Versão 2006 (Build 13001.20266).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Version 2005 (Build 12827.20470) <br/> |24 de junho de 2020 <br/> |155<br/> |
+|Versão 2005 (Compilação 12827.20470) <br/> |24 de junho de 2020 <br/> |155<br/> |
 |Versão 2005 (Build 12827,20336) <br/> |9 de junho de 2020 <br/> |154<br/> |
 
 
 ## <a name="june-24-2020"></a>24 de junho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 24 de junho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO24 de junho de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -491,12 +572,12 @@ A versão mais atual é a Versão 2005 (Build 12827.20470).
 |Versão 2005 (Build 12827.20268) <br/> |2 de junho de 2020 <br/> |63<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 24 de junho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO24 de junho de 2020)
 
 
 ## <a name="june-9-2020"></a>9 de junho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 9 de junho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO9 de junho de 2020)
 
 ### <a name="current-channel"></a>Canal Atual
 
@@ -536,14 +617,14 @@ A versão mais atual é a Versão 1908 (Build 11929.20838).
 |Versão 1908 (Criação 11929.20708) <br/> |14 de abril de 2020 <br/> |70<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 9 de junho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO9 de junho de 2020)
 
 
 
 
 ## <a name="june-2-2020"></a>2 de junho de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 2 de junho de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO2 de junho de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -554,11 +635,11 @@ A versão mais atual é a Versão 2005 (Build 12827.20268).
 |Versão 2004 (Build 12730,20352) <br/> |Maio de 21, 2020 <br/> |175<br/> |
 |Versão 2004 (Build 12730.20270) <br/> |12 de maio de 2020 <br/> |181<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 2 de junho de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO2 de junho de 2020)
 
 ## <a name="may-21-2020"></a>Maio de 21, 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 21 de maio de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO21 de maio de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -570,11 +651,11 @@ A versão mais atual é a Versão 2004 (Build 12730.20352).
 |Versão 2004 (Build 12730.20250) <br/> |04 de maio de 2020 <br/> |71<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 21 de maio de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO21 de maio de 2020)
 
 ## <a name="may-12-2020"></a>12 de maio de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO12 de maio de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO12 de maio de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -610,12 +691,12 @@ A versão mais atual é a Versão 1908 (Build 11929.20776).
 |Versão 1908 (Build 11929.20648) <br/> |10 de março de 2020 <br/> |77<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO12 de maio de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO12 de maio de 2020)
 
 
 ## <a name="may-4-2020"></a>04 de maio de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO04 de maio de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO04 de maio de 2020)
 
 ### <a name="monthly-channel"></a>Canal mensal
 
@@ -636,7 +717,7 @@ A versão mais atual é a Versão 1908 (Criação 11929.20752).
 |Versão 1908 (Build 11929.20648) <br/> |10 de março de 2020 <br/> |77<br/> |
 
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO04 de maio de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO04 de maio de 2020)
 
 ## <a name="april-29-2020"></a>29 de abril de 2020
 
@@ -706,7 +787,7 @@ A versão mais atual é a Versão 2002 (Build 12527.20442).
 
 ## <a name="march-31-2020"></a>31 de março de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO31 de março de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO31 de março de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -717,11 +798,11 @@ A versão mais atual é a Versão 2003 (Build 12624.20382).
 |Versão 2003 (Build 12624.20320) <br/> |25 de março de 2020 <br/> |64<br/> |
 |Versão 2002 (Build 12527.20278) <br/> |10 de março de 2020 <br/> |168<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO31 de março de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO31 de março de 2020)
 
 ## <a name="march-25-2020"></a>25 de março de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO25 de março de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO25 de março de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -732,7 +813,7 @@ A versão mais atual é a Versão 2003 (Build 12624.20320).
 |Versão 2002 (Build 12527.20278) <br/> |10 de março de 2020 <br/> |171<br/> |
 |Versão 2002 (Criação 12527.20242) <br/> |1º de março de 2020 <br/> |172<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO25 de março de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO25 de março de 2020)
 
 ## <a name="march-10-2020"></a>10 de março de 2020
 
@@ -745,7 +826,7 @@ A versão mais atual é a Versão 2002 (Build 12527.20278).
 |Versão 2002 (Build 12527.20242) <br/> |1º de março de 2020 <br/> |40<br/> |
 |Versão 2002 (Build 12527.20194) <br/> |25 de Fevereiro de 2020 <br/> |266<br/> |
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO10 de março de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO10 de março de 2020)
 
 ### <a name="semi-annual-channel"></a>Canal semestral
 
@@ -765,11 +846,11 @@ A versão mais atual é a Versão 2002 (Build 12527.20278).
 |Versão 1908 (Criação 11929.20606) <br/> |11 de fevereiro de 2020 <br/> |291<br/> |
 |Versão 1908 (Build 11929.20562) <br/> |14 de janeiro de 2020 <br/> |292<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO10 de março de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO10 de março de 2020)
 
 ## <a name="march-1-2020"></a>1º de março de 2020
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO01º de março de 2020)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO1 de março de 2020)
 
 ### <a name="monthly-channel"></a>Canal Mensal
 
@@ -780,7 +861,7 @@ O versão mais atual é a Versão 2002 (Criação 12527.20242).
 |Versão 2002 (Criação 12527.20194) <br/> |25 de Fevereiro de 2020 <br/> |57<br/> |
 |Versão 2001 (Criado 12430.20288) <br/> |19 de fevereiro de 2020 <br/> |152<br/> |
 
-[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO01º de março de 2020)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO1 de março de 2020)
 
 ## <a name="related-topics"></a>Tópicos relacionados
 

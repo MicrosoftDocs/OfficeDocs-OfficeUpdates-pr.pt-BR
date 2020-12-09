@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Localize e gerencie as atualizações do SharePoint Server 2016, do SharePoint 2013 e do SharePoint 2010 em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
-ms.openlocfilehash: e49797d7fbc3f456f09fec9db6c8a00b414c69cb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 53f564b0360f6a34f3492bf590b48f4ca3e309a9
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990060"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601416"
 ---
 # <a name="sharepoint-updates"></a>Atualizações do SharePoint
 
@@ -32,7 +32,8 @@ Para obter as atualizações mais recentes do SharePoint Online e do Microsoft 3
 
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Server 2019 <br/> MUI do SharePoint Server 2019/patch de linguagem  <br/>|[KB 4486714 ](https://support.microsoft.com/help/4486714)<br/>[KB 4486715](https://support.microsoft.com/help/4486715)<br/>|16.0.10368.20022|Novembro de 2020|
+|SharePoint Server 2019 <br/> MUI do SharePoint Server 2019/patch de idiomas  <br/>|[KB 4486751](https://support.microsoft.com/help/4486751)<br/>[KB 4486752](https://support.microsoft.com/help/4486752)<br/>|16.0.10369.20000|Dezembro de 2020|
+|SharePoint Server 2019 <br/> MUI do SharePoint Server 2019/patch de idiomas  <br/>|[KB 4486714 ](https://support.microsoft.com/help/4486714)<br/>[KB 4486715](https://support.microsoft.com/help/4486715)<br/>|16.0.10368.20022|Novembro de 2020|
 |SharePoint Server 2019 <br/> MUI do SharePoint Server 2019/patch de idiomas  <br/>|[KB 4486676](https://support.microsoft.com/help/4486676)<br/>[KB 4486675](https://support.microsoft.com/help/4486675)<br/>|16.0.10367.20000|Outubro de 2020|
 |SharePoint Server 2019 <br/> MUI do SharePoint Server 2019/patch de idiomas  <br/>|[KB 4484505](https://support.microsoft.com/help/4484505)<br/>[KB 4484504](https://support.microsoft.com/help/4484504)<br/>|16.0.10366.12106|Setembro de 2020|
 |SharePoint Server 2019  <br/> MUI do SharePoint Server 2019/patch de idiomas  <br/> |[KB 4484472](https://support.microsoft.com/help/4484472) <br/>[KB 4484471](https://support.microsoft.com/help/4484471) <br/>|16.0.10364.20001| Agosto de 2020 <br/>|
@@ -61,6 +62,7 @@ Para obter as atualizações mais recentes do SharePoint Online e do Microsoft 3
 
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>MUI do SharePoint Server 2016/patch de idiomas  <br/> |[KB 4486753](https://support.microsoft.com/help/4486753) <br/>[KB 4486721](https://support.microsoft.com/help/4486721) <br/>|16.0.5095.1000 <br/>|Dezembro de 2020|
 |SharePoint Server 2016  <br/> |[KB 4486717](https://support.microsoft.com/help/4486717) <br/>|16.0.5083.1000 <br/>|Novembro de 2020|
 |SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/>|[KB 4486677](https://support.microsoft.com/help/4486677 ) <br/>[KB 4486681](https://support.microsoft.com/help/4486681 ) <br/>|16.0.5071.1000 <br/>|Outubro de 2020|
 |SharePoint Server 2016  <br/> MUI do SharePoint Server 2016/patch de idiomas  <br/>|[KB 4484506](https://support.microsoft.com/help/4484506 ) <br/>[KB 4484512](https://support.microsoft.com/help/4484512 ) <br/>|16.0.5056.1001 <br/> 16.0.5056.1000 <br/>|Setembro de 2020|
@@ -132,8 +134,9 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
     
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4486761](https://support.microsoft.com/help/4486761) <br/>[KB 4493137](https://support.microsoft.com/help/4493137) <br/>|15.0.5301.1000|Dezembro de 2020|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4486728](https://support.microsoft.com/help/4486728) <br/>[KB 4486731](https://support.microsoft.com/help/4486731) <br/>|15.0.5293.1000|Novembro de 2020|
-|Microsoft Office SharePoint Online Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4486690](https://support.microsoft.com/help/4486690) <br/>[KB 4486693](https://support.microsoft.com/help/4486693) <br/>|15.0.5285.1000|Outubro de 2020|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4486690](https://support.microsoft.com/help/4486690) <br/>[KB 4486693](https://support.microsoft.com/help/4486693) <br/>|15.0.5285.1000|Outubro de 2020|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4484519](https://support.microsoft.com/help/4484519) <br/>[KB 4484523](https://support.microsoft.com/help/4484523) <br/>|15.0.5275.1001|Setembro de 2020|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4484482](https://support.microsoft.com/help/4484482) <br/>[KB 4484485](https://support.microsoft.com/help/4484485) <br/>|15.0.5267.1000 |Agosto de 2020|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4484444](https://support.microsoft.com/help/4484444) <br/> [KB 4484447](https://support.microsoft.com/help/4484447) <br/> |15.0.5259.1001 |Julho de 2020  <br/> |
@@ -218,7 +221,8 @@ Os pacotes a seguir são fornecidos para atualizações cumulativas:
 
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
-|SharePoint Foundation 2010  <br/> Microsoft Office SharePoint Online Server 2010  <br/>|[KB 4486744](https://support.microsoft.com/help/4486744)<br>[KB 4486741](https://support.microsoft.com/help/4486741)<br>|14.0.7262.5000|Novembro de 2020|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4493149](https://support.microsoft.com/help/4493149)<br>[KB 4493146](https://support.microsoft.com/help/4493146)<br>|14.0.7263.5000|Dezembro de 2020|
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4486744](https://support.microsoft.com/help/4486744)<br>[KB 4486741](https://support.microsoft.com/help/4486741)<br>|14.0.7262.5000|Novembro de 2020|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4486708](https://support.microsoft.com/help/4486708)<br>[KB 4486705](https://support.microsoft.com/help/4486705)<br>|14.0.7261.5000|Outubro de 2020|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/>|[KB 4486667](https://support.microsoft.com/help/4486667)<br>[KB 4486662](https://support.microsoft.com/help/4486662)<br>|14.0.7260.5000|Setembro de 2020|
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4484462](https://support.microsoft.com/help/4484462) <br/>[KB 4484496](https://support.microsoft.com/help/4484496) <br/>|14.0.7256.5000| Agosto de 2020|
