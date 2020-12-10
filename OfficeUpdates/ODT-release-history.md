@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
-ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
+ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "49385477"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601406"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
 
-A ODT (Ferramenta de implantação do Office) é uma ferramenta de linha de comando que você pode usar para baixar e implantar versões Clique para executar do Office, como o Microsoft 365 Apps, para os computadores cliente. 
+A ODT (ferramenta de implantação do Office) é uma ferramenta de linha de comando que você pode usar para baixar e implantar versões clique para executar do Office, como os Aplicativos do Microsoft 365, para os computadores cliente. 
 
 
-A ODT dá mais controle sobre uma instalação do Office. Você pode definir quais produtos e idiomas são instalados, como esses produtos devem ser atualizados e se deseja ou não exibir a experiência de instalação para os usuários. Para saber mais sobre como usar a ODT, confira a [Visão geral da ferramenta de implantação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
+A ODT dá mais controle sobre uma instalação do Office. É possível definir quais produtos e idiomas são instalados, como os produtos devem ser atualizados e se deseja ou não exibir a experiência de instalação para os usuários. Para saber mais sobre como usar a ODT, confira [Visão geral da Ferramenta de Implantação do Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
  O **Sistema Operacional com Suporte**: Windows 10, Windows 8.1, Windows Server 2019 ou Windows Server 2016. 
  
@@ -29,13 +29,19 @@ A ODT dá mais controle sobre uma instalação do Office. Você pode definir qua
 
 [Baixar a Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+## <a name="december-8-2020"></a>8 de dezembro de 2020
+Versão 16.0.13426.20308 (setup.exe versão 16.0.13426.20308)
+- Correção de um problema em que o modo de download estava bloqueando os downloads de canal de 2019 permanentes se o dispositivo tivesse um produto do Office instalado de um canal 2019 não-permanente.
+- Correção de um problema em que uma migração de arquitetura falharia em uma origem local criada por meio do modo de download que tenha especificado uma versão explícita no XML de configuração.
+
+
 ## <a name="november-23-2020"></a>23 de novembro de 2020
 Versão 16.0.13328.20420 (setup.exe versão 16.0.13328.20420)
 - Corrigido um problema em que os revisores de texto não estavam sendo baixados pelo modo /download
 - Corrigido um problema em que o modo /download falhava ao ser executado em um contexto de usuário não elevado
 - Corrigido um problema em que a especificação de um atributo de Versão no XML de configuração resultava em um download incompleto no modo /download
 - Corrigido um problema em que a Ferramenta de Implantação do Office não era chamada de “setup.exe” quando extraída
-- Corrigido um problema de priorização da fonte de instalação quando um atributo de Canal é fornecido no XML de configuração
+- Corrigido um problema de priorização da fonte de instalação quando um atributo de canal é fornecido no XML de configuração
 
 ## <a name="november-10-2020"></a>10 de novembro de 2020
 Versão 16.0.13328.20356 (setupODT.exe versão 16.0.13328.20336)
