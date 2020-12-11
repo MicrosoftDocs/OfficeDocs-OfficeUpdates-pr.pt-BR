@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408337"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613533"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+Este artigo contém notas de versão para builds de Canal Atual (Visualização) do Word, Excel, PowerPoint, Outlook, Access, Project e Teams para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Observe que muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Atual (Visualização) durante um período de tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização do Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal corporativo mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
+> - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
-[//]: # (NÃO REMOVA)
+[//]: # (NÃO REMOVER)
+
+## <a name="version-2012-december-07"></a>Versão 2012: 07 de dezembro
+*Versão 2012 (Build 13530.20064)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+
+### <a name="teams"></a>Teams
+
+- **As notificações nativas do Windows agora têm suporte no Teams:** Os usuários agora podem selecionar seus meios preferenciais de entrega de notificação, seja por meio de faixas internas do Teams ou faixas nativas do Windows.
+
+
+- **Reuniões do Teams modo de exibição de galeria 2x2 no Citrix e no VMWare VDI:** O recurso Teams no modo de exibição de galeria 2x2 no VDI será habilitado para exibir até quatro vídeos de participantes no Modo de Exibição de Galeria 2x2 em clientes da VDI da Citrix, VMWare quando o cliente Teams estiver no modo optimizado VDI.
+
+
+- **Reações de Reunião:**  As reações de reunião são uma nova maneira de interagir em reuniões. Os participantes podem enviar reações que são mostradas como um fluxo no conteúdo que está sendo compartilhado e, na pessoa que enviou a reação, se elas forem exibidas no palco da estágio. 
+
+
+- **Modo Juntos e Galeria Grande para Reuniões da Web** A Galeria Grande permite que você veja os vídeos de até 49 outras pessoas ao mesmo tempo. Essa opção está disponível quando pelo menos dez pessoas têm suas câmeras ativadas. O modo Juntos permite que você se sinta como se estivesse no mesmo espaço junto com todos na reunião. O modo Juntos está disponível quando há pelo menos cinco pessoas na reunião. 
+
+
+- **Mescla de chamadas** A Mescla de Chamadas permite que os usuários mesclem uma nova chamada que eles façam ou uma nova chamada recebida, em suas chamadas individuais ou de grupo. Isso se aplica a chamadas de VOIP e chamadas PSTN no Teams. 
+
+
+### <a name="visio"></a>Visio
+
+- **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que alguns elementos da faixa de opções não eram localizados em Chinês Simplificado.
+
+
+- Corrigimos um problema em que o Excel fechava inesperadamente durante a atualização.
+
+
+- Corrigimos um problema em que o comando Inserir Objeto não mostra o ícone correto ao inserir um arquivo na pasta de sincronização local do OneDrive.
+
+
+- Correção de um problema em que a edição em idiomas que exigem o uso de IME iria se comportar mal ao editar no modo de substituição.
+
+
+- Correção de um problema em que alguns usuários veriam incorretamente uma barra de mensagens informando-os de uma nova versão de um arquivo durante a co-autoria.
+
+
+- Correção de um problema em que o Excel fecharia inesperadamente ao copiar e colar dados no modo de fórmula.
+
+
+- Corrigido um hiperlink quebrado para um artigo de ajuda em um alerta, caso o Salvamento Automático fique desabilitado.
+
+
+- Corrigimos um problema em que, ao inserir dados enquanto o Excel é executado em determinados idiomas podem fazer com que o Excel pare de funcionar.
+
+
+- Essa alteração resolve um problema com a exibição adequada de fontes em equações.
+
+
+- Isso corrige um problema em que o Power Pivot não pôde importar corretamente um arquivo de texto delimitado por tabulação.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fez com que o campo Para: ficasse em branco nos relatórios de status da tarefa.
+
+
+- Corrigimos um problema que causava a interrupção do evento MailItem.BeforeAttachmentAdd.
+
+
+- Corrigimos um problema que estava fazendo com que os usuários experimentassem alguns problemas ao enviar emails do Outlook de aplicativos diferentes do Outlook.
+
+
+- Corrigimos um problema que fazia com que o SmartLinks perca sua formatação quando salvo em rascunhos.
+
+
+- Corrigimos um problema de falha na adição de um anexo a uma mensagem aberta a partir de um arquivo zip.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Correção de um problema com a cópia/colagem de uma equação do Word para o PowerPoint
+
+
+- Essa alteração resolve um problema relacionado a tempos limites que ocorrem durante a análise de tinta.
+
+
+- Essa alteração corrige um erro gramatical na interface de usuário Criar um GIF Animado.
+
+
+- Essa alteração resolve um problema com os preenchimentos de caminho ao aplicar operações Mesclar Formas com determinadas geometrias.
+
+
+- Essa alteração resolve um problema com a exibição adequada de fontes em equações.
+
+
+- Essa alteração resolve um problema com a manipulação de erros que podem ocorrer durante o carregamento do vídeo.
+
+
+- Resolvemos um problema de VBA em que Slide.Shapes.AddMediaObject2 travava com formatos de vídeo antigos (MPG-1,Mpeg-2).
+
+
+- Corrigimos um problema em que um indicador de presença de co-autoria desconhecida não é atualizado completamente quando mais informações sobre o co-autor está disponível.
+
+
+- Correção de um ponteiro null que está sendo cancelado quando o modo de exibição de slides é redimensionado com a régua ativada.
+
+
+- Corrigido um problema que fazia com que alguns arquivos do PowerPoint corrompidos não abrissem corretamente mesmo após uma operação de reparo de documento.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Resolvemos um problema em que os usuários abrem projetos que supostamente foram salvos com informações atualizadas, mas descobrem que as atualizações estão em falta.
+
+
+- Resolvemos um problema em que não foi possível eliminar as dependências dos produtos entregues se o site do SharePoint ao qual o produto entregue estava associado não existisse mais.
+
+
+- Correção de um problema em que abrir um projeto com muitos recursos estava levando muito tempo.
+
+
+- Corrigido problema em que os usuários podem ver várias atribuições não atribuídas associadas a uma tarefa.
+
+
+- Corrigido um problema em que em grandes projetos pode ser muito lento inserir um nome de tarefa.
+
+
+- Corrigido um problema em que projetos específicos podiam ser abertos se houvesse um problema com o arquivo de projeto em uma parte específica da carga.
+
+
+### <a name="word"></a>Word
+
+- Colar como texto sem formatação é geralmente preferível comparado a colar como rich text. Este correção de menu de contexto permite que o usuário cole como texto sem formatação. Senão, o usuário teria que copiar em um editor de texto simples, como o Bloco de Notas, e, em seguida, copiar do Bloco de Notas para o aplicativo de destino desejado
+
+
+- Correção de um problema com a cópia/colagem de uma equação do Word para o PowerPoint
+
+
+- Essa alteração resolve um problema com o cursor ao editar um documento.
+
+
+- Resolvemos um problema relacionado a imagens que ficavam borradas ao fazer zoom.
+
+
+- Consertamos um problema em que os hiperlinks longos estavam truncados.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- O Pacote Office corrigiu um problema em que a instalação de uma versão mais recente do Office em relação a certas versões mais antigas pode resultar em funcionalidade prejudicada (como a impossibilidade de usar o Power Query) devido à falta de entradas de registro.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2011-december-01"></a>Versão 2011: 01 de dezembro
+*Versão 2011 (Build 13426.20306)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Todas as reuniões online:** Facilite o agendamento de reuniões online com uma nova configuração para tornar todas as reuniões online por padrão.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os participantes originais de algumas reuniões recebessem um cancelamento quando outro participante encaminhava a reunião.
+
+
+- Corrigimos um problema que fazia com que alguns usuários não vissem assinaturas no menu suspenso de assinaturas, apesar de terem uma ou mais assinaturas configuradas.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Corrigido um problema em que projetos específicos podiam ser abertos se houvesse um problema com o arquivo de projeto em uma parte específica da carga.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2011-november-24"></a>Versão 2011: 24 de novembro
 *Versão 2011 (Build 13426.20294)*
@@ -40,12 +237,12 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2011-november-21"></a>Versão 2011: 21 de novembro
 *Versão 2011 (Build 13426.20274)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="powerpoint"></a>PowerPoint
@@ -62,7 +259,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que causava a interrupção do evento MailItem. BeforeAttachmentAdd.
+- Corrigimos um problema que causava a interrupção do evento MailItem.BeforeAttachmentAdd.
 
 
 - Adicionamos uma regkey que permite que os clientes desabilitem a inclusão de filetime para anexos nas operações do IDataObject (ou seja, arrastar e soltar, área de transferência). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = filetimes são excluídos. 1 = (padrão) filetimes estão incluídos
@@ -72,7 +269,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2011-november-18"></a>Versão 2011: 18 de novembro
 *Versão 2011 (Build 13426.20250)*
@@ -81,7 +278,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ## <a name="version-2011-november-16"></a>Versão 2011: 16 de novembro
 *Versão 2011 (Build 13426.20234)*
 
- (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
@@ -103,16 +300,16 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Resolvemos um problema de VBA em que Slide.Shapes.AddMediaObject2 travava com formatos de vídeo antigos (MPG-1,Mpeg-2).
+- Resolvemos um problema de VBA em que Slide.Shapes.AddMediaObject2 travava com formatos de vídeo herdados (MPG-1,Mpeg-2).
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
-## <a name="version-2011-november-09"></a>Versão 2011: 9 de novembro
+## <a name="version-2011-november-09"></a>Versão 2011: 09 de novembro
 *Versão 2011 (Compilação 13426.20184)*
 
-[//]: # (NÃO REMOVA O CONTEÚDO DE DETALHES DO RECURSO INICIAR)
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -120,7 +317,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - **Crie fluxos de dados Power Platform a partir de consultas:** agora você pode exportar suas consultas para modelos de Power Query que podem ser usados para criar novos fluxos de dados Power Platform
 
 
-[//]: # (NÃO REMOVA FIM DE CONTEÚDO DE RECURSOS DETALHES)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -155,7 +352,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Corrigimos um problema em que um usuário não podia abrir diretamente um arquivo atomsvc (UTF8+BOM) do Microsoft Office SharePoint Online.
 
 
-- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+- Consertamos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
 
 
 - Corrigimos um problema em que o Word parecia travar ao inserir a pasta de trabalho do Excel em um documento do Word.
@@ -192,7 +389,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+- Consertamos um problema em que aumentar e diminuir o zoom da área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
 
 
 - Corrigimos um problema em que o ícone do espaço reservado para conteúdo ao lado de imagens não tinha dica de ferramenta.
@@ -232,7 +429,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- Corrigimos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
+- Consertamos um problema em que o zoom e a área de apresentação resultavam em um espaço entre a marca de seleção ampliada e o ponteiro do mouse.
 
 
 - Corrigimos um problema em que clicar na dica de comentário não diminuía o zoom para mostrar o cartão de comentários.
@@ -250,9 +447,9 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Corrigimos um problema de impressão quando rótulo de confidencialidade com marcas d'água são aplicadas.
 
 
-### <a name="office-suite"></a>Pacote de aplicativos do Office
+### <a name="office-suite"></a>Pacote Office
 
-- Corrigimos um problema na ferramenta de implantação do Office em que a configuração falhava ao usar o recurso RemoveMSI com o produto Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
+- Corrigimos um problema na Ferramenta de Implantação do Office, em que a configuração estava falhando ao usar o recurso RemoveMSI com o produto do Office 2007 "Relatório de Erros do Aplicativo da Microsoft".
 
 
 - Corrigimos um problema em que o Login interativo da API SSO retornava um código de erro.
@@ -263,7 +460,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ## <a name="version-2010-november-06"></a>Versão 2010: 06 de novembro
 *Versão 2010 (Build 13328.20356)*
-* Várias correções de bugs e de desempenho.
+* Várias correções de bugs e desempenho.
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -280,23 +477,23 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba Mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba Mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Confira os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportar GIF animado em um intervalo:** Selecione um intervalo de slides ao exportar para GIF animado
 
 ### <a name="word"></a>Word
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba Mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -392,7 +589,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Pratique sua apresentação com o Orientador de Apresentações:** Obtenha orientações sobre como manter o público envolvido — como ritmo, palavras mais usadas, linguagem corporal e muito mais. [Saiba Mais](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **Pratique sua apresentação com o Orientador de Apresentações:** Obtenha orientações sobre como manter o público envolvido — como ritmo, palavras mais usadas, linguagem corporal e muito mais. [Saiba mais](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="word"></a>Word
 
@@ -533,7 +730,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - Consertamos um problema em que se você estivesse no último slide e passasse o dedo para o próximo slide depois de pressionar 'encerrar sessão' e antes do resumo ser exibido, a caixa de diálogo de sessão final também ficava visível na página de resumo.
 
 
-### <a name="project"></a>Microsoft Project
+### <a name="project"></a>Project
 
 - Correção de um problema em que o método VBA ConsolidateProjects poderia ser arquivado se você tentasse adicionar o mesmo projeto várias vezes e tivesse AttachToSources definido como falso.
 
@@ -1224,7 +1421,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1712,7 +1909,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="excel"></a>Excel
 
-- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI.
+- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas dos conjuntos de dados seguros do Power BI.
 
 ### <a name="outlook"></a>Outlook
 
@@ -2535,7 +2732,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
