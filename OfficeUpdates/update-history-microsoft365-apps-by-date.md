@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601556"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662696"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -29,6 +29,8 @@ Esses números de versão e build se aplicam ao Microsoft 365 Apps para Grandes 
 > - Para obter mais informações sobre canais de atualização, confira [Visão geral de canais de atualização para o Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualização.
+
+### <a name="supported-versions"></a>**Versões com Suporte**
 
 [//]: # (EOSTABLESTART)
 
@@ -45,7 +47,9 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Microsoft 365 Apps para a versão mais recente, confira [Tamanhos de download para atualizações do Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-A tabela a seguir mostra uma lista da versão e os números do build de cada atualização do Microsoft 365 Apps lançado nos seguintes canais de atualização: Atual, Empresarial Mensal, Empresarial Semestral (Visualização) e Empresarial Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.  
+A tabela a seguir mostra uma lista da versão e os números do build de cada atualização do Microsoft 365 Apps lançado nos seguintes canais de atualização: Atual, Empresarial Mensal, Empresarial Semestral (Visualização) e Empresarial Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.
+
+### <a name="version-history"></a>**Histórico de Versão**
 
 [//]: # (HISTORYTABLESTART)
 
