@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
-ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
+ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
+ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49575015"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49655301"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -31,6 +31,58 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
+## <a name="version-2101-december-11"></a>Versão 2101: 11 de dezembro
+*Versão 2101 (Build 13604.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **As configurações do Outlook na nuvem:** escolha as configurações do Outlook para Windows, como Respostas Automáticas, Caixa de Entrada Destaques, Privacidade, e acesse-as em qualquer PC.
+
+### <a name="word"></a>Word
+
+- **Melhor colaboração com comentários modernos:** Adicionar comentários a objetos, @menção colegas e resolver encadeamentos de comentários para obter uma melhor experiência de colaboração. [Saiba mais](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/modern-commenting-in-word)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o Excel mostrava incorretamente uma barra de mensagens de que uma nova versão do arquivo está disponível e forçava o usuário a salvar suas alterações em uma cópia da pasta de trabalho ou descartar suas alterações.
+
+
+- Corrigido um problema com a troca de separadores após uma chamada Selection.Parent.Copy.
+
+
+### <a name="outlook"></a>Outlook
+
+- Solucionado um problema que provocou mensagens de texto S/MIME sem formatação se tornarem truncadas ao enviar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta alteração soluciona um problema com a repetição da reprodução de vídeos de fundo na apresentação de Slides.
+
+
+- Corrigimos um problema em que o comando de tamanho de fonte, adicionado ao QAT, completava automaticamente para o tamanho de fonte definido mais próximo ao atualizá-lo.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema de exclusão de comentários modernos em um controle de conteúdo marcado como não editável.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+
 ## <a name="version-2012-december-04"></a>Versão 2012: 04 de dezembro
 *Versão 2012 (Build 13530.20000)*
 
@@ -44,7 +96,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="visio"></a>Visio
 
-- **Novas formas e estênceis do Azure:** adicionamos vários estênceis para ajudar você a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -80,7 +132,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="word"></a>Word
 
-- Colar como texto simples geralmente é preferível a colar como rich text. Este menu de atalho permite que o usuário cole como texto simples. Caso contrário, o usuário teria que copiar para um editor de texto simples como o Bloco de notas e, em seguida, copiar do Bloco de notas para o aplicativo de destino desejado
+- Colar como texto sem formatação é geralmente preferível comparado a colar como rich text. Este correção de menu de contexto permite que o usuário cole como texto sem formatação. Caso contrário, o usuário teria que copiar para um editor de texto simples como o Bloco de notas e, em seguida, copiar do Bloco de notas para o aplicativo de destino desejado
 
 
 
@@ -138,7 +190,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Biblioteca de Vídeo:** Eleve seus documentos com uma biblioteca de vídeo de royalties livres e gratuitas selecionadas disponíveis no aplicativo
+- **Biblioteca de vídeo:** Eleve seus documentos com uma biblioteca de vídeo de royalties livres e gratuitas selecionadas disponíveis no aplicativo
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -935,19 +987,19 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -996,7 +1048,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1292,7 +1344,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 - Consertamos um problema em que os carimbos de data/hora nos painéis de Comentários não eram baseados no tempo de localidade do sistema.
 - Consertamos um problema em que os comentários entre o aplicativo Web e o aplicativo da área de trabalho não estavam sincronizados.
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 
 ## <a name="version-2006-may-29"></a>Versão 2006: 29 de maio
@@ -2049,6 +2101,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
@@ -2058,5 +2111,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
