@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990100"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684083"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -48,10 +48,52 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+
+
+## <a name="december-15-2020"></a>15 de dezembro de 2020
+*Versão 16.44 (Build 20121301)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Observe Suas Fórmulas:** observe as células em várias planilhas e livros em um único painel ou janela. [Saiba Mais](https://support.office.com/article/d72fc6f3-4c9d-4c13-bd15-bb074ba7c784)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Apresente sua apresentação de slides em uma experiência em janelas**: o Modo de Exibição de Leitura permite realizar várias tarefas e ter várias apresentações de slides em janelas.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/reading-view-available-in-powerpoint-for-mac)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17123](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17123)
+-   [CVE-2020-17126](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17126)
+-   [CVE-2020-17128](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17128)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-17119](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17119)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2020-17124](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17124)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
 ## <a name="november-10-2020"></a>10 de novembro de 2020
 *Versão 16.43 (Build 20110804)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="powerpoint-mac"></a>PowerPoint para Mac
@@ -77,7 +119,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ## <a name="october-13-2020"></a>13 de outubro de 2020
 *Versão 16.42 (Compilação 20101102)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -92,7 +134,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="outlook"></a>Outlook
 
-- **Descubra o novo Outlook:** Confira a nova experiência em Email, Calendário, Pessoas e Pesquisa. Tem um melhor desempenho, simplicidade e recursos muito esperados. [Saiba mais](https://support.office.com/article/6283be54-e74d-434e-babb-b70cefc77439)
+- **Descubra o novo Outlook:** Confira a nova experiência em Email, Calendário, Pessoas e Pesquisa. Tem um melhor desempenho, simplicidade e recursos muito esperados. [Saiba Mais](https://support.office.com/article/6283be54-e74d-434e-babb-b70cefc77439)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -107,7 +149,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - **Dê vida aos Seus Documentos:** dê mais estilo aos seus documentos com imagens, ícones e imagens de arquivo gratuitas e de alta qualidade. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
@@ -174,7 +216,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - **Fale com tinta digital:** Usar sua caneta digital para ilustrar seus pontos durante a gravação de uma apresentação e os traços de tinta também serão gravados. [Saiba mais](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
@@ -298,7 +340,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Uma maneira mais rápida de adicionar células** : **Clique habilitar para adicionar** , e, em seguida, digite = e selecione algumas células para criar rapidamente uma fórmula que adicione os valores da célula. Encontre a opção no **Menu** > **Preferências** > **Editar**.  [Saiba mais](https://support.office.com/pt-BR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Uma maneira mais rápida de adicionar células**: **Clique habilitar para adicionar**, e, em seguida, digite = e selecione algumas células para criar rapidamente uma fórmula que adicione os valores da célula. Encontre a opção no **Menu** > **Preferências** > **Editar**.  [Saiba mais](https://support.office.com/pt-BR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -306,14 +348,14 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Vincular ao Slide:** Peça a um colega para contribuir com o conjunto de slides e inicie-o diretamente no slide para o qual você precisa de ajuda. [Saiba mais](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Digite com as Mãos Livres:** Tem um microfone? Clique em Ditar e veja o Word digitar enquanto você fala.  [Saiba mais](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)
 
 
-- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -337,13 +379,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Usar os novos tipos de dados automaticamente** : Quando você digita um valor de dados que se assemelha a uma possível ação ou região geográfica, o Excel oferece a conversão para o tipo de dados conectado apropriado: Ações ou Geografia.
-- **Imprimir planilhas com orientações diferentes** : Quando você imprime uma pasta de trabalho inteira de uma só vez, o Excel para Mac pode imprimir cada planilha como paisagem ou retrato, de acordo com as opções de layout de página.
-- **Obtenha estatísticas na sua pasta de trabalho** : As estatísticas da pasta de trabalho fornecem uma visão geral do conteúdo de uma pasta de trabalho, para ajudar você a descobrir o conteúdo com mais facilidade.
+- **Usar os novos tipos de dados automaticamente**: Quando você digita um valor de dados que se assemelha a uma possível ação ou região geográfica, o Excel oferece a conversão para o tipo de dados conectado apropriado: Ações ou Geografia.
+- **Imprimir planilhas com orientações diferentes**: Quando você imprime uma pasta de trabalho inteira de uma só vez, o Excel para Mac pode imprimir cada planilha como paisagem ou retrato, de acordo com as opções de layout de página.
+- **Obtenha estatísticas na sua pasta de trabalho**: As estatísticas da pasta de trabalho fornecem uma visão geral do conteúdo de uma pasta de trabalho, para ajudar você a descobrir o conteúdo com mais facilidade.
 
 ### <a name="outlook"></a>Outlook
 
-- **Pesquisar Calendário offline no Outlook Mac** : Agora você pode procurar seus eventos e compromissos no Calendário do Outlook no Mac, quando estiver offline.
+- **Pesquisar Calendário offline no Outlook Mac**: Agora você pode procurar seus eventos e compromissos no Calendário do Outlook no Mac, quando estiver offline.
 
 ### <a name="security-updates"></a>Atualizações de segurança
 
@@ -359,18 +401,18 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Capacidade de recolher a janela de slide atual no modo de exibição do apresentador:** arrastando o divisor de linha para o lado esquerdo da tela, você pode recolher o modo de exibição de slide atual para que você veja apenas o "próximo slide" na exibição da duração da sua apresentação.
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **Rótulos de confidencialidade** : agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>Atualizações de segurança
@@ -388,7 +430,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ## <a name="february-11-2020"></a>11 de fevereiro de 2020
 *Versão 16.34 (Build 20020900)*
 
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -474,10 +516,10 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Obtenha arquivos com menos cliques:** seus documentos abertos recentemente estão em evidência. Abra as Configurações ou Opções da conta diretamente na página inicial. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
 
-- **Coautoria** : cansado de ser bloqueado em documentos que contêm macros? Agora, os arquivos docm no OneDrive for Business permitem edição simultânea por vários autores. [Saiba mais](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
+- **Coautoria**: cansado de ser bloqueado em documentos que contêm macros? Agora, os arquivos docm no OneDrive for Business permitem edição simultânea por vários autores. [Saiba mais](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
@@ -670,7 +712,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="word-feature-updates"></a>Word: Atualizações de recurso
 
 - **Chame a atenção das pessoas com \@Menções:** use @menções nos comentários para que outras pessoas saibam quando você precisar da contribuição delas.
-- **Aperfeiçoamentos de coautoria** : melhor desempenho do Word durante a coautoria em documentos.
+- **Aperfeiçoamentos de coautoria**: melhor desempenho do Word durante a coautoria em documentos.
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 
@@ -741,7 +783,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 |Excel  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office.<br/> <br/>**Chamando Todos os Usuários da Macro:** grave uma macro usando referências relativas. Ao reproduzi-la, ela funciona em relação à célula ativa, e não em relação às células usadas para gravar. [Saiba Mais](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**Seus Comandos Favoritos de Fácil Acesso:** tenha acesso rápido e fácil para ações comuns como Localizar e Selecionar, Zoom na Seleção, Organizar Tudo e muito mais. Encontre-os na faixa de opções. [Saiba Mais](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex na pasta de trabalho. [Saiba Mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0828): Vulnerabilidade de Execução Remota de Código do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office.<br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Salve arquivos de mídia incorporados:** salve áudios e vídeos facilmente apenas ao pressionar Control + clique. [Saiba Mais](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**Dê vida aos seus slides:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex em toda a tela. [Saiba Mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office. <br/><br/>**Links Seguros:** suporte para Links Seguros da Proteção Avançada contra Ameaças (ATP).  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
-|Atualização automática do Microsoft 4.10<br/>|**Instale melhorias de Recursos de Clonagem** : para dispositivos SSD, as atualizações serão instaladas nas cópias dos aplicativos em uso, reduzindo assim o tempo de inatividade dos aplicativos devido às atualizações. <br/><br/>**Otimizações de Instalação:** o processo de atualização usará a clonagem paralelizada para reduzir o tempo de inatividade dos aplicativos devido às atualizações.|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
+|Atualização automática do Microsoft 4.10<br/>|**Instale melhorias de Recursos de Clonagem**: para dispositivos SSD, as atualizações serão instaladas nas cópias dos aplicativos em uso, reduzindo assim o tempo de inatividade dos aplicativos devido às atualizações. <br/><br/>**Otimizações de Instalação:** o processo de atualização usa clonagem paralelizada para reduzir o tempo de inatividade dos aplicativos devido às atualizações.|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Pacote do Office  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0822): Vulnerabilidade de Execução Remota de Código de Componentes do Microsoft Graphics<br/><br/>|<br/>|
 
 
@@ -842,18 +884,18 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de Execução Remota do Código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada. [Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Suporte para SVG:** insira e edite SVGs nas pastas de trabalho para adicionar um impacto visual. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Mais opções de formatação para gráficos de Histograma, Cascata, Mapa de Árvore, Explosão Solar e Mapa:** você tem mais controle sobre as opções de formatação para novos tipos de gráficos ao usar o painel de formatação.|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Suporte para SVG:** insira e edite SVGs nas pastas de trabalho para adicionar um impacto visual. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Mais opções de formatação para gráficos de Histograma, Cascata, Mapa de Árvore, Explosão Solar e Mapa:** você tem mais controle sobre as opções de formatação para novos tipos de gráficos ao usar o painel de formatação.|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimir números de slide em folhetos:** quando você imprime uma apresentação em folhetos, cada slide mostrará um número de acompanhamento do slide. <br/><br/> **Aplique rótulos de confidencialidade às suas apresentações:** aplique rótulos de confidencialidade às suas apresentações para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Inserir um subconjunto de fontes:** insira somente os caracteres usados na apresentação.  [Saiba Mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplique rótulos de confidencialidade às suas mensagens:** aplique rótulos de confidencialidade às suas mensagens para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Localize um email rapidamente na caixa de correio atual:** selecione a caixa de pesquisa para sugestões rápidas baseadas no seu histórico recente de buscas. Não precisa digitar. [Saiba Mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Adicionar contas do Gmail ficou mais fácil:** com as melhorias de segurança, você não precisa mais permitir acesso a "aplicativos menos seguros" ou definir uma senha de aplicativo para adicionar sua conta do Gmail ao Outlook.<br/><br/>**O Outlook para Mac agora destaca os termos de pesquisa:** você já tentou pesquisar por algo e desejou que o Outlook destacasse seu termo de pesquisa na lista de itens e no painel de visualização? Não é mais necessário desejar essa melhoria, pois ela já chegou!||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.7 <br/>| O Daemon AutoUpdate agora é inicializado como parte do processo de instalação. Isso elimina caixas de diálogo de segurança confusas que foram mostradas anteriormente aos usuários. <br/><br/> Os recursos de segurança do Microsoft AutoUpdate foram aprimorados para oferecer suporte a certificados SHA256. <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> A partir da Versão 16.21, o Microsoft Teams será instalado por padrão para * *_novas_* _ instalações. Para obter mais informações, confira [Instalações do Microsoft Teams em um Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> A partir da Versão 16.21, o Microsoft Teams será instalado por padrão para **_novas_* _ instalações. Para saber mais, confira [Instalações do Microsoft Teams no Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Lançamento de dezembro de 2018
 
- _ *Data de Lançamento:* *11 de Dezembro de 2018 
+ _ *Data de Lançamento:**11 de Dezembro de 2018 
   
  *Versão 16.20.0 (build 18120801)* 
   
@@ -882,7 +924,7 @@ Esta versão oferece as seguintes atualizações:
 |Word  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
 |Excel  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/> **Zoom: apresentar o conteúdo de uma forma não linear:** Criar um sumário interativo com Zoom de resumo ou acessar slides específicos e seções como Zoom de Slide e Zoom de seção. [Saiba mais](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)  <br/><br/> **Exportar para vídeo com áudio narrações:** Narrações de áudio agora estão incluídas no vídeo exportado. ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg) <br/>|
-|Outlook  <br/>| **Criptografia de Email mais fácil:** O botão Criptografar agora tem uma opção somente criptografar, facilitando ainda mais o envio de emails criptografados, dentro e fora da sua organização. [Saiba mais](https://support.office.com/article/a18ecf7f-a7ac-4edd-b02e-687b05eff547) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg) <br/>|
+|Outlook  <br/>| **Criptografia de Email mais fácil:** O botão Criptografar agora tem uma opção somente criptografar, facilitando ainda mais o envio de emails criptografados, dentro e fora da sua organização.[Saiba mais](https://support.office.com/article/a18ecf7f-a7ac-4edd-b02e-687b05eff547) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg) <br/>|
 |Pacote do Office  <br/>| |<br/>||
 |Atualização automática do Microsoft 4.5 <br/>| – Suporte para o modo escuro <br/> -Fixe bug para falha daemon (atualizado Aria SDK 8.5.2.0) <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.5.18110402_Updater.pkg)|
 
@@ -897,7 +939,7 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
-|Excel  <br/>|**Colaborar com os Comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada. [Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Preenchimento automático mais “automático”:** Ao digitar uma fórmula, o menu de preenchimento automático útil aparecerá mostrando opções de argumento disponíveis.  <br/><br/> **Agora aprimorado: navegação com o VoiceOver:** Usando o VoiceOver no Excel? Mova entre planilhas, pressionando VO + U. Você pode habilitar macOS Commander Trackpad para fazer isso também. <br/> ||[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**Colaborar com os Comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Preenchimento automático mais “automático”:** Ao digitar uma fórmula, o menu de preenchimento automático útil aparecerá mostrando opções de argumento disponíveis.  <br/><br/> **Agora aprimorado: navegação com o VoiceOver:** Usando o VoiceOver no Excel? Mova entre planilhas, pressionando VO + U. Você pode habilitar macOS Commander Trackpad para fazer isso também. <br/> ||[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Torne suas Imagens Acessíveis:** Quando você insere uma imagem, o Office sugere legendas ocultas que podem ser lidas por pessoas com deficiências visuais.  <br/><br/> **Os gatilhos de animação estão aqui:** você pediu! Os gatilhos de animação não são mais apenas para Windows. Encontre-os na guia animações [Saiba mais](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Pesquisa Melhoradas:** Marque a caixa de pesquisa para sugestões rápidas com base em seu histórico de pesquisa recente. Não é necessário digitar. [Saiba mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
 |Pacote do Office  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8432): vulnerabilidade de execução remota de código de componentes do Microsoft Graphics <br/>||
@@ -973,10 +1015,10 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de recursos**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Ferramentas de Aprendizagem melhoram a legibilidade** : descanse os olhos. Ajuste o espaçamento de texto, a largura das colunas e a cor da página ou ouça enquanto o Word lê o documento em voz alta, realçando o texto durante a leitura. [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
-|Excel  <br/> |**Preencha os dados instantaneamente** : adicione alguns exemplos ao Preenchimento Relâmpago e o programa preencherá os dados para você. [Saiba mais](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Quebre a barreira do idioma** : traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
-|PowerPoint  <br/> |**Quebre a barreira do idioma** : traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Hiperlinks em cores vibrantes** : os hiperlinks deixaram de ser somente azuis. Aplique a cor da fonte desejada. [Saiba mais](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
-|Outlook  <br/> |**Crie uma assinatura fácil de ser lembrada** : expresse seu perfil com estilos de fonte sofisticados, cores, imagens, links e muito mais. [Saiba mais](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Crie e colabore com os Grupos** : criar um Grupo do Office 365 no Outlook é muito simples, bem como adicionar e remover membros. Colaborar no Mac ficou muito mais fácil. [Saiba mais](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Word  <br/> |**Ferramentas de Aprendizagem melhoram a legibilidade**: descanse os olhos. Ajuste o espaçamento de texto, a largura das colunas e a cor da página ou ouça enquanto o Word lê o documento em voz alta, realçando o texto durante a leitura. [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**Preencha os dados instantaneamente**: adicione alguns exemplos ao Preenchimento Relâmpago e o programa preencherá os dados para você. [Saiba mais](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Quebre a barreira do idioma**: traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**Quebre a barreira do idioma**: traduza palavras, frases ou orações em outro idioma com o Microsoft Translator. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Hiperlinks em cores vibrantes**: os hiperlinks deixaram de ser somente azuis. Aplique a cor da fonte desejada. [Saiba mais](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**Crie uma assinatura fácil de ser lembrada**: expresse seu perfil com estilos de fonte sofisticados, cores, imagens, links e muito mais. [Saiba mais](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Crie e colabore com os Grupos**: criar um Grupo do Office 365 no Outlook é muito simples, bem como adicionar e remover membros. Colaborar no Mac ficou muito mais fácil. [Saiba mais](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
 |Microsoft AutoUpdate 4.0  <br/> | |  
 
 ## <a name="may-2018-release"></a>Lançamento de maio de 2018
@@ -1094,7 +1136,7 @@ Esta versão oferece as seguintes atualizações.
 |:-----|:-----|:-----|
 |Word  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0792): vulnerabilidade de execução remota de código do Microsoft Word  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0794): vulnerabilidade de execução remota de código do Microsoft Word |
 |Excel  <br/> |**Edição colaborativa:** trabalhar com outras pessoas ao mesmo tempo na pasta de trabalho. Miniaturas no canto superior direito da janela mostram quem mais está exibindo ou editando o arquivo com você. [Saiba mais](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **Mais gráficos:** use gráficos novos, como funil e explosão solar e histograma, para transformar os dados em visualizações profissionais ou use o novo tipo de gráfico de mapa para transformar dados geográficos em um mapa com apenas algumas etapas.   <br/><br/> **Mais funções:** encurte as fórmulas que você escreve usando as novas funções lógicas [Função SES](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) e [Função PARÂMETRO](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e).   <br/><br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> <br/> **Melhor suporte para gráficos de Tabela Dinâmica:** altere seus filtros em uma Tabela Dinâmica e o gráfico criado será ajustado automaticamente para mostrar exatamente o que você quer.  <br/> <br/> **Cálculos multithread** as fórmulas são atualizadas com mais rapidez quando os valores são alterados, já que o Excel usa vários threads de processamento. |
-|PowerPoint  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Veja o que mudou:** slides que foram modificados por outras pessoas enquanto você estava ausente são realçados. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **Um início rápido para sua pesquisa:** iniciar do zero é difícil. O iniciador rápido cria automaticamente uma estrutura de tópicos para seu tema escolhido com designs e pontos de discussão sugeridos que dão destaque à sua apresentação. [Saiba mais](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **Cortar mídia:** remova o conteúdo indesejado do início ou fim do clipe de áudio ou vídeo. [Saiba mais](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> <br/> **Apontador laser na apresentação de slides:** use seu mouse como um apontador laser para chamar a atenção para determinadas partes de seu slide.<br/><br/>**Marca-texto:** o realce de texto chegou ao Mac! Use o marca-texto para enfatizar partes importantes do texto.
+|PowerPoint  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Veja o que mudou:** slides que foram modificados por outras pessoas enquanto você estava ausente são realçados. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **Um início rápido para sua pesquisa:** iniciar do zero é difícil. O iniciador rápido cria automaticamente uma estrutura de tópicos para seu tema escolhido com designs e pontos de discussão sugeridos que dão destaque à sua apresentação. [Saiba mais](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **Cortar mídia:** remova o conteúdo indesejado do início ou fim do clipe de áudio ou vídeo. [Saiba mais](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> <br/> **Apontador laser na apresentação de slides:** use seu mouse como um apontador laser para chamar a atenção para determinadas partes de seu slide.<br/><br/>**Marca-texto** o realce de texto chegou ao Mac! Use o marca-texto para enfatizar partes importantes do texto.
  |
 |Outlook  <br/> |**Arquivar ou excluir com apenas um toque:** economize tempo de organização de sua caixa de entrada, passe o dedo para a esquerda com dois dedos no touchpad para arquivar um email ou deslize para a direita para excluir.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook |
 
