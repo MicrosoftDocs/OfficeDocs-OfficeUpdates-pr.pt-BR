@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655301"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716941"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,66 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2101-december-18"></a>Versão 2101: 18 de dezembro
+*Versão 2101 (Compilação 13610.20002)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+### <a name="outlook"></a>Outlook
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+### <a name="word"></a>Word
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Melhorou o desempenho ao aplicar estilos de formatação a tabelas dinâmicas.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários não conseguissem selecionar mais de uma categoria para pesquisar.
+
+
+- Corrigimos um problema que fazia com que a hora de início de alguns itens do calendário mudassem inesperadamente quando o evento era copiado de outro compromisso.
+
+
+### <a name="project"></a>Microsoft Project
+
+- Resolvemos um problema em que os usuários abrem projetos que supostamente foram salvos com informações atualizadas, mas descobrem que as atualizações estão em falta.
+
+
+### <a name="word"></a>Word
+
+- Corrija a animação ao digitar na parte inferior de um cartão de comentários.
+
+
+- Corrigimos um problema em que o Word trava ao salvar o documento em PDF com texto oculto.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-december-11"></a>Versão 2101: 11 de dezembro
 *Versão 2101 (Build 13604.20000)*
@@ -1048,7 +1108,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -1344,7 +1404,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 - Consertamos um problema em que os carimbos de data/hora nos painéis de Comentários não eram baseados no tempo de localidade do sistema.
 - Consertamos um problema em que os comentários entre o aplicativo Web e o aplicativo da área de trabalho não estavam sincronizados.
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 
 ## <a name="version-2006-may-29"></a>Versão 2006: 29 de maio
@@ -1453,6 +1513,8 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 - **Fazer uma conexão em PDF:** Conectar, importar, atualizar dados de um PDF. [Saiba mais](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
+
 ### <a name="outlook"></a>Outlook
 
 - **Encontre o que você precisa:** Restrinja sua pesquisa com opções como pasta, remetente, data, informações do anexo e muito mais.
@@ -1460,6 +1522,8 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Não é preciso dar um clique: seus earbuds fazem isso por você** Use seu Surface Earbuds para controlar suas apresentações de PowerPoint. Importante: Você deve parear seu Surface Earbuds com o aplicativo Surface Audio para Windows 10 para usar gestos para controlar as apresentações. As instruções sobre como começar a usar o aplicativo de áudio Surface no Windows 10 estão disponíveis aqui. [Saiba mais](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
@@ -2110,5 +2175,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
