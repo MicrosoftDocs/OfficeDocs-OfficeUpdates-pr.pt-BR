@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos insiders o histórico de atualizações dos lançamentos mensais do Canal Insider Fast para a área de trabalho do Windows
-ms.openlocfilehash: 72f213cbd41e5f816011096d5300cf40c3c4faf5
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 66d3b5ce79e3b232eafe07e2e4fe42774a135fd3
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673982"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725076"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Atualização do histórico para o Canal Beta do Office
 
@@ -37,6 +37,9 @@ Para saber as notas de versão, confira [Notas de versão Insider do Office para
 
 
 [//]: # (NÃO REMOVA)
+
+**21 de dezembro de 2020**<br/>
+Versão 2101 (Build 13617.20002)<br/>
 
 **14 de dezembro de 2020**<br/>
 Versão 2101 (Build 13610.20002)<br/>
@@ -215,146 +218,7 @@ Versão 2002 (build 12508.20000)<br/>
 **06 de janeiro de 2020**<br/>
 Versão 2001 (Build 12430.20000)<br/>
 
-**Dezembro de 30, 2019**<br/>
-Versão 2001 (Build 12425.20000)<br/>
 
-**12 de dezembro de 2019**<br/>
-Versão 2001 (Build 12410.20000)<br/>
-
-**02 de dezembro de 2019**<br/>
-Versão 1912 (Build 12325.20012)<br/>
-
-**18 de novembro de 2019**<br/>
-Versão 1912 (Build 12312.20002) (Revertida) <br/>
-
-**12 de novembro de 2019**<br/>
-Versão 1912 (Build 12307.20000)<br/>
-
-**04 de novembro de 2019**<br/>
-Versão 1912 (Build 12231.20000)<br/>
-
-**01 de novembro de 2019**<br/>
-Versão 1911 (Build 12228.20020)<br/>
-
-**21 de outubro de 2019**<br/>
-Versão 1911 (Build 12215.20006)<br/>
-
-**14 de outubro de 2019**<br/>
-Versão 1911 (Build 12209.20010)<br/>
-
-**08 de outubro de 2019**<br/>
-Versão 1910 (Build 12130.20112)<br/>
-
-**30 de setembro de 2019**<br/>
-Versão 1910 (Build 12126.20000)<br/>
-
-**23 de setembro de 2019**<br/>
-Versão 1910 (Build 12119.20000)<br/>
-
-**16 de setembro de 2019**<br/>
-Versão 1910 (Build 12112.20000)<br/>
-
-**10 de setembro de 2019**<br/>
-Versão 1910 (Build 12105.20000)<br/>
-
-**04 de setembro de 2019**<br/>
-Versão 1910 (Build 12030.20004)<br/>
-
-**28 de agosto de 2019**<br/>
-Versão 1909 (Build 12026.20000)<br/>
-
-**26 de agosto de 2019**<br/>
-Versão 1909 (Build 12022.20000)<br/>
-
-**19 de agosto de 2019**<br/>
-Versão 1909 (Build 12015.20004)<br/>
-
-**15 de agosto de 2019**<br/>
-Versão 1909 (Build 12013.20000)<br/>
-
-**13 de agosto de 2019**<br/>
-Versão 1909 (Build 12008.20000)<br/>
-
-**05 de agosto de 2019**<br/>
-Versão 1909 (Build 12001.20000)<br/>
-
-**31 de julho de 2019**<br/>
-Versão 1908 (Build 11929.20002)<br/>
-
-**29 de julho de 2019**<br/>
-Versão 1908 (Build 11924.20004)<br/>
-
-**22 de julho de 2019**<br/>
-Versão 1908 (build 11916.20000)<br/>
-
-**15 de julho de 2019**<br/>
-Versão 1908 (Build 11911.20000)<br/>
-
-**9 de julho de 2019**<br/>
-Versão 1907 (Build 11901.20038)<br/>
-
-**3 de julho de 2019**<br/>
-Versão 1907 (build 11901.20018)<br/>
-
-**1º de julho de 2019**<br/>
-Versão 1907 (build 11827.20002)<br/>
-
-**24 de junho de 2019**<br/>
-Versão 1907 (Build 11819.20002)<br/>
-
-**19 de Junho de 2019**<br/>
-Versão 1907 (Build 11815.20002)<br/>
-
-**11 de junho de 2019**<br/>
-Versão 1907 (Build 11807.20000)<br/>
-
-**04 de junho de 2019**<br/>
-Versão 1906 (Build 11727.20064)<br/>
-
-
-**29 de maio de 2019**<br/>
-Versão 1906 (Build 11722.20008)<br/>
-
-**22 de maio de 2019**<br/> Versão 1906 (Build 11715.20002)<br/> 
-
-**14 de maio de 2019**<br/> Versão 1906 (Build 11708.20006)<br/>
-
-**06 de maio de 2019**<br/>
-Versão 1906 (Build 11702.20000)<br/>
-
-**02 de maio de 2019**<br/>
-Versão 1905 (Build 11629.20008)<br/>
-
-**29 de abril de 2019**<br/>
-Versão 1905 (Build 11624.20000)<br/>
-
-**23 de abril de 2019**<br/> Versão 1905 (Build 11617.20002)<br/>
-
-**15 de abril de 2019**<br/> Versão 1905 (Build 11609.20002)<br/>
-
-**7 de April de 2019**<br/> Versão 1904 (Build 11601.20042)<br/>
-
-**18 de março de 2019**<br/> Versão 1904 (Build 11520.20004)<br/>
-
-**11 de março de 2019**<br/> Versão 1904 (Build 11504.20000)<br/>
-
-**1 de março de 2019**<br/> Versão 1903 (Build 11425.20036)<br/> 
-
-**25 de fevereiro de 2019**<br/> Versão 1903 (Build 11414.20014)<br/> 
-
-**12 de fevereiro de 2019**<br/> Versão 1903 (Build 11406.20002)<br/> 
-
-**9 de fevereiro de 2019**<br/> Versão 1903 (Build 11330.20014)<br/> 
-
-**30 de janeiro de 2019**<br/> Versão 1902 (Build 11326.20000)<br/> 
-
-**25 de janeiro de 2019**<br/> Versão 1902 (Build 11316.20026)<br/> 
-
-**22 de janeiro de 2019**<br/> Versão 1902 (Build 11310.20016)<br/> 
-
-**17 de janeiro de 2019**<br/> Versão 1902 (Build 11231.20080)<br/>
-
-**10 de janeiro de 2019**<br/> Versão 1902 (build 11231.20066)<br/> 
 
 ## <a name="insider-community"></a>Comunidade do Insider
 
