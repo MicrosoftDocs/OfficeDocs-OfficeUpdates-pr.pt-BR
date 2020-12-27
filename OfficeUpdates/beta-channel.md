@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716941"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733204"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,48 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2101-december-25"></a>Versão 2101: 25 de dezembro
+*Versão 2101 (Build 13617.20002)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Atualize para que as configurações dos separadores decimais e de milhares sejam carregadas ao copiar um gráfico do Excel e colá-lo no Word
+
+
+- Correção de um problema em que o Excel fechava inesperadamente ao abrir arquivos UNC com atributos de arquivo inválidos (hora de criação, tempo de modificação, etc.)
+
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+### <a name="outlook"></a>Outlook
+
+- Consertamos um problema que fazia com que os usuários não conseguissem saber quanto tempo queriam permitir o acesso ao iniciar uma mala direta no Word, o que resultava em um excesso de solicitações.
+
+
+- Consertamos um problema que provocava um fechamento inesperado do Outlook para usuários de suplementos baseados em resgate.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+### <a name="word"></a>Word
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+- Corrige um problema em que a caixa de resposta de um cartão de comentário está fora da tela.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-december-18"></a>Versão 2101: 18 de dezembro
 *Versão 2101 (Compilação 13610.20002)*
@@ -271,7 +313,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
 
 ## <a name="version-2012-november-13"></a>Versão 2012: 13 de novembro
 *Versão 2012 (Criação 13510.20004)*
@@ -1108,7 +1150,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2165,6 +2207,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
