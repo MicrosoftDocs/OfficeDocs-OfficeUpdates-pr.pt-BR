@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733204"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748219"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,65 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2101-january-01"></a>Versão 2101: 01 de janeiro
+*Versão 2101 (Compilação 13624.20002)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+### <a name="word"></a>Word
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="onenote"></a>OneNote
+
+- Essa alteração resolve um problema de renderização que afeta o OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Essa alteração permite que o Outlook aproveite as vantagens de uma configuração do servidor Exchange que suprime a exibição da Caixa de correio de Arquivamento do Exchange Online para os usuários finais.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta alteração soluciona um problema com Mesclar Formas trabalhando com texto.
+
+
+### <a name="word"></a>Word
+
+- Correção para tornar os comentários modernos mais robustos.
+
+
+- Corrigido um problema ao editar uma postagem de comentário com @mention.
+
+
+- Os rascunhos de comentários desaparecem ao criar uma nova instância do Word.
+
+
+- Correção e problema com barras de rolagem aninhadas no painel de comentários.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-december-25"></a>Versão 2101: 25 de dezembro
 *Versão 2101 (Build 13617.20002)*
@@ -313,7 +372,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DE ERRO)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2012-november-13"></a>Versão 2012: 13 de novembro
 *Versão 2012 (Criação 13510.20004)*
@@ -1150,7 +1209,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2207,6 +2266,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
@@ -2216,5 +2276,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

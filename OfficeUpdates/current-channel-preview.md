@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
-ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
+ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
+ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/28/2020
-ms.locfileid: "49735499"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49750622"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,29 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2012-january-04"></a>Versão 2012: 04 de janeiro
+*Versão 2012 (Compilação 13530.20316)*
+* Várias correções de bugs e de desempenho.
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+### <a name="word"></a>Word
+
+- **Rotulagem Obrigatória:** Os usuários com a política de Rotulagem Obrigatória definida para seus Administradores deverão rotular seus documentos e emails.
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 ## <a name="version-2012-december-28"></a>Versão 2012: 28 de dezembro
 *Versão 2012 (Build 13530.20264)*
@@ -1155,7 +1178,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1169,7 +1192,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -1416,7 +1439,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
 
 ## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
 *Versão 2007 (Compilação 13029.20344)*
@@ -1504,7 +1527,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2286,7 +2309,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 

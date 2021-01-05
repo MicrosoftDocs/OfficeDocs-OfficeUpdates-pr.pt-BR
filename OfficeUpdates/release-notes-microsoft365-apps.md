@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370129"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748229"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
 
 > [!IMPORTANT]
-> O Office 365 ProPlus foi renomeado como Microsoft 365 Apps para Grandes Empresas a partir da Versão 2004.Para saber mais,  [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420).Em nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
+> O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Atualizações de segurança para versões do Microsoft 365 Apps
@@ -45,10 +45,10 @@ Para obter uma lista completa dos tamanhos de versões atualizadas, consulte o s
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de versão das versões do Microsoft 365 Apps
 
 Para obter uma lista completa das notas de versão por canal de atualização e ano, confira estes artigos:
- - Atual: [2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Canal Empresarial Mensal:  [2020](monthly-enterprise-channel.md)
- - Empresarial Semestral (Visualização): [2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - Empresarial Semestral: [2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Canal atual: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
+ - Canal Empresarial Mensal:  [2021-2020](monthly-enterprise-channel.md)
+ - Empresarial Semestral (Visualização): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
+ - Empresarial Semestral: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
  Para obter uma lista completa dos lançamentos da Ferramenta de Implantação do Office, confira estes artigos:
@@ -64,7 +64,7 @@ Para saber mais sobre as atualizações do Office para Mac, que está incluído 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Implantação do Office](https://docs.microsoft.com/deployoffice/)
 - [Novidades do Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roteiro do Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
