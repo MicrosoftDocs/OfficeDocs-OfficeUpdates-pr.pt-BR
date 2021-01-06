@@ -5,23 +5,22 @@
 ## [Tamanhos de atualização](download-sizes-microsoft365-apps-updates.md)
 
 ## Canal Atual
-### [2020-2021](current-channel.md)
-### [2019](monthly-channel-2019.md)
-### [2018](monthly-channel-2018.md)
+### [Notas de Versão](current-channel.md)
+### [Notas de Versão Arquivadas](monthly-channel-2019.md)
 
 ## Canal Empresarial Mensal
-### [2020-2021](monthly-enterprise-channel.md)
+### [Notas de Versão](monthly-enterprise-channel.md)
 
 ## Canal Empresarial Semestral
-### [2020-2021](semi-annual-enterprise-channel.md)
-### [2019](semi-annual-channel-2019.md)
-### [2018](semi-annual-channel-2018.md)
+### [Notas de Versão](semi-annual-enterprise-channel.md)
+### [Notas de Versão Arquivadas](semi-annual-channel-2019.md)
+
 
 
 ## Canal Empresarial Semestral (Pré-visualização)
-### [2020-2021](semi-annual-enterprise-channel-preview.md)
-### [2019](semi-annual-channel-targeted-2019.md)
-### [2018](semi-annual-channel-targeted-2018.md)
+### [Notas de Versão](semi-annual-enterprise-channel-preview.md)
+### [Notas de Versão Arquivadas](semi-annual-channel-targeted-2019.md)
+
 
 
 ## Programa Office Insider  
