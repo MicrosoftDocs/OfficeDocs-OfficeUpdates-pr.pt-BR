@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: eebcd84fa8c8f4e9f17d9a1ac536961e5dbcb4fe
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: c2a5c2332ee83c83dc7e83728f4db2ded500a205
+ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725780"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756700"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="january-5-2021"></a>5 de janeiro de 2021
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 5 de janeiro de 2021)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais recente é a Versão 2012 (Compilação 13530.20316).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Version 2011 (Compilação 13426.20404) <br/> |21 de dezembro de 2020 <br/> |149<br/> |
+|Versão 2011 (Compilação 13426.20332) <br/> |8 de dezembro de 2020 <br/> |149<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 5 de janeiro de 2021)
 
 ## <a name="december-21-2020"></a>21 de dezembro de 2020
 

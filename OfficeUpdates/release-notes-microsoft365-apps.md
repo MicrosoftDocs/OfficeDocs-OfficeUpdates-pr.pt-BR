@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748229"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760635"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
@@ -45,10 +45,10 @@ Para obter uma lista completa dos tamanhos de versões atualizadas, consulte o s
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Notas de versão das versões do Microsoft 365 Apps
 
 Para obter uma lista completa das notas de versão por canal de atualização e ano, confira estes artigos:
- - Canal atual: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Canal Empresarial Mensal:  [2021-2020](monthly-enterprise-channel.md)
- - Empresarial Semestral (Visualização): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Empresarial Semestral: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Canal Atual: [notas de versão](current-channel.md), [notas de versão arquivadas](monthly-channel-archived.md)
+ - Canal Empresarial Mensal:  [notas de versão](monthly-enterprise-channel.md)
+ - Empresarial Semestral (Pré-visualização): [notas de versão](semi-annual-enterprise-channel-preview.md), [notas de versão arquivadas](semi-annual-enterprise-channel-preview-archived.md)
+ - Empresarial Semestral: [notas de versão](semi-annual-enterprise-channel.md), [notas de versão arquivadas](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
  Para obter uma lista completa dos lançamentos da Ferramenta de Implantação do Office, confira estes artigos:
