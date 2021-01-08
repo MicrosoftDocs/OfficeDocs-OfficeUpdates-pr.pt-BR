@@ -57,5 +57,5 @@
 ## [Atualizações do Skype for Business Server](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Links relacionados
-## [Versões do Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+## [Versões do Windows 10](https://aka.ms/windows/releaseinfo)
 ## [Política de ciclo de vida da Microsoft](https://support.microsoft.com/lifecycle)

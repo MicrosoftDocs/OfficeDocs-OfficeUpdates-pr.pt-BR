@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750622"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780677"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,151 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2101-january-07"></a>Versão 2101: 07 de janeiro
+*Versão 2101 (Build 13628.20030)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Reexibir várias páginas ao mesmo tempo:** não há mais necessidade de exibir uma página por vez - exibir várias páginas ocultas de uma vez. [Saiba mais](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Diálogos de Formatação Condicional aprimorados:** os diálogos de Formatação Condicional agora são redimensionáveis ​​e agora podem duplicar a regra com um único clique. [Saiba mais](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o Excel mostrava incorretamente uma barra de mensagens de que uma nova versão do arquivo está disponível e forçava o usuário a salvar suas alterações em uma cópia da pasta de trabalho ou descartar suas alterações.
+
+
+- Corrigido um problema com a troca de separadores após uma chamada Selection.Parent.Copy.
+
+
+- Melhorou o desempenho ao aplicar estilos de formatação a tabelas dinâmicas.
+
+
+- Corrigido um problema em que o Excel pode deixar macros desativadas sem avisar ao abrir um arquivo de Suplemento do Excel contendo Macros do Excel 4.0.
+
+
+- Atualize para que as configurações dos separadores decimais e de milhares sejam carregadas ao copiar um gráfico do Excel e colá-lo no Word
+
+
+- Correção de um problema em que o Excel fechava inesperadamente ao abrir arquivos UNC com atributos de arquivo inválidos (hora de criação, tempo de modificação, etc.)
+
+
+- Corrigido um problema que poderia causar um alerta de "falta de recursos" ao usar a função HISTÓRICODEAÇÕES.
+
+
+- Adicionada uma biblioteca de vínculo dinâmico FuzzyClustering à lista de bibliotecas de vínculo dinâmico PQ.
+
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+- Corrigimos um problema em que a visualização do intervalo do Excel incorporado no PowerPoint mostra o tamanho incorreto.
+
+
+### <a name="onenote"></a>OneNote
+
+- Essa alteração resolve um problema de renderização que afeta o OneNote.
+
+
+### <a name="outlook"></a>Outlook
+
+- Consertamos um problema que fazia com que os usuários não conseguissem saber quanto tempo queriam permitir o acesso ao iniciar uma mala direta no Word, o que resultava em um excesso de solicitações.
+
+
+- Essa alteração permite que o Outlook aproveite as vantagens de uma configuração do servidor Exchange que suprime a exibição da Caixa de correio de Arquivamento do Exchange Online para os usuários finais.
+
+
+- Corrigimos um problema que provocava um fechamento inesperado do Outlook para usuários de suplementos baseados em resgate.
+
+
+- Corrigimos um problema que fazia com que os usuários não conseguissem selecionar mais de uma categoria para pesquisar.
+
+
+- Corrigimos um problema que fazia com que a hora de início de alguns itens do calendário mudassem inesperadamente quando o evento era copiado de outro compromisso.
+
+
+- Solucionado um problema que provocou mensagens de texto S/MIME sem formatação se tornarem truncadas ao enviar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Esta alteração soluciona um problema com Mesclar Formas trabalhando com texto.
+
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+- Esta alteração soluciona um problema com a repetição da reprodução de vídeos de fundo na apresentação de Slides.
+
+
+- Corrigimos um problema em que o comando de tamanho de fonte, adicionado ao QAT, completava automaticamente para o tamanho de fonte definido mais próximo ao atualizá-lo.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que as unidades máximas de um recurso nem sempre refletiam a atualização mais recente das unidades máximas.
+
+
+### <a name="visio"></a>Visio
+
+- O problema ocorreu devido a uma regressão recente. Resolvemos o problema. A caixa de diálogo "Salvar como Página da Web" agora terá os campos preenchidos corretamente de acordo com as entradas do usuário e os usuários podem salvar perfeitamente seus arquivos como páginas da web.
+
+
+- Esse problema foi corrigido. Agora você pode incorporar arquivos Visio como objetos em outros aplicativos do Office, como PowerPoint e Word, e acessá-los perfeitamente a partir desses aplicativos.
+
+
+### <a name="word"></a>Word
+
+- Corrigido um problema em que máquinas com configurações de hash personalizadas estavam executando problemas quando entraram em uma sessão de colaboração com uma configuração de hash diferente de sha512.
+
+
+- Essa alteração corrige um problema relacionado à alteração de cores de contorno das imagens SVG.
+
+
+- Corrigido um problema ao editar uma postagem de comentário com @menção.
+
+
+- Corrigido um problema para tornar os comentários modernos mais robustos.
+
+
+- Corrigimos um problema de exclusão de comentários modernos em um controle de conteúdo marcado como não editável.
+
+
+- Corrija a animação ao digitar na parte inferior de um cartão de comentários.
+
+
+- Corrige um problema em que a caixa de resposta de um cartão de comentário está fora da tela.
+
+
+- Corrige um problema com um cartão de comentários exibido no topo da página.
+
+
+- Corrige bug em comentários onde o texto pode rolar para fora da tela.
+
+
+- Correção e problema com barras de rolagem aninhadas no painel de comentários.
+
+
+- Os rascunhos de comentários desaparecem ao criar uma nova instância do Word.
+
+
+- Corrigimos um problema em que o Word trava ao salvar o documento em PDF com texto oculto.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2012-january-04"></a>Versão 2012: 04 de janeiro
 *Versão 2012 (Compilação 13530.20316)*
@@ -1178,7 +1323,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1192,7 +1337,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -1439,7 +1584,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2007-august-05"></a>Versão 2007: 05 de Agosto
 *Versão 2007 (Compilação 13029.20344)*
@@ -2309,7 +2454,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2602,7 +2747,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2003-april-03"></a>Versão 2003: 03 de abril
 *Versão 2003 (Criação 12624.20410)*
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DO BUGDETAILS)
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -2838,7 +2983,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
