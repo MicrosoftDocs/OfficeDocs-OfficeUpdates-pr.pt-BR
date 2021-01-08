@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760635"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780669"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
@@ -64,12 +64,12 @@ Para saber mais sobre as atualizações do Office para Mac, que está incluído 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Implantação do Office](https://docs.microsoft.com/deployoffice/)
 - [Novidades do Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roteiro do Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
 - [Visão geral do Centro de Mensagens do Microsoft 365 Apps](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Informações de versão do Windows 10](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Informações de versão do Windows 10](https://aka.ms/windows/releaseinfo)
 - [Guia de Atualização de Segurança da Microsoft](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
