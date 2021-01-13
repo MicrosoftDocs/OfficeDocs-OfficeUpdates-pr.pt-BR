@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
+ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780677"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49793879"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,32 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2101-january-09"></a>Versão 2101: 09 de janeiro
+*Versão 2101 (Build 13628.20118)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O editor corrige a ortografia e a gramática e oferece sugestões para refinar sua escrita. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/microsoft-editor-gets-an-upgrade)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook para fechar inesperadamente em determinados cenários de pesquisa.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DE BUGDETAILS)
 
 ## <a name="version-2101-january-07"></a>Versão 2101: 07 de janeiro
 *Versão 2101 (Build 13628.20030)*
@@ -1672,7 +1698,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2983,7 +3009,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
