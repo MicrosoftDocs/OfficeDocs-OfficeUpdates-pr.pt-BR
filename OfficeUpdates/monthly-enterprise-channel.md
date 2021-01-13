@@ -189,7 +189,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
 
-- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -434,7 +434,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
 
 
-- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
