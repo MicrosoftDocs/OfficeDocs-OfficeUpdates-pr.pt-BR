@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos insiders o histórico de atualizações dos lançamentos mensais do Canal Insider Fast para a área de trabalho do Windows
-ms.openlocfilehash: aad3212acdca48095d422e0065ecced1a788703d
-ms.sourcegitcommit: ab688d788d2ac0b1d979e611120a07b35b7773f7
+ms.openlocfilehash: b65189b5d17481f8e1945305022bf67d2ee27717
+ms.sourcegitcommit: 3a12c68826f67a2c7c1a3de07a4e62ea18235ebc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49775323"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49796051"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Atualização do histórico para o Canal Beta do Office
 
@@ -37,6 +37,9 @@ Para saber as notas de versão, confira [Notas de versão Insider do Office para
 
 
 [//]: # (NÃO REMOVA)
+
+**11 de janeiro de 2021**<br/>
+Versão 2102 (Build 13707.20008)<br/>
 
 **06 de janeiro de 2021**<br/>
 Versão 2102 (Compilação 13704.20000)<br/>
