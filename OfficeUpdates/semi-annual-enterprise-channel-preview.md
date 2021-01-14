@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760645"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837622"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
@@ -23,6 +23,78 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 > [!IMPORTANT]
 > Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-january-12"></a>Versão 2008: 12 de janeiro
+*Versão 2008 (Build 13127.21064)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que os livros somente leitura não atualizavam mais os dados da tabela dinâmica quando abertos.
+
+
+- Essa alteração fornece uma correção para o seguinte problema: Excel "Inserir Objeto" não mostra o ícone correto ao inserir um arquivo da pasta de sincronização local do OneDrive.
+
+
+- Corrigido um problema em que os clientes eram notificados incorretamente sobre uma nova versão do arquivo durante a coautoria.
+
+
+- Corrigido um problema de edição em que o uso de IME com o modo Substituir avançava caracteres extras incorretamente.
+
+
+- Corrigido um problema ao usar dados em tempo real em conjunto com a funcionalidade recalc multithread.
+
+
+- Corrige um problema em que o Excel falhava ao iniciar ou fechava inesperadamente se certas configurações de proteção contra exploits de Segurança do Windows (SimExec, CallerCheck) estivessem em uso
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os SmartLinks perdessem a formatação quando salvos em rascunhos.
+
+
+- Corrigimos um problema para fornecer ao usuário uma maneira de personalizar o texto de justificação ao substituir uma política.
+
+
+- Corrigimos um problema que fazia com que os caracteres chineses fossem alterados para pontos de interrogação ao salvar como um arquivo OFT.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema de VBA em que Slide.Shapes.AddMediaObject2 fechava inesperadamente com formatos de vídeo legados (MPG-1, Mpeg-2).
+
+
+- Corrigido um problema que fazia com que alguns arquivos do PowerPoint corrompidos não abrissem corretamente mesmo após uma operação de reparo de documento.
+
+
+### <a name="project"></a>Projeto
+
+- Corrigido um problema em que o Microsoft Project podia ser encerrado inesperadamente ao abrir arquivos em que os contornos dos recursos foram especificados de uma determinada maneira.
+
+
+### <a name="skype"></a>Skype
+
+- Corrige um problema em que o certificado TLS-DSK de um usuário não era renovado no horário esperado, em vez de renovar apenas quando faltavam menos de 12 horas para sua validade.
+
+
+- Corrige um problema em que a interface do usuário do Skype for Business aparece em branco depois de entrar quando o Office ainda não está licenciado.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Essa alteração aborda um problema relacionado à abertura de arquivos contendo diagramas legados.
+
+
+- Essa alteração soluciona um problema com o proxy substituto SVG que resulta em violações de acesso.
+
+
+
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2008-december-08"></a>Versão 2008: 8 de setembro
 *Versão 2008 (Build 13127.20910)*
@@ -123,7 +195,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2008-november-10"></a>Versão 2008: 10 de novembro
 *Versão 2008 (Build 13127.20760)*
@@ -159,7 +231,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema onde os usuários podem agora desabilitar o IRM (Gerenciamento de Direitos de Informação) para o Outlook sem ter que desabilitá-lo para o resto das aplicações do Office.
 
 
-- Corrigimos um problema que impedia os usuários de conceder permissão de Editor aos seus delegados.
+- Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
 
 
 - Corrigimos um problema que fazia com que os usuários experienciassem o aplicativo encerrar inesperadamente ao selecionar um resultado de pesquisa.
@@ -1364,6 +1436,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
