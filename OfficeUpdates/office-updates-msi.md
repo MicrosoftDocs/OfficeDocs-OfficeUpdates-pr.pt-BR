@@ -51,7 +51,7 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
    
 ## <a name="updates-released-in-past-12-months"></a>Atualizações lançadas nos últimos 12 meses
 
-[Atualizações de Segurança e Não-Segurança para janeiro de 2021: KB4583559](https://support.microsoft.com/help/4583559)
+[Atualizações de segurança e não segurança para janeiro de 2021: KB4583559](https://support.microsoft.com/help/4583559)
 
 [Atualizações de Segurança e não relacionadas à Segurança de dezembro de 2020: KB4583521](https://support.microsoft.com/help/4583521)
 
