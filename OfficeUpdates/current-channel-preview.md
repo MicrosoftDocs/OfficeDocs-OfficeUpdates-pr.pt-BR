@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
-ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
+ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
+ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49793879"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49903844"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,31 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2101-january-18"></a>Versão 2101: 18 de janeiro
+*Versão 2101 (Build 13628.20158)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="project"></a>Project
+
+- Correção de um problema em que a bordas não apareciam para tarefas no modo de exibição Planejador de Equipe.
+
+
+- Correção de um problema em que arrastar e soltar não funcionava para tarefas no modo de exibição Planejador de Equipe.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-january-09"></a>Versão 2101: 09 de janeiro
 *Versão 2101 (Build 13628.20118)*
@@ -1468,7 +1493,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-august-17"></a>Versão 2008: 17 de agosto
 *Versão 2008 (Compilação 13127.20208)*
