@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
-ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
+ms.openlocfilehash: e2b211ded8c30c0ad3be4731a310cdbccfd10a65
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49903844"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980405"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,44 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2101-january-25"></a>Versão2101: 25 de janeiro
+*Versão2101 (Compilação13628.20274)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que usuários com Caixas de Correio Compartilhadas ou Delegadas com grandes hierarquias em seus perfis travassem.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-january-18"></a>Versão 2101: 18 de janeiro
 *Versão 2101 (Build 13628.20158)*

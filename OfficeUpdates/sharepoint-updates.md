@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Localize e gerencie as atualizações do SharePoint Server 2016, do SharePoint 2013 e do SharePoint 2010 em um só lugar. Use os links nesta página para saber mais e baixar as atualizações.
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837564"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980415"
 ---
 # <a name="sharepoint-updates"></a>Atualizações do SharePoint
 
@@ -26,9 +26,13 @@ Localize e gerencie as atualizações do [SharePoint Server 2019](#sharepoint-20
 
 Para obter as atualizações mais recentes do SharePoint Online e do Microsoft 365, confira o [Roteiro do Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=529454).
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>Histórico de atualizações do SharePoint 2019
+> [!NOTE]
+>A primeira atualização/KB listada para cada data de lançamento é o patch STS independente do idioma. A segunda atualização é o patch WSSLOC dependente do idioma e cobre todos os pacotes de idiomas, incluindo instalações em inglês. Ambas as atualizações são necessárias para atualizar totalmente o farm, embora o patch WSSLOC dependente do idioma possa não ser lançado todos os meses.
 
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ Para obter as atualizações mais recentes do SharePoint Online e do Microsoft 3
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||Dezembro de 2018  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||Novembro de 2018  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>Histórico de atualizações do SharePoint 2016
+
+> [!NOTE]
+>A primeira atualização/KB listada para cada data de lançamento é o patch STS independente do idioma. A segunda atualização é o patch WSSLOC dependente do idioma e cobre todos os pacotes de idiomas, incluindo instalações em inglês. Ambas as atualizações são necessárias para atualizar totalmente o farm, embora o patch WSSLOC dependente do idioma possa não ser lançado todos os meses.
 
 |**Nome do pacote**|**Número de KB**|**Versão**|**Data de lançamento**|
 |:-----|:-----|:-----|:-----|
