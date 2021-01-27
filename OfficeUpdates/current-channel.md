@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934409"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013282"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -32,6 +32,86 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2101-january-26"></a>Version 2101: 26 de janeiro
+*Versão2101 (Compilação13628.20274)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+- 
+  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="outlook"></a>Outlook
+
+- **Excluir conversa pelo proprietário da mensagem:** Este recurso permite excluir uma conversa pelo proprietário da mensagem.
+
+- **Aumente o tempo entre as reuniões consecutivas:** Dê aos participantes tempo para recuperar o fôlego ou viajar entre os locais, configurando as reuniões para começarem 5-10 minutos atrasado por padrão. [Saiba mais](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Cada reunião online:** atualize suas configurações de calendário para tornar todas as reuniões que você criar uma Reunião de Equipe por padrão, para que você não precise mais se lembrar de clicar na opção Reunião de Equipes.
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+- 
+  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+- 
+  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+### <a name="word"></a>Word
+
+- **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+- 
+  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrige um problema em que o Excel falhava ao iniciar ou fechava inesperadamente se certas configurações de proteção contra exploits de Segurança do Windows (SimExec, CallerCheck) estivessem em uso
+
+
+### <a name="excelexe"></a>excel.exe
+
+- Corrigimos um problema que quebrava algumas macros legadas do Excel 4.0 e Excel5.0, bem como algumas chamadas VBA para dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook para fechar inesperadamente em determinados cenários de pesquisa.
+
+
+- Corrigimos um problema que fazia com que usuários com Caixas de Correio Compartilhadas ou Delegadas com grandes hierarquias em seus perfis travassem.
+
+
+### <a name="project"></a>Project
+
+- Correção de um problema em que a bordas não apareciam para tarefas no modo de exibição Planejador de Equipe.
+
+
+- Correção de um problema em que arrastar e soltar não funcionava para tarefas no modo de exibição Planejador de Equipe.
+
+
+- Corrigimos um problema em que, quando um recurso de custo era atribuído a uma tarefa de marco, o custo da linha de base não era acumulado corretamente.
 
 
 
@@ -360,13 +440,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema em que os usuários poderão criar linhas retas usando conectores no Visio para Office 365 para estênceis personalizados do Visio e modelos internos.
 
 
-### <a name="office-suite"></a>Pacote de aplicativos do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Corrigido um problema em que ao tentar Salvar Como falhava em determinados cenários.
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2010-november-10"></a>Versão 2010: 10 de novembro
 *Versão 2010 (Build 13328.20356)*
@@ -1866,6 +1946,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Produção| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
@@ -1875,5 +1956,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
