@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837622"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032293"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
@@ -384,7 +384,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **O calendário recebe um novo formato:** ver atualizações visuais que facilitam a pesquisa do calendário. [Saiba mais](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o calendário fixado no painel de Tarefas pendentes, participe de uma reunião com apenas um clique.
+- **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o calendário fixado no painel de Tarefas pendentes, participe de uma reunião com apenas um clique. [Saiba mais](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 

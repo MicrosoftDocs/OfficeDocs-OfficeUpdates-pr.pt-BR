@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013282"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032292"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -47,8 +47,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
 
-- 
-  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -60,22 +59,19 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
 
-- 
-  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
 
-- 
-  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **Enviar dados de auditoria sobre rotulagem de confidencialidade para administradores M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
 
-- 
-  **Clientes governamentais: aplique rótulos de confidencialidade a seus documentos e emails: recursos de rótulos de** sensibilidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H (saiba mais -https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels).
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -89,8 +85,6 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 - Corrige um problema em que o Excel falhava ao iniciar ou fechava inesperadamente se certas configurações de proteção contra exploits de Segurança do Windows (SimExec, CallerCheck) estivessem em uso
 
-
-### <a name="excelexe"></a>excel.exe
 
 - Corrigimos um problema que quebrava algumas macros legadas do Excel 4.0 e Excel5.0, bem como algumas chamadas VBA para dialogsheets.show.
 
@@ -1494,7 +1488,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o calendário fixado no painel de Tarefas pendentes, participe de uma reunião com apenas um clique.
+- **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o calendário fixado no painel de Tarefas pendentes, participe de uma reunião com apenas um clique. [Saiba mais](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **Novas imagens para dar vida às suas mensagens:** milhares de imagens de estoque, ícones e adesivos gratuitas que você pode usar em suas mensagens de email. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
@@ -1829,7 +1823,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.
 
-- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba Mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
