@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
-ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937066"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054503"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,29 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2102-january-29"></a>Versão 2102: 29 de janeiro
+*Versão 2102 (Build 13721.20008)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o Excel fechava inesperadamente quando você adicionava um Nome na caixa de diálogo Definir Nome.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que o ícone de criptografia não fosse exibido para emails enviados usando a opção Somente Criptografar.
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que projetos com nomes cirílicos longos não podiam ser abertos por meio da Centro de Projetos.
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-january-22"></a>Versão 2102: 22 de janeiro
 *Versão 2102 (Build 13714.20000)*
@@ -2389,6 +2412,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
@@ -2398,5 +2422,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
