@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 17896e4c80de0b30306ee69798d0631adfd18da5
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
+ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080972"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50101359"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,23 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2101-february-03"></a>Versão 2101: 03 de fevereiro
+*Versão 2101 (Build 13628.20330)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que causava problemas ao exibir a assinatura padrão correta no OWA.
+
+
+- Corrigimos um problema que fazia com que o ícone de criptografia não fosse exibido para emails enviados usando a somente a opção de criptografia.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-february-02"></a>Versão 2101: 02 de fevereiro
 *Versão 2101 (Build 13628.20320)*
@@ -1426,7 +1443,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1440,7 +1457,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2619,7 +2636,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2004-april-21"></a>Versão 2004: 21 de abril
 *Versão 2004 (Build 12730.20182)*
