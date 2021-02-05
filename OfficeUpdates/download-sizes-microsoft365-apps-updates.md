@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 7b4cda2310ee10bb297384b6d3f25e30a028ee7d
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
+ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013242"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50108013"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVER)
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+## <a name="february-4-2021"></a>4 de fevereiro de 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>O lançamento esperado é o da Versão 2012 (Build 13530.20510).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2011 (Build 13426.20526) <br/> |12 de janeiro de 2021 <br/> |143<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.21184).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.21064) <br/> |12 de janeiro de 2021 <br/> |60<br/> |
+|Versão 2008 (Build 13127.20910) <br/> |8 de dezembro de 2020 <br/> |62<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.21184).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.21064) <br/> |12 de janeiro de 2021 <br/> |60<br/> |
+|Versão 2002 (Build 12527.21416) <br/> |8 de dezembro de 2020 <br/> |363<br/> |
+
+
+[//]: # (NÃO REMOVER O CONTEÚDO DA PREVISÃO FINAL)
 
 ## <a name="january-26-2021"></a>26 de janeiro de 2021
 
