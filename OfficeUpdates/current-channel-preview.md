@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101359"
+ms.locfileid: "50105213"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -78,16 +78,11 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-<br/>
-
-[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+
 
 ## <a name="version-2101-january-18"></a>Versão 2101: 18 de janeiro
 *Versão 2101 (Build 13628.20158)*
@@ -122,6 +119,19 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2101-january-13"></a>Versão 2101: 13 de janeiro
+*Versão 2101 (Build 13628.20118)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+- **Mais temas:** novos temas já estão disponíveis para clientes da Web e desktop.
+
+- **Compartilhamento de PPT:** Exibição do Apresentador no Teams Depois que você seleciona um arquivo do PowerPoint da Bandeja de Compartilhamento do Teams, a Exibição do Apresentador é aberto automaticamente. Você pode ver o slide atual, as anotações do slide e uma faixa de miniatura de todos os slides da apresentação para facilitar a navegação de slides ad-hoc. Esse ponto de vista é totalmente nos bastidores e é restrito ao apresentador no controle. Seu público só pode ver seu slide atual (realçado na caixa vermelha grande) ou o slide para o qual eles optam por navegar (se a navegação do público não estiver bloqueada por você). 
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+<br/>
 
 ## <a name="version-2101-january-09"></a>Versão 2101: 09 de janeiro
 *Versão 2101 (Build 13628.20118)*
