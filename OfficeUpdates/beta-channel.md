@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054503"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118381"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,65 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2102-february-05"></a>Versão 2102: 05 de fevereiro
+*Versão 2102 (Build 13801.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Você verá agora as guias selecionadas mais claras no Access.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o Excel parava de responder após selecionar uma série de dados em um gráfico.
+
+
+- Corrigimos um problema onde pressionar Enter em certos teclados no Android adicionaria uma nova linha em vez de mudar para a próxima célula.
+
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os emails fossem enviados como assinados digitalmente depois que o usuário desmarcou essa opção.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+### <a name="word"></a>Word
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+- Corrigimos um problema onde o comentário pode ser truncado com links.
+
+
+- Corrigimos um problema com o modo de conflito na coautoria.
+
+
+- Corrigimos um problema relativo ao armazenamento de arquivos no SharePoint Online
+
+
+- Corrigimos um problema ao exportar um documento Word para PDF.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema em que o Office, em algumas circunstâncias, apresentava rótulos de confidencialidade para uma conta inscrita quando deveria apresentar rótulos de confidencialidade para outra conta inscrita.
+
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-january-29"></a>Versão 2102: 29 de janeiro
 *Versão 2102 (Build 13721.20008)*
@@ -2412,6 +2471,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

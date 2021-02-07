@@ -9,36 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos clientes notas de versão para o histórico de atualizações do Microsoft 365 Apps para Windows 7
-ms.openlocfilehash: 555cb8bd9ddeaa53e209655a9c744ed6b6eb3ddf
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 26aac794e5dec7f92afff1dd020528520ce98662
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837562"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118391"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Histórico de atualizações do Microsoft 365 Apps para Windows 7 
 
  > [!NOTE]
 >
->- O suporte para o Windows 7 terminou em 14 de janeiro de 2020. [Saiba mais](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- O Microsoft 365 Apps não tem mais suporte no Windows 7, mas continuará recebendo atualizações de segurança até janeiro de 2023. [Saiba mais](https://docs.microsoft.com/DeployOffice/windows-7-support)
->- Se você for um usuário doméstico executando o Office no Windows 7, confira [fim do suporte do Windows 7 e do Office.](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)
-A versão 2002 é a última versão do Microsoft 365 Apps que estará disponível para dispositivos que executam o Windows 7, pois o mesmo ficará sem suporte em janeiro de 2020.  
+>- O suporte para o Windows 7 terminou em 14 de janeiro de 2020. [Saiba mais](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- O Microsoft 365 Apps não tem mais suporte no Windows 7, mas continuará obtendo atualizações de segurança até janeiro de 2023. Para obter mais informações, confira [Fim do suporte do Windows 7 e do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support).
+>- Se você for um usuário doméstico executando o Office no Windows 7, confira [Fim do suporte do Windows 7 e do Office.](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9).
 
-A versão 2002 deve estar disponível nos seguintes canais:
-- Canal Mensal no final de fevereiro de 2020
-- Canal Semestral (Direcionado) em março de 2020
-- Canal Semestral em julho de 2020
+A versão 2002 é a versão mais recente do Microsoft 365 Apps que está disponível para dispositivos que executam o Windows 7. A versão 2002 está disponível em todos os canais de atualização para o Microsoft 365 Apps.
 
-As versões no canal semestral geralmente estão disponíveis por apenas 14 meses, mas estamos abrindo uma exceção apenas para a versão 2002 para alinhar-se com o período que as Atualizações de Segurança Estendidas (ESU) para Windows 7 estarão disponíveis.
+As versões do Canal Empresarial Semestral estão geralmente disponíveis apenas por 14 meses. Mas, estamos abrindo uma exceção apenas para a versão 2002 para alinhar com o período de disponibilidade das Atualizações de Segurança Estendidas (ESU) para Windows 7.
 
-Essa disponibilidade estendida para a Versão 2002 também se aplica a outros canais de atualização, como Mensal e Semestral (Direcionado), mas somente se aplica a dispositivos que executam o Windows 7.
+Essa disponibilidade estendida para a Versão 2002 também se aplica a outros canais de atualização, como o Canal Atual, mas somente se aplica a dispositivos que executam o Windows 7.
 
-Você pode continuar a implantar versões anteriores à Versão 2002 em dispositivos com o Windows 7 desde que a versão anterior ainda seja compatível. Por exemplo, você pode continuar a usar a Versão 1908 do Canal Semestral em dispositivos com o Windows 7 até março de 2021, que é quando a Versão 1908 deixa de ser compatível com o Canal Semestral.
+Na segunda terça-feira de cada mês, uma nova compilação da Versão 2002 será lançada com as atualizações de segurança, conforme necessário. Para uma lista de atualizações de segurança para a versão 2002, confira [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
-Na segunda terça-feira de cada mês, um novo build da Versão 2002 será lançado com as atualizações de segurança, conforme necessário. Haverá apenas um build para cada arquitetura (x86 ou x64) e poderá ser usado com o canal de atualização que você tiver implantado. Não haverá builds separados da Versão 2002 para cada canal. Por exemplo, o mesmo build pode ser usado para atualizar dispositivos com o Windows 7 que usam o Canal Mensal ou que usam o Canal Semestral.
+Se você gerencia atualizações usando o Microsoft Endpoint Configuration Manager, confira [Orientações ao usar o Configuration Manager para atualizações](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates).
 
-##
+
+## <a name="update-history"></a>Histórico de atualizações
 
 [//]: # (NÃO REMOVA)
 
