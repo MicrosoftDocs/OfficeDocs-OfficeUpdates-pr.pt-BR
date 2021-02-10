@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105213"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151959"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,106 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2102-february-08"></a>Versão 2102: 08 de fevereiro
+*Versão 2102 (Build 13801.20084)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Sugestões de redação assistida da Pesquisa da Microsoft (Para\CC\CC):** A adição de pessoas à linha Para\CC é agora feita na plataforma da Pesquisa da Microsoft.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Você verá agora as guias selecionadas mais claras no Access.
+
+
+### <a name="excel"></a>Excel
+
+- Corrige um problema em que determinados gráficos que usam intervalos descontínuos de células não são carregados quando os arquivos são reabertos.
+
+
+- Corrige um problema em que o Excel não pode ser iniciado ou encerrado inesperadamente se determinadas configurações de proteção do Windows Security Exploit (SimExec, CallerCheck) estiverem em uso.
+
+
+- Corrigimos um problema em que o Excel parava de responder após selecionar uma série de dados em um gráfico.
+
+
+- Corrigimos um problema em que o Excel fechava inesperadamente ao adicionar um Nome na caixa de diálogo Definir Nome.
+
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os emails fossem enviados como assinados digitalmente depois que o usuário desmarcou essa opção.
+
+
+- Corrigimos um problema que fazia com que o ícone de criptografia não fosse exibido para emails enviados usando a opção Somente Criptografar.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigiu um problema relacionado à exibição de emojis com cores.
+
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+### <a name="visio"></a>Visio
+
+- Este problema sobre a renderização da forma a partir de estênceis do CAD já foi resolvido. Os usuários verão o problema resolvido na compilação mais recente.
+
+
+### <a name="word"></a>Word
+
+- Isto corrige um problema que impedia que a digitação e a presença em tempo real fosse restaurada após perder a conectividade com a Internet por um período de tempo.
+
+
+- Quando um usuário seleciona um texto em um comentário, o Word agora desseleciona o texto selecionado em outros comentários.
+
+
+- O Word agora permite copiar o texto de comentários para o Excel.
+
+
+- Corrigimos um problema onde a execução da macro VBA, ExportAsFixedFormat2 falhava com um erro informando “Valor ilegal de apresentação (membro desconhecido)”.
+
+
+- Corrigido um problema relacionado a imagens que mantêm suas proporções durante uma operação de corte.
+
+
+- Corrigimos um problema onde o comentário pode ser truncado com links.
+
+
+- Corrigimos um problema relativo ao armazenamento de arquivos no SharePoint Online
+
+
+- Corrigimos um problema ao exportar um documento Word para PDF.
+
+
+- Corrigimos um problema com a AutoRecuperação.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Correção de um bug no PowerPoint onde a inserção de marcadores como imagens resultaria no desaparecimento dos marcadores. Esta correção faz com que eles se tornem mais confiáveis.
+
+- Corrigido um problema em que o Office, em algumas circunstâncias, apresentava rótulos de confidencialidade para uma conta inscrita quando deveria apresentar rótulos de confidencialidade para outra conta inscrita.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2101-february-03"></a>Versão 2101: 03 de fevereiro
 *Versão 2101 (Build 13628.20330)*
@@ -1453,7 +1553,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1467,7 +1567,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -1802,7 +1902,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
