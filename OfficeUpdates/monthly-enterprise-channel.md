@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837532"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173669"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,125 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2012-february-09"></a>Versão 2012: 09 de fevereiro
+*Versão 2012 (Build 13530.20528)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Aumente o tempo entre as reuniões consecutivas:** Dê aos participantes tempo para recuperar o fôlego ou viajar entre os locais, configurando as reuniões para começarem 5-10 minutos atrasado por padrão. [Saiba mais](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+
+- **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
+
+- **Cada reunião online:** atualize suas configurações de calendário para tornar todas as reuniões que você criar uma Reunião de Equipe por padrão, para que você não precise mais se lembrar de clicar na opção Reunião de Equipes.
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+- **Cada reunião online:** atualize suas configurações de calendário para tornar todas as reuniões que você criar uma Reunião de Equipe por padrão, para que você não precise mais se lembrar de clicar na opção Reunião de Equipes.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
+
+- **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Esta alteração resolve um problema com a exibição adequada de fontes em equações.
+
+
+- Corrigido um problema em que alguns usuários veriam incorretamente uma barra de mensagens informando-os de uma nova versão de um arquivo durante a coautoria.
+
+
+- Corrigido um problema em que o Excel podia deixar as macros desabilitadas sem que fosse solicitado ao abrir um arquivo de suplemento do Excel contendo Macros do Excel 4.0.
+
+
+- Corrige um problema em que o Excel não pode ser iniciado ou encerrado inesperadamente se determinadas configurações de proteção do Windows Security Exploit (SimExec, CallerCheck) estiverem em uso.
+
+
+- Corrigido um problema em que o Excel poderia fechar inesperadamente ao usar o menu "Mostrar Valores Como" para uma Tabela Dinâmica.
+
+
+- Corrigimos um problema que quebrava algumas macros legadas do Excel 4.0 e Excel 5.0, bem como algumas chamadas VBA para dialogsheets.show.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que uma assinatura editada não salvasse depois de solicitar que o usuário o fizesse.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o fechamento inesperado do Outlook em determinados cenários de pesquisa.
+
+
+- Corrigimos um problema que fazia com que alguns clientes se deparassem com um travamento durante o carregamento de seus calendários.
+
+
+- Corrigimos um problema que fazia com que usuários que têm Caixas de Correio Compartilhadas ou Delegadas com grandes hierarquias em seus perfis se deparassem com um travamento.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o comando de tamanho de fonte, adicionado ao QAT, completava automaticamente para o tamanho de fonte definido mais próximo ao atualizá-lo.
+
+
+- Esta alteração resolve um problema com a exibição adequada de fontes em equações.
+
+
+- Esta alteração resolve um problema com os preenchimentos de caminho ao aplicar operações de Mesclar Formas com determinadas geometrias.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- O Anaheim WebView ainda não oferece suporte ao Proteção de Informações do Windows (WIP). Com essa correção, a plataforma de suplemento do Office volta ao nível inferior do WebView em um ambiente habilitado para WIP. Pode ser Edge Spartan WebView ou Trident WebView, dependendo do ambiente do computador do cliente. Ambos os WebViews de nível inferior suportam WIP.
+
+
+- Dimensionamento binário otimizado.
+
+
+- Corrigida a sequência de fechamento do arquivo para que todos os componentes interdependentes sejam fechados normalmente.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2011-february-09"></a>Versão 2011: 09 de fevereiro
+*Versão 2011 (Build 13426.20658)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2011-january-12"></a>Versão 2011: 12 de janeiro
 *Versão 2011 (Build 13426.20526)*
@@ -189,7 +308,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
 
-- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -434,7 +553,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
 
 
-- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1027,7 +1146,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Laço a tinta:** a ferramenta laço na guia desenhar ajuda a selecionar objetos desenhados à tinta. Selecione traços individuais ou palavras inteiras. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Ver detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
+- **Escolha a cor perfeita:** usar códigos de cor hexa para escolher a cor que você quer para a sua fonte, realce de texto e muito mais.<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Novas imagens para dar vida aos seus documentos:** Milhares de imagens de estoque, ícones e figurinhas gratuitas que você pode usar em seus documentos. Vá para Inserir > Imagens > Imagens de estoque para começar. [Saiba mais](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
@@ -1268,6 +1387,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)

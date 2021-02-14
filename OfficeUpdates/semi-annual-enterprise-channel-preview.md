@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do canal semestral (direcionado) do Microsoft 365 Apps em 2020
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032293"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173830"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
@@ -23,6 +23,67 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 > [!IMPORTANT]
 > Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-february-09"></a>Versão 2008: 09 de fevereiro
+*Versão 2008 (Build 13127.21216)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o Excel fechava inesperadamente ao abrir arquivos UNC com atributos de arquivo inválidos (data de criação, data de modificação, etc.)
+
+
+- Corrigido um problema em que as configurações decimais e de milhares de separadores não eram transferidas ao copiar um gráfico do Excel e colar no Word ou PowerPoint.
+
+
+- Corrigimos um problema onde o desempenho da execução de uma macro envolvendo a formatação de intervalo da Tabela Dinâmica se agravaria a cada vez que a macro fosse executada.
+
+
+- Corrigimos um problema em que as regras de formatação condicional eram descartadas ao copiar ou mover planilhas para outra pasta de trabalho.
+
+
+- Corrigimos um problema em que os usuários não podiam aplicar rótulos de confidencialidade aos arquivos do Excel quando a tela inicial da inicialização do aplicativo estava desabilitada.
+
+
+- Corrigimos um problema ao abrir um arquivo na nuvem a partir da pasta de Sincronização do Microsoft OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema que fazia com que o Outlook parasse de funcionar esporadicamente ao adicionar ou salvar anexos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o comando de tamanho de fonte, adicionado ao QAT, completava automaticamente para o tamanho de fonte definido mais próximo ao atualizá-lo.
+
+
+- Corrigido um problema onde copiar e colar um slide com a opção "manter a formatação da fonte" às vezes copiava inesperadamente sobre um novo slide mestre.
+
+
+### <a name="word"></a>Palavra
+
+- Corrigimos um problema no Controle de Alterações que às vezes a abertura de um documento do Word exibia uma caixa de diálogo de erro.
+
+
+- Corrigimos um problema ao abrir um arquivo na nuvem a partir da pasta de Sincronização do Microsoft OneDrive.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema que impedia a abertura bem-sucedida de um arquivo no Office.
+
+
+- Corrigido um problema onde documentos contendo contornos de esboços aplicados aos conectores por meio do Pincel de Formatação poderiam se corromper.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-january-12"></a>Versão 2008: 12 de janeiro
 *Versão 2008 (Build 13127.21064)*
@@ -58,7 +119,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema que fazia com que os SmartLinks perdessem a formatação quando salvos em rascunhos.
 
 
-- Corrigimos um problema para fornecer ao usuário uma maneira de personalizar o texto de justificação ao substituir uma política.
+- Corrigimos um problema para fornecer a um usuário uma maneira de personalizar o texto de justificação ao substituir uma política.
 
 
 - Corrigimos um problema que fazia com que os caracteres chineses fossem alterados para pontos de interrogação ao salvar como um arquivo OFT.
@@ -195,7 +256,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2008-november-10"></a>Versão 2008: 10 de novembro
 *Versão 2008 (Build 13127.20760)*
@@ -1028,10 +1089,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Chame a atenção com \@menções**: use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba Mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **Encontre o que está procurando:** Pesquise comandos, pessoas, arquivos, fotos, artigos da Web e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **Encontre o que está procurando:** Pesquise comandos, pessoas, arquivos, fotos, artigos da Web e muito mais. [Saiba Mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 
-- **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** Deixe as formas do Office da sua pasta de trabalho com uma aparência casual de desenhado à mão. [Saiba Mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
@@ -1049,7 +1110,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Obtenha estatísticas em sua pasta de trabalho:** As Estatísticas da Pasta de Trabalho fornecem uma visão geral do conteúdo de uma pasta de trabalho, para ajudar você a descobrir o conteúdo com mais facilidade.
 
-- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba Mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1065,17 +1126,17 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Proteção avançada contra ataque:** com a proteção avançada contra ameaças do Office 365, você está protegido contra ataques por meio de hiperlinks dentro de assuntos de email, mensagens anexadas, mensagens assinadas, caminhos de rede e assim por diante.
 
-- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba Mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
-- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba Mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
 
 - **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. [Saiba Mais](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
 - **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba Mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
-- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba Mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba Mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1087,11 +1148,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Você calcula, nós formatamos:** Nós trocamos expressões matemáticas difíceis de desenhar por caracteres padrão. Basta escolher Tinta para Matemática e selecionar suas anotações manuscritas para começar.[Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **Encontre o que está procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **Encontre o que está procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba Mais](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **Localize e corrija títulos de slides ausentes:** Títulos de slides reforçam o seu discurso e tornam os seus slides acessíveis a usuários de todas as habilidades. O Verificador de Acessibilidade mostra onde os títulos estão ausentes para que você possa adicioná-los imediatamente. [Saiba mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
+- **Localize e corrija títulos de slides ausentes:** Títulos de slides reforçam o seu discurso e tornam os seus slides acessíveis a usuários de todas as habilidades. O Verificador de Acessibilidade mostra onde os títulos estão ausentes para que você possa adicioná-los imediatamente. [Saiba Mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
-- **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** deixe as formas do Office da sua apresentação com uma aparência casual de desenhado à mão. [Saiba Mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
@@ -1117,13 +1178,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Pintar um slide esplêndido:** converta sua tinta para texto e formas padrão e obtenha ideias inteligentes de design de slides do Designer do PowerPoint. [Saiba mais](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
+- **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba Mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
 - **Voltando para a cena do crime:** Use os novos estênceis de Evidência, Interno e Externo no modelo de Investigação de Cena de Crime para recriar cenas de crimes em detalhes.
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -1143,9 +1204,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Outras pessoas veem suas alterações rapidamente:** Os aperfeiçoamentos de coautoria significam que seus colaboradores podem ver suas mudanças mais rápido do que nunca.
 
-- **Faça um Esboço:** deixe as formas do Office do seu documento com uma aparência casual de desenhado à mão. [Saiba mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **Faça um Esboço:** deixe as formas do Office do seu documento com uma aparência casual de desenhado à mão. [Saiba Mais](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **Apagar com precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições à tinta. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Apagar com precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições à tinta. [Saiba Mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Compartilhamento rápido de arquivo**: Compartilhe os seus documentos diretamente da lista usada recentemente sem ter que abrir o arquivo.
 
@@ -1157,7 +1218,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Converta arquivos para melhorar a acessibilidade:** atualize seus arquivos para o formato moderno para torná-los mais acessíveis para todas as pessoas.
 
-- **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você. [Saiba mais](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **Uma experiência de vídeo mais segura:** aperfeiçoamentos de segurança significam uma experiência de vídeo mais segura para você. [Saiba Mais](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
 
 
@@ -1310,7 +1371,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - O organizador de blocos de construção pode exibir um alerta inválido: “Você modificou estilos, blocos de construção”.
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Essa alteração corrige a renderização lenta de alguns gráficos de dispersão com marcadores.
 
@@ -1436,6 +1497,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-fevereiro-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)

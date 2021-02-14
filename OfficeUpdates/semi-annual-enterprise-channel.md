@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032312"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173650"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de versão para lançamentos do Canal Empresarial Semestral
 
@@ -29,6 +29,89 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 
 
 [//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+
+## <a name="version-2008-february-09"></a>Versão 2008: 09 de fevereiro
+*Versão 2008 (Build 13127.21216)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o Excel fechava inesperadamente ao abrir arquivos UNC com atributos de arquivo inválidos (data de criação, data de modificação, etc.)
+
+
+- Corrigido um problema em que as configurações decimais e de milhares de separadores não eram transferidas ao copiar um gráfico do Excel e colar no Word ou PowerPoint.
+
+
+- Corrigimos um problema onde o desempenho da execução de uma macro envolvendo a formatação de intervalo da Tabela Dinâmica se agravaria a cada vez que a macro fosse executada.
+
+
+- Corrigimos um problema em que as regras de formatação condicional eram descartadas ao copiar ou mover planilhas para outra pasta de trabalho.
+
+
+- Corrigimos um problema em que os usuários não podiam aplicar rótulos de confidencialidade aos arquivos do Excel quando a tela inicial da inicialização do aplicativo estava desabilitada.
+
+
+- Corrigimos um problema ao abrir um arquivo na nuvem a partir da pasta de Sincronização do Microsoft OneDrive.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigido um problema que fazia com que o Outlook parasse de funcionar esporadicamente ao adicionar ou salvar anexos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que o comando de tamanho de fonte, adicionado ao QAT, completava automaticamente para o tamanho de fonte definido mais próximo ao atualizá-lo.
+
+
+- Corrigido um problema onde copiar e colar um slide com a opção "manter a formatação da fonte" às vezes copiava inesperadamente sobre um novo slide mestre.
+
+
+### <a name="word"></a>Palavra
+
+- Corrigimos um problema no Controle de Alterações que às vezes a abertura de um documento do Word exibia uma caixa de diálogo de erro.
+
+
+- Corrigimos um problema ao abrir um arquivo na nuvem a partir da pasta de Sincronização do Microsoft OneDrive.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema que impedia a abertura bem-sucedida de um arquivo no Office.
+
+
+- Corrigido um problema onde documentos contendo contornos de esboços aplicados aos conectores por meio do Pincel de Formatação poderiam se corromper.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2002-february-09"></a>Versão 2002: 09 de fevereiro
+*Versão 2002 (Build 12527.21594)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigido um problema onde documentos contendo contornos de esboços aplicados aos conectores por meio do Pincel de Formatação poderiam se corromper.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-1908-february-09"></a>Versão 1908: 09 de fevereiro
+*Versão 1908 (Build 11929.21008)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-january-12"></a>Versão 2008: 12 de janeiro
 *Versão 2008 (Build 13127.21064)*
@@ -1036,11 +1119,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+- **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba Mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba Mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 - **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. [Saiba mais](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)
 
@@ -1048,7 +1131,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **O menu Inserir Link no Outlook inserirá um link com a permissão definida pelo administrador do locatário:** um link do Inserir Link MRU no Outlook insere um link que só funcionou para usuários que já tinham permissões. Isso causou uma troca de emails frequente entre os usuários solicitando o acesso a um documento. Atualizamos essa experiência e agora o link é inserido com a permissão padrão definida pelo administrador do locatário. No MSIT, é "A organização pode editar", para que todos os usuários internos que recebem um link compartilhado dessa maneira possam acessá-lo.
 
-- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba Mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 - **Emails de phishing fáceis de identificar:** As mensagens de spam e phishing têm uma aparência diferente, para que você possa identificá-las e eliminá-las facilmente na caixa de entrada.
 
@@ -1056,9 +1139,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Pesquisar com erros de ortografia ou digitação:** o Outlook encontrará o que você está procurando, mesmo quando a ortografia não corresponder.
 
-- **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+- **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba Mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba Mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1076,7 +1159,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba Mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Imprimir números de slide em folhetos:** os números de slide são incluídos automaticamente nos folhetos. Deixá-los ou não ativados depende de você. [Saiba mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Imprimir números de slide em folhetos:** os números de slide são incluídos automaticamente nos folhetos. Deixá-los ou não ativados depende de você. [Saiba Mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Localize e corrija títulos de slides ausentes:** Títulos de slides reforçam o seu discurso e tornam os seus slides acessíveis a usuários de todas as habilidades. O Verificador de Acessibilidade mostra onde os títulos estão ausentes para que você possa adicioná-los imediatamente. [Saiba mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -1142,7 +1225,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="office-suite"></a>Pacote Office
 
-- **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba Mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2198,7 +2281,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Codifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2218,7 +2301,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Diga adeus aos limites de sincronização:** melhorias do Outlook acabou com o limite de pastas, então vá em frente e sincronize suas caixas de correio compartilhadas.
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -2278,7 +2361,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Chame a atenção com \@@Menções:** Use @menções nos comentários para informar a seus colegas de trabalho quando precisar deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Pacote Office
 
@@ -2566,6 +2649,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)

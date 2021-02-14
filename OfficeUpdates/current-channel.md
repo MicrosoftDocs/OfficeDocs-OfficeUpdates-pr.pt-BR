@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032292"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177944"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -32,6 +32,29 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2101-february-09"></a>Versão 2101: 09 de fevereiro
+*Versão 2101 (Build 13628.20380)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que causava um travamento dos usuários das Configurações de Nuvem ao atualizar as configurações.
+
+
+- Corrigimos um problema que causava problemas ao exibir a assinatura padrão correta no OWA.
+
+
+- Corrigimos um problema que fazia com que o ícone de criptografia não fosse exibido para emails enviados usando a somente a opção de criptografia.
 
 
 
@@ -434,13 +457,13 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - Corrigimos um problema em que os usuários poderão criar linhas retas usando conectores no Visio para Office 365 para estênceis personalizados do Visio e modelos internos.
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote de aplicativos do Office
 
 - Corrigido um problema em que ao tentar Salvar Como falhava em determinados cenários.
 
 
 
-[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+[//]: # (NÃO REMOVA O FIM DO CONTEÚDO DOS DETALHES DO BUG)
 
 ## <a name="version-2010-november-10"></a>Versão 2010: 10 de novembro
 *Versão 2010 (Build 13328.20356)*
@@ -1940,6 +1963,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Produção| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
@@ -1949,5 +1973,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

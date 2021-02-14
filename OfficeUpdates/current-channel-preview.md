@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151959"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173630"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -117,6 +117,8 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 - Corrigimos um problema com a AutoRecuperação.
+
+- Corrigimos um problema de coautoria com arquivos protegidos por DRM
 
 
 ### <a name="office-suite"></a>Pacote do Office
@@ -1553,7 +1555,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1567,7 +1569,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -1902,7 +1904,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)

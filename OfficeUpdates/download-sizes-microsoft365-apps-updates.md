@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
-ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
+ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50108013"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173740"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -36,14 +36,13 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 [//]: # (NÃO REMOVER)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+## <a name="february-9-2021"></a>9 de fevereiro de 2021
 
-## <a name="february-4-2021"></a>4 de fevereiro de 2021
-
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 9 de fevereiro de 2021)
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
-<i>O lançamento esperado é o da Versão 2012 (Build 13530.20510).</i>
+A versão mais atual é a Versão 2012 (Build 13530.20528).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +52,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
 
-<i>O lançamento esperado é o da Versão 2008 (Build 13127.21184).</i>
+A versão mais atual é a Versão 2008 (Build 13127.21216).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
 
-<i>O lançamento esperado é o da Versão 2008 (Build 13127.21184).</i>
+A versão mais atual é a Versão 2008 (Build 13127.21216).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +70,10 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 |Versão 2002 (Build 12527.21416) <br/> |8 de dezembro de 2020 <br/> |363<br/> |
 
 
-[//]: # (NÃO REMOVER O CONTEÚDO DA PREVISÃO FINAL)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 9 de fevereiro de 2021)
+
+
+
 
 ## <a name="january-26-2021"></a>26 de janeiro de 2021
 

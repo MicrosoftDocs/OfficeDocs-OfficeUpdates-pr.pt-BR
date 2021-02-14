@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Fornece aos Profissionais de TI um histórico da versão da Ferramenta de Implantação do Office (ODT)
-ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837362"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177943"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Histórico do lançamento da Ferramenta de Implantação do Office
 
@@ -28,6 +28,12 @@ A ODT dá mais controle sobre uma instalação do Office. É possível definir q
  **Instruções de Instalação**: Baixe e execute o arquivo executável de extração automática, que contém o executável da Ferramenta de Implantação do Office (setup.exe) e um arquivo de configuração de exemplo (configuration.xml). 
 
 [Baixar a Ferramenta de Implantação do Office](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="february-9-2021"></a>9 de fevereiro de 2021
+Versão 16.0.13628.20274 (setup.exe versão 16.0.13628.20246)
+- Adicionada validação para avisar e impedir instalações sem suporte no Windows 8.0
+- Correções de confiabilidade para dispositivos ARM64
+
 
 ## <a name="january-12-2021"></a>12 de janeiro de 2021
 Versão 16.0.13530.20376 (configuração.exe versão 16.0.13530.20334)
