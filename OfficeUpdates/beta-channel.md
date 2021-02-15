@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118381"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242039"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,57 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2103-february-12"></a>Versão 2103: 12 de fevereiro
+*Versão 2103 (Compilação 13806.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Sugestões de redação assistida da Pesquisa da Microsoft (Para\CC\CC):** A adição de pessoas à linha Para\CC é agora feita na plataforma da Pesquisa da Microsoft.
+
+- **O ditado está disponível em mais idiomas:** O ditado agora suporta 7 novas línguas: Hindi, Russo, Polonês, Português (Portugal), Coreano, Tailandês, Chinês (Taiwan)
+
+### <a name="word"></a>Word
+
+- **O ditado está disponível em mais idiomas:** O ditado agora suporta 7 novas línguas: Hindi, Russo, Polonês, Português (Portugal), Coreano, Tailandês, Chinês (Taiwan)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que o Excel às vezes fechava inesperadamente ao tentar mostrar o cartão de Tipos de Dados devido a não conseguir recuperar uma imagem.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrige um problema com animações em loop e indicadores de áudio.
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que uma tarefa 100% concluída pode voltar para 99% concluída.
+
+- Corrigimos um problema em que o Projeto pode fechar inesperadamente se você estiver executando o JAWS e ir para o diálogo de informações de tarefa.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema no Salvamento Automático.
+
+
+- Corrigimos um problema na resolução de conflitos durante a coautoria.
+
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-february-05"></a>Versão 2102: 05 de fevereiro
 *Versão 2102 (Build 13801.20004)*
@@ -1414,7 +1465,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2051,7 +2102,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -2471,6 +2522,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
