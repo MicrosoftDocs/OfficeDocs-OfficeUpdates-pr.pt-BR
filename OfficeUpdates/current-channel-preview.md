@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173630"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263949"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,45 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2102-february-16"></a>Versão 2102: 16 de fevereiro
+*Versão 2102 (Build 13801.20160)*
+* Várias correções de bugs e de desempenho.
+
+## <a name="version-2102-february-15"></a>Versão 2102: 15 de fevereiro
+*Versão 2102 (Build 13801.20158)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **O ditado está disponível em mais idiomas:** O ditado agora suporta 7 novas línguas: Hindi, Russo, Polonês, Português (Portugal), Coreano, Tailandês, Chinês (Taiwan)
+
+### <a name="word"></a>Word
+
+- **O ditado está disponível em mais idiomas:** O ditado agora suporta 7 novas línguas: Hindi, Russo, Polonês, Português (Portugal), Coreano, Tailandês, Chinês (Taiwan)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que impedia que os usuários exportassem uma pasta de trabalho do Excel para PDF.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema na resolução de conflitos durante a coautoria.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-february-08"></a>Versão 2102: 08 de fevereiro
 *Versão 2102 (Build 13801.20084)*
@@ -1555,7 +1594,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -1569,7 +1608,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
