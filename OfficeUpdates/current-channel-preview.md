@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263949"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421396"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,88 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2102-march-03"></a>Versão 2102: 03 de março
+*Versão 2102 (Compilação 13801.20274)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="word"></a>Word
+
+- Corrige um problema com informações de tema aplicadas a ícones e gráficos SVG.
+
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DE DETALHES DO BUG)
+
+## <a name="version-2102-march-01"></a>Versão 2102: 01 de março
+*Versão 2102 (Compilação 13801.20266)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Compartilhar no Teams:** Compartilhar mensagens do Outlook com uma pessoa ou canal no Teams.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários vissem grupos de calendário duplicados aparecerem após a criação de um novo grupo.
+
+
+- Corrigimos um problema que fazia com que os usuários do Calendário Compartilhado não conseguissem definir a cor de um calendário para amarelo ou marrom.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o desligamento do aplicativo ao fechar as janelas de mensagens.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem as assinaturas com conteúdo Unicode danificadas.
+
+
+- Corrigimos um problema que fazia com que os usuários de tradução embutida não pudessem enviar comentários.
+
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DE DETALHES DO BUG)
+
+## <a name="version-2102-february-21"></a>Versão 2102: 21 de fevereiro
+*Versão 2102 (Compilação 13801.20182)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
+
+### <a name="word"></a>Word
+
+- **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que fazia com que as imagens ficassem menores do que o esperado ao usar a opção Colar Imagem Vinculada.
+
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO DE DETALHES DO BUG)
 
 ## <a name="version-2102-february-16"></a>Versão 2102: 16 de fevereiro
 *Versão 2102 (Build 13801.20160)*
@@ -67,6 +149,22 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+
+## <a name="version-2102-february-11"></a>Versão 2102: 11 de fevereiro
+*Versão 2102 (Build 13801.20158)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Vídeo 2x2 nos navegadores Microsoft Edge e Google Chrome no Windows e Mac** Os usuários podem ver vídeos de até 4 participantes em reuniões do Teams nos navegadores Microsoft Edge e Google Chrome no Windows e Mac. [Saiba mais](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>Versão 2102: 08 de fevereiro
 *Versão 2102 (Build 13801.20084)*
@@ -270,6 +368,8 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Mais temas:** novos temas já estão disponíveis para clientes da Web e desktop.
 
 - **Compartilhamento de PPT:** Exibição do Apresentador no Teams Depois que você seleciona um arquivo do PowerPoint da Bandeja de Compartilhamento do Teams, a Exibição do Apresentador é aberto automaticamente. Você pode ver o slide atual, as anotações do slide e uma faixa de miniatura de todos os slides da apresentação para facilitar a navegação de slides ad-hoc. Esse ponto de vista é totalmente nos bastidores e é restrito ao apresentador no controle. Seu público só pode ver seu slide atual (realçado na caixa vermelha grande) ou o slide para o qual eles optam por navegar (se a navegação do público não estiver bloqueada por você). 
+
+- **Incluir o som do computador ao compartilhar a área de trabalho ou janela no Mac** Ao compartilhar uma área de trabalho ou janela do Teams no Mac, agora você pode incluir o som do seu computador para que as pessoas que participaram da reunião possam ouvir o áudio reproduzido no seu computador.
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 <br/>
@@ -1943,7 +2043,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -3254,7 +3354,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 

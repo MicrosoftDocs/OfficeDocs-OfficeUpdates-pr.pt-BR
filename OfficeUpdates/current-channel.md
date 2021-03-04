@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271784"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418046"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -32,6 +32,104 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2102-march-01"></a>Versão 2102: 01 de março
+*Versão 2102 (Compilação 13801.20266)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Reexibir várias páginas ao mesmo tempo:** não há mais necessidade de exibir uma página por vez - exibir várias páginas ocultas de uma vez. [Saiba mais](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Diálogos de Formatação Condicional aprimorados:** os diálogos de Formatação Condicional agora são redimensionáveis ​​e agora podem duplicar a regra com um único clique. [Saiba mais](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+### <a name="outlook"></a>Outlook
+
+- **Modo de exibição de lista de contatos atualizado:** Agora a lista de contatos mostra endereços de email e fotos e tamanhos de texto atualizados.
+
+- **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+### <a name="teams"></a>Teams
+
+- **Modo de Exibição do Apresentador ao compartilhar um arquivo do PowerPoint:** Ao compartilhar um arquivo do PowerPoint em uma reunião, o apresentador agora pode uma tira de miniaturas de todos o conjunto de slides para facilitar a navegação ad hoc nos slides.
+
+- **Atualizações de tema e ícone:** Fizemos atualizações para as cores padrão e escuras do tema, e para o ícone.
+
+- **Suporte para Apresentador de eventos Ao Vivo no iPad:** Você pode apresentar em um evento ao vivo a partir do seu dispositivo iPad compatível.
+
+- **Votações sobre os participantes da reunião usando o Microsoft Forms:** As votações para reuniões do Teams são uma experiência integrada e facilmente detectável que o ajudará a conduzir reuniões mais envolventes e produtivas. Com as Votações, que são da plataforma Microsoft Forms, os apresentadores da reunião podem preparar, lançar e avaliar votações antes, durante e depois das reuniões, respectivamente, tudo em um único local em uma guia na reunião do Teams. Como apresentador de reuniões, você pode adicionar o aplicativo Formulários como uma guia na reunião do Teams e, em seguida, criar, iniciar e avaliar suas pesquisas em um único lugar. Crie enquetes a serem lançadas durante a reunião, mesmo antes do início da reunião. Em seguida, após a reunião, você pode optar por avaliar as respostas na guia, em uma pasta de trabalho do Excel exportada ou na web no aplicativo Formulários. Os apresentadores têm uma variedade de controles, como habilitar respostas anônimas, fechar votações e exportar resultados para o Excel. Os participantes de qualquer terminal (móvel, web, desktop) podem visualizar e responder enquetes à medida que aparecem na tela da reunião ou no bate-papo da reunião, bem como ver os resultados não anônimos das enquetes em tempo real.
+
+- **Reações às reuniões:** As reações às reuniões são uma nova maneira de interagir nas reuniões. Os participantes podem enviar reações e elas serão mostradas como um fluxo no conteúdo compartilhado e no indivíduo que enviou a reação se elas forem exibidas no palco da reunião.
+
+- **Menu Histórico para cliente de área de trabalho:** O Menu Histórico no cliente de área de trabalho do Teams permite que você volte facilmente aos locais visitados recentemente. Basta passar o mouse sobre as opções de navegação para frente ou para trás no cliente de desktop e selecionar o local. Um atalho de teclado também está disponível para abrir o menu.
+
+- **Cortana nas Salas do Microsoft Teams para os EUA:** A assistência de voz da Cortana nas Salas do Microsoft Teams permite que você tenha uma experiência sem toque para chamar um número da sua sala de conferências, ingressar ou encerrar uma reunião ou adicionar um número a uma reunião.
+
+- **Mascaramento de números de telefone:** Lançamos uma nova configuração administrativa para mascarar números de telefone para os participantes de discagem quando eles ingressarem em uma reunião. Os administradores podem optar por mascarar os números de telefone de todos na reunião (exceto o organizador), apenas de pessoas externas ou ter o desativar o mascaramento. Se os administradores optarem por desativar essa configuração, os números de telefone serão exibidos na íntegra na reunião.  (lançamento privado até o final de outubro)
+
+- **Compartilhando o calendário:** Adicionamos a capacidade de adicionar um canal a uma guia do calendário.
+
+- **Trazendo mais cenas para o Modo Juntos:** O Teams agora introduziu a capacidade dos organizadores ou apresentadores de reunião alterarem a cena do Modo Juntos, permitindo que os participantes apareçam em diferentes experiências juntos.
+
+### <a name="word"></a>Word
+
+- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O painel do editor atualizado facilita a navegação entre as sugestões. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/microsoft-editor-gets-an-upgrade)
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Corrigimos um problema em que os usuários recebiam uma caixa de diálogo de erro "Estado do cursor inválido".
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que impedia que os usuários exportassem uma pasta de trabalho do Excel para PDF.
+
+
+- Corrigimos um problema que fazia com que as imagens ficassem menores do que o esperado ao usar a opção Colar Imagem Vinculada.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários do Calendário Compartilhado não conseguissem definir a cor de um calendário para amarelo ou marrom.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem grupos de calendário duplicados aparecerem após a criação de um novo grupo.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o desligamento do aplicativo ao fechar as janelas de mensagens.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem as assinaturas com conteúdo Unicode danificadas.
+
+
+- Corrigimos um problema que fazia com que os usuários de tradução embutida não pudessem enviar comentários.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema na resolução de conflitos durante a coautoria.
 
 
 
@@ -1871,7 +1969,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.
 
-- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba Mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1988,6 +2086,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

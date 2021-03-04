@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242039"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418036"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,84 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2103-february-26"></a>Version 2103: 26 de fevereiro
+*Versão 2103 (Build 13819.20006)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que impedia que os usuários exportassem uma pasta de trabalho do Excel para PDF.
+
+
+- Corrigimos um problema em que algumas formatações eram perdidas ao copiar uma planilha durante uma coautoria.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que os usuários viam os anexos serem duplicados ao remover a proteção de DRM.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que as divisões de tarefas eram criadas erroneamente ao salvar um projeto do Project Web App para um arquivo local. Isso ocorreria se um calendário de tarefas com períodos de trabalho não padrão fosse usado.
+
+
+- Corrigido um problema em que, se a coluna indicadora não estivesse no primeiro ponto da coluna, ao cortar uma tarefa resumo, você não era avisado que as subtarefas também seriam removidas.
+
+
+- Corrigido um problema em que se um usuário selecionasse a função Adicionar a Si Mesmo a uma função Tarefa no Quadro de Horários, não era possível usar corretamente as unidades de disponibilidade de recursos na atribuição criada.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema com o alinhamento de vários comentários.
+
+
+- Corrigimos um problema nos atalhos de teclado do painel de tarefas Ler em Voz Alta.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Os locais do OneDrive agora são filtrados, conforme apropriado, de acordo com a configuração da política de grupo.
+
+
+- Corrigido um problema relacionado à falta de resposta que podia ocorrer ao carregar imagens EMF.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2103-february-19"></a>Version 2103: 19 de fevereiro
+*Versão 2103 (Build 13811.20002)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que os usuários viam os anexos serem duplicados ao remover a proteção de DRM.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que, se a coluna indicadora não estivesse no primeiro ponto da coluna, ao cortar uma tarefa resumo, você não era avisado que as subtarefas também seriam removidas.
+
+
+- Corrigido um problema em que se um usuário selecionasse a função Adicionar a Si Mesmo a uma função Tarefa no Quadro de Horários, não era possível usar corretamente as unidades de disponibilidade de recursos na atribuição criada.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema nos atalhos de teclado do painel de tarefas Ler em Voz Alta.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2103-february-12"></a>Versão 2103: 12 de fevereiro
 *Versão 2103 (Compilação 13806.20000)*
@@ -1465,7 +1543,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2102,7 +2180,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -2522,6 +2600,8 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-august-11|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

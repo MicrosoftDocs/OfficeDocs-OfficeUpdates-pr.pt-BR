@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
-ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
+ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "49943271"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421366"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,24 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2021-release"></a>Versão de fevereiro de 2021
+
+**Data de Lançamento:** 17 de fevereiro de 2021
+
+*Microsoft AutoUpdate 4.32*
+
+**Correção de bugs e melhorias:**
+- Atualização de Documentação: Descrições de sinalizadores ausentes para -t, -m e sinalizadores de atualização já estão disponíveis na interface de linha de comando do MAU.
+- Atualizações de Acessibilidade: Os comunicados do Comando de Voz já estão disponíveis para a barra de progresso de download/ instalação na interface do usuário do MAU, e os rótulos do Canal de Atualizações na interface do usuário de preferências do usuário do MAU.
+- Atualização de Funcionalidade: a barra Menu Principal do MAU já tem uma Opção de edição para permitir atalhos de teclado.
+- Outras Atualizações: o ano de Direitos Autorais do MAU foi atualizado para 2021.
+
+[Baixar o Pacote do Microsoft AutoUpdate 4.32](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 ## <a name="january-2021-release"></a>Versão de janeiro de 2021
 
