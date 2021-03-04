@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263929"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425739"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -68,7 +68,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="outlook"></a>Outlook
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba Mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -76,15 +76,11 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-
 - **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
 ### <a name="word"></a>Word
-
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado.
 
 - **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -120,19 +112,19 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
