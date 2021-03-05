@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 47c5eee644df956bb6a23b17d8b3159f882da08c
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418076"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455757"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -34,7 +34,44 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão de 64 bits em pt-br do Microsoft 365 Apps.
 > - Somente versões dos últimos quatro meses estão listadas.
 
-[//]: # (NÃO REMOVA)
+[//]: # (NÃO REMOVER)
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+## <a name="march-4-2021"></a>4 de março de 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>O lançamento esperado é o da Versão 2101 (Build 13628.20526).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2012 (Compilação 13530.20528) <br/> |9 de fevereiro de 2021 <br/> |203<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
+
+<i>O lançamento esperado é o da Versão 2102 (Build 13801.20274).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.21216) <br/> |9 de fevereiro de 2021 <br/> |280<br/> |
+|Versão 2008 (Build 13127.21064) <br/> |12 de janeiro de 2021 <br/> |533<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>O lançamento esperado é o da Versão 2008 (Build 13127.21322).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.21216) <br/> |9 de fevereiro de 2021 <br/> |382<br/> |
+|Versão 2008 (Build 13127.21064) <br/> |12 de janeiro de 2021 <br/> |61<br/> |
+
+
+[//]: # (NÃO REMOVER O CONTEÚDO DA PREVISÃO FINAL)
 
 ## <a name="march-1-2021"></a>1 de março de 2021
 
