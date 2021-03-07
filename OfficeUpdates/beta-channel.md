@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418036"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505663"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,80 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2103-march-05"></a>Versão 2103: 05 de março
+*Versão 2103 (Build 13901.20036)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que a fonte mudava inesperadamente ao usar um sinal de multiplicação ou divisão com uma fonte japonesa. Agora continuamos a usar a mesma fonte se ela suportar o caractere.
+
+
+- Corrigimos um problema que fazia com que a formatação de algumas tabelas dinâmicas corrompesse a pasta de trabalho ao salvar no formato .xls ou .xlt.
+
+
+- Corrigimos um problema em que algumas notas eram mostradas inesperadamente ao abrir uma pasta de trabalho.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que caracteres não ASCII fossem exportados incorretamente ao exportar para CSV.
+
+
+- Corrigimos um problema que fazia com que os usuários não conseguissem procurar um grupo de contatos com Verificar Nomes ao redigir emails.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que as setas nos gráficos de linhas não apareciam conforme o esperado no modo de apresentação de slides do PowerPoint.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que abrir um arquivo protegido com um rótulo de Proteção de Informações da Microsoft (MIP) pode travar indefinidamente se o usuário não estiver conectado a uma identidade que tenha acesso ao rótulo protegido de MIP. O usuário é forçado a cancelar a abertura para mostrar o prompt de login, e a abertura só é bem-sucedida após esse ponto. Corrigindo esse problema, permitindo que o prompt de login seja mostrado durante a abertura/download.
+
+
+- Corrigimos um problema ao usar Ditado no novo Comentário do Word, o botão Ditado no cartão de comentário agora alterna corretamente entre ativado e desativado.
+
+
+- Corrigido um problema em que não havia espaço sendo inserido entre as palavras quando os usuários ditaram no documento.
+
+
+- Corrigimos um problema ao postar comentários de várias linhas digitados em RTL que fazia com que a segunda linha e as linhas seguintes fossem alinhadas à esquerda em vez de à direita.
+
+
+- Corrigimos um problema em que a verificação ortográfica alternava entre dois menus de contexto de correção ortográfica diferentes.
+
+
+- Corrigimos um problema em que as colunas podem ter texto sobreposto.
+
+
+
+[//]: # (NÃO REMOVER O FIM DE CONTEÚDO BUGDETAIS)
 
 ## <a name="version-2103-february-26"></a>Version 2103: 26 de fevereiro
 *Versão 2103 (Build 13819.20006)*
@@ -2600,6 +2674,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|versão-2103-05 de março|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

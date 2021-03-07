@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418066"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515322"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -28,7 +28,7 @@ Esses números de versão e build se aplicam ao Microsoft 365 Apps para Grandes 
 > - A tabela é ordenada por data de lançamento, com a versão mais recente listada no início.
 > - Para obter mais informações sobre canais de atualização, confira [Visão geral de canais de atualização para o Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
-A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualização.
+A tabela a seguir lista a versão com suporte e o número de build mais atual para cada canal de atualização. A data de lançamento indica quando a compilação mais atual foi lançada.
 
 ### <a name="supported-versions"></a>**Versões com Suporte**
 
