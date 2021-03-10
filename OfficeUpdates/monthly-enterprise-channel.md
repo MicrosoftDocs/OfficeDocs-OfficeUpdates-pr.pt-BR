@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455777"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595565"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,70 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2101-march-09"></a>Versão 2101: 09 de Março
+*Versão 2101 (Build 13628.20528)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrige um problema em que o Excel falhava ao iniciar ou fechava inesperadamente se certas configurações de proteção contra exploits de Segurança do Windows (SimExec, CallerCheck) estivessem em uso
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que o ícone de criptografia não fosse exibido para emails enviados usando a somente a opção de criptografia.
+
+
+- Corrigimos um problema que fazia com que os emails fossem enviados como assinados digitalmente depois que o usuário desmarcou essa opção.
+
+
+- Corrigimos um problema que causava problemas ao exibir a assinatura padrão correta no OWA.
+
+
+- Corrigimos um problema que causava um travamento dos usuários das Configurações de Nuvem ao atualizar as configurações.
+
+
+- Corrigimos um problema que algumas vezes fez com que o aplicativo fechasse inesperadamente quando os usuários estavam pesquisando no Outlook.
+
+
+- Corrigimos um problema que fazia com que usuários com Caixas de Correio Compartilhadas ou Delegadas com grandes hierarquias em seus perfis travassem.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook para fechar inesperadamente em determinados cenários de pesquisa.
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que, quando um recurso de custo era atribuído a uma tarefa de marco, o custo da linha de base não era acumulado corretamente.
+
+
+- Correção de um problema em que a bordas não apareciam para tarefas no modo de exibição Planejador de Equipe.
+
+
+- Correção de um problema em que arrastar e soltar não funcionava para tarefas no modo de exibição Planejador de Equipe.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrige um problema relacionado às notificações de eventos do controlador de mídia.
+
+
+- Corrige um problema relacionado ao tempo do motor do media player.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2012-march-09"></a>Versão 2012: 09 de Março
+*Versão 2012 (Compilação 13530.20628)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2012-february-09"></a>Versão 2012: 09 de fevereiro
 *Versão 2012 (Build 13530.20528)*
@@ -591,7 +655,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Fazer uma conexão em PDF:** Conectar, importar, atualizar dados de um PDF. [Saiba mais](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba Mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1387,6 +1451,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
