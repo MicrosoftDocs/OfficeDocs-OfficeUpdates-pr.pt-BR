@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421396"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741634"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,238 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2103-march-11"></a>Versão 2103: 11 de março
+*Versão 2103 (Build 13901.20148)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="outlook"></a>Outlook
+
+- **Nova experiência de reserva de sala de conferência e espaço de trabalho**: a experiência de reserva de sala de conferência foi atualizada e, com ela, adicionamos recursos que permitem que você agende também espaços de trabalho individuais
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="visio"></a>Visio
+
+- **Os ícones do Office têm um novo visual**: os ícones do produto foram reprojetados para refletir experiências simples, poderosas e inteligentes do Office. [Saiba mais](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+
+### <a name="word"></a>Word
+
+- **Modo Escuro para documentos do Word:** Modo Escuro pode ajudar a reduzir o esforço dos olhos e acomodar leve sensibilidade ao trabalhar em seus documentos.
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acessar
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigimos um problema quando um aplicativo externo solicita uma interface de acessibilidade. Isso nos impedirá de desligar até que eles liberem sua referência.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigimos um problema em que o Excel às vezes fechava inesperadamente ao tentar mostrar o cartão de Tipos de Dados devido a não conseguir recuperar uma imagem.
+
+
+- Corrigido um problema em que a fonte mudava inesperadamente ao usar um sinal de multiplicação ou divisão com uma fonte japonesa. Agora continuamos a usar a mesma fonte se ela suportar o caractere.
+
+
+- Corrigimos um problema que impedia que os usuários exportassem uma pasta de trabalho do Excel para PDF.
+
+
+- Corrigimos um problema que fazia com que as imagens fossem menores do que o esperado ao usar a opção Colar Imagem Vinculada.
+
+
+- Corrigimos um problema em que algumas formatações eram perdidas ao copiar uma planilha durante uma coautoria.
+
+
+- Corrigimos um problema em que algumas notas eram mostradas inesperadamente ao abrir uma pasta de trabalho.
+
+
+- Corrigimos um problema que fazia com que a formatação de algumas tabelas dinâmicas corrompesse a pasta de trabalho ao salvar no formato .xls ou .xlt.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem grupos de calendário duplicados aparecerem após a criação de um novo grupo.
+
+
+- Corrigimos um problema que fazia com que os usuários do Calendário Compartilhado não conseguissem definir a cor de um calendário para amarelo ou marrom.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem os calendários recém-adicionados não aparecendo no painel de navegação até que o Outlook fosse reiniciado.
+
+
+- Corrigimos um problema que fazia com que caracteres não ASCII fossem exportados incorretamente ao exportar para CSV.
+
+
+- Corrigimos um problema que fazia com que algumas pessoas não conseguissem acessar assinaturas associadas a contas de email secundárias.
+
+
+- Corrigimos um problema que fazia com que os usuários do recurso Configurações de Nuvem vissem as configurações personalizadas substituídas pela configuração padrão após configurar o Outlook em um novo dispositivo.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem as assinaturas com conteúdo Unicode danificadas.
+
+
+- Corrigimos um problema que fazia com que os usuários de tradução embutida não pudessem enviar comentários.
+
+
+- Corrigimos um problema em que os usuários viam os anexos serem duplicados ao remover a proteção de DRM.
+
+
+- Corrigimos um problema que fazia com que os usuários não conseguissem procurar um grupo de contatos com Verificar Nomes ao redigir emails.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigimos um problema em que as setas nos gráficos de linhas não apareciam conforme o esperado no modo de apresentação de slides do PowerPoint.
+
+
+- Corrige um problema com animações em loop e indicadores de áudio.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
+
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigido um problema em que uma tarefa 100% concluída pode voltar para 99% concluída.
+
+
+- Corrigimos um problema em que o Projeto pode fechar inesperadamente se você estiver executando o JAWS e ir para o diálogo de informações de tarefa.
+
+
+- Corrigido um problema em que, se a coluna indicadora não estivesse no primeiro ponto da coluna, ao cortar uma tarefa resumo, você não era avisado que as subtarefas também seriam removidas.
+
+
+- Corrigido um problema em que se um usuário selecionasse a função Adicionar a Si Mesmo a uma função Tarefa no Quadro de Horários, não era possível usar corretamente as unidades de disponibilidade de recursos na atribuição criada.
+
+
+- Corrigido um problema em que as divisões de tarefas eram criadas erroneamente ao salvar um projeto do Project Web App para um arquivo local. Isso ocorreria se um calendário de tarefas com períodos de trabalho não padrão fosse usado.
+
+
+### <a name="publisher"></a>Publisher
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+### <a name="visio"></a>Visio
+
+- Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
+
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que abrir um arquivo protegido com um rótulo de Proteção de Informações da Microsoft (MIP) pode travar indefinidamente se o usuário não estiver conectado a uma identidade que tenha acesso ao rótulo protegido de MIP. O usuário é forçado a cancelar a abertura para mostrar o prompt de login, e a abertura só é bem-sucedida após esse ponto. Corrigindo esse problema, permitindo que o prompt de login seja mostrado durante a abertura/download.
+
+
+- Corrigimos um problema que poderia levar ao fechamento inesperado do aplicativo ao remover um drive externo.
+
+
+- Corrigimos um problema ao usar Ditado no novo Comentário do Word, o botão Ditado no cartão de comentário agora alterna corretamente entre ativado e desativado.
+
+
+- Ao ser coautor de um documento, o rascunho ativo não é apagado quando a ordem do comentário é alterada.
+
+
+- Corrigido um problema em que não havia espaço sendo inserido entre as palavras quando os usuários ditaram no documento.
+
+
+- Corrige um problema no pipeline de renderização relacionado a camadas de rolagem que contêm animações de rolagem ou zoom.
+
+
+- Corrige um problema com cores aplicadas a ícones e gráficos SVG com efeitos 3D.
+
+
+- Corrigimos um problema no Salvamento Automático.
+
+
+- Corrigimos um problema na nota de rodapé.
+
+
+- Corrigimos um problema ao postar comentários de várias linhas digitados em RTL que fazia com que a segunda linha e as linhas seguintes fossem alinhadas à esquerda em vez de à direita.
+
+
+- Corrigimos um problema com o alinhamento de vários comentários.
+
+
+- Corrigimos um problema nos atalhos de teclado do painel de tarefas Ler em Voz Alta.
+
+
+- Corrigimos um problema com o Narrator que pode pular um parágrafo.
+
+
+- Corrigimos um problema em que a verificação ortográfica alternava entre dois menus de contexto de correção ortográfica diferentes.
+
+
+- Corrigimos um problema com os controles de conteúdo de rich text.
+
+
+- Corrigimos um problema com a digitação no final de um parágrafo oculto que pode resultar no travamento do aplicativo.
+
+
+- Corrigimos um problema em que as colunas podem ter texto sobreposto.
+
+
+- Corrigimos um problema relacionado ao favorito.
+
+
+- Corrigimos um problema na resolução de conflitos durante a coautoria.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Os locais do OneDrive agora são filtrados, conforme apropriado, de acordo com a configuração da política de grupo.
+
+
+- Corrigido um problema que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
+
+
+- Corrige um problema de confiabilidade relacionado ao suporte de aplicativos do Office em execução na sessão 0.
+
+
+- Corrige um problema de confiabilidade relacionado ao suporte de aplicativos do Office em execução na sessão 0.
+
+
+- Corrigido um problema relacionado à falta de resposta que podia ocorrer ao carregar imagens EMF.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-march-03"></a>Versão 2102: 03 de março
 *Versão 2102 (Compilação 13801.20274)*
@@ -2934,7 +3166,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acessar
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
