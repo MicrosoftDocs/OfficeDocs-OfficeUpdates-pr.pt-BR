@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus em 2018
-ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 87396dc4b6c0b6ba955d76eb8ce9e486073b1016
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370119"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735176"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Semestral em 2018
 
@@ -822,7 +822,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   **Nova configuração de conta:** configure novas contas com um novo assistente que requer menos etapas manuais.
 -   **Caixa de diálogo "Anexar" para links:** ao anexar um link usando o recurso "Anexar Arquivo" na Faixa de Opções, é possível escolher entre adicioná-lo como link ou como anexo. Caso prefira não exibir sempre esta caixa de diálogo, vá para Arquivo \> Opções \> Geral e especifique como deseja anexar os links em "Opções de Anexo".
 -   **Suporte para anexos no local:** Os arquivos do SharePoint Server no local são exibidos como arquivos recentes em Mensagem \> Anexar Arquivo, os sites da equipe do OneDrive for Business e do SharePoint no local são exibidos em Anexar Arquivo \> Procurar Locais na Web e os arquivos locais podem ser carregados para os sites do OneDrive for Business no local.
--   **Setor de atividade para grupos:**  um nível de setor de atividade definido pelo administrador do locatário, como Confidencial, pode ser atribuído ao criar ou ao editar um grupo e esse setor é exibido no cabeçalho do grupo.
+-   **Setor de atividade para grupos:**  Um nível de setor de atividade definido pelo administrador do locatário, como Confidencial, pode ser atribuído ao criar ou ao editar um grupo e esse setor é exibido no cabeçalho do grupo.
 -   **Acesso para convidado para Grupos do Office 365:** para colaborar com pessoas de fora da organização, conceda a elas acesso para conversas em grupo, arquivos, convites do calendário e Bloco de Anotações do Grupo. [Mais informações](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Mensagens acionáveis:** os desenvolvedores podem criar mensagens para tornar mais fácil para os usuários a realização de ações simples e rápidas no Outlook, sem ter que mudar para um site externo ou outro aplicativo. [Saiba mais](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -894,7 +894,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8696): execução remota de código do componente do Microsoft Graphics
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
--   Adição de uma caixa de diálogo explicando por que um usuário não consegue ingressar em uma reunião quando determinadas portas estão bloqueadas ou os IPs não estão na lista de permissões.
+-   Adicionar caixa de diálogo explicando por que um usuário não pode ingressar em uma reunião quando certas portas estão bloqueadas ou IPs não são permitidos.
 -   Correção de um problema em que as mensagens não lidas em salas de chat persistentes são marcadas como lidas ao clicar nas guias de conversas de mensagens instantâneas.
 -   Correção de um problema em que as notificações do sistema de mensagens instantâneas são exibidas com atraso de vários segundos.
 -   Correção de um problema em que o contato do AD é exibido como um número de telefone em vez de um nome de contato, quando a sincronização com o Exchange está desabilitada.
@@ -970,7 +970,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11825): Vulnerabilidade de execução remota de código do Microsoft Office
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11882): Vulnerabilidade de corrupção de memória do Microsoft Office
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0795): Vulnerabilidade de execução remota de código do Microsoft Office
--   [Supervisão 180003](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180003): atualização de proteção abrangente do Microsoft Office
+-   [Supervisão 180003](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV180003): atualização de Proteção Abrangente do Microsoft Office
 
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: atualizações não relacionadas à segurança
 -   Adição de suporte para logon único (SSO) para usuários do domínio de planos do Office 365 Germany em que a identidade for federada com um Active Directory local.

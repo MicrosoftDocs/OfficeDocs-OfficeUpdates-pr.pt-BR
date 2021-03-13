@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595565"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735186"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -122,6 +122,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Cada reunião online:** atualize suas configurações de calendário para tornar todas as reuniões que você criar uma Reunião de Equipe por padrão, para que você não precise mais se lembrar de clicar na opção Reunião de Equipes.
 
+- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
@@ -129,6 +131,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
 - **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="visio"></a>Visio
+
+- **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -241,6 +247,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá até Arquivo > Conta, e escolha "Usar configuração do sistema" no menu suspenso do Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Biblioteca de Vídeo:** eleve seus documentos com uma biblioteca de vídeo de royalties livres e gratuitas selecionadas disponíveis no aplicativo.
@@ -348,6 +355,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2010-january-12"></a>Versão 2010: 12 de janeiro
+*Versão 2010 (Build 13328.20550)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2010-december-08"></a>Versão 2010: 8 de dezembro
 *Versão 2010 (Build 13328.20478)*
@@ -656,6 +668,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Fazer uma conexão em PDF:** Conectar, importar, atualizar dados de um PDF. [Saiba mais](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **Salvar formas como imagens:** em apenas alguns cliques, salve uma forma, ícone ou outro objeto como arquivo de imagem para reutilizá-lo em outro lugar. [Saiba mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1048,7 +1062,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Corrigimos um problema ao copiar e colar imagem SVG.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Fizemos uma nova AppV51 para corrigir uma regressão no AppV51 anterior.
 

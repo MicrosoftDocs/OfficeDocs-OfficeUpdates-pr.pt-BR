@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Semestral do Office 365 ProPlus
-ms.openlocfilehash: 9947b1ffc822b5f9fd578bb991cb1b5898c2a560
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: ac826a441d961f8215a9d6f088fe7e5429ff8425
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760707"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735205"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>Notas de versão para lançamentos do Canal Empresarial Semestral arquivadas
 
@@ -719,7 +719,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="office-suite-security-update"></a>Pacote Office: Atualizações de segurança
 
-- **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e [aqui](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
+- 
+  **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
  
 ### <a name="office-suite-non-security-updates"></a>Pacote do Office: Atualizações não relacionadas à segurança
 - Correção de um problema que causava a demora na instalação de atualização em determinadas situações.
@@ -1600,7 +1601,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8696): execução remota de código do componente do Microsoft Graphics
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
--   Adição de uma caixa de diálogo explicando por que um usuário não consegue ingressar em uma reunião quando determinadas portas estão bloqueadas ou os IPs não estão na lista de permissões.
+-   Adicionar caixa de diálogo explicando por que um usuário não pode ingressar em uma reunião quando certas portas estão bloqueadas ou IPs não são permitidos.
 -   Correção de um problema em que as mensagens não lidas em salas de chat persistentes são marcadas como lidas ao clicar nas guias de conversas de mensagens instantâneas.
 -   Correção de um problema em que as notificações do sistema de mensagens instantâneas são exibidas com atraso de vários segundos.
 -   Correção de um problema em que o contato do AD é exibido como um número de telefone em vez de um nome de contato, quando a sincronização com o Exchange está desabilitada.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595645"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735156"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -88,7 +88,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Modo de exibição de lista de contatos atualizado:** Agora a lista de contatos mostra endereços de email e fotos e tamanhos de texto atualizados.
 
-- **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+- **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Agora você pode usar o Tradutor Inteligente no Outlook. Quando você receber uma mensagem em outro idioma, um aviso aparecerá na parte superior da mensagem perguntando se você deseja que o Outlook a traduza para o seu idioma padrão.
+Você também pode clicar com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -344,9 +345,15 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **As configurações do Outlook na nuvem:** escolha as configurações do Outlook para Windows, como Respostas Automáticas, Caixa de Entrada Destaques, Privacidade, e acesse-as em qualquer PC.
 
+- **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Ensaie a apresentação com o Pré-visualizador do PowerPoint:** Obtenha feedback sobre coisas que ajudam a manter o público envolvido - como ritmo, argumento de venda, palavras de preenchimento, frases confidenciais e muito mais. [Saiba mais](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="visio"></a>Visio
+
+- **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -964,6 +971,8 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="excel"></a>Excel
 
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
