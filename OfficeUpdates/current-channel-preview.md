@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
+ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741634"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50829225"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,38 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2103-march-15"></a>Versão 2103: 15 de março
+*Versão 2103 (Build 13901.20170)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="project"></a>Project
+
+- Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
+
+
+### <a name="visio"></a>Visio
+
+- Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
+
+
+
+[//]: # (NÃO REMOVER O FIM DE CONTEÚDO BUGDETAIS)
+
+## <a name="version-2103-march-12"></a>Versão 2103: 12 de março
+*Versão 2103 (Build 13901.20148)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Status de Ausência Temporária** Configure uma mensagem para que outras pessoas saibam que você não está trabalhando ou de férias para que não esteja disponível para responder quando eles enviarem uma mensagem de bate-papo para você. Seu status Ausência Temporária também será sincronizado com as Respostas Automáticas no calendário do Outlook.
+
+[//]: # (NÃO REMOVER)
+
 
 ## <a name="version-2103-march-11"></a>Versão 2103: 11 de março
 *Versão 2103 (Build 13901.20148)*
@@ -3166,7 +3198,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Acessar
+### <a name="access"></a>Access
 
 - Foram corrigidos problemas com o redimensionamento e a atualização de tabelas no painel de tarefas.
 
@@ -3553,7 +3585,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
@@ -3586,7 +3618,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
@@ -3611,7 +3643,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
