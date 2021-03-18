@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425739"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837519"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -53,6 +53,45 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+
+
+
+## <a name="march-16-2021"></a>16 de março de 2021
+*Versão 16.47 (Build 21031401)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Reexibir Várias Planilhas ao Mesmo Tempo:** não há mais necessidade de reexibir uma página por vez - reexibir várias planilhas ocultas de uma vez. [Saiba mais](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Obtenha Dados da Organização do Power BI usando os Tipos de Dados do Excel:** você pode inserir dados da sua organização usando os Tipos de Dados do Excel. Converta uma célula em sua pasta de trabalho, obtenha informações adicionais e atualize os dados sempre que precisar!
+
+### <a name="powerpoint-mac"></a>PowerPoint
+
+- **Grave suas apresentações com o novo e aprimorado Gravar Apresentação de Slides:** Gravar Apresentação de Slides agora oferece suporte à gravação de vídeo do apresentador, gravação a tinta e gravação com apontador Laser.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/record-slide-show-updates-powerpoint-mac)
+
+### <a name="word"></a>Word
+
+- **Dite seus Documentos com Comandos de voz:** a nova barra de ferramentas de ditado, comandos de voz e pontuação automática tornam a criação de conteúdo com sua voz rápida e fácil. [Saiba mais](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
 ## <a name="february-16-2021"></a>16 de fevereiro de 2021
 *Versão 16.46 (Build 21021202)*
