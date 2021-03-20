@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421366"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902187"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,22 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2021-release"></a>Versão de março de 2021
+
+**Data da versão:** 17 de março de 2021
+
+*Microsoft AutoUpdate 4.33*
+
+**Correção de bugs e melhorias:**
+- Botão “Verificando...” na GUI do MAU agora é desabilitado quando MAU está verificando se há atualizações.
+- O prompt “Uma atualização já está em andamento” agora tem informações adicionais.
+- A interface de usuário do MAU exibe os tamanhos de atualização corretos ao baixar as atualizações.
+- O MAU agora é instalável em dispositivos macOS com M1 sem Rosetta.
+
+[Baixar o Pacote do Microsoft AutoUpdate 4.33](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>Versão de fevereiro de 2021
 
@@ -55,7 +71,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 *Microsoft AutoUpdate 4.31*
 
 **Correção de bugs e melhorias:**
-- Para dispositivos que não estão em atualizações automáticas, o Microsoft AutoUpdate agora informará sobre novas atualizações por meio de notificação em vez de abrir a interface do usuário MAU.
+- Para dispositivos que não estão em atualizações automáticas, o Microsoft AutoUpdate agora informará sobre novas atualizações por meio de notificação em vez de abrir a IU do MAU.
 
 [Baixar o Pacote do Microsoft AutoUpdate 4.31](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
@@ -133,7 +149,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 *Microsoft AutoUpdate 4.27*
 
 **Correção de bugs e melhorias:**
--   O Assistente de Atualização do MAU iniciará agora as atualizações atrás de uma tela bloqueada, mesmo que o ciclo de verificação regular não seja alcançado.
+-   O Assistente de Atualização do MAU agora iniciará as atualizações atrás de uma tela bloqueada, mesmo que o ciclo de verificação regular não seja alcançado.
 
 **Link de Atualização do MAU:**
 
@@ -179,7 +195,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - Detectar o fechamento do aplicativo e remover automaticamente a exibição do diálogo relativo a “abrir o aplicativo”.
 - Reversão do recurso introduzido na versão de abril com o qual usuários com Atualizações Automáticas estavam vendo a interface do Microsoft AutoUpdate apenas uma vez por semana.
 - Correção de um problema no qual o Assistente de Atualização estava sendo fechado antes de a instalação começar, após baixar as atualizações.
-- Correção de um problema em que o Assistente de Atualização não estava fechando após um período prolongado durante o qual as notificações do usuário estavam pendentes.
+- Correção de um problema no qual o Assistente de Atualização não fechava após um período prolongado de notificações do usuário pendentes.
 - Correção de um problema no qual a interface do Microsoft AutoUpdate (MAU) estava reabrindo (ou não podia ser reaberta) após a instalação. A interface do usuário deveria reabrir após a instalação caso a atualização tivesse sido iniciada a partir da própria interface do MAU, ou se uma atualização fosse iniciada explicitamente pelo usuário (por meio do Finder, do Terminal etc.).
 
 **SHA-256 Hash:**
@@ -405,7 +421,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **Atualizações de Recursos:**
 
-- Atualizações de Delta Binário: Lançamento de atualizações menores estão disponíveis para dispositivos SSD, reduzindo assim o consumo de largura de banda devido às atualizações.
+- Atualizações de Delta Binário: lançamento de atualizações menores estão disponíveis para dispositivos SSD, reduzindo assim o consumo de largura de banda devido às atualizações.
 - Suporte para Aplicativos Acessórios: o MAU agora é compatível com aplicativos acessórios, como o Microsoft OneDrive.
 - Aprimoramentos de instalação de Clones: atualizar clones agora é mais robusto.
 

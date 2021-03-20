@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735156"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902166"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -32,6 +32,42 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2102-march-18"></a>Versão 2102: 18 de março
+*Versão 2102 (Build 13801.20360)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esta alteração corrige um problema em que, em alguns casos, executar uma consulta passagem do SQL Server poderia resultar em uma mensagem de erro indicando que havia um “estado do cursor inválido”.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários do recurso Configurações de Nuvem vissem as configurações personalizadas substituídas pela configuração padrão após configurar o Outlook em um novo dispositivo.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem mais assinaturas do que o esperado.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema com a digitação no final de um parágrafo oculto que poderia resultar no travamento do aplicativo.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+
+- Corrigimos um problema em que os usuários não conseguiam salvar um arquivo ao abrir um arquivo aberto anteriormente com edições não salvas, mas agora o arquivo foi excluído. Após a correção, os usuários receberão uma mensagem amigável para informá-los que o arquivo foi excluído, portanto, o usuário pode escolher descartar as alterações ou SalvarComo o arquivo.
+
+
+- Corrigimos um problema de confiabilidade relacionado ao suporte de aplicativos do Office em execução na sessão 0.
 
 
 
@@ -972,7 +1008,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office. Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2011,7 +2047,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Leia e responda instantaneamente:** Responda a comentários e menções diretamente do email sem abrir a pasta de trabalho.
 
-- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **Olhe para a esquerda, olhe para a direita... XLOOKUP está aqui!:** Linha por linha, encontre tudo o que você precisa em uma tabela ou intervalo com o XLOOKUP. [Saiba Mais](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2128,6 +2164,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
@@ -2137,5 +2174,4 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
