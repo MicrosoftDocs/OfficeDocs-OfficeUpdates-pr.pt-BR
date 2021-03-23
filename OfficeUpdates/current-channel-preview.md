@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
-ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
+ms.openlocfilehash: e12cd2ef1015a6f561d186ace737e96548dc5d18
+ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50829225"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51030761"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,20 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="version-2103-march-22"></a>Versão 2103: 22 de março
+*Versão 2103 (Build 13901.20230)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários vissem mais assinaturas do que o esperado.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2103-march-15"></a>Versão 2103: 15 de março
 *Versão 2103 (Build 13901.20170)*
@@ -2307,7 +2321,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -3585,7 +3599,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
@@ -3643,7 +3657,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
