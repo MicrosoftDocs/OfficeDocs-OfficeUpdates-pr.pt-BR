@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 78be15ba27f17be641d0b019e584aef48b417fcd
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902186"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170130"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -70,7 +70,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Grave suas apresentações com o novo e aprimorado Gravar Apresentação de Slides:** Gravar Apresentação de Slides agora oferece suporte à gravação de vídeo do apresentador, gravação a tinta e gravação com apontador Laser.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/record-slide-show-updates-powerpoint-mac)
+- **Grave suas apresentações com o novo e aprimorado Gravar Apresentação de Slides:** Gravar Apresentação de Slides agora oferece suporte à gravação de vídeo do apresentador, gravação a tinta e gravação com apontador Laser.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/record-slide-show-updates-powerpoint-mac)
 
 ### <a name="word"></a>Word
 
@@ -88,8 +88,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-27054](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-27054)
--   [CVE-2021-27057](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-27057)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -101,13 +101,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](/microsoft-365/compliance/sensitivity-labels)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
 ### <a name="outlook"></a>Outlook
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba Mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba Mais](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -115,13 +115,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](/microsoft-365/compliance/sensitivity-labels)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
 ### <a name="word"></a>Word
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](https://docs.microsoft.com/pt-BR/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](/microsoft-365/compliance/sensitivity-labels)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
@@ -137,8 +137,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-24067](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-24067)
--   [CVE-2021-24069](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-24069)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
@@ -151,19 +151,19 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -176,13 +176,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1713)
 
 ### <a name="word"></a>Word
 
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-1715)
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -198,7 +198,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Apresente sua apresentação de slides em uma experiência em janelas**: o Modo de Exibição de Leitura permite realizar várias tarefas e ter várias apresentações de slides em janelas.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/reading-view-available-in-powerpoint-for-mac)
+- **Apresente sua apresentação de slides em uma experiência em janelas**: o Modo de Exibição de Leitura permite realizar várias tarefas e ter várias apresentações de slides em janelas.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/reading-view-available-in-powerpoint-for-mac)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -212,17 +212,17 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-17123](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17123)
--   [CVE-2020-17126](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17126)
--   [CVE-2020-17128](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17128)
+-   [CVE-2020-17123](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17123)
+-   [CVE-2020-17126](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17126)
+-   [CVE-2020-17128](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17128)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-17119](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17119)
+-   [CVE-2020-17119](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17119)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2020-17124](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17124)
+-   [CVE-2020-17124](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17124)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -248,7 +248,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-17067](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-17067)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-17067)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -262,7 +262,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Atualizar os dados do Microsoft SQL Server:** atualize as consultas do Power Query no Mac do Microsoft SQL Server
 
-- **Criar Variáveis para Usar em Fórmulas:** melhore o desempenho, a legibilidade e a capacidade de composição com a função LET. Esta função permite que você crie variáveis nomeadas em fórmulas novas ou pré-existentes. [Saiba mais](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/let-names-in-formulas-for-excel)
+- **Criar Variáveis para Usar em Fórmulas:** melhore o desempenho, a legibilidade e a capacidade de composição com a função LET. Esta função permite que você crie variáveis nomeadas em fórmulas novas ou pré-existentes. [Saiba mais](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/let-names-in-formulas-for-excel)
 
 - **Faça Diagramas do Visio Elegantes no Excel:** criar diagramas orientados para dados como fluxogramas ou organogramas de dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -296,15 +296,15 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-16929](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-16929)
+-   [CVE-2020-16929](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16929)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-16933](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-16933)
+-   [CVE-2020-16933](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16933)
 
 ### <a name="office-suite"></a>Pacote Office
 
--   [CVE-2020-16918](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-16918)
+-   [CVE-2020-16918](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16918)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -319,17 +319,17 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1224](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1224)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1218](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1338](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1338)
 
 ### <a name="office-suite"></a>Pacote Office
 
--   [CVE-2020-1193](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1193)
--   [CVE-2020-16855](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-16855)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1193)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16855)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -341,7 +341,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Filtrar e Classificar Sem Interromper os Outros:** Criar sua própria exibição ao colaborar com outras pessoas no Excel, para que você possa filtrar e classificar sem interromper o que outras pessoas veem. [Saiba mais](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/sheet-view-makes-collaborating-easier)
+- **Filtrar e Classificar Sem Interromper os Outros:** Criar sua própria exibição ao colaborar com outras pessoas no Excel, para que você possa filtrar e classificar sem interromper o que outras pessoas veem. [Saiba mais](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/sheet-view-makes-collaborating-easier)
 
 ### <a name="outlook"></a>Outlook
 
@@ -363,13 +363,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1495](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1495)
--   [CVE-2020-1498](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1498)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1503](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1503)
--   [CVE-2020-1583](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1583)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -409,14 +409,14 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1342](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1342)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1445)
--   [CVE-2020-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1446)
--   [CVE-2020-1447](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1447)
 
 ### <a name="office-suite"></a>Pacote Office
 
--   [CVE-2020-1409](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1409)
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1409)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -450,17 +450,17 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1225](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1225)
--   [CVE-2020-1226](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1226)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2020-1229](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1229)
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1229)
 
 
 ### <a name="office-suite"></a>Pacote Office
 
--   [CVE-2020-1321](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-1321)
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-1321)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -476,7 +476,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 - **Encontre o Que Está Procurando:** Use a caixa de pesquisa para localizar texto, comandos, ajuda e muito mais. [Saiba mais](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Uma maneira mais rápida de adicionar células**: **Clique habilitar para adicionar**, e, em seguida, digite = e selecione algumas células para criar rapidamente uma fórmula que adicione os valores da célula. Encontre a opção no **Menu** > **Preferências** > **Editar**.  [Saiba mais](https://support.office.com/pt-BR/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
+- **Uma maneira mais rápida de adicionar células**: **Clique habilitar para adicionar**, e, em seguida, digite = e selecione algumas células para criar rapidamente uma fórmula que adicione os valores da célula. Encontre a opção no **Menu** > **Preferências** > **Editar**.  [Saiba mais](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -505,7 +505,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0901](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0901)
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0901)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -527,7 +527,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0980](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0980)
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10 de março de 2020
@@ -537,18 +537,18 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Capacidade de recolher a janela de slide atual no modo de exibição do apresentador:** arrastando o divisor de linha para o lado esquerdo da tela, você pode recolher o modo de exibição de slide atual para que você veja apenas o "próximo slide" na exibição da duração da sua apresentação.
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Rótulos de confidencialidade**: agora você pode aplicar um rótulo de confidencialidade que sua organização configurou para solicitar permissões personalizadas. [Saiba Mais](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>Atualizações de segurança
@@ -556,10 +556,10 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-0850](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0850)
--   [CVE-2020-0851](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0851)
--   [CVE-2020-0855](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0855)
--   [CVE-2020-0892](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0892)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -589,7 +589,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0759](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0759)
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0759)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -625,8 +625,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-0650](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0650)
--   [CVE-2020-0651](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0651)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -666,11 +666,11 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1464](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1464)
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1464)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2019-1462](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1462)
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1462)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
@@ -688,9 +688,9 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
  ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 
-- [CVE-2019-1446](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1446): Vulnerabilidade de Divulgação de Informações do Microsoft Excel
-- [CVE-2019-1448](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1448): Vulnerabilidade de Execução Remota de Código no Microsoft Excel
-- [CVE-2019-1457](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1457): Bypass de Recursos de Segurança do Microsoft Office Excel
+- [CVE-2019-1446](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1446): Vulnerabilidade de Divulgação de Informações do Microsoft Excel
+- [CVE-2019-1448](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1448): Vulnerabilidade de Execução Remota de Código no Microsoft Excel
+- [CVE-2019-1457](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1457): Bypass de Recursos de Segurança do Microsoft Office Excel
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
@@ -715,8 +715,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
  ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 
-- [CVE-2019-1327](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1327): Vulnerabilidade de execução de código remoto no Microsoft Excel
-- [CVE-2019-1331](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1331): Vulnerabilidade de execução de código remoto no Microsoft Excel
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1327): Vulnerabilidade de execução de código remoto no Microsoft Excel
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1331): Vulnerabilidade de execução de código remoto no Microsoft Excel
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
@@ -757,8 +757,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
  ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 
-- [CVE-2019-1263](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1263): vulnerabilidade de Divulgação de Informações do Microsoft Excel
-- [CVE-2019-1297](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1297): vulnerabilidade de Execução do Código Remoto do Microsoft Excel
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1263): vulnerabilidade de Divulgação de Informações do Microsoft Excel
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1297): vulnerabilidade de Execução do Código Remoto do Microsoft Excel
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 
@@ -774,13 +774,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 
 - **Faça um Esboço:** Dê uma aparência casual, como que desenhado à mão, às formas do Office em sua apresentação. [Saiba mais](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **Apagar com Precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições da escrita à tinta. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Apagar com Precisão:** Escolha entre dois tamanhos de borracha para corrigir pequenas imperfeições da escrita à tinta. [Saiba mais](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
 - **Gráficos de mapa aprimorados:** Melhoramos os gráficos de mapa, integrando-os com os Tipos de Dados Geográficos do Excel, que podem revelar informações detalhadas sobre seus locais mapeados. [Saiba mais](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="word-security-updates"></a>Word: Atualizações de segurança
 
-- [CVE-2019-1201](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1201): Vulnerabilidade de Execução Remota de Código do Microsoft Word
-- [CVE-2019-1205](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1205): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Vulnerabilidade de Execução Remota de Código do Microsoft Word
 
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 
@@ -799,14 +799,14 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - **Compartilhar Anexos de Arquivos da Nuvem:** Anexe facilmente arquivos da nuvem às suas mensagens de email para obter colaboração aprimorada. [Saiba mais](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
 
 ### <a name="office-suite-feature-updates"></a>Pacote do Office: atualizações de recursos
-- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 ### <a name="office-suite-security-updates"></a>Pacote do Office: Atualizações de segurança
 
-- [CVE-2019-1148](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1148): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
-- [CVE-2019-1149](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1149): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
-- [CVE-2019-1151](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1151): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
-- [CVE-2019-1153](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1153): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): Vulnerabilidade de Execução Remota de Código do Microsoft Graphics
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): Vulnerabilidade de Divulgação de Informações do Componente do Microsoft Graphics
 
 
 ## <a name="july-16-2019-release"></a>Lançamento de 16 julho de 2019
@@ -827,8 +827,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
 
-- [CVE-2019-1110](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1110): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
-- [CVE-2019-1111](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1111): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Vulnerabilidade de Execução do Código Remoto do Microsoft Excel
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 
 - Correção de vários problemas de desempenho.
@@ -840,7 +840,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 - **Suporte ao Modo Escuro no Painel de Leitura:** os emails que você receber agora têm um plano de fundo escuro para facilitar a visualização em ambientes com pouca iluminação. Exige o Mojave macOS.  
 ### <a name="outlook-security-updates"></a>Outlook: Atualizações de segurança
 
-- [CVE-2019-1084](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1084): Vulnerabilidade de divulgação de informações do Microsoft Exchange<br/><br/>
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Vulnerabilidade de divulgação de informações do Microsoft Exchange<br/><br/>
 ## <a name="june-11-2019-release"></a>Lançamento de 11 de junho de 2019
 *Versão 16.26 (Build 19060901)*
 
@@ -852,8 +852,8 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="word-security-updates"></a>Word: atualizações de segurança
 
-- [CVE-2019-1034](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1034): Vulnerabilidade de Execução Remota de Código do Microsoft Word
-- [CVE-2019-1035](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-1035): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Vulnerabilidade de Execução Remota de Código do Microsoft Word
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Vulnerabilidade de Execução Remota de Código do Microsoft Word
 
 ### <a name="excel-feature-updates"></a>Excel: Atualizações de recursos
 
@@ -882,7 +882,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 |**Application**|**Atualização**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|**Ver anexos de email:** anexos de email agora estão disponíveis na guia Compartilhado. |[CVE-2019-0953](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0953): vulnerabilidade de execução remota de código do Microsoft Word<br/>|[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
+|Word  <br/><br/>|**Ver anexos de email:** anexos de email agora estão disponíveis na guia Compartilhado. |[CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953): vulnerabilidade de execução remota de código do Microsoft Word<br/>|[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
 |Excel<br/>|**Ver anexos de email:** anexos de email agora estão disponíveis na guia Compartilhado.<br/><br/>**Coautoria nas melhorias de mesclagem:** a coautoria melhorou a taxa de sucesso de mesclagem ao trabalhar com formatação condicional, estilos de célula, proteção de intervalo, exibição de linhas de grade e fórmula de consolidação para cortar/colar.|<br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.25.19051201_Updater.pkg)<br/>|
 |PowerPoint<br/>|**Ver anexos de email:** anexos de email agora estão disponíveis na guia Compartilhado.<br/><br/>**Trabalhe mais rápido com novos atalhos:** atalhos de teclado para itens como cortar, avançar/recuar e promover/rebaixar item da lista.|<br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.25.19051201_Updater.pkg)<br/>|
 |Outlook  <br/>|**Saiba a disponibilidade dos seus contatos num relance:** ver informações de presença de seus contatos que estão no Teams dentro do Outlook. <br/><br/>**Veja os principais detalhes dos seus contatos:** selecione o nome de um contato em uma mensagem ou evento de calendário para ver sua foto, número de telefone, email, organograma e muito mais. [Saiba Mais](https://support.office.com/article/cf25962a-3a3e-47be-9181-afa2e1f84b07) <br/><br/> | |[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.25.19051201_Updater.pkg) <br/>|
@@ -916,11 +916,11 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office. <br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Dê vida aos seus Documentos:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex em toda a página. [Saiba mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
-|Excel  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office.<br/> <br/>**Chamando Todos os Usuários da Macro:** grave uma macro usando referências relativas. Ao reproduzi-la, ela funciona em relação à célula ativa, e não em relação às células usadas para gravar. [Saiba Mais](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**Seus Comandos Favoritos de Fácil Acesso:** tenha acesso rápido e fácil para ações comuns como Localizar e Selecionar, Zoom na Seleção, Organizar Tudo e muito mais. Encontre-os na faixa de opções. [Saiba Mais](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex na pasta de trabalho. [Saiba Mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0828): Vulnerabilidade de Execução Remota de Código do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office.<br/> <br/>**Chamando Todos os Usuários da Macro:** grave uma macro usando referências relativas. Ao reproduzi-la, ela funciona em relação à célula ativa, e não em relação às células usadas para gravar. [Saiba Mais](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**Seus Comandos Favoritos de Fácil Acesso:** tenha acesso rápido e fácil para ações comuns como Localizar e Selecionar, Zoom na Seleção, Organizar Tudo e muito mais. Encontre-os na faixa de opções. [Saiba Mais](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Dê vida às suas planilhas:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex na pasta de trabalho. [Saiba Mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828): Vulnerabilidade de Execução Remota de Código do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office.<br/><br/>**Início mais Rápido:** receba recomendações baseadas nas suas atividades e no que as pessoas ao seu redor estão trabalhando.<br/><br/>**Salve arquivos de mídia incorporados:** salve áudios e vídeos facilmente apenas ao pressionar Control + clique. [Saiba Mais](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**Dê vida aos seus slides:** insira gráficos animados em 3D para ver corações pulsando, planetas orbitando e a fúria do T-Rex em toda a tela. [Saiba Mais](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**Novos Ícones de Aplicativos do Office:** ícones de aplicativo reprojetados para refletir as experiências simples, avançadas e inteligentes do Office. <br/><br/>**Links Seguros:** suporte para Links Seguros da Proteção Avançada contra Ameaças (ATP).  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.10<br/>|**Instale melhorias de Recursos de Clonagem**: para dispositivos SSD, as atualizações serão instaladas nas cópias dos aplicativos em uso, reduzindo assim o tempo de inatividade dos aplicativos devido às atualizações. <br/><br/>**Otimizações de Instalação:** o processo de atualização usa clonagem paralelizada para reduzir o tempo de inatividade dos aplicativos devido às atualizações.|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
-|Pacote do Office  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0822): Vulnerabilidade de Execução Remota de Código de Componentes do Microsoft Graphics<br/><br/>|<br/>|
+|Pacote do Office  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822): Vulnerabilidade de Execução Remota de Código de Componentes do Microsoft Graphics<br/><br/>|<br/>|
 
 
 
@@ -983,7 +983,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Palavra  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Torne suas Imagens Acessíveis:** quando você insere uma imagem, o Office sugere legendas ocultas que podem ser lidas por pessoas com deficiências visuais. | |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
-|Excel  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
+|Excel  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Esboço com seu Trackpad:** mova o dedo no trackpad e veja o traço à tinta deslizar na tela. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Hiperlinks em cor vibrante:** os hiperlinks deixarem de ser somente azuis. Aplique as cores de fonte que desejar. [Saiba Mais](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) | <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.7 <br/>| <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
@@ -1019,14 +1019,14 @@ Esta versão oferece as seguintes atualizações:
 
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de Execução Remota do Código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de Execução Remota do Código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Suporte para SVG:** insira e edite SVGs nas pastas de trabalho para adicionar um impacto visual. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Mais opções de formatação para gráficos de Histograma, Cascata, Mapa de Árvore, Explosão Solar e Mapa:** você tem mais controle sobre as opções de formatação para novos tipos de gráficos ao usar o painel de formatação.|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimir números de slide em folhetos:** quando você imprime uma apresentação em folhetos, cada slide mostrará um número de acompanhamento do slide. <br/><br/> **Aplique rótulos de confidencialidade às suas apresentações:** aplique rótulos de confidencialidade às suas apresentações para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Inserir um subconjunto de fontes:** insira somente os caracteres usados na apresentação.  [Saiba Mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplique rótulos de confidencialidade às suas mensagens:** aplique rótulos de confidencialidade às suas mensagens para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Localize um email rapidamente na caixa de correio atual:** selecione a caixa de pesquisa para sugestões rápidas baseadas no seu histórico recente de buscas. Não precisa digitar. [Saiba Mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Adicionar contas do Gmail ficou mais fácil:** com as melhorias de segurança, você não precisa mais permitir acesso a "aplicativos menos seguros" ou definir uma senha de aplicativo para adicionar sua conta do Gmail ao Outlook.<br/><br/>**O Outlook para Mac agora destaca os termos de pesquisa:** você já tentou pesquisar por algo e desejou que o Outlook destacasse seu termo de pesquisa na lista de itens e no painel de visualização? Não é mais necessário desejar essa melhoria, pois ela já chegou!||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.7 <br/>| O Daemon AutoUpdate agora é inicializado como parte do processo de instalação. Isso elimina caixas de diálogo de segurança confusas que foram mostradas anteriormente aos usuários. <br/><br/> Os recursos de segurança do Microsoft AutoUpdate foram aprimorados para oferecer suporte a certificados SHA256. <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Lançamento de dezembro de 2018
@@ -1040,8 +1040,8 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Preservar a aparência do seu texto:** incorporar fontes para garantir que o texto do documento fique igual em todos os computadores. Sem mais surpresas! [Saiba mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Visualizar fontes inseridas em documentos:** permite que fontes inseridas em um arquivo sejam renderizadas no Word para Mac.<br/><br/>**Barra de status invocável do modo de foco:** no modo de Foco, é mais fácil visualizar a contagem de palavras e acessar controles de zoom com a barra de status invocável.<br/><br/>**Obtenha mais com o Modo de Foco:** ouvimos você! Agora, o Modo de Foco é aberto no nível de zoom definido por você, e também mostra o número da página enquanto você navega.| |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Do iPhone para o PowerPoint em um piscar de olhos:** usar a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu slide. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): vulnerabilidade de divulgação de informações do Microsoft Excel |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Do iPhone para o PowerPoint em um piscar de olhos:** usar a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu slide. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): vulnerabilidade de execução remota de código do Microsoft PowerPoint <br/>|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Facilite sua visualização com o modo escuro:** um fundo escuro é mais fácil para os olhos em ambientes de pouca luz. Requer Mojave macOS. <br/><br/>  **Compartilhar seu calendário:** compartilhar seu calendário com familiares, amigos e colegas. Abrir calendários compartilhados com você no Mac, PC ou versões de nuvem do Outlook. [Saiba mais](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Desabilitar o encaminhamento para uma reunião** Impede que os participantes encaminhem reuniões para outras pessoas. [Saiba mais](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Usar o Teams para conectar a suas reuniões:** Trabalha com equipes remotas? Use o Teams no Outlook para agendar e ingressar em reuniões online. [Saiba mais](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Veja quem estará presente na reunião:** clique em qualquer reunião ou evento no seu calendário para ver quem pretende comparecer.<br/><br/> **Veja três fusos horários:** Precisa agendar uma reunião em diferentes fusos horários? Adicione vários fusos ao seu calendário para ver facilmente a disponibilidade dos participantes e escolha um horário que funcione para todos. [Saiba Mais](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.6 <br/>| Catálogos de atualização de segurança para conter hashes SHA-256 em vez de SHA-1 <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Pacote do Office  <br/>|**Os ícones da faixa de opções ganharam uma nova aparência:** não se preocupe, tudo funciona da mesma maneira. Além disso, todos os ícones têm uma aparência incrível em telas de todos os tamanhos. [Saiba Mais](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Painel de texto Alt atualizado:** torne seu conteúdo mais acessível ao adicionar legendas úteis ou até marcar elementos como decorativos. |<br/>||
@@ -1058,7 +1058,7 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/>  **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.19.18110915_Updater.pkg) <br/>|
-|Excel  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
+|Excel  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/>|[CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): vulnerabilidade de execução remota de código do Microsoft Excel <br/>[CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): vulnerabilidade de execução remota de código do Microsoft Excel <br/><br/>|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.19.18110915_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Inserir a imagem?** Pesquisar na web imagens de seus aplicativos do Office. Selecione Inserir > Imagens Online para começar. [Saiba mais](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d) <br/><br/> **O que está em um nome de arquivo? Ferramentas úteis:** Clique no nome para mover, renomear ou procurar o histórico de versão para seus documentos na nuvem rapidamente. [Saiba mais](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4) <br/><br/> **Zoom: apresentar o conteúdo de uma forma não linear:** Criar um sumário interativo com Zoom de resumo ou acessar slides específicos e seções como Zoom de Slide e Zoom de seção. [Saiba mais](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)  <br/><br/> **Exportar para vídeo com áudio narrações:** Narrações de áudio agora estão incluídas no vídeo exportado. ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.19.18110915_Updater.pkg) <br/>|
 |Outlook  <br/>| **Criptografia de Email mais fácil:** O botão Criptografar agora tem uma opção somente criptografar, facilitando ainda mais o envio de emails criptografados, dentro e fora da sua organização.[Saiba mais](https://support.office.com/article/a18ecf7f-a7ac-4edd-b02e-687b05eff547) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.19.18110915_Updater.pkg) <br/>|
 |Pacote do Office  <br/>| |<br/>||
@@ -1078,7 +1078,7 @@ Esta versão oferece as seguintes atualizações:
 |Excel  <br/>|**Colaborar com os Comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Preenchimento automático mais “automático”:** Ao digitar uma fórmula, o menu de preenchimento automático útil aparecerá mostrando opções de argumento disponíveis.  <br/><br/> **Agora aprimorado: navegação com o VoiceOver:** Usando o VoiceOver no Excel? Mova entre planilhas, pressionando VO + U. Você pode habilitar macOS Commander Trackpad para fazer isso também. <br/> ||[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Torne suas Imagens Acessíveis:** Quando você insere uma imagem, o Office sugere legendas ocultas que podem ser lidas por pessoas com deficiências visuais.  <br/><br/> **Os gatilhos de animação estão aqui:** você pediu! Os gatilhos de animação não são mais apenas para Windows. Encontre-os na guia animações [Saiba mais](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Pesquisa Melhoradas:** Marque a caixa de pesquisa para sugestões rápidas com base em seu histórico de pesquisa recente. Não é necessário digitar. [Saiba mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
-|Pacote do Office  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8432): vulnerabilidade de execução remota de código de componentes do Microsoft Graphics <br/>||
+|Pacote do Office  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): vulnerabilidade de execução remota de código de componentes do Microsoft Graphics <br/>||
 
 
 ## <a name="september-2018-release"></a>Versão de setembro de 2018
@@ -1092,11 +1092,11 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |<br/>**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Os atalhos personalizados estão de volta:** Nós ouvimos você! Você solicitou, trouxemos de volta teclas de atalho personalizado. [Saiba mais](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Os atalhos personalizados estão de volta:** Nós ouvimos você! Você solicitou, trouxemos de volta teclas de atalho personalizado. [Saiba mais](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): vulnerabilidade de divulgação de informações do Microsoft Excel <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): vulnerabilidade de execução remota de código do Microsoft Excel <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |<br/>**Desenhar à tinta:** Use o seu mouse ou touch pad e as canetas na guia para desenhar, escrever, desenhar e realçar. [Saiba mais](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Inserir modelos 3D para ver todos os ângulos:** insira facilmente um modelo 3D e rotação de 360 graus. [Saiba mais](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**A fonte escolhida é a fonte que eles veem:** Inserir as fontes personalizadas em seus arquivos para que onde quer que estejam, as fontes estejam também. [Saiba mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||| 
-|Pacote do Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8332): vulnerabilidade de execução remota de código remoto do Microsoft Graphics <br/>||
+|Pacote do Office  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): vulnerabilidade de execução remota de código remoto do Microsoft Graphics <br/>||
 
 ## <a name="august-2018-release"></a>Versão de agosto de 2018
 
@@ -1109,10 +1109,10 @@ Esta versão oferece as seguintes atualizações.
 |**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |||[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
-|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8375): vulnerabilidade de execução remota de código do Microsoft Excel  <br/>[/CVE-2018-8382](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8382): vulnerabilidade de divulgação de informações do Microsoft Excel  <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
+|Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): vulnerabilidade de execução remota de código do Microsoft Excel  <br/>[/CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): vulnerabilidade de divulgação de informações do Microsoft Excel  <br/>  |[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8412): vulnerabilidade de elevação de privilégios do Microsoft AutoUpdate Office  <br/>| | 
+|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): vulnerabilidade de elevação de privilégios do Microsoft AutoUpdate Office  <br/>| | 
 |Pacote do Office  <br/> ||||
 
 ## <a name="july-2018-release"></a>Lançamento de julho de 2018
@@ -1130,7 +1130,7 @@ Esta versão oferece as seguintes atualizações.
 |PowerPoint  <br/> |**Dê vida a sua apresentação em vídeo:** adicione ação ao vivo no slide com um vídeo do YouTube e visualize-o sem precisar sair do aplicativo. [Saiba mais](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**Segurança aprimorada para contas do Google:** os aprimoramentos de segurança significam que você não precisa mais conceder acesso a "aplicativos menos seguros" ou definir uma senha de aplicativo para adicionar sua conta do Google ao Outlook. [Saiba mais](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |Atualização do Aria SDK 8.4. Corrige um problema de perda de memória.<br/><br/>Alterações no registro do aplicativo. Agora é compatível com o Office 2019 Preview.|| | 
-|Pacote do Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office  <br/> ||
+|Pacote do Office  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): vulnerabilidade de execução remota de código do Microsoft Office  <br/> ||
 
 
 ## <a name="june-2018-release"></a>Lançamento de junho de 2018
@@ -1188,8 +1188,8 @@ Esta versão oferece as seguintes atualizações.
 |**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Word. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Inserir e editar ícones:** use ícones para acrescentar impacto visual ao seu documento inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **Faça o seu melhor currículo ou CV com a ajuda do LinkedIn:** o Assistente de Currículos mostra suas experiências profissionais, principais qualificações e muito mais para uma determinada função. Encontre-o na guia Revisão. [Saiba mais](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **Acessibilidade integrada:** use o teclado para acessar a faixa de opções rapidamente e formatar as palavras ou imagens inseridas.  <br/> |||
-|Excel  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Excel. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua pasta de trabalho inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**Use uma linha do tempo para filtrar seus dados:** filtre com facilidade uma Tabela Dinâmica deslizando o intervalo de datas em um filtro de linha do tempo. [Saiba mais](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8147): vulnerabilidade de execução remota de código do Microsoft Excel   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> ||
-|PowerPoint  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do PowerPoint. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua apresentação inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-8176): vulnerabilidade de execução remota de código do Microsoft PowerPoint  <br/> ||
+|Excel  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do Excel. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua pasta de trabalho inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**Use uma linha do tempo para filtrar seus dados:** filtre com facilidade uma Tabela Dinâmica deslizando o intervalo de datas em um filtro de linha do tempo. [Saiba mais](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): vulnerabilidade de execução remota de código do Microsoft Excel   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> ||
+|PowerPoint  <br/> |**Converse com coautores durante a edição:** colabore mais efetivamente conversando com seus coautores sem sair do PowerPoint. [Saiba mais](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**Inserir e editar ícones:** use ícones para acrescentar impacto visual à sua apresentação inserindo e editando um dos 500 ícones. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8176): vulnerabilidade de execução remota de código do Microsoft PowerPoint  <br/> ||
 |Outlook  <br/> |**Personalizar os gestos de deslizar o dedo:** defina os gestos de deslizar o dedo para a direita e para a esquerda como as ações que você mais usa. Escolha entre Excluir, Arquivar, Marcar como Lido, Sinalizar ou Nenhum. [Saiba mais](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **Suporte para Google Calendar e Contatos:** gerencie o Google Calendar e Contatos sem sair do Outlook.* [Saiba mais](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**Implementaremos esse recurso ao longo do tempo para os assinantes do Office 365. Pode ser que ele ainda não esteja disponível para você.* |||
 |Microsoft AutoUpdate 4.0  <br/> || <br/> |
    
@@ -1205,11 +1205,11 @@ Esta versão oferece as seguintes atualizações.
 |**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|**Atualizações que não são de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**Melhor compartilhamento e colaboração:** seus documentos do OneDrive sincronizados localmente abrem diretamente na nuvem, o que permite que você salve automaticamente, compartilhe e colabore com facilidade.  <br/> <br/> **Adicione impacto visual:** insira e edite Elementos Gráficos Vetoriais Escaláveis (SVGs) em seus documentos para adicionar apelo visual e manter uma alta qualidade de imagem. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
-|Excel  <br/> |**Melhor compartilhamento e colaboração:** suas pastas de trabalho do OneDrive sincronizadas localmente abrem diretamente na nuvem, o que permite que você salve automaticamente, compartilhe e colabore com facilidade.  <br/> <br/> **Adicione impacto visual:** insira e edite Elementos Gráficos Vetoriais Escaláveis (SVGs) em suas pastas de trabalho para adicionar apelo visual e manter uma alta qualidade de imagem. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-1029): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> ||||
+|Excel  <br/> |**Melhor compartilhamento e colaboração:** suas pastas de trabalho do OneDrive sincronizadas localmente abrem diretamente na nuvem, o que permite que você salve automaticamente, compartilhe e colabore com facilidade.  <br/> <br/> **Adicione impacto visual:** insira e edite Elementos Gráficos Vetoriais Escaláveis (SVGs) em suas pastas de trabalho para adicionar apelo visual e manter uma alta qualidade de imagem. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> |[CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): vulnerabilidade de execução remota de código do Microsoft Excel  <br/> ||||
 |PowerPoint  <br/> |**Melhor compartilhamento e colaboração:** suas apresentações do OneDrive sincronizadas localmente abrem diretamente na nuvem, o que permite que você salve automaticamente, compartilhe e colabore com facilidade.   <br/><br/> **Adicione impacto visual:** insira e edite Elementos Gráficos Vetoriais Escaláveis (SVGs) em suas apresentações para adicionar apelo visual e manter uma alta qualidade de imagem. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/> ||||
 |Outlook  <br/> |**Adicione impacto visual:** insira e edite Elementos Gráficos Vetoriais Escaláveis (SVGs) em seus emails para adicionar apelo visual e manter uma alta qualidade de imagem. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c#ID0EAAFAAA=Office_2016_on_Mac&ID0EAAEAAA=Office_2016_on_Mac) <br/>  <br/>**Um calendário mais acionável:** clique em qualquer reunião ou evento no calendário para ver todos os detalhes associados. Confira quem está convidado, edite a resposta ou ingresse na reunião em um só lugar.  <br/> <br/> **Verificação mais fácil de resultados da pesquisa:** o Outlook realça o termo de pesquisa na lista de itens ou no painel de visualização.  <br/> <br/> **Números das semanas:** os números das semanas agora são exibidos no modo de exibição de mês do calendário e no minicalendário na barra lateral. Para permitir, marque "Mostrar números das semanas" no Outlook \> Preferências \> Calendário \> Opções de calendário.  <br/> <br/> **Agendamento de reuniões do Skype:** representantes agora podem agendar reuniões do Skype for Business Online em nome de entidades usando os endereços de email delas. *(Skype for Business apenas Online. Isso será habilitado para o Skype for Business Server 2015 em uma atualização futura do servidor.)*  <br/> ||Tratamento de erro aprimorado ao editar e excluir regras do servidor. Regras do servidor que contém erros agora são realçadas quando exibidas na lista de regras pela primeira vez.  <br/> ||
 |OneNote  <br/> ||||
-|Microsoft AutoUpdate 3.18  <br/> |Suporte para a ferramenta de linha de comando msupdate. [Saiba mais](https://docs.microsoft.com/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
+|Microsoft AutoUpdate 3.18  <br/> |Suporte para a ferramenta de linha de comando msupdate. [Saiba mais](/DeployOffice/mac/update-office-for-mac-using-msupdate) <br/> ||||
    
 ## <a name="march-2018-release"></a>Versão de março de 2018
 
@@ -1231,10 +1231,10 @@ Esta versão oferece as seguintes atualizações.
 |**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|**Atualizações que não são de segurança**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**Faça mais com o Modo de foco:** o Modo de foco agora abre no nível de definição de zoom e mostra o número da página ao rolar.  <br/> ||||
-|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0907): bypass de Recursos de Segurança do Microsoft Office Excel  <br/> |||
+|Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): bypass de Recursos de Segurança do Microsoft Office Excel  <br/> |||
 |PowerPoint  <br/> |**Fontes incorporadas:** fontes incorporadas garantem que sua apresentação tenha a mesma aparência em todos os computadores e as pessoas experimentem seu conteúdo como você planejou.  <br/> ||||
 |Outlook  <br/> |**Tabelas:** insira tabelas em suas mensagens e eventos do calendário e leve estrutura ao seu conteúdo. Não é mais preciso copiar e colar de outros aplicativos do Office. [Saiba mais](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Exibir dois fusos horários simultaneamente:** quer saber que horas são em outra parte do mundo? Agora você pode adicionar um segundo fuso horário ao Outlook.  <br/><br/> **Programe entre fusos horários:** está viajando entre fusos horários? Crie um evento com início e fim em diferentes fusos horários e o Outlook cuidará da conversão.   <br/><br/> **Alterar o tamanho do texto:** aumente ou diminua o tamanho da fonte na barra lateral, na lista de mensagens e no painel de leitura. [Saiba mais](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Corrigir um problema no qual o fuso horário padrão de seu computador observa o horário de verão e o modo de exibição Semana estiver selecionado, você veria todos os eventos alterados em uma hora na grade do calendário na semana inicial do horário de verão.  <br/> |
-|Pacote do Office  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office  <br/> |
+|Pacote do Office  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office  <br/> |
 
    
 ## <a name="february-2018-release"></a>Lançamento de fevereiro de 2018
@@ -1270,11 +1270,11 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de recursos**|**Atualizações de segurança**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0792): vulnerabilidade de execução remota de código do Microsoft Word  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0794): vulnerabilidade de execução remota de código do Microsoft Word |
+|Word  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): vulnerabilidade de execução remota de código do Microsoft Word  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): vulnerabilidade de execução remota de código do Microsoft Word |
 |Excel  <br/> |**Edição colaborativa:** trabalhar com outras pessoas ao mesmo tempo na pasta de trabalho. Miniaturas no canto superior direito da janela mostram quem mais está exibindo ou editando o arquivo com você. [Saiba mais](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **Mais gráficos:** use gráficos novos, como funil e explosão solar e histograma, para transformar os dados em visualizações profissionais ou use o novo tipo de gráfico de mapa para transformar dados geográficos em um mapa com apenas algumas etapas.   <br/><br/> **Mais funções:** encurte as fórmulas que você escreve usando as novas funções lógicas [Função SES](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45) e [Função PARÂMETRO](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e).   <br/><br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> <br/> **Melhor suporte para gráficos de Tabela Dinâmica:** altere seus filtros em uma Tabela Dinâmica e o gráfico criado será ajustado automaticamente para mostrar exatamente o que você quer.  <br/> <br/> **Cálculos multithread** as fórmulas são atualizadas com mais rapidez quando os valores são alterados, já que o Excel usa vários threads de processamento. |
 |PowerPoint  <br/> |**Editar com outras pessoas em tempo real:** miniaturas no canto superior direito da janela mostram quem mais está trabalhando com você em um documento compartilhado. Ícones de sinalização mostram onde outras pessoas estão trabalhando e você pode exibir as alterações conforme elas são digitadas. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **Salvamos para você!** As alterações são salvas automaticamente para documentos, planilhas e apresentações armazenadas na nuvem e você pode ver atualizações de outras pessoas em segundos. Precisa reverter? Confira o histórico de versão de uma lista de alterações e o acesso a versões anteriores. [Saiba mais](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **Veja o que mudou:** slides que foram modificados por outras pessoas enquanto você estava ausente são realçados. [Saiba mais](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **Um início rápido para sua pesquisa:** iniciar do zero é difícil. O iniciador rápido cria automaticamente uma estrutura de tópicos para seu tema escolhido com designs e pontos de discussão sugeridos que dão destaque à sua apresentação. [Saiba mais](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **Cortar mídia:** remova o conteúdo indesejado do início ou fim do clipe de áudio ou vídeo. [Saiba mais](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **Acessar rapidamente sites e grupos:** use o menu Abrir para encontrar rapidamente apresentações armazenadas em sites e grupos acessados frequentemente.  <br/> <br/> **Apontador laser na apresentação de slides:** use seu mouse como um apontador laser para chamar a atenção para determinadas partes de seu slide.<br/><br/>**Marca-texto** o realce de texto chegou ao Mac! Use o marca-texto para enfatizar partes importantes do texto.
  |
-|Outlook  <br/> |**Arquivar ou excluir com apenas um toque:** economize tempo de organização de sua caixa de entrada, passe o dedo para a esquerda com dois dedos no touchpad para arquivar um email ou deslize para a direita para excluir.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook |
+|Outlook  <br/> |**Arquivar ou excluir com apenas um toque:** economize tempo de organização de sua caixa de entrada, passe o dedo para a esquerda com dois dedos no touchpad para arquivar um email ou deslize para a direita para excluir.  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): vulnerabilidade de execução remota de código do Microsoft Outlook |
 
    
 ## <a name="december-2017-release"></a>Versão de dezembro de 2017
@@ -1294,7 +1294,7 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de segurança**|
 |:-----|:-----|
-|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11934): vulnerabilidade de divulgação não autorizada de informações do Microsoft PowerPoint |
+|PowerPoint  <br/> |[CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): vulnerabilidade de divulgação não autorizada de informações do Microsoft PowerPoint |
 
    
 ## <a name="november-2017-release"></a>Versão de novembro de 2017
@@ -1308,8 +1308,8 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de segurança**|
 |:-----|:-----|
-|Word  <br/> |[Supervisão 170020](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/ADV170020): atualização de proteção abrangente do Microsoft Office  |
-|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11877): vulnerabilidade de bypass do recurso de segurança do Microsoft Excel  |
+|Word  <br/> |[Supervisão 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): atualização de proteção abrangente do Microsoft Office  |
+|Excel  <br/> |[CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): vulnerabilidade de bypass do recurso de segurança do Microsoft Excel  |
 
    
 ## <a name="october-2017-release"></a>Versão de outubro de 2017
@@ -1327,7 +1327,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> |**Editor do Visual Basic aprimorado:** crie e edite macros no Editor do Visual Basic usando o IntelliSense, menus VBA e barras de ferramentas, ferramentas de depuração, um pesquisador de objetos e muito mais.  |
 |PowerPoint  <br/> |**Editor do Visual Basic aprimorado:** crie e edite macros no Editor do Visual Basic usando o IntelliSense, menus VBA e barras de ferramentas, ferramentas de depuração, um pesquisador de objetos e muito mais.  |
 |Outlook  <br/> |**Capacidade de leitura aprimorada e acessível também:** sua mensagem de email e os cabeçalhos de convite de reunião agora estão mais agradáveis aos olhos. Menos bagunça, melhor navegação no teclado e VoiceOver aprimorado.   |
-|Pacote do Office  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-11825): Vulnerabilidade de execução remota de código do Microsoft Office  |
+|Pacote do Office  <br/> ||[CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Vulnerabilidade de execução remota de código do Microsoft Office  |
 
    
 ## <a name="september-2017-release"></a>Versão de setembro de 2017
@@ -1341,8 +1341,8 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de recurso**|**Atualizações de segurança**|
 |:-----|:-----|:-----|
-|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8631): Vulnerabilidade de corrupção de memória do Microsoft Office   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8632): Vulnerabilidade de corrupção de memória do Microsoft Office  |
-|Pacote do Office  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8676): vulnerabilidade de divulgação de informações confidenciais do Windows GDI+  |
+|Excel  <br/> ||[CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Vulnerabilidade de corrupção de memória do Microsoft Office   <br/><br/> [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Vulnerabilidade de corrupção de memória do Microsoft Office  |
+|Pacote do Office  <br/> ||[CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): vulnerabilidade de divulgação de informações confidenciais do Windows GDI+  |
 |Microsoft AutoUpdate 3.9.3  <br/> |Avisa os usuários para reinstalar o Microsoft AutoUpdate quando componentes ausentes ou defeituosos são detectados. |
    
 ## <a name="august-2017-release"></a>Versão de agosto de 2017
@@ -1382,7 +1382,7 @@ Esta versão oferece as seguintes atualizações.
 |:-----|:-----|:-----|
 |Excel  <br/> |**Imagens nos cabeçalhos e rodapés:** personalize suas pastas de trabalho impressas adicionando imagens aos cabeçalhos e rodapés. ||
 |Outlook  <br/> |**Enviar email em seu cronograma:** atrase a entrega de uma mensagem ou escolha quando ela será enviada. [Saiba mais](https://support.office.com/article/a02097de-76c2-4895-9557-0818ef229024)  <br/><br/> **Todas as suas pastas favoritas em um só lugar:** crie atalhos para todas as pastas que você usa regularmente. Todos os atalhos ficam listados em Favoritos na parte superior da barra lateral. [Saiba mais](https://support.office.com/article/4357e516-8608-4bfd-b229-fb08ad29b08d)  <br/><br/> **Pincel de formatação:** disponível durante a criação de emails, eventos e tarefas.  <br/> ||
-|Pacote do Office  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8501): vulnerabilidade de corrupção de memória do Microsoft Office |
+|Pacote do Office  <br/> ||[CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): vulnerabilidade de corrupção de memória do Microsoft Office |
    
 ## <a name="june-2017-release"></a>Versão de junho de 2017
 
@@ -1403,7 +1403,7 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de recurso**|**Atualizações de segurança**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-8509): vulnerabilidade de execução remota de código do Microsoft Office  |
+|Word  <br/> ||[CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509): vulnerabilidade de execução remota de código do Microsoft Office  |
 |Outlook  <br/> |**Passe menos tempo escrevendo emails:** crie um modelo de email e reutilize-o mais tarde e economize tempo. [Saiba mais](https://support.office.com/article/6339b60e-2e5a-4aed-a9e6-2e7b5d7eb5a0)  <br/><br/> **Solicitar confirmações de leitura e notificações de entrega:** receba notificações quando suas mensagens de email importantes forem entregues e abertas pelos destinatários. [Saiba mais](https://support.office.com/article/2493ae0b-fba6-47f3-a5d5-ca0c0dbfe878)  <br/><br/> **Configuração de conta facilitada:** agora, quando você adiciona uma conta do Exchange ou do Gmail, as configurações são atualizadas automaticamente. Basta fornecer seu nome de usuário e senha e você está pronto. [Saiba mais](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b#PickTab=Outlook_for_Mac)|
 
 
@@ -1421,7 +1421,7 @@ Esta versão oferece as seguintes atualizações.
 |Excel  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |PowerPoint  <br/> |**Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Grupos:** exiba seus 10 principais grupos e leia ou responda a conversas em grupo diretamente da pasta Grupos.  <br/> <br/> **Fonte Dubai:** família de fontes compatível com idiomas da Europa Ocidental e com a maioria dos idiomas que usam escrita árabe. [Saiba mais](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Pacote do Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2017-0254): vulnerabilidade de corrupção de memória do Microsoft Office   |
+|Pacote do Office  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254): vulnerabilidade de corrupção de memória do Microsoft Office   |
 
 <br/><br/>
    
@@ -1456,9 +1456,9 @@ Esta versão oferece as seguintes atualizações.
   
 |**Aplicativo**|**Atualizações de recurso**|**Atualizações de segurança**|
 |:-----|:-----|:-----|
-|Excel  <br/> ||Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014): Atualização de Segurança do Microsoft Office (3217868)   |
+|Excel  <br/> ||Boletim de Segurança da Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Atualização de Segurança do Microsoft Office (3217868)   |
 |Outlook  <br/> |**Suporte para Touch Bar:** os comandos mais relevantes para o seu trabalho ao seu alcance. (Compatível apenas com MacBook Pro com Touch Bar.)   <br/><br/> **Suplemento tradutor:** traduza emails sem sair do Outlook. Basta ativar o suplemento tradutor para traduzir com um único toque. Escolha entre 60 idiomas. [Saiba mais](https://support.office.com/article/3d7e12ed-99d6-406e-a453-b9db0d9653fa#OutlookVersion=Mac)  <br/><br/> [Instalar um suplemento da Office Store](https://go.microsoft.com/fwlink/p/?linkid=841914)  <br/><br/> **Acesse mais recursos diretamente da sua Caixa de Entrada:** os suplementos do Outlook permitem que você crie tarefas com o Wunderlist, acompanhe respostas de email com o Boomerang e muito mais. [Saiba mais](https://support.office.com/article/1ee261f9-49bf-4ba6-b3e2-2ba7bcab64c8#OfficeVersion=Outlook_2016_for_Mac)  |
-|Pacote do Office  <br/> ||Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/MS17-014): Atualização de Segurança do Microsoft Office (3217868)  |
+|Pacote do Office  <br/> ||Boletim de Segurança da Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Atualização de Segurança do Microsoft Office (3217868)  |
    
 ## <a name="february-2017-release"></a>Versão de fevereiro de 2017
 
@@ -1489,4 +1489,3 @@ Esta versão oferece as seguintes atualizações.
 |:-----|:-----|:-----|
 |Word  <br/> |Opções de modo de foco adicionais, incluindo Carvalho, Mogno e Grafite. Somente para assinantes do Office 365. [Saiba mais](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx) <br/> |Corrigir vários problemas de desempenho, como atrasos de digitação ou de rolagem e desempenho lento ao editar um documento grande.  |
 |Microsoft AutoUpdate  <br/> |Recursos adicionais de registro em log e solução de problemas.  <br/> |Número da versão atualizado para 3.8.3.  |
-   

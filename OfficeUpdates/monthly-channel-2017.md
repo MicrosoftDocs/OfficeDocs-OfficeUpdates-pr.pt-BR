@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de IT para versões do Canal Mensal para o Office 365 ProPlus em 2017
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735196"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169810"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Notas de versão para versões do Canal Mensal em 2017
 
@@ -323,7 +323,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Bloqueie extensões perigosas:** as extensões consideradas de alto risco inseridas como objetos de pacote OLE são bloqueadas de ativação por padrão. Por exemplo, .exe, .vbs e .js. [Saiba mais](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: atualizações não relacionadas à segurança
--   Adicione a caixa de diálogo explicando por que um usuário não pode participar de uma reunião quando determinadas portas são bloqueadas ou os IPs não são permitidos.
+-   Adicionar caixa de diálogo explicando por que um usuário não pode ingressar em uma reunião quando certas portas estão bloqueadas ou IPs não são permitidos.
 -   Correção de um problema em que as mensagens não lidas em salas de chat persistentes são marcadas como lidas ao clicar nas guias de conversas de mensagens instantâneas.
 -   Correção de um problema em que as notificações do sistema de mensagens instantâneas são exibidas com atraso de vários segundos.
 -   Correção de um problema em que o contato do AD é exibido como um número de telefone em vez de um nome de contato, quando a sincronização com o Exchange está desabilitada.
@@ -601,22 +601,22 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   **Compartilhar consultas**: exporte qualquer definição de consulta em um arquivo ODC (Conexão do banco de dados do Office) e compartilhe-o entre pastas de trabalho ou com outras pessoas.
 -   **Carregar dados:** Carregue dados de uma consulta diretamente em tabelas dinâmicas ou gráficos dinâmicos sem precisar salvar os dados no modelo de dados.
 -   **Melhoria no recurso Obter e Transformar:** No Editor de Consultas, crie uma nova coluna fornecendo valores de exemplo. Conforme você digita, o Excel detecta as transformações necessárias e mostra uma visualização da nova coluna.
--   **Suporte à Proteção de Informações do Windows (WIP):**   O Excel agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas.  [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):**   O Excel agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas.  [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel: Atualizações que não são de segurança
 -   Correção de um problema em que o botão Mesclar e Centralizar não funcionava em planilhas agrupadas.
 
 ### <a name="onenote-feature-updates"></a>OneNote: Atualizações de recursos
--   **Suporte à Proteção de Informações do Windows (WIP):** O OneNote agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):** O OneNote agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
--   **Suporte à Proteção de Informações do Windows (WIP):** O Outlook agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):** O Outlook agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **Caixa de diálogo "Anexar" para links:** ao anexar um link usando o recurso "Anexar Arquivo" na Faixa de Opções, é possível escolher entre adicioná-lo como link ou como anexo. Caso prefira não exibir sempre esta caixa de diálogo, vá para Arquivo \> Opções \> Geral e especifique como deseja anexar os links em "Opções de Anexo".
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Atualizações de recursos
 -   **Legendas ocultas para vídeos:** adicione legendas ocultas a um vídeo para torná-lo mais acessível. [Mais informações](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Melhoria do Designer:** o Designer agora recomenda ideias de design para gráficos adicionados aos seus slides.
--   **Suporte à Proteção de Informações do Windows (WIP):**   O PowerPoint agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):**   O PowerPoint agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas. [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Project: Atualizações que não são de segurança
 -   Correção da caixa de diálogo Criar Site do Projeto para mostrar o local correto do site, agora que no Project Online cada EPT (Modelo do Enterprise Project) terá a própria URL para sites de projetos.
@@ -631,7 +631,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Atualizações de recursos
 -   **Inserir link:** adicione um link aos chats de grupo e às mensagens instantâneas, e forneça texto amigável para o link em vez da URL inteira.
 -   **Screen sharing notification:** A notification displays in the conversation window when you’re sharing a screen in an IM conversation or when screen sharing continues after you leave a meeting. The notification reminds you that you are still sharing your screen and makes it easy to stop sharing by using the “Stop Sharing” button.
--   **Suporte à Proteção de Informações do Windows (WIP):** O Skype for Business agora tem suporte como um aplicativo Somente para Trabalhos de WIP.  Ao adicionar o Skype à sua lista de aplicativos permitidos, ele indica ao Windows que não processa dados pessoais. O Windows protegerá os dados em nome do Skype for Business. [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):** O Skype for Business agora tem suporte como um aplicativo Somente para Trabalhos de WIP.  Ao adicionar o Skype à sua lista de aplicativos permitidos, ele indica ao Windows que não processa dados pessoais. O Windows protegerá os dados em nome do Skype for Business. [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Atualizações que não são de segurança
 -   Change message for attempted calls to users with audio disabled by policy from "Cannot complete the call" to "Cannot call because an IT administrator has restricted audio. Try using instant messaging or email instead and ask to check with their IT administrator."
@@ -646,12 +646,12 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ### <a name="word-feature-updates"></a>Word: Atualizações de recursos
 -   **Assistência de escrita aprimorada com o painel Editor:** Use o painel Editor para obter recomendações de estilo de escrita, ortografia e gramática. Ele foi criado para ser acessado com suporte aprimorado a tecnologias adaptativas.
 -   **Criação de texto Alt:** um serviço baseado em nuvem gera automaticamente texto alternativo (texto alt) para imagens em um documento.
--   **Suporte à Proteção de Informações do Windows (WIP):**   O Word agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](https://aka.ms/wiptechnet)
+-   **Suporte à Proteção de Informações do Windows (WIP):**   O Word agora é um aplicativo inteligente, e pode diferenciar dados pessoais de corporativos, determinando corretamente quais proteger com base em políticas configuradas.   [Mais informações](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>Versão 1704: 1º de junho
 *Versão 1704 (build 8067.2157)*
 
-### <a name="onenote-non-security-updates"></a>OneNote: Atualizações que não são de segurança
+### <a name="onenote-non-security-updates"></a>OneNote: Atualizações não relacionadas à segurança
 -   Correção de um problema em que a tela do OneNote oculta conteúdo ou é atualizada quando muitos parágrafos estão no modo de exibição.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
@@ -821,13 +821,13 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 *Versão 1702 (build 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: Atualizações de segurança
--   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de segurança do Microsoft Office (3217868)
+-   Boletim de Segurança da Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Atualização de segurança do Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Atualizações de segurança
--   Boletim de Segurança da Microsoft [MS17-013](https://technet.microsoft.com/library/security/ms17-013): atualização de segurança do componente Microsoft Graphics (4013075)
+-   Boletim de Segurança da Microsoft [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): atualização de segurança do componente Microsoft Graphics (4013075)
 
 ### <a name="word-security-updates"></a>Word: Atualizações de segurança
--   Boletim de Segurança da Microsoft [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Atualização de Segurança do Microsoft Office (3217868)
+-   Boletim de Segurança da Microsoft [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Atualização de Segurança do Microsoft Office (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que o OneNote trava ao imprimir uma imagem maior do que a página.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Atualizações de recursos
--   **Painel de tarefas fixável:** Deixe o painel de tarefas do suplemento aberto enquanto alterna entre as mensagens em uma caixa de correio. [Mais informações](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **Painel de tarefas fixável:** Deixe o painel de tarefas do suplemento aberto enquanto alterna entre as mensagens em uma caixa de correio. [Mais informações](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Atualizações que não são de segurança
 -   Foi corrigido um problema em que, ao se clicar com o botão direito do mouse em um anexo na lista de anexos de uma conversa, todos os itens de menu de contexto são visíveis, em vez de apenas os itens de menu aplicáveis.
@@ -1044,7 +1044,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 -   Foi corrigido um problema em que a escolha de um link como \\\\nomedoservidor ou arquivo:// em uma mensagem instantânea resulta em uma mensagem de erro em vez de abrir o local.
 -   Foi corrigido um problema em que, em um ambiente VDI (Virtual Desktop Infrastructure) que usa o roteamento baseado em localização, o usuário não pode fazer ou receber chamadas PSTN porque o servidor acha que o local do usuário não é válido para chamadas PSTN.
 -   Altere a linha de assunto do email enviado para uma mensagem perdida, quando o status do usuário estiver definido como Não Incomodar ou Apresentar, de "Conversa Perdida com" para " enviou uma mensagem no \<name\> \<Name\> Skype for Business".
--   Inicia a captura do carimbo de data/hora para a primeira entrada no dispositivo como parte dos [dados de censo](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) para ajudar a identificar tendências de confiabilidade de entrada.
+-   Inicia a captura do carimbo de data/hora para a primeira entrada no dispositivo como parte dos [dados de censo](/skypeforbusiness/legal-and-regulatory/data-collection-practices) para ajudar a identificar tendências de confiabilidade de entrada.
 
 ### <a name="visio-feature-updates"></a>Visio: Atualizações de recursos
 -   **Melhorias na acessibilidade:** Suporte aprimorado para usar o teclado, o Narrador e outras tecnologias adaptativas para trabalhar com formas, editar com outras pessoas e muito mais.
@@ -1065,7 +1065,7 @@ Essas notas de versão fornecem informações sobre novos recursos, atualizaçõ
 ## <a name="version-1611-january-4"></a>Versão 1611: 4 de janeiro
 *Versão 1611 (build 7571.2109)*
 
-Observação: as atualizações de segurança abordadas no Boletim de Segurança da Microsoft [MS17-002](https://technet.microsoft.com/library/security/ms17-002) não se aplicam à versão do Word neste lançamento do canal.
+Observação: as atualizações de segurança abordadas no Boletim de Segurança da Microsoft [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) não se aplicam à versão do Word neste lançamento do canal.
 
 ### <a name="excel-non-security-updates"></a>Excel: atualizações não relacionadas à segurança
 -   Correção de um problema em que os valores das células com texto e aspas duplas não são exportados corretamente ao salvar como CSV ou CSV UTF-8.

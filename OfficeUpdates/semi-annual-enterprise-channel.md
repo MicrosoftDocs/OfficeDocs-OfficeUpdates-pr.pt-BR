@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps em 2020
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741644"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169606"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de versão para lançamentos do Canal Empresarial Semestral
 
 Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionados à segurança que estão inclusos nas atualizações do Canal Empresarial Semestral do Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios Negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
 > [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 ## <a name="version-2008-march-09"></a>Versão 2008: 09 de março
 *Versão 2008 (Build 13127.21348)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -68,12 +68,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-march-09"></a>Versão 2002: 09 de março
 *Versão 2002 (Build 12527.21686)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>Versão 2008: 09 de fevereiro
 *Versão 2008 (Build 13127.21216)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -134,7 +134,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-february-09"></a>Versão 2002: 09 de fevereiro
 *Versão 2002 (Build 12527.21594)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -151,12 +151,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-february-09"></a>Versão 1908: 09 de fevereiro
 *Versão 1908 (Build 11929.21008)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>Versão 2008: 12 de janeiro
 *Versão 2008 (Build 13127.21064)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -192,7 +192,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Participe de reuniões sem sair da sua caixa de entrada:** não é necessário mudar para o calendário para ingressar em reuniões online. Com o Calendário fixado no painel de Tarefas Pendentes, as contas de usuário hospedadas no Exchange Server 2019 ou no Exchange Online podem ingressar em qualquer reunião com apenas um clique. [Saiba mais](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Nova experiência para redes sem fio prisioneiras:** Já se conectou a uma rede WiFi que exigia uma página da Web para entrar? O Outlook agora detecta isso e ajuda você a se conectar.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Obter sugestões de email ao procurar por alguém:** Quando você digitar o nome de uma pessoa na Caixa de pesquisa, os emails mais relevantes serão incluídos nas sugestões de pesquisa. [Saiba mais](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-january-12"></a>Versão 2002: 12 de janeiro
 *Versão 2002 (Build 12527.21504)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -864,7 +864,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-january-12"></a>Versão 1908: 12 de janeiro
 *Versão 1908 (Build 11929.20994)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -881,7 +881,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-december-08"></a>Versão 2002: 8 de setembro
 *Versão 2002 (Build 12527.21416)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -925,12 +925,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-december-08"></a>Versão 1908: 8 de dezembro
 *Versão 1908 (Build 11929.20984)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>Versão 2002: 10 de novembro
 *Versão 2002 (Build 12527.21330)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -967,12 +967,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-november-10"></a>Version 1908: 10 de novembro
 *Versão 1908 (Build 11929.20974)*
 
-Atualizações de segurança listadas[ aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas[ aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>Version 2002: 13 de outubro
 *Versão 2002 (Compilação 12527.21236)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1012,7 +1012,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-october-13"></a>Versão 1908: 13 de outubro
 *Versão 1908 (Compilação 11929.20966)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1029,7 +1029,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-september-08"></a>Versão 2002: 8 de setembro
 *Versão 2002 (Build 12527.21104)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1059,12 +1059,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-september-08"></a>Versão 1908: 8 de setembro
 *Versão 1908 (Build 11929.20946)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>Versão 2002: 11 de agosto
 *Versão 2002 (Compilação 12527.20988)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1099,12 +1099,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-august-11"></a>Versão 1908: 11 de agosto
 *Versão 1908 (Compilação 11929.20934)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>Versão 1902: 11 de agosto
 *Versão 1902 (Compilação 11328.20644)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1115,7 +1115,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2002-july-14"></a>Versão 2002: 14 de julho
 *Versão 2002 (Build 12527.20880)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1159,11 +1159,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="outlook"></a>Outlook
 
-- **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+- **Por mais mensagens na tela:** Selecione Exibir > Usar Espaçamento Apertado para ajustar o espaçamento entre as mensagens. [Saiba Mais](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
 - **Mais ícones para corresponder ao seu humor:** Adicionamos mais de 300 novos ícones. Encontre-os em Inserir > Ícones. [Saiba mais](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **Deixe-me desenhar:** Rabisque em fotos ou adicione uma Tela de Desenho para enviar seus pensamentos com tinta. [Saiba Mais](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 - **Obtenha sugestões de locais:** comece a digitar em Local ao agendar compromissos e reuniões, e o Outlook irá sugerir salas, endereços e outros locais recentes. [Saiba mais](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)
 
@@ -1171,7 +1171,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **O menu Inserir Link no Outlook inserirá um link com a permissão definida pelo administrador do locatário:** um link do Inserir Link MRU no Outlook insere um link que só funcionou para usuários que já tinham permissões. Isso causou uma troca de emails frequente entre os usuários solicitando o acesso a um documento. Atualizamos essa experiência e agora o link é inserido com a permissão padrão definida pelo administrador do locatário. No MSIT, é "A organização pode editar", para que todos os usuários internos que recebem um link compartilhado dessa maneira possam acessá-lo.
 
-- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **Veja suas mensagens sob uma perspectiva diferente:** use o botão Sol/Lua para alternar entre planos de fundo claros e escuros no painel de leitura. [Saiba Mais](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 - **Emails de phishing fáceis de identificar:** As mensagens de spam e phishing têm uma aparência diferente, para que você possa identificá-las e eliminá-las facilmente na caixa de entrada.
 
@@ -1179,9 +1179,9 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Pesquisar com erros de ortografia ou digitação:** o Outlook encontrará o que você está procurando, mesmo quando a ortografia não corresponder.
 
-- **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+- **Conecte sua rede do LinkedIn ao Outlook:** Conecte sua conta do LinkedIn com segurança à sua conta da Microsoft para ver informações de perfis do LinkedIn diretamente no cartão de Pessoas. [Saiba Mais](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
+- **Veja as mensagens relevantes nos resultados de pesquisa:** o Outlook analisa os termos de pesquisa e mostra as mensagens de email mais relevantes na parte superior dos resultados da pesquisa. Você também verá todos os resultados classificados por data, na seção Resultados Principais. [Saiba Mais](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1199,7 +1199,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Salve uma ilustração como SVG:** salve um gráfico, uma forma ou outra ilustração como um gráfico vetorial escalonável, que pode ser redimensionado sem perder a qualidade da imagem. [Saiba Mais](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **Imprimir números de slide em folhetos:** os números de slide são incluídos automaticamente nos folhetos. Deixá-los ou não ativados depende de você. [Saiba mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Imprimir números de slide em folhetos:** os números de slide são incluídos automaticamente nos folhetos. Deixá-los ou não ativados depende de você. [Saiba Mais](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Localize e corrija títulos de slides ausentes:** Títulos de slides reforçam o seu discurso e tornam os seus slides acessíveis a usuários de todas as habilidades. O Verificador de Acessibilidade mostra onde os títulos estão ausentes para que você possa adicioná-los imediatamente. [Saiba mais](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -1265,7 +1265,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 ### <a name="office-suite"></a>Pacote Office
 
-- **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Transforme tinta manuscrita em formas, texto ou expressões matemáticas no PowerPoint para Office 365:** Vá de tinta de forma livre para formas, texto ou uma expressão matemática com apenas alguns traços. [Saiba Mais](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1631,7 +1631,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-july-14"></a>Versão 1908: 14 de julho
 *Versão 1908 (Build 11929.20904)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -1811,7 +1811,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Solucionado um problema que fazia com que os usuários tivessem problemas com as pastas de calendário compartilhadas sincronizadas com o OST, resultando em erros de permissão quando tentavam interagir com essas pastas.
 
-- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/pt-BR/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Soluciona um problema que fazia com que os usuários encontrassem uma falha ao exibir mais de 30 calendários em um ambiente Citrix. Aqui está o [KB individual em que isso foi documentado para versões anteriores](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Corrigido um problema com a seleção de algoritmo SMIME.
 
@@ -1969,12 +1969,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-july-14"></a>Versão 1902: 14 de julho
 *Versão 1902 (Build 11328.20624)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>Versão 1908: 09 de junho
 *Versão 1908 (Build 11929.20838)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2002,7 +2002,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-june-09"></a>Versão 1902: 09 de junho
 *Versão 1902 (Build 11328.20602)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2021,7 +2021,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-may-12"></a>Versão 1908: 12 de maio
 *Versão 1908 (Build 11929.20776)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2046,7 +2046,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-may-12"></a>Versão 1902: 12 de maio
 *Versão 1902 (Build 11328.20586)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2064,7 +2064,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-may-04"></a>Versão 1908: 04 de maio
 *Versão 1908 (Criação 11929.20752)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-april-26"></a>Versão 1908: 26 de abril
 *Versão 1908 (Build 11929.20736)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1908-april-14"></a>Versão 1908: 14 de abril
 *Versão 1908 (Build 11929.20708)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
@@ -2145,14 +2145,14 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-april-14"></a>Versão 1902: 14 de abril
 *Versão 1902 (Build 11328.20564)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-march-10"></a>Versão 1908: 10 de março
 *Versão 1908 (Build 11929.20648)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2186,14 +2186,14 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-march-10"></a>Versão 1902: 10 de março
 *Versão 1902 (Build 11328.20554)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 ## <a name="version-1908-february-11"></a>Versão 1908: 11 de fevereiro
 *Versão 1908 (Build 11929.20606)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2261,7 +2261,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-february-11"></a>Versão 1902: 11 de fevereiro
 *Versão 1902 (Build 11328.20526)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2283,14 +2283,14 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1808-february-11"></a>Versão 1808: 11 de fevereiro
 *Versão 1808 (Build 10730.20438)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-1908-january-14"></a>Versão 1908:14 de janeiro
 *Versão 1908 (Build 11929,20562)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2321,7 +2321,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Codifique rapidamente com as melhorias do Power Query:** chegue rapidamente à conclusão de código com as cores de sintaxe e o preenchimento automático. Também descubra facilmente funções, colunas e parâmetros.
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2341,7 +2341,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Diga adeus aos limites de sincronização:** melhorias do Outlook acabou com o limite de pastas, então vá em frente e sincronize suas caixas de correio compartilhadas.
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -2401,7 +2401,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Chame a atenção com \@@Menções:** Use @menções nos comentários para informar a seus colegas de trabalho quando precisar deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Pesquisar e desfrutar:** adicionamos a Pesquisa para Inserir Ícones para facilitar a localização do ícone desejado. Enquanto você está selecionando, o botão Inserir informa quantos você escolheu. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="office-suite"></a>Pacote Office
 
@@ -2409,11 +2409,11 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Salve suas alterações assim que forem realizadas:** carregue seus arquivos no OneDrive para garantir que todas as atualizações sejam salvas automaticamente.
 
-- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Controles de privacidade:** controles novos, atualizados e melhorados para dados de diagnóstico e experiências conectadas. [Saiba mais](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Os produtos do Ofiice estão com um novo visual** Os ícones de produtos foram recriados para refletir as experiências simples, poderosas e inteligentes do Office.
 
-- **Instalação do Microsoft Teams:** o Microsoft Teams vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Instalação do Microsoft Teams:** o Microsoft Teams vem instalado por padrão nas instalações existentes do Office 365 ProPlus. [Saiba mais](/DeployOffice/teams-install)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2652,7 +2652,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1902-january-14"></a>Versão 1902: 14 de janeiro
 *Versão 1902 (Build 11328.20512)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -2680,7 +2680,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-1808-january-14"></a>Versão 1808: 14 de janeiro
 *Versão 1808 (Build 10730.20432)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 

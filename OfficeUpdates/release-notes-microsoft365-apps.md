@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista com os lançamentos mais recentes para o Microsoft 365 Apps para cada canal de atualização, e links para notas de versão e o histórico de atualizações
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780669"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170140"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Informações de versão das atualizações do Microsoft 365 Apps
 
 
 > [!IMPORTANT]
-> O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](https://go.microsoft.com/fwlink/p/?linkid=2123420). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
+> O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](/deployoffice/name-change). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Atualizações de segurança para versões do Microsoft 365 Apps
@@ -64,12 +64,12 @@ Para saber mais sobre as atualizações do Office para Mac, que está incluído 
 
 ## <a name="related-topics"></a>Tópicos relacionados
 
-- [Visão geral dos canais de atualização do Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Implantação do Office](https://docs.microsoft.com/deployoffice/)
+- [Visão geral dos canais de atualização do Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Implantação do Office](/deployoffice/)
 - [Novidades do Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Roteiro do Microsoft 365 Apps](https://products.office.com/business/office-365-roadmap)
 - [Visão geral do Centro de Mensagens do Microsoft 365 Apps](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Informações de versão do Windows 10](https://aka.ms/windows/releaseinfo)
+- [Informações de versão do Windows 10](/windows/release-health/release-information)
 - [Guia de Atualização de Segurança da Microsoft](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]

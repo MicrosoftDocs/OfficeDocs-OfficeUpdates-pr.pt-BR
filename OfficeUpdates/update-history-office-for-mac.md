@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI informações sobre as últimas atualizações do Office para Mac, incluindo links para baixar pacotes e histórico de atualizações
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837489"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170170"
 ---
 # <a name="update-history-for-office-for-mac"></a>Histórico de atualizações do Office para Mac
   
 O Office para Mac que vem com uma assinatura do Microsoft 365 é atualizado regularmente para oferecer novos recursos, atualizações de segurança e atualizações não relacionadas à segurança. As informações a seguir destinam-se principalmente aos profissionais de TI que implantam o Office para Mac para usuários em suas organizações.
 
 > [!NOTE]
-> - Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21, se você estiver usando o pacote de instalação do Office. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
-> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Nas ***novas*** instalações, o Microsoft Teams será instalado por padrão, começando pela versão 16.21, se você estiver usando o pacote de instalação do Office. Para saber mais, confira o tópico [Instalações do Microsoft Teams no Mac](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](/security-updates/SecurityAdvisories/2017/4010323)
 > - A partir da versão 16.17 de setembro de 2018, essas informações também se aplicam ao Office 2019 para Mac, que é a versão do Office para Mac disponível como uma compra avulsa em uma loja de varejo ou por meio de um contrato de licenciamento por volume.
 > - Para saber mais sobre os recursos, as atualizações de segurança e as atualizações não relacionadas a segurança que estão incluídas em determinada versão do Office para Mac, confira [Notas de versão do Office para Mac](release-notes-office-for-mac.md).
 > - Para obter acesso antecipado a novos lançamentos, ingresse no programa [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac).

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Office 2016 para Mac a partir de setembro de 2018
-ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: e6552bcebfbc2247c91ef8fb5fb023c597060aaa
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944175"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169670"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Histórico de atualizações do Office 2016 para Mac
 
@@ -24,7 +24,7 @@ O Office 2016 para Mac é uma versão do Office disponível como uma compra úni
 > - O suporte para Office 2016 para Mac terminou em 13 de outubro de 2020. Se você ainda não começou a atualizar para uma versão mais recente, recomendamos que comece agora. Para obter mais informações, confira [Fim do suporte do Office 2016 para Mac.](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)
 
 > [!NOTE]
-> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Por razões de segurança, a Microsoft preteriu o uso de SHA-1. [Saiba mais](/security-updates/SecurityAdvisories/2017/4010323)
 > - Para obter notas de versão de lançamentos do Office 2016 para Mac anteriores a setembro de 2018, consulte as [Notas de versão do Office para Mac](release-notes-office-for-mac.md).  
 > - Para saber mais sobre versões do Office para Mac, que é a versão que acompanha as assinaturas do Office 365, consulte as [notas de versão](release-notes-office-for-mac.md) e o [histórico de atualização](update-history-office-for-mac.md) do Office para Mac.
 > - O Office 2019 para Mac é a versão mais atual disponível como compra única. Para saber mais sobre lançamentos do Office 2019 para Mac, consulte as [notas de versão](release-notes-office-for-mac.md) e o [histórico de atualizações](update-history-office-for-mac.md) do Office para Mac.
@@ -38,7 +38,7 @@ A tabela a seguir lista os pacotes mais recentes do Office 2016 para Mac e para 
 
 ## <a name="october-2020-release"></a>Versão de outubro de 2020
 
-**Data da versão:** 13 de outubro de 2020
+**Data da Versão:** 13 de outubro de 2020
 
 *Versão 16.16.27 (20101200)*
 
@@ -63,7 +63,7 @@ Versão 16.16.27 (20101200)
 |Excel<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20101200_Updater.pkg)<br/>|BDD23B696D54E5FFEB40F30A9BD7F968D2936380AB78A6EAF29D05F5FC8EB78E<br/> |
 |PowerPoint<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20101200_Updater.pkg) <br/>| 0C898068408082124F7FE45717E3FB4B4F5647B609B54DC5FA6C90E295F499C3 <br/>|
 |Outlook<br/>|[Pacote de instalação](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20101200_Updater.pkg)<br/> | AAFEDFE466B7BF10F96FDFBF6B0F9BCF84E94A5097E5FCCB3740D3D0CC666F26 <br/>|
-|OneNote<br/>|[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20101200_Updater.pkg) <br/> | Não aplicável<br/>|
+|OneNote<br/>|[Pacote de atualização](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20101200_Updater.pkg) <br/> | Não se aplica<br/>|
 
 
 ### <a name="september-15-2020"></a>15 de setembro de 2020

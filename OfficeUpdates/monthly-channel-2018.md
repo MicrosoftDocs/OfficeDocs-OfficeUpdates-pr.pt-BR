@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece notas de versão aos profissionais de TI para lançamentos do Canal Mensal do Office 365 ProPlus em 2018
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369889"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169780"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Notas de versão para lançamentos do Canal Mensal em 2018
 
@@ -181,7 +181,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="outlook-feature-updates"></a>Outlook: atualizações de recursos
 - **Veja o que será lançado em breve** experimente novas experiências de usuários antes do lançamento e informe-nos o que achou.[Saiba mais](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **Consulte a URL atrás de Links seguros** Os links seguros protegem você contra URLs mal-intencionadas recebidas por email, mas ocultam a URL original. Para ver o original, passe o mouse sobre a URL. Requer uma licença da Proteção Avançada Contra Ameaças. [Saiba mais](https://products.office.com/exchange/advance-threat-protection)
-- **Obter pesquisa com sugestões de ortografia ** após executar uma pesquisa, o Outlook oferece uma consulta de pesquisa sugerida com correções de ortografia.
+- **Obter pesquisa com sugestões de ortografia** após executar uma pesquisa, o Outlook oferece uma consulta de pesquisa sugerida com correções de ortografia.
 - **Seus ícones da faixa de opções tem uma aparência nova** não se preocupe, tudo funciona da mesma maneira. Além disso, elas ficam ótimas em telas de todos os tamanhos. [Saiba mais](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
@@ -426,7 +426,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   **Ouça seus emails:** o Outlook pode ler o email em voz alta e realçar o texto conforme lê. [Saiba mais](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **Nunca mais perca um lembrete:** defina lembretes a serem abertos sobre as janelas nas quais você está trabalhando. Caso contrário, o Outlook pisca na barra de ferramentas para chamar sua atenção.[Saiba mais](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Marque itens excluídos como lidos:** agora você pode definir qualquer mensagem excluída como lida. Para isso, vá para Arquivo \> Opções \> Email \> Outras.
--   **Opção de criptografia:** os usuários da Criptografia de Mensagens do Office 365 podem criptografar uma mensagem e enviá-la para qualquer pessoa, dentro ou fora da organização. A opção de criptografia é exibida em Opções \> Permissões ao criar uma mensagem. [Saiba mais](https://aka.ms/omeoverview)
+-   **Opção de criptografia:** os usuários da Criptografia de Mensagens do Office 365 podem criptografar uma mensagem e enviá-la para qualquer pessoa, dentro ou fora da organização. A opção de criptografia é exibida em Opções \> Permissões ao criar uma mensagem. [Saiba mais](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: atualizações de recursos
 -   **Converta suas notas escritas:** faça anotações e desenhos e converta-os em texto legível e formas simples para criar uma apresentação elegante. [Saiba mais](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -459,8 +459,8 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 ### <a name="office-suite-security-updates"></a>Pacote do Office: atualizações de segurança
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): vulnerabilidade de divulgação não autorizada de informações do Microsoft Office
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Vulnerabilidade de Execução Remota de Código do Microsoft Office
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Vulnerabilidade de execução remota de código do Microsoft Office
--   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e[aqui](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): vulnerabilidade de execução remota de código do Microsoft Office
+-   **Controles Flash, Silverlight e Shockwave impedidos de ativar o Office por motivos de segurança:** por motivos de segurança os novos builds do Microsoft Office para o Office 365 na ativação do Windows bloqueiam a ativação dos controles Flash, Silverlight, e Shockwave. Saiba mais [aqui](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)e [aqui](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
 
 ## <a name="version-1803-march-27"></a>Versão 1803: 27 de março
 *Versão 1803 (build 9126.2116)*
@@ -601,7 +601,7 @@ As notas de versão fornecem informações sobre recursos, atualizações de seg
 -   Adição de um botão de transferência de chamada na interface do usuário do sistema para chamadas PSTN de entrada.
 -   Avisa aos usuários que as chamadas e o chat estão sendo enviados para o Teams quando ChatDefaultClient e CallDefaultClient estão definidos para o Teams.
 -   Mostra a presença do usuário como Offline quando o usuário não está em uma reunião e Desativado no Skype for Business e a experiência de ingresso da reunião está definida como Cliente Nativo Limitado.
--   Desabilita todas as opções exceto Abrir e Sair quando o Skype for Business é minimizado para a área de notificação. 
+-   Desabilita todas as opções exceto Abrir e Sair quando o Skype for Business é minimizado para a área de notificação. 
 -   Suprime novas chamadas e conversas quando combinado com telefones Aries e RedirectClient está habilitado.
 -   Correção de um problema em que a pesquisa por mensagens no PChat por data falha quando o formato de data é diferente do formato americano (mm/dd/aa).
 -   Correção de um problema em que, quando a política EnableExternalP2PFileTransfer está definida como false, os usuários ainda podem anexar arquivos em reuniões.
