@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902176"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169480"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -35,8 +35,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 
 
  > [!NOTE]
-> - A partir de 11 de agosto de 2020, as atualizações de segurança (artigos da CVE) para o Office 2016 e 2019 estão listadas na [página de atualização de segurança](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates), em vez desta página. 
-> - O Office 2016 e 2019 são compatíveis com a [Política de ciclo de vida fixo](https://docs.microsoft.com/lifecycle/policies/fixed). Apenas as versões de varejo e mais recentes licenciadas por volume listadas abaixo têm suporte.
+> - A partir de 11 de agosto de 2020, as atualizações de segurança (artigos da CVE) para o Office 2016 e 2019 estão listadas na [página de atualização de segurança](./microsoft365-apps-security-updates.md), em vez desta página. 
+> - O Office 2016 e 2019 são compatíveis com a [Política de ciclo de vida fixo](/lifecycle/policies/fixed). Apenas as versões de varejo e mais recentes licenciadas por volume listadas abaixo têm suporte.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Versões de licenciamento por volume do Office 2019
@@ -153,9 +153,3 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 
 </details>
-
-
-
-
-
-

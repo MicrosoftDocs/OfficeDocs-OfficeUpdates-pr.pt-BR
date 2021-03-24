@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: 39d497c714588d5ca31e8c4fbf8e3157545b4e90
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a0bc255deaf46ffab63899468deaab9289689d47
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595495"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169690"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Office que usam o Windows Installer (MSI)
 
@@ -41,7 +41,7 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
    
 ## <a name="office-2010-updates"></a>Atualizações do Office 2010
 > [!IMPORTANT]
-> O suporte do Office 2010 terminou em 13 de outubro de 2020.  Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> O suporte do Office 2010 terminou em 13 de outubro de 2020.  Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|:-----|

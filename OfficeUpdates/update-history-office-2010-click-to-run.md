@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2010 que usam Clique para Executar
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989930"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170190"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Atualizar o histórico de produtos do Office 2010 com Clique para Executar
 
 > [!IMPORTANT]
-> O suporte para o Office 2010 terminou em 13 de outubro de 2020. Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> O suporte do Office 2010 terminou em 13 de outubro de 2020.  Se você ainda não começou a atualizar seu ambiente do Office 2010, recomendamos que comece agora. Para mais informações, confira [Roteiro sobre o fim do suporte do Office 2010](/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente usando uma tecnologia chamada Clique para Executar.
@@ -33,7 +33,7 @@ Os seguintes produtos do Office 2010 são mantidos atualizados automaticamente u
 Se estiver usando um desses produtos e quiser verificar se está atualizado, verifique o número da versão do Office e atualize o Office manualmente caso seja necessário.
   
 > [!NOTE]
-> A versão mais recente do Office 2010 é o **14.0.7261.5000** , que foi lançado em 13 de outubro de 2020.
+> A versão mais atual do Office 2010 é **14.0.7261.5000**, que foi lançada em 13 de outubro de 2020.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -41,7 +41,7 @@ Para verificar sua versão do Office, faça o seguinte:
     
 2. Escolha **arquivo** > **Ajuda**.
     
-3. Em **Atualizações de Produtos Clique para Executar** , observe o número da versão que está listado.
+3. Em **Atualizações de Produtos Clique para Executar**, observe o número da versão que está listado.
     
     Se o número da versão é compatível com a versão mais recente, você está atualizado. Caso contrário, é possível atualizar manualmente para obter a versão mais recente do Office 2010. Para atualizar o Office, [siga estas etapas](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
@@ -132,9 +132,9 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 ||8 de abril  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 de fevereiro  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |14 de maio  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |9 de outubro  <br/> |14.0.6126.5003  <br/> |[Boletim de Segurança da Microsoft MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Boletim de Segurança da Microsoft MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Atualização de definição do Office 2010  <br/> |
+|2012  <br/> |9 de outubro  <br/> |14.0.6126.5003  <br/> |[Boletim de Segurança da Microsoft MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Boletim de Segurança da Microsoft MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Atualização de definição do Office 2010  <br/> |
 ||13 de março  <br/> |14.0.6117.5002  <br/> |Atualização de definição do Office 2010  <br/> |
-|2011  <br/> |13 de dezembro  <br/> |14.0.6114.5002  <br/> |[Boletim de Segurança da Microsoft MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Atualização para o Filtro de Lixo Eletrônico do Outlook 2010  <br/> |
+|2011  <br/> |13 de dezembro  <br/> |14.0.6114.5002  <br/> |[Boletim de Segurança da Microsoft MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Atualização para o Filtro de Lixo Eletrônico do Outlook 2010  <br/> |
 ||12 de abril  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Atualização de definição do Office 2010  <br/> |
 ||9 de fevereiro  <br/> |14.0.5130.5004  <br/> |Atualização de definição do Office 2010  <br/> |
 |2010  <br/> |14 de dezembro  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Atualização de definição do Office 2010  <br/> |
@@ -147,5 +147,3 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
 |2009  <br/> |8 de dezembro  <br/> |14.0.4541.1000 (Beta)  <br/> |Esta é a versão beta do Office 2010.  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||18 de novembro  <br/> |14.0.4536.1000  <br/> |Esta é a versão beta do Office 2010.  <br/> |
    
-  
-
