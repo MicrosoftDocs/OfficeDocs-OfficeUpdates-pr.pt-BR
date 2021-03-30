@@ -40,7 +40,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
+- Corrigimos um problema que fazia com que o Outlook fechava inesperadamente ao sincronizar alterações na hierarquia de pastas.
 
 
 ### <a name="word"></a>Word
@@ -50,7 +50,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="office-suite"></a>Office Suite
 
-- Fixed a performance issue related to iteration of text.
+- Foi corrigido um problema de desempenho relacionado à iteração do texto.
 
 
 
@@ -2761,7 +2761,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-26 de março|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|versão-2103-05 de março|)
