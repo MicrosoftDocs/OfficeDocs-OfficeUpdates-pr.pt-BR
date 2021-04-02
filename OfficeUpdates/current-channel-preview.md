@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408044"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440706"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -29,6 +29,10 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 [//]: # (NÃO REMOVER)
 
+## <a name="version-2103-march-30"></a>Versão 2103: 30 de março
+*Versão 2103 (Compilação 13901.20312)*
+* Várias correções de bugs e de desempenho.
+
 ## <a name="version-2103-march-28"></a>Versão 2103: 28 de março
 *Versão 2103 (Build 13901.20306)*
 
@@ -37,7 +41,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
+- Corrigimos um problema que fazia com que o Outlook fechava inesperadamente ao sincronizar alterações na hierarquia de pastas.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem suas agendas principal e secundária trocando de lugar no Painel de Navegação.

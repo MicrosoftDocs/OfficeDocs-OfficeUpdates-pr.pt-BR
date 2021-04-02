@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 9b2cc9b894417da7e161b97fd273956167e7a2b3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 24b3387ab04b453498ef8c1578989e86d88d24a1
+ms.sourcegitcommit: 5ce5af1dcdbe2e8eb8fcf5987690f7de7289ee2a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169849"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51476146"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVER)
+
+## <a name="march-30-2021"></a>30 de março de 2021
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO de 30 de março de 2021)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2103 (Build 13901.20312).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2102 (Build 13801.20360) <br/> |18 de março, 2021 <br/> |147<br/> |
+|Versão 2102 (Build 13801.20294) <br/> |9 de março de 2021 <br/> |157<br/> |
+
+
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO de 30 de março de 2021)
 
 ## <a name="march-18-2021"></a>18 de março, 2021
 
