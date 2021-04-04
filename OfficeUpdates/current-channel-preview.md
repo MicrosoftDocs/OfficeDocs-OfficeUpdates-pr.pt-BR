@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440706"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582077"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,22 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 > - Os recursos do Microsoft Teams podem diferir da Visualização mais recente do Canal Atual, pois têm uma frequência maior de lançamento de versão.
 
 [//]: # (NÃO REMOVER)
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2103-april-02"></a>Versão 2103: 2 de abril
+*Versão 2103 (build 13901.20336)*
+* Várias correções de bugs e de desempenho.
+
+## <a name="version-2103-april-1"></a>Versão 2103: 1º de abril
+*Versão 2103 (Build 13901.20148)*
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Formato de data e hora** Com essa atualização, os formatos de data e hora no Teams corresponderão às configurações regionais do sistema operacional Windows e Mac. Anteriormente, o Teams mostrava apenas a data/hora no formato correspondente ao idioma do aplicativo. É importante observar que somente o calendário gregoriano tem suporte independentemente da configuração de calendário do sistema operacional. 
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ## <a name="version-2103-march-30"></a>Versão 2103: 30 de março
 *Versão 2103 (Compilação 13901.20312)*
@@ -79,27 +95,11 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
 
-
-
-[//]: # (NÃO REMOVER O FIM DE CONTEÚDO BUGDETAIS)
-
-## <a name="version-2103-march-12"></a>Versão 2103: 12 de março
-*Versão 2103 (Build 13901.20148)*
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
-
-### <a name="feature-updates"></a>Atualizações de recursos
-### <a name="teams"></a>Teams
-
-- **Status de Ausência Temporária** Configure uma mensagem para que outras pessoas saibam que você não está trabalhando ou de férias para que não esteja disponível para responder quando eles enviarem uma mensagem de bate-papo para você. Seu status Ausência Temporária também será sincronizado com as Respostas Automáticas no calendário do Outlook.
-
-[//]: # (NÃO REMOVER)
-
-
 ## <a name="version-2103-march-11"></a>Versão 2103: 11 de março
 *Versão 2103 (Build 13901.20148)*
-
-[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
 
+### <a name="teams"></a>Teams
+
+- **Status de Ausência Temporária** Configure uma mensagem para que outras pessoas saibam que você não está trabalhando ou de férias para que não esteja disponível para responder quando eles enviarem uma mensagem de bate-papo para você. Seu status Ausência Temporária também será sincronizado com as Respostas Automáticas no calendário do Outlook.
+
 ### <a name="visio"></a>Visio
 
 - **Os ícones do Office têm um novo visual**: os ícones do produto foram reprojetados para refletir experiências simples, poderosas e inteligentes do Office. [Saiba mais](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Modo Escuro para documentos do Word:** Modo Escuro pode ajudar a reduzir o esforço dos olhos e acomodar leve sensibilidade ao trabalhar em seus documentos.
 
 - **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
-
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1993,7 +1996,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2007,7 +2010,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -3620,7 +3623,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
@@ -3678,7 +3681,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Project
+### <a name="project"></a>Projeto
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
