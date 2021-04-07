@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
-ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
+ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
+ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51487245"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51589883"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -36,6 +36,15 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2103-april-02"></a>Versão 2103: 2 de abril
+*Versão 2103 (build 13901.20336)*
+* Várias correções de bugs e de desempenho.
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em um componente do Outlook usado por aplicativos habilitados para MAPI em computadores com processadores ARM. O problema estava fazendo com que a pesquisa falhasse ou causando uma carga extra no computador, pois os aplicativos de tela de fundo eram reiniciados repetidamente.
 
 ## <a name="version-2103-march-30"></a>Versão 2103: 30 de março
 *Versão 2103 (Compilação 13901.20312)*
@@ -107,7 +116,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
+- Corrigimos um problema que fazia com que o Outlook fechava inesperadamente ao sincronizar alterações na hierarquia de pastas.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem suas agendas principal e secundária trocando de lugar no Painel de Navegação.
@@ -2284,6 +2293,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
@@ -2293,5 +2303,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Produção| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
