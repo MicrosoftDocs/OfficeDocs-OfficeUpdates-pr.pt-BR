@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169720"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749169"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -26,6 +26,157 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2102-april-13"></a>Versão 2102: 13 de abril
+*Versão 2102 (Build 13801.20506)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Use a caixa de diálogo avançado para criar tipos de dados:** a caixa de diálogo avançada permite que você selecione manualmente as colunas que combinam o tipo de dados que você está criando.
+
+- **Reexibir várias páginas ao mesmo tempo:** não há mais necessidade de exibir uma página por vez - exibir várias páginas ocultas de uma vez. [Saiba mais](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **As configurações da Caixa de Entrada Destaques permanecem as mesmas em todos os dispositivos:** as suas preferências da Caixa de Entrada Destaques agora são armazenadas na nuvem. Desfrute da mesma experiência ao usar o Outlook para Windows em qualquer computador e o Outlook na Web. [Saiba mais](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **As configurações do Outlook na nuvem:** escolha as configurações do Outlook para Windows, como Respostas Automáticas, Caixa de Entrada Destaques, Privacidade, e acesse-as em qualquer PC.
+
+- **Escolha onde Pesquisar:** O novo escopo da pesquisa a lista suspensa permite que você modifique a pesquisa com mais facilidade e alterne entre as pastas atuais e a caixa de correio atual. Agradecer a todas as pessoas no Em Breve, que forneceram comentários sobre a nova pesquisa na primeira experiência. Esse design e essa atualização acabaram com esse comentário!
+
+- **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
+
+### <a name="word"></a>Word
+
+- **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esta alteração corrige um problema em que, em alguns casos, executar uma consulta passagem do SQL Server resultava em uma mensagem de erro indicando que havia um “estado do cursor inválido”.
+
+
+- Corrigimos um problema em que os usuários recebiam uma caixa de diálogo de erro "Estado do cursor inválido".
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema no qual a validação de dados podia ser aplicada a células inesperadamente após adicionar linhas a uma tabela em outra planilha.
+
+
+- Corrigimos um problema em que a função para exibir DialogSheets não funcionava nas versões de 32 bits do Excel
+
+
+- Corrigimos um problema que fazia com que as imagens fossem menores do que o esperado ao usar a opção Colar Imagem Vinculada.
+
+
+- Corrigimos um problema que fazia com que a formatação de algumas tabelas dinâmicas corrompesse a pasta de trabalho ao salvar no formato .xls ou .xlt.
+
+
+- Corrigimos um problema que impedia que os usuários exportassem uma pasta de trabalho do Excel para PDF.
+
+
+- Foi corrigido um problema em que comandos desativados na Faixa de Opções do Office só teriam o ícone acinzentado, mas não o texto no Tema do Office Cinza Escuro.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários de tradução embutida não pudessem enviar comentários.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem as assinaturas com conteúdo Unicode danificadas.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem mais assinaturas do que o esperado.
+
+
+- Corrigimos um problema que fazia o Outlook travar quando estava ocioso.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o desligamento do aplicativo ao fechar as janelas de mensagens.
+
+
+- Corrigimos um problema que fazia com que os usuários do Calendário Compartilhado não conseguissem definir a cor de um calendário para amarelo ou marrom.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem grupos de calendário duplicados aparecerem após a criação de um novo grupo.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem os calendários recém-adicionados não aparecendo no painel de navegação até que o Outlook fosse reiniciado.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Foi corrigido um problema em que comandos desativados na Faixa de Opções do Office só teriam o ícone acinzentado, mas não o texto no Tema do Office Cinza Escuro.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema na resolução de conflitos durante a coautoria.
+
+
+- Corrigimos um problema com os controles de conteúdo de rich text.
+
+
+- Corrigimos um problema com a digitação no final de um parágrafo oculto que pode resultar no travamento do aplicativo.
+
+
+- Corrigimos um problema em que o Narrador podia pular um parágrafo.
+
+
+- Corrigimos um problema relacionado a copiar e colar.
+
+
+- Corrige um problema com cores aplicadas a ícones e gráficos SVG com efeitos 3D.
+
+
+- Foi corrigido um problema em que comandos desativados na Faixa de Opções do Office só teriam o ícone acinzentado, mas não o texto no Tema do Office Cinza Escuro.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema de confiabilidade relacionado ao suporte de aplicativos do Office em execução na sessão 0.
+
+
+- Foi corrigido um erro que ocasionalmente fazia com que o texto no Outlook se tornasse transparente e, portanto, não legível.
+
+
+- Corrigido um problema que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
+
+
+- Corrigido um problema que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
+
+
+- Foi corrigido um problema em que o Ditado estava desabilitado para usuários da Nuvem da Comunidade Governamental
+
+
+- Corrigimos um problema em que os usuários não conseguiam salvar um arquivo ao abrir um arquivo aberto anteriormente com edições não salvas, mas agora o arquivo foi excluído. Após a correção, os usuários receberão uma mensagem amigável para informá-los que o arquivo foi excluído, portanto, o usuário pode escolher descartar as alterações ou SalvarComo o arquivo.
+
+
+- Foi corrigido o problema de falha de renomeação ao abrir um arquivo SyncBacked offline e, em seguida, renomear o arquivo no aplicativo antes de salvá-lo.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2101-april-13"></a>Versão 2101: 13 de abril
+*Versão 2101 (Build 13628.20664)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2101-march-09"></a>Versão 2101: 09 de Março
 *Versão 2101 (Build 13628.20528)*
@@ -91,6 +242,22 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
 
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+### <a name="word"></a>Word
+
+- **Requer que os usuários apliquem rótulos de confidencialidade:** Os usuários serão solicitados a aplicar um rótulo de confidencialidade se a política da sua organização exigir isso.
+
+
 ## <a name="version-2012-february-09"></a>Versão 2012: 09 de fevereiro
 *Versão 2012 (Build 13530.20528)*
 
@@ -124,9 +291,12 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
 
+- **Nova experiência de reserva de sala de conferência e espaço de trabalho**: a experiência de reserva de sala de conferência foi atualizada e, com ela, adicionamos recursos que permitem que você agende também espaços de trabalho individuais
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
@@ -384,7 +554,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
 
-- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -629,7 +799,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
 
 
-- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1465,6 +1635,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
