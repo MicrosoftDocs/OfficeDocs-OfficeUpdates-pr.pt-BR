@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 682e7fc18e56a3f2cdcfc7299a5827812582bdf6
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 2df826b5437500150c1079c19c181f6c6e40cc2a
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589833"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749149"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -47,12 +47,12 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|13 de abril de 2021|Versão 1808 (Compilação 10373.20050)|
 |9 de março de 2021|Versão 1808 (Build 10372.20060)|
 |9 de fevereiro de 2021|Versão 1808 (Build 10371.20060)|
 |12 de janeiro de 2021|Versão 1808 (Build 10370.20052)|
 |8 de dezembro de 2020|Versão 1808 (Build 10369.20032)|
 |10 de novembro de 2020|Versão 1808 (Build 10368.20035)|
-|13 de outubro de 2020|Versão 1808 (Build 10367.20048)|
 
 
 [//]: # (NÃO REMOVA O FINAL DA TABELA VL)
@@ -66,6 +66,7 @@ As informações a seguir aplicam-se às versões de licenciamento por volume do
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|13 de outubro de 2020|Versão 1808 (Build 10367.20048)|
 |8 de setembro de 2020|Versão 1808 (build 10366.20016)|
 |11 de agosto de 2020|Versão 1808 (Compilação 10364.20059)|
 |14 de julho de 2020   |Versão 1808 (Build 10363.20015)  |
@@ -91,12 +92,12 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|13 de abril de 2021|Versão 2103 (Compilação 13901.20400)|
 |2 de abril de 2021|Versão 2103 (Build 13901.20336)|
 |30 de março de 2021|Versão 2103 (Compilação 13901.20312)|
 |18 de março, 2021|Versão 2102 (Build 13801.20360)|
 |9 de março de 2021|Versão 2102 (Build 13801.20294)|
 |1 de março de 2021|Versão 2102 (Build 13801.20266)|
-|16 de fevereiro de 2021|Versão 2101 (Compilação 13628.20448)|
 
 
 [//]: # (NÃO REMOVA O FINAL DA TABELA DE VAREJO)
@@ -110,6 +111,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|16 de fevereiro de 2021|Versão 2101 (Compilação 13628.20448)|
 |9 de fevereiro de 2021|Versão 2101 (Build 13628.20380)|
 |26 de janeiro de 2021|Versão 2101 (Build 13628.20274)|
 |21 de janeiro de 2021|Versão 2012 (Compilação 13530.20440)|

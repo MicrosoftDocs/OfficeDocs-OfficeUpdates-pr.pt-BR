@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582077"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749059"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -30,6 +30,44 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2103-april-10"></a>Versão 2103: 10 de abril
+*Versão 2103 (Compilação 13901.20400)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que faz com que os usuários vejam incorretamente uma mensagem "Isso pode demorar um pouco" ao adicionar um calendário.
+
+- Corrigimos um problema que fazia com que os representantes aparecessem como o organizador de reuniões criadas em calendários recém-adicionados.  As reuniões neste estado não aparecem no calendário do diretor.
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+### <a name="word"></a>Word
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+- Correção de um problema não responsivo durante a Visualização de impressão.
+
+- Atualiza o texto no salvamento automático ao chamar arquivos salvos localmente.
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigido um problema de falha de renomeação ao abrir um arquivo SyncBacked offline e renomear o arquivo no aplicativo antes de salvá-lo.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2103-april-02"></a>Versão 2103: 2 de abril
 *Versão 2103 (build 13901.20336)*
@@ -57,7 +95,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que fazia com que o Outlook fechava inesperadamente ao sincronizar alterações na hierarquia de pastas.
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem suas agendas principal e secundária trocando de lugar no Painel de Navegação.
@@ -1996,7 +2034,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2010,7 +2048,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -3623,7 +3661,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
@@ -3681,7 +3719,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
