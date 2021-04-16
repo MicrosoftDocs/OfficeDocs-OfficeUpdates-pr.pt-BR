@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Mensal para Aplicativos do Microsoft 365 Apps em 2020
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589883"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749079"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -32,6 +32,51 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2103-april-13"></a>Versão 2103: 13 de Abril
+*Versão 2103 (Build 13901.20400)*
+
+Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que faz com que os usuários vejam incorretamente uma mensagem "Isso pode demorar um pouco" ao adicionar um calendário.
+
+- Corrigimos um problema que fazia com que os representantes aparecessem como o organizador de reuniões criadas em calendários recém-adicionados.  As reuniões neste estado não aparecem no calendário do diretor.
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+
+### <a name="word"></a>Word
+
+- Corrigido um problema de conteúdo de recurso em potencial no Word ao desenhar uma imagem.
+
+- Correção de um problema não responsivo durante a Visualização de impressão.
+
+- Atualiza o texto no salvamento automático ao chamar arquivos salvos localmente.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigido um problema de falha de renomeação ao abrir um arquivo SyncBacked offline e renomear o arquivo no aplicativo antes de salvá-lo.
 
 
 
@@ -116,7 +161,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que fazia com que o Outlook fechava inesperadamente ao sincronizar alterações na hierarquia de pastas.
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem suas agendas principal e secundária trocando de lugar no Painel de Navegação.
@@ -2293,6 +2338,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
@@ -2302,5 +2348,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Produção| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
