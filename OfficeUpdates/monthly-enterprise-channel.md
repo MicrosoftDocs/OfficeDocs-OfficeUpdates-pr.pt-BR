@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Corporativo Mensal dos Aplicativos do Microsoft 365 em 2020
-ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c1e72418fa6b133775f7a78ca6f243fb61014ef5
+ms.sourcegitcommit: 65c8693187b7f6673343ae1516708df749c19a5a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749169"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900531"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Notas de versão para os lançamentos do Canal Corporativo Mensal em 2020
 
@@ -69,8 +69,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - Esta alteração corrige um problema em que, em alguns casos, executar uma consulta passagem do SQL Server resultava em uma mensagem de erro indicando que havia um “estado do cursor inválido”.
 
-
-- Corrigimos um problema em que os usuários recebiam uma caixa de diálogo de erro "Estado do cursor inválido".
 
 
 ### <a name="excel"></a>Excel
@@ -153,9 +151,6 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 
 - Foi corrigido um erro que ocasionalmente fazia com que o texto no Outlook se tornasse transparente e, portanto, não legível.
-
-
-- Corrigido um problema que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
 
 
 - Corrigido um problema que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
@@ -296,7 +291,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
@@ -554,7 +549,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Exportar GIF animado em um intervalo:** selecione um intervalo de slides ao exportar para GIF animado
 
-- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com telas de fundo transparentes:** Ao exportar para um GIF animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -799,7 +794,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Corrigimos um problema que impedia os usuários de conceder permissão de Editor a seus delegados.
 
 
-- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/pt-BR/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Corrigimos um problema em que experiências conectadas opcionais impediam o carregamento de suplementos da web.<br />Consulte os detalhes na [postagem do blog](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
