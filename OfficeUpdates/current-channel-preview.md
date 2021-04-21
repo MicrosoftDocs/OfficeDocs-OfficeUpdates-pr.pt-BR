@@ -1,7 +1,7 @@
 ---
 title: Release das Notas do Canal Atual (Visualização)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875732"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887314"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -30,6 +30,154 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2104-april-19"></a>Versão 2104: 19 de abril
+*Versão 2104 (Build 13929.20216)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Importar dados de matrizes dinâmicas:** Agora você pode importar, moldar e atualizar dados de matrizes dinâmicas na pasta de trabalho atual. [Saiba Mais](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **Pesquisa de Calendário Aprimorada:** Foram feitas melhorias na pesquisa do calendário, sendo a maior delas a capacidade de encontrar mais facilmente a próxima ocorrência de uma série nos resultados de pesquisa.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Esta alteração corrige um problema em que, em alguns casos, executar uma consulta passagem do SQL Server poderia resultar em uma mensagem de erro indicando que havia um “estado do cursor inválido”.
+
+
+- Corrigimos um problema quando um aplicativo externo solicita uma interface de acessibilidade. Isso nos impedirá de desligar até que eles liberem sua referência.
+
+
+### <a name="excel"></a>Excel
+
+- Foi corrigido um problema que impedia a capacidade de colar fórmulas em uma planilha protegida.
+
+
+- Corrigimos um problema em que os hiperlinks criados usando a função HIPERLINK não funcionariam se o arquivo fosse salvo como um documento PDF.
+
+
+- Corrigimos um problema em que um símbolo de operador implícito (@) seria adicionado à fórmula com uma referência a uma faixa vazia e potencialmente dar o resultado incorreto.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que alguns usuários experimentassem o Outlook fechar inesperadamente ao sincronizar alterações na hierarquia de pastas.
+
+
+- Corrigimos um problema que faz com que os usuários vejam incorretamente uma mensagem "Isso pode demorar um pouco" ao adicionar um calendário.
+
+
+- Corrigimos um problema que fazia com que os representantes aparecessem como o organizador de reuniões criadas em calendários recém-adicionados.  As reuniões neste estado não aparecem no calendário do diretor.
+
+
+- Corrigimos um problema que fez com que os usuários experimentassem uma falha ao pesquisar.
+
+
+- Corrigimos uma falha relacionada à pesquisa.
+
+
+- Corrigimos um problema que fez com que os usuários vissem as assinaturas desaparecerem inesperadamente.
+
+
+- Corrigimos um problema que poderia fazer com que os usuários vissem a mensagem que eles estão compondo perdendo o foco da IU.
+
+
+- Resolvemos um problema que fez com que o Outlook anulasse as preferências da Caixa de Entrada Destaques configurada no OWA.
+
+
+- Corrigimos um problema que fazia com que os usuários do recurso Configurações de Nuvem vissem as configurações personalizadas substituídas pela configuração padrão após configurar o Outlook em um novo dispositivo.
+
+
+- Corrigimos um problema que fazia com que algumas pessoas não conseguissem acessar as assinaturas associadas a contas de email secundárias.
+
+
+- Corrigimos um problema que fez com que a resolução de nomes falhasse ao enviar em nome de outro usuário e resolver contra um catálogo de endereços que não é a Lista de Endereços Global.
+
+
+- Corrigimos um problema que fez com que a resolução de nomes falhasse ao enviar em nome de outro usuário e resolver contra um catálogo de endereços que não é a Lista de Endereços Global.
+
+
+### <a name="project"></a>Projeto
+
+- Foi corrigido um problema em que, se o formato de data for S4/4, o selador de data pode exibir o dia e o ano errados.
+
+
+### <a name="visio"></a>Visio
+
+- Corrigido um problema em que o Visio podia parar de funcionar durante o fechamento.
+
+
+- Corrigido o recurso "Forma de pesquisa" para exibir todos os resultados
+
+
+
+### <a name="word"></a>Word
+
+- Nesse bug, políticas específicas não estavam sendo honoradas pelo Office (um grupo de modelos estava sendo mostrado na Home Page quando elas deveriam ter sido desabilitadas). Com esta correção, as políticas serão honoradas.
+
+
+- Ao ser coautor de um documento, o rascunho ativo não é apagado quando a ordem do comentário é alterada.
+
+
+- Corrigido um bug em Comentários Modernos onde a pontuação e os números apareceriam no lado errado para alguns idiomas internacionais.
+
+
+- Corrigido um problema onde a combinação de 'B' e ')' se transformava automaticamente em um emoji usando óculos de sol e agora permanece como os caracteres individuais
+
+
+- Atualiza o texto no salvamento automático ao chamar arquivos salvos localmente.
+
+
+- Corrigimos um problema com comentários durante a coautoria.
+
+
+- Corrigimos um problema relacionado ao ícone de comentário.
+
+
+- Corrigimos um problema em que os estilos de copiar e colar podem não ser iguais ao texto colado.
+
+
+- Otimiza as condições para que as previsões de texto sejam oferecidas.
+
+
+- Corrigimos um problema relacionado ao hiperlink.
+
+
+- Alguns selecionam textos não visíveis ao utilizar o tema modo escuro no modo de leitura.
+
+
+- Corrigimos um problema no recurso de salvar automaticamente.
+
+
+- Fizemos uma correção no Application.OnTime, onde ele pode não ser disparado corretamente.
+
+
+### <a name="office-suite"></a>Office Suite
+
+- Foi corrigido um problema de desempenho relacionado à iteração do texto.
+
+
+- Foi corrigido um problema com o suporte de GDI+ LineJoinMiterClerClipped no Office.
+
+
+- Este lançamento melhora o manuseio da linha abrangendo conteúdo delicado quando a palavra-chave está na primeira linha de um documento.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2103-april-13"></a>Versão 2103: 13 de Abril
 *Versão 2103 (Build 13901.20400)*
@@ -2044,7 +2192,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2058,7 +2206,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2393,7 +2541,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -3704,7 +3852,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
