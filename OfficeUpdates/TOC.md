@@ -10,6 +10,7 @@
 
 ## Canal Empresarial Mensal
 ### [Notas de Versão](monthly-enterprise-channel.md)
+### [Notas de Versão Arquivadas](monthly-enterprise-channel-archived.md)
 
 ## Canal Empresarial Semestral
 ### [Notas de Versão](semi-annual-enterprise-channel.md)
