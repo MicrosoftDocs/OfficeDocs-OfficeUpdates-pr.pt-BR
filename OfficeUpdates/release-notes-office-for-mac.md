@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749189"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079285"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -67,6 +67,13 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="excel"></a>Excel
 
 - **Reexibir Várias Planilhas ao Mesmo Tempo:** não há mais necessidade de reexibir uma página por vez - reexibir várias planilhas ocultas de uma vez. [Saiba mais](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="msteams"></a>MSTeams
+
+- **Modo de Exibição Dinâmico** O modo de exibição dinâmico otimiza automaticamente o conteúdo compartilhado e os participantes de vídeo em reuniões do Teams. Os controles novos permitem que você personalize a exibição para se adequar às suas preferências e necessidades, como a capacidade de mostrar conteúdo compartilhado e participantes específicos lado a lado.
+
+- **Ausência Temporária** Configure uma mensagem para que outras pessoas saibam que você não está trabalhando ou está de férias, informando que você não está disponível para responder quando enviarem uma mensagem de chat. Seu status de ausência temporária também será sincronizado com as Respostas Automáticas no calendário do Outlook.
 
 ### <a name="powerpoint"></a>PowerPoint
 
