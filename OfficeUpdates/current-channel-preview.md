@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
-ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
+ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
+ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "51887314"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "52058735"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -30,6 +30,37 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2104-april-26"></a>Versão 2104: 26 de abril
+*Versão 2104 (Build 13929.20254)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Ativar melhorias no calendário compartilhado:** Para calendários compartilhados no Office 365, o Outlook pode atualizar esses calendários usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que alguns arquivos ocasionalmente não estavam abrindo no Modo de Exibição Protegido
+
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fez com que o Outlook anulasse as preferências da Caixa de Entrada Destaques configurada no OWA.
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2104-april-19"></a>Versão 2104: 19 de abril
 *Versão 2104 (Build 13929.20216)*
@@ -839,7 +870,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -911,7 +942,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Diálogos de Formatação Condicional aprimorados:** os diálogos de Formatação Condicional agora são redimensionáveis ​​e agora podem duplicar a regra com um único clique. [Saiba mais](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -1178,7 +1209,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -1616,7 +1647,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -1642,7 +1673,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -1667,7 +1698,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -1752,7 +1783,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Ajude a proteger seus dados de arquivos mal-intencionados:** o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -2012,7 +2043,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -2192,7 +2223,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2206,7 +2237,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2248,7 +2279,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -2462,7 +2493,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -2504,7 +2535,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Melhor colaboração com comentários modernos:** Adicionar comentários a objetos, @menção colegas e resolver encadeamentos de comentários para obter uma melhor experiência de colaboração. [Saiba mais](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -2541,10 +2572,10 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -3101,7 +3132,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -3323,7 +3354,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
 
 <br/>
 
@@ -3852,7 +3883,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
