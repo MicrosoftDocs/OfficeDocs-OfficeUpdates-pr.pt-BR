@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995728"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108233"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,92 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-april-30"></a>Versão 2105: 30 de abril
+*Versão 2105 (Build 14026.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Sugestão do Verificador de Acessibilidade ao enviar emails para grandes usuários externos e de DL:** Adicionamos a funcionalidade para ser solicitado automaticamente, por meio de uma dica de email, de uma violação de acessibilidade ao redigir um email para muitas pessoas, usuários externos, etc. Essas configurações ficam na Facilidade de Acesso
+
+### <a name="visio"></a>Visio
+
+- **Estênceis e formas do AWS:** Agora temos estênceis com as últimas formas do AWS para ajudá-lo a criar diagramas. [Saiba mais](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **Metas de Redação:** Metas de Redação para WinWord
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que fazia com que o Excel fechasse inesperadamente ao mover por comentários no painel Comentários.
+
+
+- Corrigimos um problema que fazia com que a formatação de data fosse exibida incorretamente em alguns idiomas ao adicionar suplementos.
+
+
+- Corrigimos um problema que poderia fazia com que o Excel fechasse inesperadamente ao usar Colar Especial com formatos em determinadas situações.
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que as alterações realizadas por meio dos Assistentes de Planejamento nem sempre eram capturadas pelos eventos de mudança.
+
+
+- Corrigimos um problema em que os usuários não conseguiam remover projetos do pool de recursos.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que a formatação de texto permanecia após a remoção de hiperlinks.
+
+
+- Corrigimos um problema em que comentários não eram exibidos após serem filtrados por pessoas.
+
+
+- Corrigimos um problema em que o Word não conseguia realizar uma Mala Direta com um banco de dados do Access.
+
+
+- Corrigimos um problema que disponibilizava a capacidade de recolher margens em um documento contendo várias colunas.
+
+
+- Corrigimos um problema em que alguns caracteres não eram exibidos corretamente em células de tabela quando havia comentários no documento.
+
+
+- Corrigimos um problema em que as alterações no formato de arquivo ocorriam ao salvar documentos com o suplemento AIP habilitado.
+
+
+- Corrigimos um problema em que o Word parava de responder ao editar campos.
+
+
+- Corrigimos um problema em que os usuários não eram solicitados a salvar documentos ao usar um comando (em vez do atalho de teclado CTRL+S).
+
+
+- Corrigimos um problema em que o rótulo de confidencialidade desaparecia de um arquivo após carregá-lo para o SharePoint Online.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema que fazia com que o botão Ditado ficasse desalinhado ao adicionar comentários a um documento.
+
+
+- Corrigimos um problema em que usar o modo de Alto Contraste por longos períodos de tempo fazia com que o Outlook fechasse inesperadamente.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-april-23"></a>Versão 2105: 23 de abril
 *Versão 2105 (Build 14014.20002)*
@@ -52,7 +138,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Corrigimos um problema para suportar a compatibilidade com versões anteriores do Excel. O problema pode fazer com que um arquivo salvo em uma versão mais recente do Excel não carregue corretamente nas versões mais antigas do Excel devido a funções como IFERROR e XLOOKUP adicionadas ao Excel desde o Office 2007.
+- Corrigimos um problema para dar suporte à compatibilidade com versões anteriores do Excel, O problema pode fazer com que um arquivo salvo em uma versão mais recente do Excel não carregue corretamente nas versões mais antigas do Excel devido a funções como IFERROR e XLOOKUP adicionadas ao Excel desde o Office 2007.
 
 
 - Corrigimos um problema onde alguns os arquivos ocasionalmente não abriam no Modo de Exibição Protegido.
@@ -151,7 +237,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="word"></a>Word
 
-- Nesse bug, políticas específicas não estavam sendo honoradas pelo Office (um grupo de modelos estava sendo mostrado na Home Page quando elas deveriam ter sido desabilitadas). Com esta correção, as políticas serão honoradas.
+- Nesse bug, políticas específicas não estavam sendo honoradas pelo Office (um grupo de modelos estava sendo exibido na Página Inicial quando eles deveriam ter sido desabilitados). Com essa correção, as políticas serão atendidas.
 
 
 - Corrigimos um problema no recurso de salvar automaticamente.
@@ -1299,7 +1385,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique a localização e tente novamente ".
+- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique o local e tente novamente”.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado offline até que eles optassem por trabalhar manualmente online.
@@ -1627,7 +1713,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 - Resolvemos um problema no qual, se você abrisse um arquivo contendo a função LET, ele exibiria o alerta: "Encontramos um problema de conteúdo no "seu arquivo.xlsx". Você quer que tentemos recuperar o máximo possível? Se você confiar na origem dessa pasta de trabalho, clique em Sim".
 - Corrigimos um erro relacionado às referências de suplemento XLAM e intervalos nomeados.
 - Resolvemos um problema no qual os usuários não conseguiam modificar um filtro PivotTable porque ele estava definido com um valor que não estava mais presente em um banco de dados do Analysis Services.
-- Resolvemos um problema no qual, se um usuário aplicou um estilo personalizado a uma matriz dinâmica, ele receberá o erro: "Não é possível alterar partes de uma matriz". Essa era uma restrição herdada que foi removida.
+- Corrigimos um problema em que, se um usuário aplicasse um estilo personalizado a uma matriz dinâmica, ele obteria o erro: "Não é possível alterar partes de uma matriz". Esta foi uma restrição herdada que foi removida.
 - Resolvemos um problema no qual a barra de fórmulas do Excel não será processada completamente depois que a conexão com um dispositivo for perdida, como uma sessão remota conectar/desconectar ou uma alteração de monitor.
 
 ### <a name="outlook"></a>Outlook
@@ -2014,7 +2100,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="outlook"></a>Outlook
 
 - Consertamos um problema em que o IME (Editor de Método de Entrada) poderia se sobrepor ao texto subjacente sendo inserido por meio do IME ao usar vários monitores com resoluções diferentes.
-- Consertamos um problema que fazia com que os usuários vissem o seguinte erro ao fechar um compromisso que foi salvo anteriormente: "O item não pode ser salvo porque foi alterado por outro usuário ou em outra janela. Deseja fazer uma cópia na pasta padrão para o item?"
+- Corrigimos um problema que fazia com que os usuários vissem o seguinte erro ao fechar um compromisso que foi salvo anteriormente: "O item não pode ser salvo porque foi alterado por outro usuário ou em outra janela. Deseja fazer uma cópia na pasta padrão para o item?”
 - Consertamos um problema em que as datas no Minicalendário falhavam ao exibir em negrito para os usuários no Japão.
 - Consertamos um problema que impedia que lembretes de calendário mostrassem os horários exatos para reuniões que aconteceriam em menos de uma semana.
 
@@ -2305,7 +2391,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos. [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Conte suas histórias com GIFs animados:** Os GIFs animados já possuem suporte no editor do Office - seus documentos ficaram mais estilosos. [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -2370,9 +2456,9 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 - Corrigimos um problema em que a inserção de comentários em um documento no modo de colaboração nem sempre funcionava.
 - Essa alteração corrige um problema em que o cartão Pessoas piscava se o @ da menção estivesse selecionado.
-- Corrigimos um problema em que o fechamento de um documento com comentários de rascunho perguntaria para o usuário se eles gostaria de fechar o documento sem salvar os comentários. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
-- Corrigimos um problema em que a tradução de um comentário postado resultaria na mensagem de erro "ocorreu falha na inserção de texto traduzido".
-- No leitor Exibição da Web/Imersivo, clicar em uma dica rolaria a tela para cima, mesmo que ele já estivesse em exibição. Isso foi corrigido.
+- Corrigimos um problema em que o fechamento de um documento com comentários de rascunho perguntaria para o usuário se ele gostaria de fechar o documento sem salvar os comentários. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
+- Corrigimos um problema em que a tradução de um comentário postado resultava na mensagem de erro "ocorreu falha na inserção de texto traduzido".
+- No leitor Exibição da Web/Imersivo, clicar em uma dica rolava a tela para cima, mesmo que ele já estivesse em exibição. Isso foi corrigido.
 - Corrigimos um problema em que, ao tentar salvar um arquivo que contém uma macro com um novo nome, o arquivo poderia ser salvo com a extensão. docx e com o nome de arquivo WRO0004.docx, independentemente de qual nome o usuário inseriu, tornando o documento inutilizável.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -2782,7 +2868,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 - Corrigido um problema em que os cartões de comentários nem sempre são destacados quando um ponteiro do mouse passa sobre o cartão de comentários.
 - Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO DE BUGDETAILS)
@@ -2849,9 +2935,9 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acesso
 
-- Esta atualização corrige um problema no uso de um ADODB. O objeto gravador no código VB pode incorretamente relatar um erro.
+- Esta atualização corrige um problema em que um objeto ADODB é usado. O objeto gravador no código VB poderá relatar um erro incorretamente.
 
 - Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
 
@@ -2893,6 +2979,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|versão-2105-09 de abril|)
@@ -2902,5 +2989,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|versão-2103-05 de março|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

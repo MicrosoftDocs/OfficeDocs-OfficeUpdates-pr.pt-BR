@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091790"
+ms.locfileid: "52108213"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -111,7 +111,7 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="word"></a>Word
 
-- Corrigido um problema ao atualizar textos em um texto explicativo de salvamento automático para arquivos salvos localmente.
+- Corrigido um problema para atualizar o texto de chamada do Salvamento automático para arquivos salvos localmente.
 
 
 - Corrigido um problema em que alguns textos selecionados não ficavam visíveis ao usar o tema de modo escuro no modo de leitura.
