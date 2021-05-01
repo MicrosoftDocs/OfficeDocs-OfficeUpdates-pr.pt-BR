@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualização para versões perpétuas do Office 2016 e 2019 com Clique para Executar
-ms.openlocfilehash: 5e6532ee7e55c70ae5bda65d5905da4a5a7dfbf9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 4255b121f51e64dbdcd1fe4283612a71d32d3c68
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995738"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091830"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Histórico de atualização do Office 2016 com Clique para Executar e do Office 2019
 
@@ -92,12 +92,12 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|29 de abril de 2021|Versão 2104 (Build 13929.20296)|
 |23 de abril de 2021|Versão 2103 (Build 13901.20462)|
 |13 de abril de 2021|Versão 2103 (Compilação 13901.20400)|
 |2 de abril de 2021|Versão 2103 (Build 13901.20336)|
 |30 de março de 2021|Versão 2103 (Compilação 13901.20312)|
 |18 de março, 2021|Versão 2102 (Build 13801.20360)|
-|9 de março de 2021|Versão 2102 (Build 13801.20294)|
 
 
 [//]: # (NÃO REMOVA O FINAL DA TABELA DE VAREJO)
@@ -111,6 +111,7 @@ As informações a seguir se aplicam às versões de varejo do Office 2016 com C
 
 |**Data de lançamento**|**Número da versão**|
 |:-----|:-----|
+|9 de março de 2021|Versão 2102 (Build 13801.20294)|
 |1 de março de 2021|Versão 2102 (Build 13801.20266)|
 |16 de fevereiro de 2021|Versão 2101 (Compilação 13628.20448)|
 |9 de fevereiro de 2021|Versão 2101 (Build 13628.20380)|

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 81b0fd214752a3218809f860db9ad97f34d3ad0c
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058735"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081224"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -30,6 +30,54 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2104-april-28"></a>Versão 2104: 28 de abril
+*Versão 2104 (Build 13929.20296)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Expansão do Seletor de Emoji:** a atualização de expansão de emojis oferece às pessoas mais diversão e expressividade no Teams. Ela também apresenta uma variedade mais ampla de diversidade e representação. O conjunto de emojis expandiu de 85 para mais de 800 emojis, com um seletor de categoria, seletor de tom de pele e seletor de código curto.
+
+- **Microsoft Teams: Revisão da experiência de Compartilhamento em reunião:** a interface do usuário para o recurso Compartilhamento em reunião no Microsoft Teams foi redesenhada para ajudar os apresentadores a encontrar o conteúdo desejado de forma mais rápida e fácil.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que alguns suplementos de automação para o Excel falhavam ao carregar.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários com configurações móveis experimentassem travamentos.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema relacionado a imagens vinculadas.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que os usuários não conseguiam remover projetos do pool de recursos.
+
+
+### <a name="word"></a>Word
+
+- Fizemos uma alteração na edição do objeto OLE.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2104-april-26"></a>Versão 2104: 26 de abril
 *Versão 2104 (Build 13929.20254)*
@@ -157,7 +205,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="word"></a>Word
 
-- Nesse bug, políticas específicas não estavam sendo honoradas pelo Office (um grupo de modelos estava sendo mostrado na Home Page quando elas deveriam ter sido desabilitadas). Com esta correção, as políticas serão honoradas.
+- Nesse bug, políticas específicas não era liquidadas pelo Office (um grupo de modelos era mostrado na Home Page quando elas deveriam estar desabilitadas). Com essa correção, as políticas serão liquidadas.
 
 
 - Ao ser coautor de um documento, o rascunho ativo não é apagado quando a ordem do comentário é alterada.
@@ -870,7 +918,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -942,7 +990,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Diálogos de Formatação Condicional aprimorados:** os diálogos de Formatação Condicional agora são redimensionáveis ​​e agora podem duplicar a regra com um único clique. [Saiba mais](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1030,7 +1078,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - O problema ocorreu devido a uma regressão recente. Resolvemos o problema. A caixa de diálogo "Salvar como Página da Web" agora terá os campos preenchidos corretamente de acordo com as entradas do usuário e os usuários podem salvar perfeitamente seus arquivos como páginas da web.
 
 
-- Esse problema foi corrigido. Agora você pode incorporar arquivos Visio como objetos em outros aplicativos do Office, como PowerPoint e Word, e acessá-los perfeitamente a partir desses aplicativos.
+- O problema foi corrigido. Agora você pode incorporar arquivos Visio como objetos em outros aplicativos do Office, como PowerPoint e Word, e acessá-los perfeitamente a partir desses aplicativos.
 
 
 ### <a name="word"></a>Word
@@ -1209,7 +1257,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Novos estênceis e formas do Azure:** Nós adicionamos muitos outros estênceis para ajudá-lo a criar diagramas do Azure atualizados. [Saiba mais](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1514,7 +1562,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - Corrigido um problema que fazia com que o Outlook parasse de funcionar esporadicamente ao adicionar ou salvar anexos.
 
 
-- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique a localização e tente novamente ".
+- Corrigimos um problema em que a impressão rápida de anexos de imagem resultava no erro, "O Windows não consegue encontrar esta imagem. Verifique o local e tente novamente”.
 
 
 - Corrigimos um problema que fazia com que alguns usuários vissem o Outlook iniciar em um estado offline até que eles optassem por trabalhar manualmente online.
@@ -1647,7 +1695,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1673,7 +1721,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1698,7 +1746,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1783,7 +1831,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Ajude a proteger seus dados de arquivos mal-intencionados:** o Application Guard ajuda a proteger você contra malware, permitindo que você leia, imprima e salve arquivos do Office em um contêiner isolado. [Saiba mais](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -1920,7 +1968,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="office-suite"></a>Pacote Office
 
-- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. A mensagem será alterada para exibir “Toner/tinta baixo” e “Sem toner/tinta”
 
 
 
@@ -1966,7 +2014,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="office-suite"></a>Pacote Office
 
-- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. A mensagem será alterada para exibir “Toner/tinta baixo” e “Sem toner/tinta”
 
 
 
@@ -2043,7 +2091,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2099,7 +2147,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - Corrigimos um erro relacionado às referências de suplemento XLAM e intervalos nomeados.
 
 
-- Resolvemos um problema no qual, se um usuário aplicou um estilo personalizado a uma matriz dinâmica, ele receberá o erro: "Não é possível alterar partes de uma matriz". Essa era uma restrição herdada que foi removida.
+- Corrigimos um problema em que, se um usuário aplicasse um estilo personalizado a uma matriz dinâmica, ele obteria o erro: "Não é possível alterar partes de uma matriz". Esta foi uma restrição herdada que foi removida.
 
 
 - Corrigido um problema onde os macros atribuídos a botões eram quebrados após restaurar uma versão mais antiga do arquivo.
@@ -2223,7 +2271,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2237,7 +2285,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2279,7 +2327,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2476,7 +2524,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - Corrigimos um problema em que a contagem de hiperlinks na coleção de hyperlinks do VBA não foi iterada corretamente após a adição de uma imagem contendo um hiperlink.
 
-- Para o antigo painel de Compartilhamento não baseado na Web, ao fechar o documento enquanto o painel de Compartilhamento abria, isso poderia causar uma falha. Isto agora está corrigido.
+- Para o antigo painel de Compartilhamento não baseado em serviço Web, ao fechar o documento enquanto o painel de Compartilhamento abria, poderia causar uma falha. Isso já foi corrigido.
 
 - Consertamos um problema em que, após o usuário abrir uma nova janela de aplicativo na barra de tarefas e criar um novo documento em branco, arquivos adicionais eram criados.
 
@@ -2493,7 +2541,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2535,7 +2583,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Melhor colaboração com comentários modernos:** Adicionar comentários a objetos, @menção colegas e resolver encadeamentos de comentários para obter uma melhor experiência de colaboração. [Saiba mais](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2575,7 +2623,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -2643,7 +2691,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Aborda um problema que fazia com que os representantes recebessem uma mensagem de erro ao editar um compromisso existente no calendário de um gerente.
 
 
-- Corrigimos um problema que fazia com que os usuários vissem o seguinte erro ao fechar um compromisso salvo anteriormente: "O item não pôde ser salvo porque foi alterado por outro usuário ou em outra janela. Deseja fazer uma cópia na pasta padrão do item?"
+- Corrigimos um problema que fazia com que os usuários vissem o seguinte erro ao fechar um compromisso salvo anteriormente: "O item não pôde ser salvo porque foi alterado por outro usuário ou em outra janela. Deseja fazer uma cópia na pasta padrão para o item"?
 
 
 - Aborda um problema que fazia com que a opção “Permitir o Encaminhamento” estivesse ausente das “Opções de Resposta” de uma reunião do calendário compartilhada quando a opção Baixar pasta compartilhada NÃO estava marcada.
@@ -2818,9 +2866,9 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
-### <a name="access"></a>Access
+### <a name="access"></a>Acesso
 
-- Esse problema já foi resolvido. Informe a equipe se você tiver mais problemas com esse processo.
+- Esse problema já foi corrigido. Informe a equipe se você tiver mais problemas com esse processo.
 
 
 ### <a name="outlook"></a>Outlook
@@ -3119,7 +3167,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="office-suite"></a>Pacote Office
 
-- O host do Office estava falhando no Windows, quando um suplemento está sendo ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth está definida como zero. Essa alteração corrigiria esse problema.
+- O host do Office falhava no Windows ao ativar um suplemento enquanto a chave de registro HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth estivesse definida como zero. Essa alteração corrigiria o problema.
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -3132,7 +3180,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -3278,7 +3326,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - Habilitar a opção "Mostrar indicadores" não exibia os indicadores. Isso foi corrigido.
 
-- Corrigimos um problema em que o fechamento de um documento com comentários de rascunho perguntaria para o usuário se eles gostaria de fechar o documento sem salvar os comentários. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
+- Corrigido o problema em que o fechamento de um documento com comentários de rascunho perguntaria ao usuário se ele gostaria de fechar o documento sem salvar os comentários de rascunho. Cancelar a solicitação fechava o documento, em vez de deixá-lo aberto.
 
 - Corrigimos um problema ao copiar e colar títulos.
 
@@ -3286,7 +3334,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - Essa alteração corrige um problema em que o texto com hiperlinks pode não ser exibido se a opção: "Mostrar códigos de campo em vez de seus valores" estiver habilitada.
 
-- No leitor Exibição da Web/Imersivo, clicar em uma dica rolaria a tela para cima, mesmo que ele já estivesse em exibição. Isso foi corrigido.
+- No leitor Exibição da Web/Imersivo, ao clicar em uma dica rolaria a tela para cima, mesmo que ela já estivesse em exibição. Isso foi corrigido.
 
 - Corrigimos um problema em que, ao tentar salvar um arquivo que contém uma macro com um novo nome, o arquivo poderia ser salvo com a extensão. docx e com o nome de arquivo WRO0004.docx, independentemente de qual nome o usuário inseriu, tornando o documento inutilizável.
 
@@ -3319,7 +3367,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Conte suas histórias com GIFs animados:** Os GIFs animados agora são têm suporte no editor do Office - seus documentos ficaram mais estilosos.  [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Conte suas histórias com GIFs animados:** Os GIFs animados já são compatíveis com o editor do Office; seus documentos ficaram mais estilosos [Saiba mais](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -3354,7 +3402,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Notificação de incidentes para administradores de TI:** os administradores globais do locatário do Microsoft 365 e os administradores do Office serão notificados quanto aos incidentes do Outlook e do Office 365 que afetam seus usuários com uma nova notificação no painel direito no Outlook para Windows. [Saiba mais](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -3860,7 +3908,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="visio"></a>Visio
 
-- O painel de informações de forma estava mostrando detalhes inconsistentes na seção dados da forma, com relação ao arquivo quando aberto na área de trabalho do Visio. Esse problema foi corrigido.
+- O painel de informações de forma mostrava detalhes inconsistentes na seção dados da forma, com relação ao arquivo quando aberto na área de trabalho do Visio. Isso já foi corrigido.
 
 - Bitmaps importados em versões anteriores a 2016 não estavam sendo renderizados devido a algumas verificações de segurança. Corrigimos esse problema na assinatura do Visio.
 
@@ -3872,7 +3920,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - Correção de um problema superficial em que o botão 'OK' na caixa de diálogo Arquivo \ Opções era exibido em cinza, mas a funcionalidade não foi afetada.
 
-- Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários pode resultar na adição de uma marca. Esse problema foi corrigido.
+- Durante uma sessão ativa de coautoria de documentos, adicionar uma imagem diretamente a um cartão de comentários poderia resultar na adição de uma marca. Esse problema foi corrigido.
 
 - Inserir um controle (como um Controle de Conteúdo de Texto) em uma equação e salvar e abrir o arquivo resulta em um erro de conteúdo não legível.
 
@@ -3883,7 +3931,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
@@ -4025,7 +4073,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - Os modelos do Access não devem mais causar falha nas colunas do anexo em um banco de dados. Após instanciar um modelo, agora você poderá adicionar um campo de anexo ao seu banco de dados.
 
-- Esta atualização corrige um problema no uso de um ADODB. O objeto gravador no código VB pode incorretamente relatar um erro.
+- Esta atualização corrige um problema em que um objeto ADODB é usado. O objeto gravador no código VB poderá relatar um erro incorretamente.
 
 - Esta atualização corrige um problema que pode fazer com que o Microsoft Access não consiga identificar uma coluna de identidade em uma tabela do SQL Server vinculada, o que pode fazer com que as linhas sejam relatadas como excluídas incorretamente.
 

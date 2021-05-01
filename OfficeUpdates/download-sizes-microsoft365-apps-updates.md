@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995739"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091849"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -22,7 +22,7 @@ Nosso objetivo é fornecer informações sobre o tamanho da atualização, se po
 
 As tabelas a seguir mostram o tamanho aproximado do download ao atualizar da versão anterior do Microsoft 365 Apps para a versão mais recente. Os tamanhos de download reais podem variar em até 50 MB. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 
-Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download será consideravelmente maior do que o descrito na tabela. Ele pode implicar em um download completo, que teria no mínimo 1 GB.
+Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download poderá ser consideravelmente maior do que o descrito na tabela. Isso pode implicar em um download completo com no mínimo 1 GB.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - Somente versões dos últimos quatro meses estão listadas.
 
 [//]: # (NÃO REMOVA)
+
+## <a name="april-29-2021"></a>29 de abril de 2021
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO29 de abril de 2021)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a 2104 (Build 13929.20296).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2103 (Build 13901.20462) <br/> |23 de abril de 2021 <br/> |167<br/> |
+|Versão 2103 (Build 13901.20400) <br/> |13 de abril de 2021 <br/> |167<br/> |
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO29 de abril de 2021)
 
 ## <a name="april-23-2021"></a>23 de abril de 2021
 

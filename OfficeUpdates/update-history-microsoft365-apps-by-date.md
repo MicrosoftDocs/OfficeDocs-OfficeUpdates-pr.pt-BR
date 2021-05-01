@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995708"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091820"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
@@ -36,7 +36,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 |**Canal**|**Versão**|**Build**|**Data de lançamento**|**A versão terá suporte até**|
 |:-----|:-----|:-----|:-----|:-----|
-|Canal Atual<br/>|2103<br/>|13901.20462<br/>|23 de abril de 2021<br/>|A versão 2104 foi lançada<br/>|
+|Canal Atual<br/>|2104<br/>|13929.20296<br/>|29 de abril de 2021<br/>|A versão 2105 foi lançada<br/>|
 |Canal Empresarial Mensal<br/>|2102<br/>|13801.20506<br/>|13 de abril de 2021<br/>|8 de junho de 2021<br/>|
 |Canal Empresarial Mensal<br/>|2101<br/>|13628.20664<br/>|13 de abril de 2021<br/>|11 de maio de 2021<br/>|
 |Canal Empresarial Semestral (Pré-visualização)<br/>|2102<br/>|13801.20506<br/>|13 de abril de 2021<br/>|14 de setembro de 2021<br/>|
@@ -47,7 +47,7 @@ A tabela a seguir lista a versão com suporte e o número de build mais atual pa
 
 Para saber mais sobre o tamanho aproximado do download ao atualizar de uma versão anterior do Microsoft 365 Apps para a versão mais recente, confira [Tamanhos de download para atualizações do Microsoft 365 Apps](./download-sizes-microsoft365-apps-updates.md).
 
-A tabela a seguir mostra uma lista da versão e os números do build de cada atualização do Microsoft 365 Apps lançado nos seguintes canais de atualização: Atual, Empresarial Mensal, Empresarial Semestral (Visualização) e Empresarial Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão dessa versão. As notas de versão fornecem informações sobre recursos, atualizações de segurança e outras atualizações não relacionadas à segurança incluídas nas atualizações do Microsoft 365 Apps.
+A tabela a seguir fornece uma lista dos números de versão e de build para cada atualização do Microsoft 365 Apps lançados nos seguintes canais de atualização: Atual, Empresarial Mensal, Empresarial Semestral (Visualização) e Empresarial Semestral. Cada entrada na tabela é vinculada diretamente às notas de versão correspondentes. Estas notas da versão fornecem informações sobre recursos, atualizações de segurança e atualizações não relacionadas à segurança incluídas na atualização do Microsoft 365 Apps.
 
 ### <a name="version-history"></a>**Histórico de Versão**
 
@@ -55,6 +55,7 @@ A tabela a seguir mostra uma lista da versão e os números do build de cada atu
 
 |**Year**|**Data de lançamento**|**Canal Atual**|**Canal Empresarial Mensal**|**Canal Empresarial Semestral (Visualização)**|**Canal Empresarial Semestral**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|29 de abril|[Versão 2104 (Build 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|23 de abril|[Versão 2103 (Build 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|13 de abril|[Versão 2103 (Build 13901.20400)](current-channel.md#version-2103-april-13)|[Versão 2102 (Build 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Versão 2101 (Build 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Versão 2102 (Build 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Versão 2008 (Build 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Versão 2002 (Build 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|2 de abril|[Versão 2103 (Build 13901.20336)](current-channel.md#version-2103-april-02)| | | |
