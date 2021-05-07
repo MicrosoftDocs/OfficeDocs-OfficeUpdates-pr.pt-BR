@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081224"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236951"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -30,6 +30,160 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-may-03"></a>Versão 2105: 03 de maio
+*Versão 2105 (Build 14026.20052)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Destacar vários usuários ao mesmo tempo em uma reunião:** os organizadores e apresentadores agora podem destacar vários participantes simultaneamente durante as reuniões. O estágio da reunião mostrará esses participantes destacados, com seus vídeos ou avatares, a todos da reunião.
+
+- **Apresentar no Teams usando o PowerPoint:** apresente seus slides diretamente do aplicativo PowerPoint em uma reunião de Teams via PowerPoint Live.
+
+- **Nova experiência de gerenciamento de marca e outras melhorias:** as marcas do Teams permitem aos usuários alcançar rapidamente um grupo de pessoas sem ter que usar @menção ou digitar todo mundo. A experiência de gerenciar marcas é agora uma Guia. As marcas agora também têm um campo de descrição para que você possa adicionar mais detalhes a uma marca. A nova Guia de Marcas será a página inicial para notificações e pesquisas de marcas, o que também acontecerá em breve.
+
+- **Alto-falantes inteligentes:** os alto-falantes inteligentes são periféricos inteligentes para as Salas do Microsoft Teams no Windows. Eles trarão a transcrição atribuída aos participantes na sala de reunião, permitindo que os participantes passem menos tempo tomando notas e acompanhando facilmente quem disse o quê na sala.
+
+- **Alterar a notificação padrão para a nativa do Teams Purple para novos usuários:** as Notificações Nativas fornecem uma série de benefícios como suporte para o centro de ação, a acessibilidade, o suporte para modo de assistência de foco etc. Atualmente, o estilo padrão de notificação para um novo usuário nas equipes da Microsoft é o Teams Purple. Com essa alteração, o padrão para o novo usuário mudará para Notificação Nativa.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que fazia com que o Excel fechasse inesperadamente ao usar o Office de 32 bits no Windows de 64 bits.
+
+
+- Corrigimos um problema que fazia com que o Excel fechasse inesperadamente ao se mover pelos comentários no painel Comentários.
+
+
+- Corrigido um problema em que alguns suplementos de automação para o Excel falhavam ao carregar.
+
+
+- Corrigimos um problema que fazia com que o Narrador lesse incorretamente as propriedades de dois botões na guia Cabeçalho/Rodapé na caixa de diálogo Configuração de página.
+
+
+- Corrigimos um problema que fazia com que algumas pastas de trabalho vinculadas a outros aplicativos do Office fechassem sem salvar as alterações ao executar o Atualizar Vínculo.
+
+
+- Corrigido um problema em que o suplemento Ferramentas de Análise não funcionava para alguns usuários.
+
+
+- Corrigimos um problema em que alguns arquivos ocasionalmente não abriam no Modo de Exibição Protegido
+
+
+- Corrigimos um problema que fazia com que a formatação de data fosse exibida incorretamente em alguns idiomas ao adicionar suplementos.
+
+
+- Corrigimos um problema que fazia com que a barra de status não indicasse um estado Pronto para alguns usuários.
+
+
+- Fizemos uma alteração para permitir que o Gerenciador de Nomes abra em livros com um grande número de nomes ocultos.
+
+
+- Resolvemos um problema para dar suporte à compatibilidade retroativa com versões anteriores do Excel. O problema pode fazer com que um arquivo salvo em uma versão mais recente do Excel não seja carregado corretamente em versões anteriores do Excel devido a funções como SEERRO e PROCX adicionadas ao Excel desde o Office 2007.
+
+
+- Corrigimos um problema que poderia fazer com que o Excel fechasse inesperadamente ao usar Colar Especial com formatos em determinadas situações.
+
+
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que fez com que o Outlook anulasse as preferências da Caixa de Entrada Destaques configurada no OWA.
+
+
+- Corrigimos um problema que fazia com que os usuários com configurações móveis experimentassem travamentos.
+
+
+- Corrigimos um problema que desabilitava a resolução de nome ao enviar em nome de outro usuário, e a resolução para uma lista de endereços que não fosse a Lista Global de Endereços.
+
+
+- Corrigimos um problema que fazia com que alguns usuários do recurso de melhorias de compartilhamento do calendário tivessem problemas de interação com o calendário deles no painel de navegação.
+
+
+- Corrigimos um problema em que usar o modo de Alto Contraste por longos períodos de tempo fazia com que o Outlook fechasse inesperadamente.
+
+
+- Corrigimos um problema em que hiperlinks com dígitos, eram desabilitados ao redigir uma mensagem no Outlook em um idioma da direita para a esquerda.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema relacionado a imagens vinculadas.
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que as alterações realizadas por meio dos Assistentes de Planejamento nem sempre eram capturadas pelos eventos de mudança.
+
+
+- Corrigimos um problema em que os usuários não conseguiam remover projetos do pool de recursos.
+
+
+### <a name="visio"></a>Visio
+
+- Corrigimos um problema que fazia com que o Visio fechasse inesperadamente com um build recente.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que a formatação de texto permanecia após a remoção de hiperlinks.
+
+
+- Corrigimos um problema em que o texto reservado era cortado nos comentários ao usar idiomas da direita para a esquerda.
+
+
+- Corrigimos um problema em que comentários não eram exibidos após serem filtrados por pessoas.
+
+
+- Corrigimos um problema em que o Word não conseguia realizar uma Mala Direta com um banco de dados do Access.
+
+
+- Corrigimos um problema que disponibilizava a capacidade de recolher margens em um documento contendo várias colunas.
+
+
+- Corrigimos um problema em que alguns caracteres não eram exibidos corretamente em células de tabela quando havia comentários no documento.
+
+
+- Corrigimos um problema em que as alterações no formato de arquivo ocorriam ao salvar documentos com o suplemento AIP habilitado.
+
+
+- Corrigimos um problema em que o Word parava de responder ao editar campos.
+
+
+- Corrigimos um problema em que o rótulo de confidencialidade desaparecia de um arquivo após carregá-lo para o SharePoint Online.
+
+
+- Corrigimos um problema em que os usuários não eram solicitados a salvar documentos ao usar um comando (em vez do atalho de teclado CTRL+S).
+
+
+- Corrigido um problema que poderia causar o fechamento inesperado do Word quando o usuário fizesse logoff ou reiniciasse o computador.
+
+
+- Corrigimos um problema em que a formatação de texto permanecia após a remoção de hiperlinks.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- Corrigimos um problema que fazia com que o botão Ditado ficasse desalinhado ao adicionar comentários a um documento.
+
+
+- Corrigido um problema que ao analisar uma cadeia de caracteres para processamento de emojis fazia com que o aplicativo fechasse inesperadamente ao ler fora dos limites de uma matriz
+
+
+- Corrigimos um problema em que alguns Gráficos Vetores Escaláveis (SVG) não estavam sendo processados corretamente.
+
+
+
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2104-april-28"></a>Versão 2104: 28 de abril
 *Versão 2104 (Build 13929.20296)*
@@ -2271,7 +2425,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2285,7 +2439,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2620,7 +2774,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)

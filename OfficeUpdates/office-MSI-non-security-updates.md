@@ -9,23 +9,26 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações mais recentes sobre atualizações que não são de segurança para versões perpétuas do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: e254de1835dfd13550f6614f841777d519529d31
-ms.sourcegitcommit: 515409b0baa38e7da8e00be3b54ea6789755f11b
+ms.openlocfilehash: b87152251bac703f17324a2236d79fb2674e01f6
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51598112"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236941"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Últimas atualizações não relacionadas à segurança para versões do Office que usam o Windows Installer (MSI)
 
 Esta página lista as atualizações não relacionadas à segurança do Office, lançadas na primeira terça-feira de cada mês.
 
 > [!NOTE]
-> - As informações neste artigo se aplicam somente às versões perpétuas do Office que usam a tecnologia de instalação do Windows Installer (MSI). Por exemplo, o Office Professional Plus 2016.
+> - As informações neste artigo se aplicam apenas às versões permanentes do Office que usam a tecnologia de instalação do Windows Installer (MSI). Por exemplo, Office Professional Plus 2016.
 > - As informações neste artigo não se aplicam ao Microsoft 365 Apps.
 > - Para saber mais sobre como instalar as atualizações do Office, confira [Instalar atualizações do Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
 
+## <a name="may-4-2021"></a>4 de maio de 2021
+**Office 2016**<br/>
+Atualização do Microsoft Office 2016 ([KB4462117](https://support.microsoft.com/help/4462117)) </br> Atualização do Skype for Business 2016 ([KB4493155](https://support.microsoft.com/help/4493155)) </br> Atualização do Microsoft Outlook 2016 ([KB5001921](https://support.microsoft.com/help/5001921)) </br> 
 
 ## <a name="april-6-2021"></a>6 de abril de 2021
 **Office 2016**<br/>
@@ -76,14 +79,6 @@ Atualização para o Microsoft Office 2016 ([KB4486680](https://support.microsof
 Atualização para o Microsoft Office 2016 ([KB4484397](https://support.microsoft.com/help/4484397)) <br/>
 Atualização para o Microsoft Outlook 2016 ([KB4486720](https://support.microsoft.com/help/4486720)) <br/>
 Atualização para o Microsoft Project 2016 ([KB4486712](https://support.microsoft.com/help/4486712)) <br/>
-
-
-## <a name="october-6-2020"></a>6 de outubro de 2020
-**Office 2016**<br/>
-Atualização para o Microsoft Office 2016 ([KB4475584](https://support.microsoft.com/help/4475584))<br/>
-Atualização para o Microsoft Project 2016 ([KB4484502](https://support.microsoft.com/help/4484502))<br/>
-Atualização para o Microsoft Visio 2016 ([KB4484333](https://support.microsoft.com/help/4484333))<br/>
-Atualização para o Skype for Business 2016 ([KB4486669](https://support.microsoft.com/help/4486669))<br/> 
 
 
 </br>
