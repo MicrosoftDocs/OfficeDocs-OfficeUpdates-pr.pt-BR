@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
-ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
+ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52108213"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277908"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionados à segurança que estão inclusos em atualizações do Canal Atual do Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios Negócios e as versões de assinatura dos aplicativos para desktop do Project e Visio.
-
-> [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
  > [!NOTE]
 >
@@ -215,6 +212,10 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 ### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
 ### <a name="outlook"></a>Outlook
 
 - **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/text-predictions-in-word-outlook)
@@ -228,6 +229,12 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 - **Compartilhar pra o Teams:** Compartilhar mensagens do Outlook com uma pessoa ou canal no Teams.
 
 - **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
@@ -253,6 +260,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
 
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 

@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para as versões do Canal Semestral do Microsoft 365 Apps
-ms.openlocfilehash: b91be809ed8da915e4131e48123df3bfd14fcd17
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026286"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278098"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Notas de versão para lançamentos do Canal Empresarial Semestral
 
 Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionados à segurança que estão inclusos nas atualizações do Canal Empresarial Semestral do Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios Negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
-
-> [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 >
@@ -255,7 +252,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Melhor desempenho de streaming de vídeo no PowerPoint:** fizemos melhorias no desempenho da reprodução do Microsoft Stream para minimizar o tempo de carregamento de vídeos e criar uma experiência de exibição agradável. Use seus vídeos corporativos do Microsoft Stream para criar apresentações melhores.
 
-- **Chame a atenção com \@menções**: use @menções nos comentários para informar a seus colegas de trabalho quando precisar da opinião deles. [Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Chamar a atenção com \@menções** Use @menções na caixa de comentários para informar a seus colegas de trabalho quando precisar da entrada deles.[Saiba mais](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **Sincronizar alterações durante a apresentação:** Sincronizar alterações sempre que elas forem feitas, mesmo quando a apresentação estiver no modo de apresentação de slides. [Saiba mais](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
@@ -825,7 +822,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Corrige um problema que impede que os usuários importem listas do SPO quando a ADAL estiver desabilitada.
 
 
-- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. A mensagem será alterada para exibir “Toner/tinta baixo” e “Sem toner/tinta”
 
 
 - Resolvemos o problema de taxa de falha do ValidateInstall configurando a validação de instalação do Bing Addon como verdadeira por padrão e considerando o sucesso do retorno MSI como um sucesso na instalação.
@@ -861,7 +858,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Essa alteração corrige uma falha ao iniciar os aplicativos do Office devido à falha no carregamento de d2d1.dll.
 
 
-- O host do Office estava falhando no Windows, quando um suplemento está sendo ativado enquanto a chave do registro HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth está definida como zero. Essa alteração corrigiria esse problema.
+- O host do Office fechava de maneira inesperada no Windows ao ativar um suplemento enquanto a chave de registro HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth estivesse definida como zero. Essa alteração corrigiria o problema.
 
 
 - Corrigido um problema de que a API de Mensagens para suplementos do Office não está funcionando.
