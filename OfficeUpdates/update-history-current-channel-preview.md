@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais dos lançamentos do Canal Mensal Direcionado para a Área de Trabalho do Windows
-ms.openlocfilehash: 006da8254a332b54fd0cbe875dccf6a7d630ed87
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: ff7bb864ac52a6d5b0adde4f8f80cb296645aabf
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236961"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278088"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Histórico de atualizações do Canal Atual do Office (Visualização) para Windows
 
@@ -23,11 +23,6 @@ Olá, Insiders! Se você quer saber se tem a versão mais recente instalada ou e
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versões e Builds do Canal Atual do Office (Visualização)
 
 Se você estiver inscrito no nível do Canal Atual (Visualização), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Atual (Visualização) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações das versões anteriores. Para encontrar as notas de versão, [confira](./current-channel-preview.md). COnfira também [Quais as novidades do Office Insiders](https://insider.office.com/pt-BR/releasenotes/windows/slow).
-
-
-> [!IMPORTANT]
-> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
-> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](/deployoffice/name-change). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
 > - O Histórico de Atualizações lista todos os builds lançados
