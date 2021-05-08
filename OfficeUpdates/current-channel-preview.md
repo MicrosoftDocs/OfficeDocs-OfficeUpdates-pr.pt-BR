@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236951"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278058"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
 Este artigo contém notas de versão para builds de Canal Atual (Visualização) do Word, Excel, PowerPoint, Outlook, Access, Project e Teams para área de trabalho do Windows. Toda semana, vamos destacar novos e interessantes recursos, correções importantes e quaisquer problemas significativos que você queira conhecer. Observe que muitas vezes disponibilizamos recursos (e, às vezes, até mesmo correções) para o Canal Atual (Visualização) durante um período de tempo. Isso nos permite garantir que tudo esteja funcionando bem antes de liberarmos o recurso para um público maior. Portanto, se você não vir algo descrito abaixo, não se preocupe, você receberá eventualmente.  
 
-> [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização do Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal corporativo mensal) e a alteração dos nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - A data de publicação das notas de versão pode não corresponder com a data de lançamento da compilação atual.
@@ -1113,7 +1111,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O editor corrige a ortografia e a gramática e oferece sugestões para refinar sua escrita. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/microsoft-editor-gets-an-upgrade)
+- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O editor corrige a ortografia e a gramática e oferece sugestões para refinar sua escrita. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1838,9 +1836,9 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportar GIF animado em um intervalo:** Selecione um intervalo de slides ao exportar para GIF animado
 
@@ -1934,7 +1932,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/text-predictions-in-word-outlook)
+- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
 
 - **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -2140,7 +2138,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="outlook"></a>Outlook
 
-- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/grammar-and-style-suggestions-available-in-outlook)
+- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2204,7 +2202,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="excel"></a>Excel
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2216,13 +2214,13 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Excluir conversa pelo proprietário da mensagem:** Este recurso permite excluir uma conversa pelo proprietário da mensagem.
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2240,7 +2238,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="word"></a>Word
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2425,7 +2423,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2439,7 +2437,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*

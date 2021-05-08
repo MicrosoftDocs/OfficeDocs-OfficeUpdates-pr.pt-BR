@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos Insiders o histórico de atualizações mensais dos lançamentos do Canal Mensal Direcionado para a Área de Trabalho do Windows
-ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: 006da8254a332b54fd0cbe875dccf6a7d630ed87
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081234"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236961"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Histórico de atualizações do Canal Atual do Office (Visualização) para Windows
 
@@ -22,7 +22,7 @@ Olá, Insiders! Se você quer saber se tem a versão mais recente instalada ou e
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versões e Builds do Canal Atual do Office (Visualização)
 
-Se você estiver inscrito no nível do Canal Atual (Visualização), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Atual (Visualização) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações das versões anteriores. Para encontrar as notas de versão, [confira ](./current-channel-preview.md). COnfira também [Quais as novidades do Office Insiders](https://insider.office.com/pt-BR/releasenotes/windows/slow).
+Se você estiver inscrito no nível do Canal Atual (Visualização), anteriormente chamado de Participante do Programa Windows Insider - Modo Lento, você receberá uma nova atualização de recursos do Office aproximadamente uma vez por mês, além dos builds subsequentes contendo correções importantes ou atualizações de segurança. A lista a seguir mostra versões e builds recentes do Canal Atual (Visualização) com **os builds mais recentes listados primeiro**. Novos builds contêm todas as atualizações das versões anteriores. Para encontrar as notas de versão, [confira](./current-channel-preview.md). COnfira também [Quais as novidades do Office Insiders](https://insider.office.com/pt-BR/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -36,6 +36,9 @@ Se você estiver inscrito no nível do Canal Atual (Visualização), anteriormen
 
 
 [//]: # (NÃO REMOVA)
+
+**03 de maio de 2021**<br/>
+Versão 2105 (Build 14026.20052)<br/>
 
 **28 de abril de 2021**<br/>
 Versão 2104 (Build 13929.20296)<br/>

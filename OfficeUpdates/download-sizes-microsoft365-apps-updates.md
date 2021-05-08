@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: 4d0be484cc3605b30d3feedcad0006278a249e79
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264749"
+ms.locfileid: "52278068"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -23,11 +23,6 @@ Nosso objetivo é fornecer informações sobre o tamanho da atualização, se po
 As tabelas a seguir mostram o tamanho aproximado do download ao atualizar da versão anterior do Microsoft 365 Apps para a versão mais recente. Os tamanhos de download reais podem variar em até 50 MB. Se estiver atualizando de uma versão mais antiga, o tamanho do download será maior.
 
 Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Direcionado) para o Canal Semestral, o tamanho do download poderá ser consideravelmente maior do que o descrito na tabela. Isso pode implicar em um download completo com no mínimo 1 GB.
-
-
-> [!IMPORTANT]
-> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
-> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](/deployoffice/name-change). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 > [!NOTE]

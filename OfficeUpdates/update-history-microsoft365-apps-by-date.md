@@ -9,20 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI uma lista completa de lançamentos do Microsoft 365 Apps organizados por data, com links para as notas de versão.
-ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: ddcbff596fef219151991e7244d747ee1ab59f1a
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264739"
+ms.locfileid: "52278048"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Histórico de atualização do Microsoft 365 Apps (relacionado por data)
 
 Esses números de versão e build se aplicam ao Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e às versões de assinatura dos aplicativos da área de trabalho do Project e Visio.
-
-> [!IMPORTANT]
-> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo a adição de um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes.  Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
-> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004.  Para saber mais, [leia este artigo](/deployoffice/name-change).  Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 
 > [!NOTE]

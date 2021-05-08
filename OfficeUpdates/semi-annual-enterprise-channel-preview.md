@@ -9,19 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do Canal Semestral (Direcionado) do Microsoft 365 Apps em 2021
-ms.openlocfilehash: 3a0307e973092e845ee17c17d22a8b160f9e9ef4
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 15057ecbf2e351bc294a9937e1548f51a43f7ba6
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026276"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278108"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
 Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionados à segurança que estão inclusos nas atualizações do Canal Empresarial Semestral (Pré-visualização) do Microsoft 365 Apps para Pequenos e Médios Negócios, Microsoft 365 Apps para Grandes Empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
-
-> [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
 
 ## <a name="version-2102-april-13"></a>Versão 2102: 13 de abril
@@ -113,7 +110,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Obtenha Dados da Organização com o Power BI usando Tipos de Dados:** Os tipos de dados do Excel no Power BI agora estão sendo disponibilizados para os participantes do programa Office Insider em organizações com o Office 365 / Microsoft 365 e plano de serviço Power BI Pro. Obter as informações necessárias e atualizá-las facilmente é fundamental para muitos fluxos de trabalho diários. Estamos oferecendo acesso às informações da sua empresa ou organização a partir do Power BI como tipo de dados no Excel, o amplia a capacidade de inserir informações vinculadas nas suas planilhas. [Saiba mais](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Faça diagramas elegantes do Visio no Excel:** Crie diagramas baseados em dados como fluxogramas ou organogramas a partir de dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -125,13 +122,13 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Criar votações no Outlook com a Votações Rápida:** criar facilmente uma votação, coletar votos e exibir resultados em um email [Saiba mais](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Novo localizador de sala:** Pesquisar salas de conferência por diferentes recursos.
 
 - **Pesquise do jeito que você falaria:** Use uma linguagem cotidiana como "compromisso com o veterinário na semana passada" para filtrar e restringir sua pesquisa.
 
-- **Opção para reabrir rapidamente os itens de uma sessão anterior do Outlook:** adicionamos uma opção para reabrir rapidamente os itens de uma sessão anterior do Outlook.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/automatically-restore-windows-in-outlook)
+- **Opção para reabrir rapidamente os itens de uma sessão anterior do Outlook:** adicionamos uma opção para reabrir rapidamente os itens de uma sessão anterior do Outlook.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -139,7 +136,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office.  Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="visio"></a>Visio
 
@@ -151,7 +148,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 - **Salvar nas Pastas Fixadas:** Fixar suas pastas facilita o salvamento dos arquivos do Office.  Recebemos comentários que os usuários desejam ter mais controle sobre as pastas disponíveis quando um novo arquivo é salvo. Estamos animados para apresentar um novo recurso para você: fixar suas pastas na caixa de diálogo Salvar. Esse novo recurso facilita o salvamento dos arquivos do Word, do Excel e do PowerPoint. [Saiba mais](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Consulte os detalhes na [postagem do blog](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="office-suite"></a>Pacote Office
 
@@ -445,7 +442,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - Corrigir uma falha que poderia acontecer ao usar o narrador dentro de um texto que contém equações matemáticas.
 
 
-- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. Alterar a mensagem para exibir "Toner/tinta Baixo" e "Sem toner/tinta".
+- Quando o usuário imprimir um documento/arquivo em impressoras Inkjet a partir do Office e a tinta da impressora estiver baixa, a mensagem "Toner Baixo" ou "Sem Toner" será exibida, mesmo que as impressoras da Inkjet não tenham toners. A mensagem será alterada para exibir “Toner/tinta baixo” e “Sem toner/tinta”
 
 
 - Corrigido um problema em que a instalação de uma versão mais recente do Office em relação a certas versões mais antigas pode resultar em funcionalidade prejudicada (como a impossibilidade de usar o Power Query) devido à falta de entradas de registro.

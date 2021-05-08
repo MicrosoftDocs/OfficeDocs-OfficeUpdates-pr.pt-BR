@@ -9,20 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos insiders o histórico de atualizações dos lançamentos mensais do Canal Insider Fast para a área de trabalho do Windows
-ms.openlocfilehash: bb76a9d7bea20fc325b2913c83a6e3d9084e2c57
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: 0336e9688cfee35e7ab7e6f122fd335f4c30a58f
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236901"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52277948"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Atualização do histórico para o Canal Beta do Office
 
 Olá, Insiders! Se você quer saber se possui a versão mais recente instalada ou está procurando por uma lista de Insider build recente, você está no lugar certo. Clique[aqui](https://insider.office.com/) para saber mais sobre o Programa Insiders.
-
-> [!IMPORTANT]
-> - Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
-> - O Office 365 ProPlus está sendo renomeado para Microsoft 365 Apps para Grandes Empresas, a partir da versão 2004. Para saber mais, [leia este artigo](/deployoffice/name-change). Na nossa documentação, geralmente nos referimos a ele como Microsoft 365 Apps.
 
 > [!NOTE]
 >

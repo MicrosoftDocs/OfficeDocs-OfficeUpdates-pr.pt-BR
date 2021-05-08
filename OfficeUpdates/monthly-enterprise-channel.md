@@ -9,19 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Empresarial Mensal dos Aplicativos do Microsoft 365 Apps
-ms.openlocfilehash: fbfcc2b35e049ebf7bc38860a58ab33e582aa31b
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058745"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278038"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de versão para os lançamentos do Canal Empresarial Mensal
 
 Estas notas de versão fornecem informações sobre novos recursos e atualizações não relacionadas à segurança que estão inclusos em atualizações mensais do Canal Corporativo Mensal para Microsoft 365 Apps para Grandes Empresas, Microsoft 365 Apps para Pequenos e Médios negócios e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
-> [!IMPORTANT]
-> Estamos fazendo algumas alterações nos canais de atualização para o Microsoft 365 Apps, incluindo adicionar um novo canal de atualização (Canal Empresarial Mensal) e alterar os nomes dos canais de atualização existentes. Para saber mais, [leia este artigo](/DeployOffice/update-channels-changes).
 
 [//]: # (NÃO REMOVA)
 
@@ -291,7 +289,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Registro em log de auditoria de rótulos de confidencialidade:** Quando os usuários aplicam, alteram ou removem rótulos de confidencialidade em seus documentos e emails, essas informações são agora disponibilizadas aos administradores nos logs de auditoria do Microsoft 365.
 
@@ -310,7 +308,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](/microsoft-365/compliance/sensitivity-labels)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
@@ -436,7 +434,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá até Arquivo > Conta, e escolha "Usar configuração do sistema" no menu suspenso do Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 
-[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE FEATUREDETAILS)
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
 <br/>
 
