@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 1b6f0758a770724411cd1a50cbf8aa25a65447d1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278058"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285972"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,47 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-may-07"></a>Versão 2105: 07 de maio
+*Versão 2105 (Build 14026.20138)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Apresentando layouts para reuniões do Teams:** Agora você pode aparecer sobreposto no topo do conteúdo para uma apresentação mais envolvente e uma experiência de consumo
+
+- **Desativar a Câmera de Participantes Específicos:** Os organizadores e apresentadores da reunião podem desativar as câmeras de Participantes específicos em uma Reunião no Teams para garantir que eles não compartilhem vídeo na reunião.
+
+- **Desativar a Câmera de Todos os Participantes:** Os organizadores e apresentadores da reunião podem desativar as câmeras de todos os Participantes em uma Reunião no Teams para garantir que eles não compartilhem o vídeo na reunião.
+
+- **Usuários anônimos podem apresentar:** Ao hospedar um evento ao vivo do Teams, adicionamos a capacidade de usuários anônimos ingressarem em um evento ao vivo e também poderem apresentar durante o evento.
+
+- **Gerenciar marcas no Teams programaticamente - As APIs de Marcas do Microsoft Teams agora estão em visualização pública:** Este conjunto de APIs pode ser utilizado para atribuir marcas aos usuários de maneira programática em uma equipe, tornando a criação e manutenção de marcas mais rápida e fácil.  As marcas no Teams permitem que os usuários alcancem rapidamente um grupo de pessoas sem ter que @mencionar ou digitar todos. Para obter mais informações sobre marcas no Teams, consulte Usando marcas no Teams. Usando estas novas APIs, os desenvolvedores podem agora Criar marcas em uma equipe e designar usuários, Obter uma lista de marcas em uma equipe, Atualizar marcas e Excluir marcas
+
+- **Apresentar no Teams usando o PowerPoint:** Apresente seus slides diretamente a partir do aplicativo PowerPoint em uma reunião de Teams via PowerPoint Live.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="word"></a>Word
+
+- Corrige um problema em que o Painel do Editor não abre.
+
+
+### <a name="office-suite"></a>Pacote Office
+
+- RelNotesNotNeeded
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-may-03"></a>Versão 2105: 03 de maio
 *Versão 2105 (Build 14026.20052)*
@@ -1111,7 +1152,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O editor corrige a ortografia e a gramática e oferece sugestões para refinar sua escrita. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
+- **Sugestões de escrita em um clique:** aplique as sugestões de escrita com um único clique. O editor corrige a ortografia e a gramática e oferece sugestões para refinar sua escrita. [Saiba mais](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -1836,9 +1877,9 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Suporte à área de transferência SVG:** agora você pode colar conteúdo SVG do Office em aplicativos de terceiros. [Saiba mais](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/svg-content-office-third-party-apps)
 
-- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Crie GIFs com Telas de Fundo Transparentes:** Ao exportar para um GIF Animado, uma nova opção permitirá que você torne a tela de fundo transparente.<br />Confira os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportar GIF animado em um intervalo:** Selecione um intervalo de slides ao exportar para GIF animado
 
@@ -1932,7 +1973,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="outlook"></a>Outlook
 
-- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
+- **Economizar tempo ao redigir mensagens:** Outlook mostra uma sugestão de escrita que ajuda você a redigir mensagens rapidamente. Para aceitar a sugestão, basta usar a tecla Tab.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/text-predictions-in-word-outlook)
 
 - **Quebre a barreira do idioma com um tradutor interno:** Os suplementos para tradução não são mais necessários! Em uma mensagem, clique com o botão direito para traduzir palavras, frases específicas ou a mensagem inteira. [Saiba mais](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -2138,7 +2179,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="outlook"></a>Outlook
 
-- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **A verificação gramatical tem o seu apoio:** o Outlook marca erros gramaticais à medida que você digita, para que você possa aplicar sugestões com um único clique. <br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -2202,7 +2243,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="excel"></a>Excel
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2214,13 +2255,13 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 - **Excluir conversa pelo proprietário da mensagem:** Este recurso permite excluir uma conversa pelo proprietário da mensagem.
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2238,7 +2279,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 ### <a name="word"></a>Word
 
-- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 - **Alterne automaticamente os temas do Office:** o Office pode alternar automaticamente entre temas para corresponder às suas configurações de tema do Windows 10. Vá para Arquivo > Opções e selecione "Usar configuração do sistema" ao lado de Tema do Office. [Saiba mais](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2423,7 +2464,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2437,7 +2478,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2772,7 +2813,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -4083,7 +4124,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote do Office
+### <a name="office-suite"></a>Pacote Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
