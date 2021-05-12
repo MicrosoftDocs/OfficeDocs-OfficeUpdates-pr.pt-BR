@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos clientes notas de versão para o histórico de atualizações do Microsoft 365 Apps para Windows 7
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749129"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330448"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Histórico de atualizações do Microsoft 365 Apps para Windows 7 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749129"
 
 A versão 2002 é a versão mais recente do Microsoft 365 Apps que está disponível para dispositivos que executam o Windows 7. A versão 2002 está disponível em todos os canais de atualização para o Microsoft 365 Apps.
 
-As versões do Canal Empresarial Semestral estão geralmente disponíveis apenas por 14 meses. Mas, estamos abrindo uma exceção apenas para a versão 2002 para alinhar com o período de disponibilidade das Atualizações de Segurança Estendidas (ESU) para Windows 7.
+As versões do Canal Empresarial Semestral geralmente ficam disponíveis por 14 meses. Estamos abrindo uma exceção apenas para a versão 2002 para se alinhar com o período que as Atualizações de Segurança Estendidas (ESU) para Windows 7 estarão disponíveis.
 
 Essa disponibilidade estendida para a Versão 2002 também se aplica a outros canais de atualização, como o Canal Atual, mas somente se aplica a dispositivos que executam o Windows 7.
 
@@ -38,6 +38,9 @@ Se você gerencia atualizações usando o Microsoft Endpoint Configuration Manag
 ## <a name="update-history"></a>Histórico de atualizações
 
 [//]: # (NÃO REMOVA)
+
+**11 de maio de 2021**<br/>
+Versão 2002 (Build 12527.21912)<br/>
 
 **13 de abril de 2021**<br/>
 Versão 2002 (Build 12527.21814)<br/>
