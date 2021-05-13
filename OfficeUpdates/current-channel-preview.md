@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285972"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470765"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,36 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-may-12"></a>Versão 2105: 12 de maio
+*Versão 2105 (Build 14026.20164)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Configuração da preferência do usuário para abrir arquivos por padrão na Área de Trabalho (ou) no Navegador (ou) no Teams:** Os usuários podem definir sua preferência padrão como Navegador, Área de Trabalho ou Teams ao abrir arquivos do Office (Word, Excel e Power Point) compartilhados no Teams. A configuração Área de Trabalho pode ser selecionada se os clientes mais recentes do Office estiverem instalados e ativados.
+
+- **Relator e Modo Lado a Lado em reuniões do Teams:** agora você pode aparecer ao lado do conteúdo para uma apresentação mais envolvente e uma experiência de uso
+
+- **Disponibilidade geral dos recursos de webinar do Teams:** agende e forneça webinars para 1.000 pessoas com o mesmo aplicativo do Teams que você usa para reuniões! Os recursos de webinar oferecem suporte a criação de páginas de registro, confirmação por email para os inscritos, gerenciamento de host para vídeo e áudio dos participantes, relatórios dos participantes, além de recursos interativos como votações, chat e reações.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="word"></a>Word
+
+- Corrigido um problema em que os cartões contextuais de tela para ortografia e gramática mostram botões de ícones, mas esses botões não têm dicas de ferramentas.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-may-07"></a>Versão 2105: 07 de maio
 *Versão 2105 (Build 14026.20138)*
