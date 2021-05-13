@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do Canal Semestral (Direcionado) do Microsoft 365 Apps em 2021
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322481"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470775"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
@@ -24,7 +24,7 @@ Estas notas de versão fornecem informações dos novos recursos e atualizaçõe
 ## <a name="version-2102-may-11"></a>Versão 2102: 11 de maio
 *Versão 2102 (Build 13801.20638)*
 
-Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
+As atualizações de segurança estão listadas aqui: [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -70,7 +70,7 @@ Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.
 ## <a name="version-2102-april-13"></a>Versão 2102: 13 de abril
 *Versão 2102 (Build 13801.20506)*
 
-Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+As atualizações de segurança estão listadas aqui: [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -138,7 +138,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ## <a name="version-2102-march-09"></a>Versão 2102: 09 de março
 *Versão 2102 (Build 13801.20294)*
 
-Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
+As atualizações de segurança estão listadas aqui: [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
@@ -518,7 +518,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ## <a name="version-2008-february-09"></a>Versão 2008: 09 de fevereiro
 *Versão 2008 (Build 13127.21216)*
 
-Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
+As atualizações de segurança estão listadas aqui: [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
@@ -579,7 +579,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ## <a name="version-2008-january-12"></a>Versão 2008: 12 de janeiro
 *Versão 2008 (Build 13127.21064)*
 
-Atualizações de segurança listadas [aqui](./microsoft365-apps-security-updates.md)
+As atualizações de segurança estão listadas aqui: [Notas de versão para atualizações de segurança do Microsoft Office](microsoft365-apps-security-updates.md).
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
