@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277998"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563337"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,49 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2106-may-14"></a>Versão 2106: 14 de maio
+*Versão 2106 (Build 14107.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que usuários vissem mensagens acionáveis ao atualizarem constantemente ou voltando aos cabeçalhos após o download durante a execução do modo Baixar Somente Cabeçalhos.
+
+
+- Corrigimos um problema que fazia com que o seletor de pessoas no Outlook expandisse para cima em vez de para baixo para usuários com uma licença permanente.
+
+
+- Corrigimos um problema que fazia com que usuários de domínios personalizados vissem uma mensagem de aviso sobre permissões ao colar um link em uma mensagem de email.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que pressionar combinações de teclas, como ctrl + shift + @ não produzia o caractere acentuado esperado (neste caso, 'å').
+
+
+- Corrigimos um problema relacionado a imagens vinculadas.
+
+
+- Corrigimos um problema em que copiar um anexo de email para um aplicativo diferente do Word falhava se o nome do arquivo tivesse caracteres DBCS.
+
+
+- Corrigimos um problema em que o Word ocasionalmente exibia uma borda em volta do texto que não deveria estar lá.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema em que o OneDrive exibia uma mensagem de erro de mesclagem quando não havia conflito de mesclagem.
+
+
+- Corrigimos um problema relacionado a ordem z de objetos SVG quando convertidos em formas.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2106-may-07"></a>Versão 2106: 07 de maio
 *Versão 2106 (Build 14029.20000)*
@@ -1950,7 +1993,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -2199,7 +2242,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 - **Classificar/filtrar enquanto estiver colaborando no Excel:** Agora você pode classificar e filtrar o arquivo do Excel e colaborar com outras pessoas. Esse novo recurso impede que você seja afetado pelas classificações e filtros de outros usuários durante a coautoria do documento.
 
-- **Crie Tabelas Dinâmicas a partir de Conjuntos de Dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Crie Tabelas Dinâmicas a partir de Conjuntos de Dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3007,6 +3050,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|versão-2103-05 de março|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

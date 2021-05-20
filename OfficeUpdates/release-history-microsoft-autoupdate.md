@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755403"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563377"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,25 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2021-release"></a>Lançamento de maio de 2021
+
+**Data de lançamento:** 13 de maio de 2021
+
+*Microsoft AutoUpdate 4.35*
+
+**Correção de bugs e melhorias:**
+- Resolvemos possíveis problemas com atualizações simultâneas que faziam com que o aviso “Uma atualização já está em andamento” fosse exibido.
+- Correção de bug que fazia com a caixa de diálogo fosse exibida duas vezes.
+- Correção de bug que fazia com que várias notificações fossem exibidas para a mesma atualização.
+- Redução de tamanho no pacote instalador / atualizador do Microsoft AutoUpdate.
+- Agora, a Interface de Linha de Comando (CLI) usa xpc nativo para se comunicar com o Assistente do Microsoft Update em vez de Eventos da Apple.
+
+[Baixar o pacote Microsoft AutoUpdate 4.35](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>Versão de abril de 2021
 

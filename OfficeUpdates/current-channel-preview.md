@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470765"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574296"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,42 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-may-19"></a>Versão 2105: 19 de maio
+*Versão 2105 (Build 14026.20202)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Os Webinars do Teams integram-se com o Dynamics 365 Marketing para permitir a cultivação de clientes potenciais:** com este recurso, os organizadores do webinar podem conduzir o engajamento após o evento com inscritos ao aproveitar o D365 Marketing. Os dados de engajamento do participante são sincronizados com a organização do D365 Marketing e habilitam jornadas de usuário automatizadas
+
+- **Alto-falantes inteligentes:** os alto-falantes inteligentes são periféricos inteligentes para as Salas do Microsoft Teams no Windows. Eles trarão a transcrição atribuída aos participantes na sala de reunião, permitindo que os participantes passem menos tempo tomando notas e acompanhando facilmente quem disse o quê na sala.
+
+- **Permitir que os usuários do Teams adquiram aplicativos do Teams através do cliente do Teams:** agora, os usuários do Teams podem adquirir assinaturas do aplicativo Teams na Teams store.
+
+- **Criar Equipes com Modelos do Teams:** com os Modelos no Teams, os usuários podem escolher entre uma variedade de modelos personalizáveis ao criar uma nova equipe, ajudando-os a começar rapidamente. Os profissionais de TI também podem criar novos modelos personalizados para sua organização, permitindo-lhes padronizar estruturas de equipe, pré-instalar aplicativos relevantes e dimensionar as práticas recomendadas. Os administradores de TI podem escolher quais modelos de equipe mostrar aos usuários finais no Centro de Administração do Teams e pré-configurar as guias de site adicionado URLs a uma guia de site em um modelo de equipe.
+
+- **Usar apontador laser e anotações à tinta no PowerPoint Live no Teams:** estamos apresentando o apontador laser e anotações virtuais para que os apresentadores possam compartilhar conteúdo de forma eficaz e interagir com a audiência chamando a atenção para certas seções da apresentação do PowerPoint. Assim como você faria com um apontador laser físico em uma sala, o PowerPoint Live permite que você aponte, de forma eficaz, para lugares diferentes para que a audiência possa seguir com facilidade o que está no slide.
+
+- **Recomendações de fluxo do Power Automate com Modelos de Equipe 1P:** modelos de fluxo do Power Automate no Surface para equipes criados dos modelos de equipe 1P
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que ocultava a opção de comentários para usuários da versão prévia do Office Permanente 2021.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-may-12"></a>Versão 2105: 12 de maio
 *Versão 2105 (Build 14026.20164)*
@@ -3331,7 +3367,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="excel"></a>Excel
 
-- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas dos conjuntos de dados seguros do Power BI.
+- **Crie Tabelas Dinâmicas a partir de conjuntos de dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel que estão conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas dos conjuntos de dados seguros do Power BI.
 
 ### <a name="outlook"></a>Outlook
 
@@ -4154,7 +4190,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 

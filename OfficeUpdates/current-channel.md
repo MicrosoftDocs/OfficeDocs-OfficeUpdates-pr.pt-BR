@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322441"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563367"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -29,6 +29,23 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2104-may-18"></a>Versão 2104: 18 de maio
+*Versão 2104 (Build 13929.20386)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que o seletor de pessoas no Outlook expandisse para cima em vez de para baixo para usuários com uma licença permanente.
+
+
+- Corrigimos um problema que fazia com que a opção de comentários não aparecesse para usuários da versão prévia do Office Permanente 2021.
 
 
 
@@ -118,9 +135,6 @@ Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
-
-- Corrigido um problema em que alguns suplementos de automação para o Excel não carregavam.
-
 
 - Corrigimos um problema em que alguns arquivos ocasionalmente não abriam no Modo de Exibição Protegido
 
@@ -263,7 +277,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -279,7 +293,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -309,7 +323,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -795,6 +809,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
