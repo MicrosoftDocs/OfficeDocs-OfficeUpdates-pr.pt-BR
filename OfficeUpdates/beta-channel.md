@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563337"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625936"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,75 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2106-may-21"></a>Versão 2106: 21 de maio
+*Versão 2106 (Build 14117.20000)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Última entrada/Entrada suspeita:** o Outlook informa quando e onde você entrou pela última vez em sua conta e o alerta se qualquer atividade suspeita de entrada for detectada
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que faz com que as Matrizes Dinâmicas não atualizem os valores de células quando referenciadas pelas funções RealTimeData.
+
+
+- Corrigimos um problema que afetava o desempenho do VLOOKUP e ÍNDICE/MATCH ao preencher uma grande quantidade de dados.
+
+
+- Corrigimos um problema relacionado à rolagem com dois dedos ao usar painéis congelados.
+
+
+- Corrigimos um problema relacionado a problemas de memória durante a impressão em impressoras de formato grande.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema que impedia a cópia do painel de anotações do orador no modo Somente Leitura.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que uma mensagem de erro Salvar como era exibida mesmo depois que um usuário optou por descartar alterações.
+
+
+- Corrigimos um problema que impedia que as imagens fosse postadas em comentários modernos.
+
+
+- Corrigimos um problema em que o painel Revisão podia rolar ou parecer rolar, mas não se alinhava ao comentário selecionado.
+
+
+- Corrigimos um problema que fez com que a seleção no documento não fosse desmarcada ao clicar fora de um comentário recém-criado.
+
+
+- Corrigimos um problema em que os comentários não são realçados quando selecionados.
+
+
+- Corrigimos um problema em que o campo errado estava sendo atualizado ao executar uma macro, caso as restrições de edição fossem aplicadas.
+
+
+- Corrigimos um problema em que alguns arquivos do Word não abrem devido a indicadores corrompidos.
+
+
+### <a name="office-suite"></a>Pacote de aplicativos do Office
+
+- Corrigimos um problema em que entrar com uma conta diferente poderia resultar em uma falha.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2106-may-14"></a>Versão 2106: 14 de maio
 *Versão 2106 (Build 14107.20000)*
@@ -1993,7 +2062,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -3050,6 +3119,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574296"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636525"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,55 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-may-23"></a>Versão 2105: 23 de maio
+*Versão 2105 (Build 14026.20246)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="teams"></a>Teams
+
+- **Anunciando as exibições do painel de dados de participação:** Já não é necessário baixar relatórios manualmente. Agora o Teams permite que você veja todos os dados agregados em um modo de exibição de painel com um único clique
+
+- **Recursos de segurança, conformidade e proteção de dados para aplicativos:** Para aplicativos do Teams Certificados pela Microsoft 365, os administradores podem exibir os recursos de segurança, conformidade e proteção de dados em uma nova guia na página de detalhes do aplicativo no Centro de Administração do Teams. Essa transparência dá aos clientes da Microsoft confiança nos aplicativos que executarão suas organizações.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fez com que algumas instruções para o recurso "Encurtar Reuniões" não estivessem disponíveis por meio de tecnologias de leitor de tela.
+
+
+- Corrigimos um problema que fazia com que alguns usuários experienciassem inesperadamente um encerramento ao carregar cartões de pessoas.
+
+
+- Corrigimos um problema que impedia a capacidade de colar como fórmulas em uma página protegida.
+
+    - Regkey:
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (padrão) - O Outlook usa a nova plataforma OWA Powered eXwa quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+
+    > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que as atribuições em tarefas agendadas pudessem ser manualmente movidas para uma data incorreta.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-may-19"></a>Versão 2105: 19 de maio
 *Versão 2105 (Build 14026.20202)*
@@ -2530,7 +2579,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2544,7 +2593,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -2879,7 +2928,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
