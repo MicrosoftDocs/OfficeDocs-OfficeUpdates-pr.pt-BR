@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
+ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563367"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657964"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -30,6 +30,119 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2105-may-24"></a>Versão 2105: 24 de maio
+*Versão 2105 (Build 14026.20246)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário.
+
+### <a name="teams"></a>Teams
+
+- **Transmissões de vídeo via AJA ou hardware Blackmagic Design:** as transmissões de vídeo isoladas podem ser enviadas das reuniões do Teams via AJA e dispositivos de hardware Blackmagic Design.
+
+- **Usuários anônimos podem apresentar:** Ao hospedar um evento ao vivo do Teams, adicionamos a capacidade de usuários anônimos ingressarem em um evento ao vivo e também poderem apresentar durante o evento.
+
+- **Aprovações – Reatribuir suporte:** Os aprovadores poderão agora delegar/reatribuir um pedido de aprovação a outro usuário.
+
+- **Suplemento de aplicativo de aprovação no Microsoft Word:** os usuários poderão criar uma solicitação de aprovação para um documento inteiro ou uma seção de um documento no Microsoft Word através de suplementos.
+
+- **Modo Juntos para VDI:** o modo juntos no VDI usa a tecnologia de segmentação de IA em reuniões para colocar digitalmente os participantes em um plano de fundo compartilhado, fazendo com que você sinta que está sentado na mesma sala com todas as outras pessoas.
+
+- **Chat supervisionado:** usar a política administrativa do Teams para garantir que os alunos sejam guiados por um professor durante chats em grupos ou individuais. Com o Chat Supervisionado, os alunos não terão permissão para participar de chats sem a supervisão de um professor.
+
+- **Microsoft Teams: Revisão da experiência de Compartilhamento em reunião:** a interface do usuário para o recurso Compartilhamento em reunião no Microsoft Teams foi redesenhada para ajudar os apresentadores a encontrar o conteúdo desejado de forma mais rápida e fácil.
+
+- **Desativar a Câmera de Participantes Específicos:** Os organizadores e apresentadores da reunião podem desativar as câmeras de Participantes específicos em uma Reunião no Teams para garantir que eles não compartilhem vídeo na reunião.
+
+- **Desativar a Câmera de Todos os Participantes:** Os organizadores e apresentadores da reunião podem desativar as câmeras de todos os Participantes em uma Reunião no Teams para garantir que eles não compartilhem o vídeo na reunião.
+
+- **Disponibilidade geral dos recursos de webinar do Teams:** agende e forneça webinars para 1.000 pessoas com o mesmo aplicativo do Teams que você usa para reuniões! Os recursos de webinar oferecem suporte a criação de páginas de registro, confirmação por email para os inscritos, gerenciamento de host para vídeo e áudio dos participantes, relatórios dos participantes, além de recursos interativos como votações, chat e reações.
+
+- **Criar Equipes com Modelos do Teams:** com os Modelos no Teams, os usuários podem escolher entre uma variedade de modelos personalizáveis ao criar uma nova equipe, ajudando-os a começar rapidamente. Os profissionais de TI também podem criar novos modelos personalizados para sua organização, permitindo-lhes padronizar estruturas de equipe, pré-instalar aplicativos relevantes e dimensionar as práticas recomendadas. Os administradores de TI podem escolher quais modelos de equipe mostrar aos usuários finais no Centro de Administração do Teams e pré-configurar as guias de site adicionado URLs a uma guia de site em um modelo de equipe.
+
+- **Apresentar no Teams usando o PowerPoint:** apresente seus slides diretamente a partir do aplicativo PowerPoint em uma reunião de Teams via PowerPoint Live.
+
+- **Expansão do Seletor de Emoji:** a atualização de expansão de emojis oferece às pessoas mais diversão e expressividade no Teams. Ela também apresenta uma variedade mais ampla de diversidade e representação. O conjunto de emojis expandiu de 85 para mais de 800 emojis, com um seletor de categoria, seletor de tom de pele e seletor de código curto.
+
+- **Chat com usuários externos em chats de grupo:** com esse recurso os usuários podem criar chats em grupo que incluem pessoas externas da organização usando o Teams (requer que todos os usuários tenham recursos de acesso externo habilitados).
+
+- **Atualização para a ferramenta Planejador de rede para estimativa de largura de banda:** a ferramenta Planejador de rede será atualizada para assegurar os requisitos de largura de banda mais recentes do cliente do Teams. Isso ajudará os administradores de TI a estimar e planejar melhor as necessidades de largura de banda do escritório.
+
+- **Configuração da preferência do usuário para abrir arquivos por padrão na Área de Trabalho (ou) no Navegador (ou) no Teams:** Os usuários podem definir sua preferência padrão como Navegador, Área de Trabalho ou Teams ao abrir arquivos do Office (Word, Excel e Power Point) compartilhados no Teams. A configuração Área de Trabalho pode ser selecionada se os clientes mais recentes do Office estiverem instalados e ativados.
+
+- **Destacar vários usuários ao mesmo tempo em uma reunião:** os organizadores e apresentadores agora podem destacar vários participantes simultaneamente durante as reuniões. O estágio da reunião mostrará esses participantes destacados, com seus vídeos ou avatares, a todos da reunião.
+
+### <a name="word"></a>Word
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que o suplemento Ferramentas de Análise não funcionava para alguns usuários.
+
+
+- Corrigido um problema para permitir que o Gerenciador de Nomes abra em livros com um grande número de nomes ocultos.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fez com que algumas instruções para o recurso "Encurtar Reuniões" fossem desabilitadas através de tecnologias de leitor de tela.
+
+
+- Corrigimos um problema que fazia com que alguns usuários sofressem inesperadamente com encerramento ao carregar cartões de pessoas.
+
+
+- Corrigimos um problema que causava a desabilitação da opção de comentários para usuários da visualização do Office Perpetual 2021.
+
+
+- Adicionamos uma chave do Registro que desabilitava a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com Horários Sugeridos.
+    - Chave do Registro:
+
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+        > 1 – O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema em que a opção Reutilizar Slides não estava disponível para alguns usuários.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que as tarefas programadas manualmente eram movidas para uma data incorreta.
+
+
+- Corrigido um problema em que se você criasse uma fórmula de campo personalizada que usasse as funções ProjectDate */ProjectDur*, e se o segundo parâmetro fosse as funções Date(), Now() ou Time() date e time, resultaria em um #ERROR.
+
+
+### <a name="word"></a>Word
+
+- Corrigido um problema em que os cartões contextuais de tela para ortografia e gramática mostram botões de ícones, mas esses botões não têm dicas de ferramentas.
+
+
+- Corrigido um problema em que o Painel do Editor não abria.
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -277,7 +390,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -293,7 +406,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -323,7 +436,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -809,6 +922,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
@@ -818,5 +932,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
