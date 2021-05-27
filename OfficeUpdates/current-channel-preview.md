@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
-ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
+ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
+ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52636525"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52662817"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -57,17 +57,13 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 - Corrigimos um problema que fazia com que alguns usuários experienciassem inesperadamente um encerramento ao carregar cartões de pessoas.
 
 
-- Corrigimos um problema que impedia a capacidade de colar como fórmulas em uma página protegida.
+- Adicionamos uma chave do Registro que desabilitava a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com Horários Sugeridos.
+    - Chave do Registro:
 
-    - Regkey:
-
-    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-
-    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
-
-    > (padrão) - O Outlook usa a nova plataforma OWA Powered eXwa quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
-
-    > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+        > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
 
 
 ### <a name="project"></a>Project

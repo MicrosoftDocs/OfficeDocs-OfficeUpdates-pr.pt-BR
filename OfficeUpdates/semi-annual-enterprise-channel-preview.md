@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do Canal Semestral (Direcionado) do Microsoft 365 Apps em 2021
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470775"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625926"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
@@ -159,6 +159,9 @@ As atualizações de segurança estão listadas aqui: [Notas de versão para atu
 - **Insira suas fotos do iPhone diretamente no Office:** Imagens HEIC do seu telefone agora são inseridas perfeitamente no Office. Não é necessário converter.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/insert-apple-photos-into-office-easily)
 
 - **Faça diagramas elegantes do Visio no Excel:** Crie diagramas baseados em dados como fluxogramas ou organogramas a partir de dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+- **Integração da AMSI com o Office for XLM macros:** AMSI é uma interface aberta disponível no Windows 10 para aplicativos para solicitar, em tempo de execução, uma verificação síncrona de um buffer de memória por um antivírus ou solução de segurança instalada. Quando atividade maliciosa é detectada, o usuário é notificado pelo Excel e a sessão do aplicativo é desligar para evitar quaisquer danos. Isto pode parar um ataque em seus rastros, protegendo tanto o dispositivo quanto o usuário. Ver detalhes em [postagem de blog](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/).
 
 ### <a name="outlook"></a>Outlook
 
