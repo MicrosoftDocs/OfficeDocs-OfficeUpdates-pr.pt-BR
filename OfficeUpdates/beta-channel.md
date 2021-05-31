@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625936"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699127"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,72 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2106-may-28"></a>Versão 2106: 28 de maio
+*Versão 2106 (Build 14122.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Explorador do Organograma** Exibir e navegar no organograma.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema em que os usuários não conseguiam mover itens entre pastas nas versões licenciadas do Outlook "não comercial".
+
+
+- Essa chave do registro desabilita a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com horários sugeridos.
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+  > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis</br>
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que as atribuições em tarefas agendadas manualmente podiam ser movidas para uma data incorreta.
+
+
+- Corrigimos um problema em que o pool de recursos não respondia e não podia ser aberto.
+
+
+- Corrigimos um problema em que um erro era gerado se você criava uma fórmula de campo personalizada que usava as funções ProjectDate */ProjectDur* com parâmetros de data ou hora específicos.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que alguns comentários não eram salvos ao exportar um documento para PDF.
+
+
+- Corrigimos um problema que impedia a edição de um novo comentário em uma área desprotegida de um documento quando a Edição Restrita é aplicada.
+
+
+- Corrigimos um problema relacionado à animação de rolagem desnecessária.
+
+
+- Corrigimos um problema que fez o painel de comentários ser fechado inesperadamente.
+
+
+- Corrigimos um problema que estava causando uma incompatibilidade entre o tema do painel do Editor e o tema do sistema.
+
+
+- Corrigimos um problema de desempenho relacionado ao trabalho com documentos grandes.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2106-may-21"></a>Versão 2106: 21 de maio
 *Versão 2106 (Build 14117.20000)*
@@ -3119,6 +3185,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|versão-2106-28 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
@@ -3128,5 +3195,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|versão-2105-09 de abril|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
