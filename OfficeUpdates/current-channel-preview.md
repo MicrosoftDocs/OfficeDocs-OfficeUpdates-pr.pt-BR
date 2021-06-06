@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662817"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742220"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,43 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-june-01"></a>Versão 2105: 1 de junho
+*Versão 2105 (Build 14026.20254)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Última entrada/Entrada suspeita:** o Outlook informa quando e onde você entrou pela última vez em sua conta e o alerta se qualquer atividade suspeita de entrada for detectada
+
+- **Ativar melhorias no calendário compartilhado:** Para calendários compartilhados no Office 365, o Outlook pode atualizar esses calendários usando a API REST. Ative a visualização para atualizações mais rápidas e confiáveis de calendários compartilhados.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/shared-calendars-improvements-in-outlook-for-windows)
+
+- **Sugestão do Verificador de Acessibilidade ao enviar emails para grandes usuários externos e de DL:** Adicionamos a funcionalidade para ser solicitado automaticamente, por meio de uma dica de email, de uma violação de acessibilidade ao redigir um email para muitas pessoas, usuários externos, etc. Essas configurações ficam na Facilidade de Acesso<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/sending-accessible-emails-in-outlook-for-windows)
+
+### <a name="visio"></a>Visio
+
+- **Estênceis e formas do AWS:** Agora temos estênceis com as últimas formas do AWS para ajudá-lo a criar diagramas. [Saiba mais](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Resolvemos um problema que pode causar um fechamento inesperado ao interagir com o Outlook Mail ou o Calendar Views.
+
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-may-23"></a>Versão 2105: 23 de maio
 *Versão 2105 (Build 14026.20246)*
@@ -2575,7 +2612,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2589,7 +2626,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
