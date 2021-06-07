@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699127"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790496"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,49 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2106-june-04"></a>Versão 2106: 4 de Junho
+*Versão 2106 (Build 14131.20008)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Configurações de detecção de tipo de dados:** configure o comportamento de detecção de tipo de dados ao importar dados de fontes não estruturadas com o Power Query no Excel
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema que garante que um arquivo salvo usando o botão 'Repetir Salvar' na barra de barramento seja adicionado à Lista Recente.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que o espaçamento entre caracteres aumentava para fontes específicas ao girá-las em 90 graus.
+
+
+- Corrigimos um problema em que às vezes as respostas aos comentários eram perdidas durante a coautoria com vários usuários.
+
+
+### <a name="office-suite"></a>Pacote de aplicativos do Office
+
+- Corrigimos um problema em que o recurso CLP anteriormente causava salvamentos não solicitados no arquivo SyncBacked (Arquivo sincronizado pelo OneDrive).
+
+
+- Corrigimos um problema em que o usuário não conseguia editar arquivos armazenados nos servidores OnPrem.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2106-may-28"></a>Versão 2106: 28 de maio
 *Versão 2106 (Build 14122.20004)*
@@ -3185,6 +3228,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|versão-2106-28 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|versão-2105-09 de abril|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

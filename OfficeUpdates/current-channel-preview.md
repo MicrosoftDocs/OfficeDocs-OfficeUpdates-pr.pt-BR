@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
-ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
+ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52742220"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790506"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,36 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2105-june-04"></a>Versão 2105: 4 de Junho
+*Versão 2105 (Build 14026.20264)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Configurações de detecção de tipo de dados:** configure o comportamento de detecção de tipo de dados ao importar dados de fontes não estruturadas com o Power Query no Excel
+
+### <a name="word"></a>Word
+
+- **Estilos de Redação:** Estilos de Redação seleciona críticas com base no nível de formalidade selecionado pelo usuário
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-june-01"></a>Versão 2105: 1 de junho
 *Versão 2105 (Build 14026.20254)*
@@ -2612,7 +2642,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2626,7 +2656,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
