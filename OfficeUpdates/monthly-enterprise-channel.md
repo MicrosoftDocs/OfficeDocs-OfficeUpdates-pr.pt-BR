@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Empresarial Mensal dos Aplicativos do Microsoft 365 Apps
-ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322321"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851861"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de versão para os lançamentos do Canal Empresarial Mensal
 
@@ -24,6 +24,160 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2104-june-08"></a>Versão 2104: 08 de junho
+*Versão 2104 (Build 13929.20408)*
+
+Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de sensibilidade agora podem ser salvos no AutoSave e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema onde alguns os arquivos ocasionalmente não abriam no Modo de Exibição Protegido.
+
+
+- Corrigimos um problema que fazia com que a formatação de data fosse exibida incorretamente em alguns idiomas ao adicionar suplementos.
+
+
+- Corrigido um problema em que o suplemento Ferramentas de Análise não funcionava para alguns usuários.
+
+
+- Corrigimos um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+- Correção de um problema em que uma reversão da compilação da versão principal poderia resultar no fechamento do aplicativo ao abrir o arquivo.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que alguns usuários do recurso de melhorias de compartilhamento do calendário tivessem problemas de interação com o calendário deles no painel de navegação.
+
+
+- Adicionamos uma chave do Registro que desabilitava a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com Horários Sugeridos.
+    
+    Chave do Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+    > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
+
+
+- Corrigimos um problema que fez com que a resolução de nomes falhasse ao enviar em nome de outro usuário e resolver contra um catálogo de endereços que não é a Lista de Endereços Global.
+
+
+- Corrigimos um problema que fazia com que a opção de comentários não aparecesse para usuários da versão prévia do Office Permanente 2021.
+
+
+- Corrigimos um problema que poderia fazer com que os usuários vissem a mensagem que eles estão compondo perdendo o foco da IU.
+
+
+- Resolvemos um problema que fez com que o Outlook anulasse as preferências da Caixa de Entrada Destaques configurada no OWA.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem as assinaturas desaparecerem inesperadamente.
+
+
+- Corrigimos um problema que fazia com que os usuários com configurações móveis experimentassem falta de resposta.
+
+
+- Corrigimos um problema que causava um fechamento inesperado do processo para os usuários ao pesquisar.
+
+
+- Corrigimos um fechamento inesperado relacionado à pesquisa.
+
+
+- Corrigimos um problema que fazia com que o seletor de pessoas no Outlook expandisse para cima em vez de para baixo para usuários com uma licença permanente.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que a opção Reutilizar Slides não estava disponível para alguns usuários.
+
+
+- Corrigimos um problema relacionado a imagens vinculadas.
+
+
+- Corrigimos um problema em que uma reversão da compilação da versão principal poderia resultar em um fechamento inesperado ao abrir o arquivo.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que os usuários não conseguiam remover projetos do pool de recursos.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema que exigia um alteração na edição do objeto OLE.
+
+
+- Corrigimos um problema em que alguns textos selecionados não ficavam visíveis ao usar o tema de modo escuro no modo de leitura.
+
+
+- Corrigimos um problema que poderia fazer com que o Word fechasse inesperadamente quando o usuário fizesse logoff ou reiniciasse o computador.
+
+
+- Corrigimos um problema onde se atualizava o texto sobre a chamada automática para arquivos salvos localmente.
+
+
+- Corrigimos um problema em que uma reversão da compilação da versão principal poderia resultar em um fechamento inesperado ao abrir o arquivo.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema que fazia com que o documento na nuvem não abrisse.
+
+
+- Essa mudança analisa o novo atributo TenantId enviado nas respostas do Cobalt e o armazena na Tabela Central.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2103-june-08"></a>Versão 2103: 08 de junho
+*Versão 2103 (Build 13901.20554)*
+
+Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrige um problema que fazia com que o Word, PowerPoint e Excel não abrisse um documento na nuvem se voltasse para uma versão anterior
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2103-may-11"></a>Versão 2103: 11 de maio
 *Versão 2103 (Build 13901.20516)*
@@ -711,6 +865,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
@@ -720,5 +875,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

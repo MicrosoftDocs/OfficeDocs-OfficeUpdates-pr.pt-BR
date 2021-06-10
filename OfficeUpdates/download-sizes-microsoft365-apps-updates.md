@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: b5d6ce1ddbc9004858d7078f9c942ce996d90989
-ms.sourcegitcommit: 869978fef16222d8c86af40239712b4f153dcfbb
+ms.openlocfilehash: ea81d4fc37d224d8b291ae95f2a1da8c49b0fb6a
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52776661"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851801"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -29,44 +29,56 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão de 64 bits em pt-br do Microsoft 365 Apps.
 > - Somente versões dos últimos quatro meses estão listadas.
 
-[//]: # (NÃO REMOVER)
+[//]: # (NÃO REMOVA)
 
-[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+## <a name="june-8-2021"></a>8 de junho de 2021
 
-## <a name="june-3-2021"></a>3 de junho de 2021
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO 8 de junho de 2021)
+
+### <a name="current-channel"></a>Canal Atual
+
+A versão mais atual é a Versão 2105 (Build 14026.20270).
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2105 (Build 14026.20246) <br/> |24 de maio de 2021 <br/> |59<br/> |
+|Versão 2104 (Build 13929.20386) <br/> |18 de maio de 2021 <br/> |215<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
 
-<i>O lançamento esperado é a Versão 2104 (Build 13929.20404).</i>
+A versão mais atual é a Versão 2104 (build 13929.20408).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 2103 (Build 13901.20516) <br/> |11 de maio de 2021 <br/> |172<br/> |
+|Versão 2103 (Build 13901.20516) <br/> |11 de maio de 2021 <br/> |171<br/> |
 
 
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Pré-visualização)
 
-<i>O lançamento esperado é a Versão 2102 (Build 13801.20720).</i>
+A versão mais atual é a Versão 2102 (build 13801.20738).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 2102 (Build 13801.20638) <br/> |11 de maio de 2021 <br/> |47<br/> |
-|Versão 2102 (Build 13801.20506) <br/> |13 de abril de 2021 <br/> |50<br/> |
+|Versão 2102 (Build 13801.20638) <br/> |11 de maio de 2021 <br/> |48<br/> |
+|Versão 2102 (Build 13801.20506) <br/> |13 de abril de 2021 <br/> |51<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
 
-<i>O lançamento esperado é a Versão 2008 (Build 13127.21650).</i>
+A versão mais atual é a Versão 2008 (build 13127.21668).
 
 |**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
 |:-----|:-----|:-----|
-|Versão 2008 (Build 13127.21624) <br/> |11 de maio de 2021 <br/> |56<br/> |
-|Versão 2008 (Build 13127.21506) <br/> |13 de abril de 2021 <br/> |57<br/> |
+|Versão 2008 (Build 13127.21624) <br/> |11 de maio de 2021 <br/> |62<br/> |
+|Versão 2008 (Build 13127.21506) <br/> |13 de abril de 2021 <br/> |62<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (NÃO REMOVA O FINAL DO CONTEÚDO 8 de junho de 2021)
+
+
+
 
 ## <a name="may-24-2021"></a>24 de maio de 2021
 

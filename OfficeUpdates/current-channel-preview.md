@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790506"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851841"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,196 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2106-june-07"></a>Versão 2106: 07 de junho
+*Versão 2106 (Build 14131.20012)*
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema que impedia o Gerenciador de Nomes de abrir livros com um grande número de nomes ocultos.
+
+
+- Corrigimos um problema que afetava o desempenho do VLOOKUP e ÍNDICE/MATCH ao preencher uma grande quantidade de dados.
+
+
+- Corrigimos um problema que faz com que as Matrizes Dinâmicas não atualizem os valores de células quando referenciadas pelas funções RealTimeData.
+
+
+- Corrigimos um problema em que o modo Sobrescrever do IME não estava digitando sobre os caracteres, ele os deixava no final da cadeia de caracteres.
+
+
+- Corrigimos um problema relacionado à rolagem com dois dedos ao usar painéis congelados.
+
+
+- Corrigimos um problema relacionado a problemas de memória durante a impressão em impressoras de formato grande.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que usuários vissem mensagens acionáveis ao atualizarem constantemente ou voltando aos cabeçalhos após o download durante a execução do modo Baixar Somente Cabeçalhos.
+
+
+- Corrigimos um problema em que os usuários não conseguiam mover itens entre pastas nas versões licenciadas do Outlook "não comercial".
+
+
+- Corrigimos um problema que causava um fechamento inesperado para os usuários ao remover pastas de um armazenamento de arquivo morto.
+
+
+- Corrigimos um problema que causava um encerramento inesperado para alguns usuários ao carregar cartões de pessoas.
+
+
+- Corrigimos um problema que fazia com que o seletor de pessoas no Outlook expandisse para cima em vez de para baixo para usuários com uma licença permanente.
+
+
+- Corrigimos um problema que fazia com que a opção de comentários não aparecesse para usuários da versão prévia do Office Permanente 2021.
+
+
+- Corrigimos um problema que fazia com que os usuários vissem cópias de todos os itens enviados aparecendo na pasta Caixa de Saída.
+
+
+- Corrigimos um problema que fazia com que usuários de domínios personalizados vissem uma mensagem de aviso sobre permissões ao colar um link em uma mensagem de email.
+
+
+- Adicionamos uma chave do Registro que desabilitava a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com Horários Sugeridos.
+
+    Chave do Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis  </br>
+    > 1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis </br>
+
+
+- Corrigimos um problema que causava um fechamento inesperado ao usar o programa Ler em Voz Alta com outras versões do Windows.
+
+
+- Corrigimos um problema que causava um travamento para os usuários ao remover pastas de um armazenamento de arquivo morto.
+
+
+- Corrigimos um problema que causava um encerramento para alguns usuários ao carregar cartões de pessoas.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema que impedia a cópia do painel de anotações do orador no modo Somente Leitura.
+
+
+- Corrigimos um problema que garante que um arquivo salvo usando o botão 'Repetir Salvar' na barra de barramento seja adicionado à Lista Recente.
+
+
+- Corrigido um problema em que a opção Reutilizar Slides não estava disponível para alguns usuários.
+
+
+### <a name="project"></a>Project
+
+- Corrigimos um problema em que as atribuições em tarefas agendadas manualmente podiam ser movidas para uma data incorreta.
+
+
+- Corrigimos um problema em que o pool de recursos não respondia e não podia ser aberto.
+
+
+- Corrigimos um problema em que um erro era gerado se você criava uma fórmula de campo personalizada que usava as funções ProjectDate */ProjectDur* com parâmetros de data ou hora específicos.
+
+
+### <a name="word"></a>Word
+
+- Corrige um problema em que um comentário fica temporariamente em branco após a postagem.
+
+
+- Corrigimos um problema em que uma mensagem de erro Salvar como era exibida mesmo depois que um usuário optou por descartar alterações.
+
+
+- Corrigimos um problema que impedia que as imagens fosse postadas em comentários modernos.
+
+
+- Corrigimos um problema em que pressionar combinações de teclas, como ctrl + shift + @ não produzia o caractere acentuado esperado (neste caso, 'å').
+
+
+- Corrigimos um problema relacionado a imagens vinculadas.
+
+
+- Corrigimos um problema em que o painel Revisão podia rolar ou parecer rolar, mas não se alinhava ao comentário selecionado.
+
+
+- Corrigimos um problema em que alguns comentários não eram salvos ao exportar um documento para PDF.
+
+
+- Corrigimos um problema que impedia a edição de um novo comentário em uma área desprotegida de um documento quando a Edição Restrita é aplicada.
+
+
+- Corrigimos um problema relacionado à animação de rolagem desnecessária.
+
+
+- Corrigimos um problema em que o painel Comentários fechava inesperadamente.
+
+
+- Corrigimos um problema em que os comentários não eram realçados quando selecionados.
+
+
+- Corrigimos um problema que fez com que a seleção no documento não fosse desmarcada ao clicar fora de um comentário recém-criado.
+
+
+- Corrigimos um problema em que copiar um anexo de email para um aplicativo diferente do Word falhava se o nome do arquivo tivesse caracteres DBCS.
+
+
+- Corrigimos um problema que causava um fechamento inesperado ao usar o programa Ler em Voz Alta com outras versões do Windows.
+
+
+- Corrigimos um problema em que os cartões contextuais de tela para ortografia e gramática mostram botões de ícones, mas esses botões não têm dicas de ferramentas.
+
+
+- Corrigimos um problema que estava causando uma incompatibilidade entre o tema do painel do Editor e o tema do sistema.
+
+
+- Corrigimos um problema em que o Painel do Editor não abria.
+
+
+- Corrigimos um problema em que textos sublinhados de similaridade não desaparecem ao alternar para a categoria Ortografia no Editor. 
+
+
+- Corrigimos um problema em que o Word ocasionalmente exibia uma borda em volta do texto que não deveria estar lá.
+
+
+- Corrigimos um problema em que o espaçamento entre caracteres aumentava para fontes específicas ao girá-las em 90 graus.
+
+
+- Corrigimos um problema em que o campo errado estava sendo atualizado ao executar uma macro, caso as restrições de edição fossem aplicadas.
+
+
+- Corrigimos um problema em que às vezes as respostas aos comentários eram perdidas durante a coautoria com vários usuários.
+
+
+- Corrigimos um problema de desempenho relacionado ao trabalho com documentos grandes.
+
+
+- Corrigimos um problema em que alguns arquivos do Word não abrem devido a indicadores corrompidos.
+
+
+### <a name="office-suite"></a>Pacote de aplicativos do Office
+
+- Corrigimos um problema em que o recurso CLP anteriormente causava salvamentos não solicitados no arquivo SyncBacked (Arquivo sincronizado pelo OneDrive).
+
+
+- Corrigimos um problema em que o usuário não conseguia editar arquivos armazenados nos servidores OnPrem.
+
+
+- Corrigimos uma regressão de desempenho ao abrir arquivos SyncBacked.
+
+
+- Corrigimos um problema em que o OneDrive exibia uma mensagem de erro de mesclagem quando não havia conflito de mesclagem.
+
+
+- Corrigimos um problema em que entrar com uma conta diferente poderia resultar em uma falha.
+
+
+- Corrigimos um problema relacionado a ordem z de objetos SVG quando convertidos em formas.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2105-june-04"></a>Versão 2105: 4 de Junho
 *Versão 2105 (Build 14026.20264)*
@@ -53,7 +243,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Corrigido um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+- Corrigimos um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
 
 
 
@@ -2642,7 +2832,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2656,7 +2846,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
