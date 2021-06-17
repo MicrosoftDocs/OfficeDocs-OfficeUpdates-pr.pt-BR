@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563377"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949831"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,22 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+## <a name="june-2021-release"></a>Versão de junho de 2021
+
+**Data do lançamento:** 15 de junho de 2021
+
+*Microsoft AutoUpdate 4.36*
+
+**Correção de bugs e melhorias:**
+- Indicador de Progresso do Docktile — o MAU agora mostra a indicação de progresso no ícone exibido na plataforma.
+- Conclusão oportunista da atualização — o MAU tentará aplicar atualizações atrasadas durante o desligamento/reinicialização do dispositivo.
+
+[Baixar o Pacote do Microsoft AutoUpdate 4.36](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
+
 
 ## <a name="may-2021-release"></a>Lançamento de maio de 2021
 
@@ -238,7 +254,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - Reversão do recurso introduzido na versão de abril com o qual usuários com Atualizações Automáticas estavam vendo a interface do Microsoft AutoUpdate apenas uma vez por semana.
 - Correção de um problema no qual o Assistente de Atualização estava sendo fechado antes de a instalação começar, após baixar as atualizações.
 - Correção de um problema no qual o Assistente de Atualização não fechava após um período prolongado de notificações do usuário pendentes.
-- Correção de um problema no qual a interface do Microsoft AutoUpdate (MAU) estava reabrindo (ou não podia ser reaberta) após a instalação. A interface do usuário deveria reabrir após a instalação caso a atualização tivesse sido iniciada a partir da própria interface do MAU, ou se uma atualização fosse iniciada explicitamente pelo usuário (por meio do Finder, do Terminal etc.).
+- Correção de um problema em que a interface do Microsoft AutoUpdate (MAU) estava reabrindo (ou não podia ser reaberta) após a instalação. A interface do usuário deveria reabrir após a instalação caso a atualização tivesse sido iniciada a partir da própria interface do MAU, ou se uma atualização fosse iniciada explicitamente pelo usuário (por meio do Finder, do Terminal etc.).
 
 **SHA-256 Hash:**
 

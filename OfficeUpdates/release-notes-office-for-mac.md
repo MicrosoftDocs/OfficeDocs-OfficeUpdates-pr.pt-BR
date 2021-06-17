@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
+ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625946"
+ms.lasthandoff: 06/15/2021
+ms.locfileid: "52949841"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -59,6 +59,53 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+
+
+
+## <a name="june-15-2021"></a>15 de junho de 2021
+*Versão 16.50 (Build 21061301)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de confidencialidade agora podem ser salvos automaticamente, e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+### <a name="outlook"></a>Outlook
+
+- **Veja o horário comercial de outros usuários!:** Agora você pode ver o horário comercial dos participantes no Novo Outlook para Mac!
+
+- **A fixação agora está disponível no Novo Outlook para Mac:** a fixação já está disponível no Novo Outlook para Mac<br />Confira os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/pin-messages-to-top-of-your-inbox-in-outlook-for-mac)
+
+- **Suporte do WkWebview para Suplementos Contextuais:** os Suplementos Contextuais agora têm suporte no novo painel de leitura WkWebview
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de confidencialidade agora podem ser salvos automaticamente, e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+- **Biblioteca de Vídeo:** eleve seus documentos com uma biblioteca de vídeo de royalties livres e gratuitas selecionadas disponíveis no aplicativo
+
+### <a name="word"></a>Word
+
+- **Salvamento automático e coautoria em documentos criptografados confidenciais:** Não troque produtividade por segurança. Com a Proteção de Informações da Microsoft, os documentos criptografados com rótulos de confidencialidade agora podem ser salvos automaticamente, e em coautoria com outras pessoas em tempo real, assim como os documentos não criptografados. Requer adesão do locatário (mais informações: https://aka.ms/mipcoauth).
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
 ## <a name="may-11-2021"></a>11 de maio de 2021
 *Versão 16.49 (Build 21050901)*
@@ -1122,7 +1169,7 @@ Esta versão oferece as seguintes atualizações:
 |**Application**|**Atualizações de recurso**|**Atualizações de segurança**|**Link para baixar o pacote de atualização**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Do iPhone para o Word em um piscar de olhos:** use a câmera de continuidade da Apple para inserir uma foto do seu iPhone em seu documento. Requer Mojave macOS. [Saiba mais](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Aplique rótulos de confidencialidade de documentos:** aplique rótulos de confidencialidade aos seus documentos para que fiquem em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0561): vulnerabilidade de divulgação de informações do Microsoft Word  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2019-0585): vulnerabilidade de Execução Remota do Código do Microsoft Word |[Pacote de atualização do Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Suporte para SVG:** insira e edite SVGs nas pastas de trabalho para adicionar um impacto visual. [Saiba Mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Mais opções de formatação para gráficos de Histograma, Cascata, Mapa de Árvore, Explosão Solar e Mapa:** você tem mais controle sobre as opções de formatação para novos tipos de gráficos ao usar o painel de formatação.|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **Colabore com os comentários:** Mantenha a conversa em andamento na sua planilha com a caixa de resposta integrada.[Saiba mais](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Aplique rótulos de confidencialidade às suas planilhas:** aplique rótulos de confidencialidade às suas planilhas para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Suporte para SVG:** insira e edite SVGs nas pastas de trabalho para adicionar um impacto visual. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Mais opções de formatação para gráficos de Histograma, Cascata, Mapa de Árvore, Explosão Solar e Mapa:** você tem mais controle sobre as opções de formatação para novos tipos de gráficos ao usar o painel de formatação.|[Pacote de atualização do Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Imprimir números de slide em folhetos:** quando você imprime uma apresentação em folhetos, cada slide mostrará um número de acompanhamento do slide. <br/><br/> **Aplique rótulos de confidencialidade às suas apresentações:** aplique rótulos de confidencialidade às suas apresentações para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Inserir um subconjunto de fontes:** insira somente os caracteres usados na apresentação. [Saiba Mais](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Pacote de atualização do PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Aplique rótulos de confidencialidade às suas mensagens:** aplique rótulos de confidencialidade às suas mensagens para mantê-las em conformidade com políticas de proteção de informações da sua organização.  [Saiba mais](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Capacidade de inserir SVG com filtros aplicados:** Usuários do Office agora têm a capacidade de inserir SVG que têm filtros aplicados a eles. [Saiba mais](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Localize um email rapidamente na caixa de correio atual:** selecione a caixa de pesquisa para sugestões rápidas baseadas no seu histórico recente de buscas. Não precisa digitar. [Saiba Mais](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Adicionar contas do Gmail ficou mais fácil:** com as melhorias de segurança, você não precisa mais permitir acesso a "aplicativos menos seguros" ou definir uma senha de aplicativo para adicionar sua conta do Gmail ao Outlook.<br/><br/>**O Outlook para Mac agora destaca os termos de pesquisa:** você já tentou pesquisar por algo e desejou que o Outlook destacasse seu termo de pesquisa na lista de itens e no painel de visualização? Sua espera acabou!||[Pacote de atualização do Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Atualização automática do Microsoft 4.7 <br/>| O Daemon AutoUpdate agora é inicializado como parte do processo de instalação. Isso elimina caixas de diálogo de segurança confusas que foram mostradas anteriormente aos usuários. <br/><br/> Os recursos de segurança do Microsoft AutoUpdate foram aprimorados para oferecer suporte a certificados SHA256. <br/>|<br/> | [Pacote de atualização do Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
