@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 6ca376f15c7915675ac0bbc1eeb44f4479402ebe
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
+ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899904"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53025107"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,41 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2107-june-18"></a>Versão 2107: 18 de junho
+*Versão 2107 (Build 14210.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Última entrada/Entrada suspeita:** o Outlook informa quando e onde você entrou pela última vez em sua conta e o alerta se qualquer atividade suspeita de entrada for detectada
+
+- **Leia mensagens com menos distrações:** torne mais fácil se concentrar em mensagens com espaçamento de texto personalizado, cores de página, largura de coluna e foco de linha, ativando o Leitura Avançada.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Access
+
+- Corrigido um problema que pode fazer com que os aplicativos que usam a API OLEDB do Mecanismo de Banco de Dados do Access com um banco de dados contendo links para listas do Microsoft Office SharePoint Online fechem inesperadamente.
+
+- Corrigido um problema que pode fazer com que os aplicativos que usam a API ODBC do Mecanismo de Banco de Dados do Access fechem inesperadamente.
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que os comentários se tornavam somente leitura durante a colaboração.
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2107-june-11"></a>Versão 2107: 11 de junho
 *Versão 2107 (build 14204.20006)*
@@ -3261,6 +3296,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|versão-2106-28 de maio|)
@@ -3270,5 +3306,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|versão-2105-09 de abril|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
