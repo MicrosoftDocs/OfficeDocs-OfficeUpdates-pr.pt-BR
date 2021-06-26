@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025107"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132831"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,62 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2107-june-25"></a>Versão 2107: 25 de junho
+*Versão 2107 (Build 14217.20002)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Fixamos um problema onde os valores dos eixos do gráfico não poderiam ser alterados se tanto os separadores de mil como os decimais usassem o mesmo símbolo.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Fixamos um problema relacionado aos nós do SmartArt que têm a Change Shape desativada.
+
+
+### <a name="project"></a>Project
+
+- Fixamos um problema onde os compromissos criados no Project Web App poderiam não ser carregados corretamente no cliente desktop do projeto se o nome do recurso tivesse caracteres especiais, como um ponto e vírgula.
+
+
+- Fixamos um problema onde, quando a opção de projeto "Projeto deve calcular custos" é desativada, então os valores de custo faseados no tempo podem não ter sido linha de base para recursos do tipo custo corretamente.
+
+
+- Fixamos um problema onde os campos personalizados da empresa em nível de projeto com tabelas de pesquisa não estavam mostrando um valor no cliente desktop do projeto.
+
+
+- Fixamos um problema onde salvar um projeto local para o Project Web App poderia mudar uma linha de base previamente salva.
+
+
+### <a name="word"></a>Palavra
+
+- Fixamos um problema onde permitir salvamento automático poderia fazer com que as edições recentes desaparecessem temporariamente.
+
+
+- Fixamos um problema com a rolagem no painel de comentários.
+
+
+- Fixamos um problema onde o texto do cabeçalho/rodapé não era claramente visível na visualização da impressão quando o tema do Office foi definido como preto.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Fixamos um problema onde os hyperlinks, incluindo dígitos, seriam quebrados ao compor uma mensagem no Outlook em uma linguagem da direita para a esquerda.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2107-june-18"></a>Versão 2107: 18 de junho
 *Versão 2107 (Build 14210.20004)*
@@ -2239,7 +2295,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -3296,6 +3352,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
