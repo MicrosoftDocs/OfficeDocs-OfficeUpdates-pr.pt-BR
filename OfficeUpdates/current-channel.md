@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022114"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206303"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -30,6 +30,66 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2106-june-29"></a>Versão 2106: 29 de junho
+*Versão 2106 (Build 14131.20278)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Última entrada/Entrada suspeita:** o Outlook informa quando e onde você entrou pela última vez em sua conta e o alerta se qualquer atividade suspeita de entrada for detectada
+
+- **Sugestão do Verificador de Acessibilidade ao enviar emails para grandes usuários externos e de DL:** Adicionamos a funcionalidade para ser solicitado automaticamente, por meio de uma dica de email, de uma violação de acessibilidade ao redigir um email para muitas pessoas, usuários externos, etc. Essas configurações ficam na Facilidade de Acesso<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/sending-accessible-emails-in-outlook-for-windows)
+
+- **Obtenha sugestões de arquivos relevantes ao pesquisar:** ao digitar na caixa Pesquisar, os arquivos mais relevantes relacionados à sua pesquisa serão incluídos nas suas sugestões.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que causava problemas de desempenho em dispositivos ARM64.
+
+
+- Corrigimos um problema que fazia com que as opções de tradução fossem desabilitadas para alguns usuários.  Os clientes que experimentaram esse bug teriam visto suas opções de tradução desabilitadas ao navegar para Arquivo -> Opções -> Linguagem. Devido a isso, eles não poderiam alterar sua linguagem de tradução preferida e outras configurações relacionadas à tradução.
+
+
+- Corrigimos um problema que fazia com que os usuários da opção Melhorias do Calendário do Outlook compartilhado, que tinham muitos calendários compartilhados, tivessem alguns problemas de desempenho.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que um usuário não conseguia inserir credenciais em uma caixa de diálogo de Segurança do Windows para abrir um arquivo devido a uma caixa de diálogo específica do PowerPoint obstrutiva.
+
+
+### <a name="visio"></a>Visio
+
+- Links SPO/ODB com acesso de convidado agora funcionarão.
+
+
+### <a name="word"></a>Word
+
+- Corrigido um problema para persistir citações em um arquivo docx protegido por senha.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido o cenário de alternância de dados do usuário quando o usuário alterna entre as identidades do Active Directory a partir do controle Me em aplicativos do Office.
 
 
 [//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
@@ -449,7 +509,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -465,7 +525,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de mensagens com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz, pontuação automática e muito mais para escrever mensagens.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -495,7 +555,7 @@ Atualizações de segurança listadas [aqui](https://docs.microsoft.com/officeup
 
 - **Rascunho de documentos com sua voz:** Utilize a nova barra de ferramentas de ditado, comandos de voz e pontuação automática para rascunhar documentos.
 
-- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: aplique rótulos de confidencialidade aos seus documentos e emails:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes DoD. [Saiba Mais](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 
@@ -981,6 +1041,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 > Se precisar de ajuda com um problema ao usar o Office, recomendamos que você publique suas dúvidas no [Fórum de Respostas da Microsoft](https://answers.microsoft.com/) ou na [Comunidade de Tecnologia](https://techcommunity.microsoft.com/) ou contate o [suporte](https://support.microsoft.com/contactus).
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
