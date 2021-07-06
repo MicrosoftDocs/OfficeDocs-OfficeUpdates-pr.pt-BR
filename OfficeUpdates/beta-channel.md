@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132831"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278744"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,87 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2107-july-02"></a>Versão 2107: 02 de julho
+*Versão 2107 (Build 14228.20044)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+### <a name="outlook"></a>Outlook
+
+- **Solicitação de Encaminhamento de Reunião REST:** permite que os usuários encaminhem uma reunião recusada anteriormente para calendários compartilhados REST.
+
+- **Ler em Voz Alta ficou ainda melhor:** a barra de ferramentas Ler em Voz Alta apresenta novas opções de voz com som natural
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+### <a name="word"></a>Word
+
+- **Pesquise com sua voz:** Toque ou clique no microfone na barra de pesquisa para usar sua voz no Word para encontrar comandos, conteúdo e muito mais.
+
+- **Opções de voz mais naturais para Ler em Voz Alta:** experimente uma nova voz com som mais natural na barra de ferramentas Ler em Voz Alta. [Saiba mais](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que uma exceção ocorreu de uma execução de CFR.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que as opções de tradução fossem desabilitadas para alguns usuários.  Os clientes que experimentaram esse bug teriam visto suas opções de tradução desabilitadas ao navegar para Arquivo -> Opções -> Linguagem. Devido a isso, eles não poderiam alterar sua linguagem de tradução preferida e outras configurações relacionadas à tradução.
+
+
+- Corrigimos um problema relacionado ao status de resposta "falha ao carregar". O sinalizador de resposta padrão foi definido como "Nenhum". Não mostramos nenhuma cadeia de caracteres na interface do usuário ao passar o mouse sobre um calendário em que não temos permissões de edição.
+
+
+- Corrigimos um problema em que o aumento de texto padrão inclui o dimensionamento de texto, portanto, outra chamada de LayoutChanged não precisa ser usada.
+
+
+- Corrigimos um problema em que as dicas de email não eram exibidas para endereços individuais.
+
+
+- Adicionamos uma chave de registro para permitir que o formulário de Caixa Postal seja exibido na interface do usuário no Outlook Desktop, devido à desativação da Unificação de Mensagens no Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Para usuários, empresas e organizações que desejam que o formulário de Caixa Postal apareça, a seguinte chave de registro precisa ser definida: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema que melhora a integração com o novo painel de comentários no Word e no JAWS, um software popular de leitura de tela.
+
+
+- Corrigimos um problema relacionado ao uso de um CommentId diferente de lTagNil para seleção e realce desmarcados.
+
+
+- Corrigimos um problema em que a fila de descarregamento não respondia.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema de localização em que en-gb, fr-ca e es-mx agora correspondem às respectivas versões pai.
+
+
+- Corrigimos um problema em que as configurações de compartilhamento entre OMEX e ExCatalog não eram mais possíveis, como para atualizações de configurações de suplemento Web para o webextension.xml, já que um novo arquivo webextension é criado. O anterior só foi acessado quando o suplemento foi implantado no método original ou a nova comparação de referência de solução foi desativada.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2107-june-25"></a>Versão 2107: 25 de junho
 *Versão 2107 (Build 14217.20002)*
@@ -3352,6 +3433,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
