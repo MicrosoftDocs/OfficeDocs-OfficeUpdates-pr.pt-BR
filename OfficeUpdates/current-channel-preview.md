@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204696"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309184"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,156 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2107-july-06"></a>Versão 2107: 06 de julho
+*Versão 2107 (Build 14228.20044)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="excel"></a>Excel
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+- **Clientes governamentais: enviar dados de auditoria sobre rotulagem de confidencialidade para os administradores do M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+- **Clientes governamentais: enviar dados de auditoria sobre rotulagem de confidencialidade para os administradores do M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+### <a name="word"></a>Word
+
+- **Tipos de arquivo adicionais com suporte para o cenário salvar como:** Além de salvar arquivos, você pode salvar arquivos em outros tipos de arquivo.
+
+- **Clientes governamentais: enviar dados de auditoria sobre rotulagem de confidencialidade para os administradores do M365:** Quando os usuários aplicarem, alterarem ou removerem as etiquetas de confidencialidade em seus documentos e emails, o Office enviará os dados de auditoria para o back-end de auditoria M365 para que os administradores possam ver. Esta é uma funcionalidade silenciosa (sem IU) para benefício do administrador.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="access"></a>Acesso
+
+- Corrigido um problema que pode fazer com que os aplicativos que usam a API ODBC do Mecanismo de Banco de Dados do Access fechem inesperadamente.
+
+
+- Corrigido um problema que pode fazer com que os aplicativos que usam a API OLEDB do Mecanismo de Banco de Dados do Access com um banco de dados contendo links para listas do Microsoft Office SharePoint Online fechem inesperadamente.
+
+
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que uma exceção ocorreu de uma execução de CFR.
+
+
+- Resolvemos um problema onde os valores dos eixos do gráfico não poderiam ser alterados se tanto os separadores de mil como os decimais usassem o mesmo símbolo.
+
+
+- Corrigimos um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+- Corrigimos um problema em que uma guia de trabalho salva apareça na parte superior da lista Recentes ao salvar em uma biblioteca de documentos do SPO.
+
+
+- Corrigimos um problema em que uma janela duplicada em branco seria aberta quando suplementos herdados estão habilitados.
+
+
+### <a name="onenote"></a>OneNote
+
+- Corrigimos um problema em que copiar um link para um parágrafo nem sempre redirecionava para a página correta.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que as opções de tradução fossem desabilitadas para alguns usuários.  Os clientes que experimentaram esse bug teriam visto suas opções de tradução desabilitadas ao navegar para Arquivo -> Opções -> Linguagem. Devido a isso, eles não poderiam alterar sua linguagem de tradução preferida e outras configurações relacionadas à tradução.
+
+
+- Corrigimos um problema relacionado ao status de resposta "falha ao carregar". O sinalizador de resposta padrão foi definido como "Nenhum". Não mostramos nenhuma cadeia de caracteres na interface do usuário ao passar o mouse sobre um calendário em que não temos permissões de edição.
+
+
+- Corrigimos um problema em que o aumento de texto padrão inclui o dimensionamento de texto, portanto, outra chamada de LayoutChanged não precisa ser usada.
+
+
+- Corrigimos um problema em que as dicas de email não eram exibidas para endereços individuais.
+
+
+- Adicionamos uma chave de registro para permitir que o formulário de Caixa Postal seja exibido na interface do usuário no Outlook Desktop, devido à desativação da Unificação de Mensagens no Exchange Online (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Para usuários, empresas e organizações que desejam que o formulário de Caixa Postal apareça, a seguinte chave de registro precisa ser definida: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- Corrigimos um problema que fazia com que os usuários com um grande número de Grupos não respondessem ao iniciar o Outlook.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Fixamos um problema relacionado aos nós do SmartArt que têm a Change Shape desativada.
+
+
+### <a name="project"></a>Project
+
+- Fixamos um problema onde os compromissos criados no Project Web App poderiam não ser carregados corretamente no cliente desktop do projeto se o nome do recurso tivesse caracteres especiais, como um ponto e vírgula.
+
+
+- Fixamos um problema onde, quando a opção de projeto "Projeto deve calcular custos" é desativada, então os valores de custo faseados no tempo podem não ter sido linha de base para recursos do tipo custo corretamente.
+
+
+- Fixamos um problema onde os campos personalizados da empresa em nível de projeto com tabelas de pesquisa não estavam mostrando um valor no cliente desktop do projeto.
+
+
+- Fixamos um problema onde salvar um projeto local para o Project Web App poderia mudar uma linha de base previamente salva.
+
+
+### <a name="visio"></a>Visio
+
+- Esse problema de navegação de hiperlink foi corrigido na compilação mais recente. Os usuários podem continuar acessando hiperlinks diretamente para navegar até o arquivo vinculado desejado localizado em seu OneDrive for Business, usando <CTRL> + clique na forma com o hiperlink.
+
+
+### <a name="word"></a>Palavra
+
+- Fixamos um problema onde permitir salvamento automático poderia fazer com que as edições recentes desaparecessem temporariamente.
+
+
+- Corrigimos um problema que melhora a integração com o novo painel de comentários no Word e no JAWS, um software popular de leitura de tela.
+
+
+- Corrigimos um problema relacionado ao uso de um CommentId diferente de lTagNil para seleção e realce desmarcados.
+
+
+- Corrigimos um problema em que os comentários se tornavam somente leitura durante a colaboração.
+
+
+- Fixamos um problema com a rolagem no painel de comentários.
+
+
+- Corrigimos um problema em que a fila de descarregamento não respondia.
+
+
+- Fixamos um problema onde o texto do cabeçalho/rodapé não era claramente visível na visualização da impressão quando o tema do Office foi definido como preto.
+
+
+- Corrigimos um problema em que quadrados apareceram ao usar o Suplemento Manuscript Paper do Microsoft Word.
+
+
+- Corrigimos um problema em que algumas páginas da visualização de impressão estavam em branco.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+
+- Fixamos um problema onde os hyperlinks, incluindo dígitos, seriam quebrados ao compor uma mensagem no Outlook em uma linguagem da direita para a esquerda.
+
+
+- Corrigimos um problema de localização em que en-gb, fr-ca e es-mx agora correspondem às respectivas versões pai.
+
+
+- Corrigimos um problema em que as configurações de compartilhamento entre OMEX e ExCatalog não eram mais possíveis, como para atualizações de configurações de suplemento Web para o webextension.xml, já que um novo arquivo webextension é criado. O anterior só foi acessado quando o suplemento foi implantado no método original ou a nova comparação de referência de solução foi desativada.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2106-june-29"></a>Versão 2106: 29 de junho
 *Versão 2106 (Build 14131.20278)*
@@ -2921,7 +3071,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-04"></a>Versão 2008: 04 de setembro
 *Versão 2008 (Criação 13127,20378)*
@@ -2935,7 +3085,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 
 
 
-[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO BUGDETAILS)
+[//]: # (NÃO REMOVA O CONTEÚDO FINAL DO REGISTRO DE ERROS)
 
 ## <a name="version-2008-september-02"></a>Versão 2008: 2 de setembro
 *Versão 2008 (Build 13127.20360)*
@@ -4548,7 +4698,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 
 - Correção de um problema em que a porcentagem concluída da tarefa estava incorretamente alterando para um valor menor que 100% concluído depois de ser marcado como concluído.
 
@@ -4606,7 +4756,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
 
-### <a name="project"></a>Projeto
+### <a name="project"></a>Project
 - Correção de um problema em que as datas da tarefa resumo não eram sempre calculadas corretamente.
 
 
