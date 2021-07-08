@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para os lançamentos do Canal Mensal do Microsoft 365 Apps
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206303"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323558"
 ---
 # <a name="release-notes-for-current-channel"></a>Notas de versão do lançamento do Canal Atual
 
@@ -63,8 +63,9 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 
 ### <a name="outlook"></a>Outlook
 
-- Corrigimos um problema que causava problemas de desempenho em dispositivos ARM64.
+- Corrigimos um problema em que uma política de retenção para Skype for Business ou Microsoft Teams era mostrada como a política de pasta padrão quando você visualizava as propriedades de uma pasta de caixa de correio, em vez da política de retenção de caixa de correio aplicada à pasta.
 
+- Corrigimos um problema que causava problemas de desempenho em dispositivos ARM64.
 
 - Corrigimos um problema que fazia com que as opções de tradução fossem desabilitadas para alguns usuários.  Os clientes que experimentaram esse bug teriam visto suas opções de tradução desabilitadas ao navegar para Arquivo -> Opções -> Linguagem. Devido a isso, eles não poderiam alterar sua linguagem de tradução preferida e outras configurações relacionadas à tradução.
 
