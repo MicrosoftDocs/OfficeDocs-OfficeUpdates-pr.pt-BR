@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
+ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347964"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53364078"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,52 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2108-july-09"></a>Versão 2108: 09 de julho
+*Versão 2108 (Build 14301.20004)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Desabilite as Respostas Sugeridas:** o Outlook [torna mais fácil responder mais rápido](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) a emails, oferecendo respostas curtas sugeridas para mensagens que podem ser respondidas com apenas algumas palavras. Alguns usuários podem não querer ver esta opção, então agora é possível desativar o recurso. Para fazer isso, selecione Arquivo> Opções> Email, vá para a seção Respostas e encaminhamentos e desmarque a caixa de seleção Mostrar respostas sugeridas.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que um arquivo vinculado ao PowerPoint ficava indisponível quando o arquivo .xlsx de origem já estava sendo executado em tela de fundo e ambos os arquivos eram abertos na pasta ODB local sincronizada.
+
+
+- Corrigimos um problema em que nomes de função localizados agora são reconhecidos ao abrir arquivos CSV.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema relacionado ao tamanho da impressão ser muito pequeno no Word Mobile.
+
+
+- Corrigimos um problema em que um arquivo adicionado a uma biblioteca de documentos do Microsoft Office SharePoint Online herdaria a configuração "Mostrar painel de informações do documento" imediatamente após a abertura e permaneceria se o arquivo fosse removido do Microsoft Office SharePoint Online.
+
+
+- Corrigimos um problema em que um nome de pasta que não terminava com "/" era interpretado incorretamente pelo analisador de URL.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos um problema em que as propriedades do DropShadow adicionadas na caixa de pesquisa tornavam a TitleBar muito alta, criando bugs de layout.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2107-july-02"></a>Versão 2107: 02 de julho
 *Versão 2107 (Build 14228.20044)*
@@ -3435,6 +3481,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
@@ -3444,5 +3491,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
