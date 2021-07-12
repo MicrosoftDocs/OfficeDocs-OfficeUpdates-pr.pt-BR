@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278744"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347964"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -296,6 +296,8 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
 
 ### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+- Removemos o "RichValue" de Range.valueTypes. Tipos de Dados vinculados agora retornarão "Erro" para corresponder ao valor de "#VALUE!" retornado por Range.values.
 ### <a name="outlook"></a>Outlook
 
 - Corrigimos um problema em que os usuários não conseguiam mover itens entre pastas nas versões licenciadas do Outlook "não comercial".
@@ -2376,7 +2378,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba Mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Crie diagramas elegantes do Visio no Excel:** Crie um fluxograma ou organograma da organização colocando os dados em uma planilha. [Saiba mais](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI informações sobre os tamanhos aproximados de download do Microsoft 365 Apps de cada canal de atualização
-ms.openlocfilehash: 36bda636ac0c154b9df9e0e521d66e44955b0f43
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: e76910fa492f2c7e494888c72a7e3712a9e73764
+ms.sourcegitcommit: ff57f9fdfe53608213f45eaf627eef30a339d079
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206313"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339875"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Tamanhos de download das atualizações do Microsoft 365 Apps
 
@@ -29,7 +29,44 @@ Se estiver migrando para um canal diferente, por exemplo, do Canal Semestral (Di
 > - O tamanho aproximado do download descrito nas tabelas se aplica apenas à versão de 64 bits em pt-br do Microsoft 365 Apps.
 > - Somente versões dos últimos quatro meses estão listadas.
 
-[//]: # (NÃO REMOVER)
+[//]: # (NÃO REMOVA)
+
+[//]: # (NÃO REMOVA O INÍCIO DO CONTEÚDO DA PREVISÃO)
+
+## <a name="july-8-2021"></a>8 de julho de 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Canal Empresarial Mensal
+
+<i>O lançamento esperado é Versão 2105 (Build 14026.20334).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2104 (Build 13929.20408) <br/> |8 de junho de 2021 <br/> |214<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Canal Empresarial Semestral (Visualização)
+
+<i>O lançamento esperado é Versão 2102 (Build 13801.20794).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2102 (Build 13801.20738) <br/> |8 de junho de 2021 <br/> |51<br/> |
+|Versão 2102 (Build 13801.20638) <br/> |11 de maio de 2021 <br/> |58<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Canal Empresarial Semestral
+
+<i>O lançamento esperado é Versão 2102 (Build 13801.20794).</i>
+
+|**Upgrade da versão**|**Data de lançamento**|**Tamanho aproximado do download (em MB)**|
+|:-----|:-----|:-----|
+|Versão 2008 (Build 13127.21668) <br/> |8 de junho de 2021 <br/> |276<br/> |
+|Versão 2008 (Build 13127.21624) <br/> |11 de maio de 2021 <br/> |276<br/> |
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO PREVISTO)
 
 ## <a name="june-29-2021"></a>29 de junho de 2021
 
