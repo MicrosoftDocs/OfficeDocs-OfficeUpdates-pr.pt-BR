@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece aos profissionais de TI as notas de versão das versões do Office para Mac para os assinantes do Aplicativos do Microsoft 365
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949841"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409536"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Notas de versão do Office para Mac
 
@@ -61,6 +61,38 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 
 
+
+
+
+## <a name="july-13-2021"></a>13 de julho de 2021
+*Versão 16.51 (build 21071101)*
+
+ (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Defina padrões de agendamento em toda a organização que encurtam as reuniões.:** Nossos clientes comerciais podem definir padrões de agendamento em toda a organização que encurtam as reuniões e criam espaço para intervalos para todos em uma empresa.
+
+### <a name="word"></a>Word
+
+- **Veja seus documentos sob uma luz diferente:** experimente um novo visual surpreendente que é agradável aos seus olhos e o ajuda a se concentrar em seu trabalho.<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/dark-mode-in-word-for-mac)
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES DE SEGURANÇA)
+
+
+### <a name="security-updates"></a>Atualizações de segurança
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/pt-BR/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES DE SEGURANÇA)
 
 ## <a name="june-15-2021"></a>15 de junho de 2021
 *Versão 16.50 (Build 21061301)*
@@ -256,7 +288,7 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 
 ### <a name="outlook"></a>Outlook
 
-- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba Mais](/microsoft-365/compliance/sensitivity-labels)
+- **Clientes governamentais: Aplique rótulos de confidencialidade aos seus documentos e emails.:** Recursos de rótulos de confidencialidade agora estão disponíveis para clientes nos ambientes GCC e GCC-H. [Saiba mais](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -300,19 +332,19 @@ As atualizações estão disponíveis no Microsoft AutoUpdate. Para usar o Micro
 ### <a name="feature-updates"></a>Atualizações de recursos
 ### <a name="excel"></a>Excel
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba Mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Aplicar automaticamente ou recomendar rótulos de confidencialidade:** O Office pode recomendar ou aplicar automaticamente um rótulo de confidencialidade com base no conteúdo confidencial detectado. [Saiba mais](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
 

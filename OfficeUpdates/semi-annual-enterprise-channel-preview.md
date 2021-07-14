@@ -9,17 +9,44 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI notas de versão dos lançamentos do Canal Semestral (Direcionado) do Microsoft 365 Apps em 2021
-ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 7ccc68f004285105f9567fb761edf80516fb1f32
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852001"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409486"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Notas de versão para lançamentos do Canal Empresarial Semestral (Pré-visualização)
 
 Estas notas de versão fornecem informações dos novos recursos e atualizações não relacionados à segurança que estão inclusos nas atualizações do Canal Empresarial Semestral (Pré-visualização) do Microsoft 365 Apps para Pequenos e Médios Negócios, Microsoft 365 Apps para Grandes Empresas e as versões de assinatura dos aplicativos da área de trabalho do Project e do Visio.
 
+
+## <a name="version-2102-july-13"></a>Versão 2102: 13 de julho
+*Versão 2102 (build 13801.20808)*
+
+Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que impedia que a opção de configurações de nuvem de ser habilitada quando selecionada por um usuário.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigimos um problema em que, em alguns casos, o objeto do Excel inserido na apresentação do PowerPoint não estava sendo exibido conforme o esperado.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigimos o cenário de troca de dados do usuário quando o usuário alterna entre identidades do Active Directory a partir do controle Eu em aplicativos do Office.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
 
 ## <a name="version-2102-june-08"></a>Versão 2102: 08 de janeiro
 *Versão 2102 (Build 13801.20738)*
@@ -255,6 +282,8 @@ As atualizações de segurança estão listadas aqui: [Notas de versão para atu
 
 
 - **Integração da AMSI com o Office for XLM macros:** AMSI é uma interface aberta disponível no Windows 10 para aplicativos para solicitar, em tempo de execução, uma verificação síncrona de um buffer de memória por um antivírus ou solução de segurança instalada. Quando atividade maliciosa é detectada, o usuário é notificado pelo Excel e a sessão do aplicativo é desligar para evitar quaisquer danos. Isto pode parar um ataque em seus rastros, protegendo tanto o dispositivo quanto o usuário. Ver detalhes em [postagem de blog](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/).
+
+- **Crie Tabelas Dinâmicas a partir de Conjuntos de Dados no Power BI no Excel:** Você pode criar tabelas dinâmicas no Excel conectadas a conjuntos de dados armazenados no Power BI com alguns cliques.  Isso permite que você obtenha o melhor das Tabelas Dinâmicas e do Power BI. Calcule, resuma e analise seus dados com Tabelas Dinâmicas a partir dos conjuntos de dados seguros do Power BI. [Saiba mais](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -753,6 +782,7 @@ As atualizações de segurança estão listadas aqui: [Notas de versão para atu
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
@@ -762,5 +792,4 @@ As atualizações de segurança estão listadas aqui: [Notas de versão para atu
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Fornece a profissionais de TI um histórico de lançamento do Microsoft AutoUpdate
-ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
+ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949831"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53417552"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Histórico de versões do Microsoft AutoUpdate
  
@@ -29,6 +29,23 @@ A tabela a seguir fornece informações do histórico de versão do Microsoft Au
 > - O Microsoft AutoUpdate fornece atualizações para vários produtos para Mac da Microsoft. Portanto, você pode receber uma notificação para atualizar o Microsoft AutoUpdate mesmo que não esteja executando o Office para Mac.
 
 Para exibir notas da versão, confira [Notas da versão.](release-notes-office-for-mac.md)<br/><br/>
+## <a name="july-2021-release"></a>Versão de julho de 2021
+
+**Data da versão:** 13 de julho de 2021
+
+*Microsoft AutoUpdate 4.37*
+
+**Correção de bugs e melhorias:**
+- Alterar para notificação do msupdate – o MAU agora baixará e preparará atualizações antes de mostrar a notificação dos administradores de TI.
+- Correção para MAU exibindo a versão antiga do aplicativo após a aplicação de atualizações.
+- Correção para notificação de prazo MAU não ser ignorada ao iniciar atualizações.
+
+[Baixar o Pacote do Microsoft AutoUpdate 4.37](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
+<br/>
+**Hash SHA-256:**
+
+2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
+
 ## <a name="june-2021-release"></a>Versão de junho de 2021
 
 **Data do lançamento:** 15 de junho de 2021
