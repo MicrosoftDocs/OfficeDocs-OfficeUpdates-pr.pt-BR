@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI links para as informações de atualização mais recentes para as versões permanentes do Office 2016, Office 2013 e Office 2010
-ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
-ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
+ms.openlocfilehash: 3b8e289e3c7ffd1163c1cb0b9e190c7c2f87fb84
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52899905"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411939"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Atualizações mais recentes para versões do Office que usam o Windows Installer (MSI)
 
@@ -31,13 +31,13 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |PU de Junho de 2021  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/D  <br/> |PU de julho de 2021  <br/> [KB5001964](https://support.microsoft.com/help/5001964) <br/> |
 
 ## <a name="office-2013-updates"></a>Atualizações do Office 2013
 
 |**Versões e produtos**|**Service Pack (SP) mais recente**|**Atualização Pública (PU) mais recente**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de Junho de 2021  <br/> [KB5004001](https://support.microsoft.com/help/5004001) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |PU de julho de 2021  <br/> [KB5001964](https://support.microsoft.com/help/5001964) <br/> |
    
 ## <a name="office-2010-updates"></a>Atualizações do Office 2010
 > [!IMPORTANT]
@@ -51,8 +51,9 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
    
 ## <a name="updates-released-in-past-12-months"></a>Atualizações lançadas nos últimos 12 meses
 
-[Atualizações de segurança e não relacionadas à segurança de junho de 2021: KB5004001](https://support.microsoft.com/help/5004001)
+[Atualizações de segurança e não relacionadas à segurança de julho de 2021: KB5001964](https://support.microsoft.com/help/5001964)
 
+[Atualizações de segurança e não relacionadas à segurança de junho de 2021: KB5004001](https://support.microsoft.com/help/5004001)
 
 [Atualizações de Segurança e de Não Segurança para maio de 2021: KB5003427](https://support.microsoft.com/help/5003427)
 
@@ -74,7 +75,6 @@ Use os links nesta página para saber mais e baixar as atualizações mais recen
 
 [Atualizações de segurança e não relacionadas à segurança de agosto de 2020: KB4563408](https://support.microsoft.com/help/4563408)
 
-[Atualizações de segurança e não relacionadas à segurança de julho de 2020: KB4559453](https://support.microsoft.com/help/4559453)
 
 
 

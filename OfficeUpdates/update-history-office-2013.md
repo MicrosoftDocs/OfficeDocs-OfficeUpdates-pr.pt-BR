@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Fornece aos profissionais de TI um histórico de atualizações para versões permanentes do Office 2013 que usam Clique para Executar
-ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851921"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411739"
 ---
 # <a name="update-history-for-office-2013"></a>Histórico de atualizações do Office 2013
 
 A maioria dos produtos do Office 2013 são atualizados automaticamente usando uma tecnologia chamada Clique para Executar. Se você quiser verificar se tudo está atualizado, verifique o número de versão do Office e atualize-o manualmente se for necessário.
   
 > [!NOTE]
-> A versão mais atual do Office 2013 é **15.0.5357.1000**, que foi lançada em 8 de junho de 2021.
+> A versão mais recente do Office 2013 é **15.0.5363.1000**, lançada em 13 de julho de 2021.
   
 Para verificar sua versão do Office, faça o seguinte:
   
@@ -45,7 +45,8 @@ As novas versões contêm todas as atualizações presentes nas versões anterio
   
 |**Ano de lançamento**|**Data de lançamento**|**Número da versão**|**Mais informações**|
 |:-----|:-----|:-----|:-----|
-|2021|8 de junho|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+|2021|13 de julho|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
+||8 de junho|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
 ||11 de maio|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13 de Abril|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9 de março|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|

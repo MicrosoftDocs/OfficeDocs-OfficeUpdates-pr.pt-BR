@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Empresarial Mensal dos Aplicativos do Microsoft 365 Apps
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851861"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409557"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de versão para os lançamentos do Canal Empresarial Mensal
 
@@ -24,6 +24,120 @@ Estas notas de versão fornecem informações sobre novos recursos e atualizaç�
 [//]: # (NÃO REMOVA)
 
 
+
+## <a name="version-2105-july-13"></a>Versão 2105: 13 de julho
+*Versão 2105 (build 14026.20334)*
+
+Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Obtenha sugestões de arquivos relevantes ao pesquisar:** ao digitar na caixa Pesquisar, os arquivos mais relevantes relacionados à sua pesquisa serão incluídos nas suas sugestões.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigido um problema para permitir que o Gerenciador de Nomes abra em livros com um grande número de nomes ocultos.
+
+
+- Corrigimos um problema em que as entradas extras apareciam na lista de suplementos do Excel para alguns usuários.
+
+
+- Corrigido um problema em que o suplemento Ferramentas de Análise não funcionava para alguns usuários.
+
+
+### <a name="outlook"></a>Outlook
+
+- A alteração está sendo escura e sob um portão de alteração, portanto, se houver problemas, ela poderá ser desativada rapidamente.
+
+
+- Adicionamos uma chave do Registro que desabilitava a nova experiência do Localizador de Salas (a mesma experiência do Outlook para Web) e habilita o Localizador de Salas herdado com Horários Sugeridos.
+
+   Chave do Registro:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0 (padrão) – O Outlook usa a nova plataforma OWA Powered eXperience de Localizador de Salas quando o usuário clica no botão "Localizador de Salas" para pesquisar salas disponíveis</br>
+    >1 - O Outlook usa a interface de usuário herdada do Localizador de Salas para procurar salas disponíveis
+
+
+- Essa alteração permite que os usuários enviem comentários por meio de nosso novo sistema de comentários.
+
+
+- Corrigimos um problema que ocultava a opção de comentários para usuários da versão prévia do Office Permanente 2021.
+
+
+- Corrigimos um problema que fazia com que os usuários receberam um erro ao selecionar "Abrir Propriedades do Outlook" no menu de contexto do clique com o botão direito do mouse para um destinatário em um email.
+
+
+- Corrigimos um problema que causava um encerramento inesperado de aplicativo para alguns usuários ao carregar cartões de pessoas.
+
+
+- Corrigimos um problema que causava um fechamento inesperado para os usuários ao remover pastas de um armazenamento de arquivo morto.
+
+
+- Corrigimos um problema que fez com que algumas instruções para o recurso "Encurtar reuniões" fossem desabilitadas através de tecnologias de leitor de tela.
+
+
+- Corrigimos um problema que fazia com que os usuários experimentassem um prompt de alteração de propriedade inesperada ao fechar uma mensagem à qual responderam ou encaminharam.
+
+
+- Resolvemos um problema que pode causar um fechamento inesperado ao interagir com o Outlook Mail ou o Calendar Views.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Corrigido um problema em que a opção Reutilizar Slides não estava disponível para alguns usuários.
+
+
+### <a name="project"></a>Project
+
+- Corrigido um problema em que as tarefas programadas manualmente eram movidas para uma data incorreta.
+
+
+- Corrigido um problema em que se você criasse uma fórmula de campo personalizada que usasse as funções ProjectDate */ProjectDur*, e se o segundo parâmetro fosse as funções Date(), Now() ou Time() date e time, resultaria em um #ERROR.
+
+
+### <a name="word"></a>Word
+
+- Corrige um problema em que o Painel do Editor não abre.
+
+
+- Corrigido um problema em que os cartões contextuais de tela para ortografia e gramática mostram botões de ícones, mas esses botões não têm dicas de ferramentas.
+
+
+### <a name="office-suite"></a>Pacote do Office
+
+- Corrigido um problema de localização em que en-gb, fr-ca e es-mx agora correspondem às respectivas versões pai.
+
+
+- Corrigido um fechamento inesperado ao reabrir determinados arquivos.
+
+
+- Corrigido uma regressão de desempenho ao abrir arquivos SyncBacked.
+
+
+- Corrigido um problema em que o usuário não conseguia editar arquivos armazenados nos servidores OnPrem do Microsoft Office SharePoint Online.
+
+
+
+[//]: # (NÃO REMOVER O FIM DO CONTEÚDO BUGDETAILS)
+
+## <a name="version-2104-july-13"></a>Versão 2104: 13 de julho
+*Versão 2104 (build 13929.20434)*
+
+Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2104-june-08"></a>Versão 2104: 08 de junho
 *Versão 2104 (Build 13929.20408)*
@@ -865,6 +979,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14026.20334|version-2105-july-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
@@ -874,5 +989,4 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
