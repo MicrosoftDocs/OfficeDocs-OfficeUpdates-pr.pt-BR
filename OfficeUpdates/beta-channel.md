@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece a lista mais recente de novos recursos, correções ou problemas conhecidos para o público-alvo do Programa Windows Insider − Modo Rápido.
-ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
-ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
+ms.openlocfilehash: cfb69fbf28a3e406c979f74cd7cc069218a86c69
+ms.sourcegitcommit: e15447e83a8822825fd71a96d1d59efec607f930
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53364078"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "53466662"
 ---
 # <a name="release-notes-for-beta-channel"></a>Notas de Versão para o Canal Beta
 
@@ -30,6 +30,50 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (NÃO REMOVA)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2108-july-16"></a>Versão 2108: 16 de julho
+*Versão 2108 (Build 14312.20008)*
+
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Link para Criar a conta do Outlook.com:** ao adicionar uma conta ao Outlook, um link para criar uma nova outlook.com é exibido na janela.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Corrigimos um problema em que pequenos marcadores de dados desapareciam quando a planilha era ampliada.
+
+
+- Corrigimos um problema em que uma pasta de trabalho diferente era aberta quando uma pasta de trabalho precisava ser fechada e reabrida porque foi modificada e verificada por um usuário diferente.
+
+
+- Corrigimos um problema para arquivos protegidos sem metadados de rótulo. O rótulo é determinado pela proteção. A rotulagem obrigatória agora usa metadados de rótulo e política de rótulo.
+
+
+### <a name="word"></a>Word
+
+- Corrigimos um problema em que as configurações de revisão de texto não persistiam.
+
+
+- Corrigimos um problema em que os marcadores podiam desaparecer do texto durante a coautoria.
+
+
+- Corrigimos um problema relacionado ao salvamento de arquivos.
+
+
+
+[//]: # (NÃO REMOVER O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2108-july-09"></a>Versão 2108: 09 de julho
 *Versão 2108 (Build 14301.20004)*
@@ -116,7 +160,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Corrigimos um problema em que uma exceção ocorreu de uma execução de CFR.
+- Corrigimos um problema em que alguns usuários não conseguiam abrir o modo de edição em arquivos protegidos por senha.
 
 
 ### <a name="outlook"></a>Outlook
@@ -3481,6 +3525,7 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 
 
 [//]: # (NÃO MODIFICAR O INÍCIO DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
@@ -3490,5 +3535,4 @@ Este artigo contém notas de versão para compilações do Canal Beta para o Wor
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|versão-2106-28 de maio|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|versão-2106-07 de maio|)
 [//]: # (NÃO MODIFICAR O FIM DE CONTEÚDO DE METADADOS DO CENTRO DE ADMINISTRAÇÃO)

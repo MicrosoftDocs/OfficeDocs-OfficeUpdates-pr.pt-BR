@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Fornece aos profissionais de TI as notas de versão para o Canal Empresarial Mensal dos Aplicativos do Microsoft 365 Apps
-ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
-ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
+ms.openlocfilehash: 4b73ac3bfd364835eb933c530c9b399f5ef91381
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409557"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463768"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Notas de versão para os lançamentos do Canal Empresarial Mensal
 
@@ -111,7 +111,7 @@ Atualizações de segurança listadas [aqui](microsoft365-apps-security-updates.
 
 ### <a name="word"></a>Word
 
-- Corrige um problema em que o Painel do Editor não abre.
+- Corrigimos um problema em que o Painel do Editor não abria.
 
 
 - Corrigido um problema em que os cartões contextuais de tela para ortografia e gramática mostram botões de ícones, mas esses botões não têm dicas de ferramentas.

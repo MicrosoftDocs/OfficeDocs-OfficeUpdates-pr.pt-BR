@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Forneça aos Participantes do Programa Windows Insider – Modo Lento com a lista mais recente de novos recursos, correções ou problemas conhecidos
-ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: df93bab4f1a5050207baf7322d43d1b437f397cd
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347954"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463758"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Release das Notas para Office do Canal Atual (Visualização)
 
@@ -28,6 +28,46 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 [//]: # (NÃO REMOVER)
 
 [//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+## <a name="version-2107-july-16"></a>Versão 2107: 16 de julho
+*Versão 2107 (Criação 14228.20154)*
+
+[//]: # (NÃO REMOVER O INÍCIO DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+### <a name="feature-updates"></a>Atualizações de recursos
+### <a name="outlook"></a>Outlook
+
+- **Use respostas sugeridas no Outlook:** quando você recebe uma mensagem de e-mail que pode ser respondida por uma resposta curta, o Outlook sugere três respostas que você pode usar para responder com apenas alguns cliques. [Saiba mais](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />Consulte os detalhes na [postagem do blog](https://insider.office.com/pt-BR/blog/reply-faster-using-suggested-replies-in-outlook)
+
+- **Link para Criar a conta do Outlook.com:** ao adicionar uma conta ao Outlook, um link para criar uma nova outlook.com é exibido na janela.
+
+- **Desabilite as Respostas Sugeridas:** o Outlook [torna mais fácil responder mais rápido](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) a emails, oferecendo respostas curtas sugeridas para mensagens que podem ser respondidas com apenas algumas palavras. Alguns usuários podem não querer ver esta opção, então agora é possível desativar o recurso. Para fazer isso, selecione Arquivo> Opções> Email, vá para a seção Respostas e encaminhamentos e desmarque a caixa de seleção Mostrar respostas sugeridas.
+
+
+[//]: # (NÃO REMOVER O FINAL DO CONTEÚDO DE DETALHES FEATUREDETAILS)
+
+<br/>
+
+[//]: # (NÃO REMOVER O INÍCIO DE CONTEÚDO BUGDETAILS)
+
+### <a name="resolved-issues"></a>Problemas resolvidos
+### <a name="excel"></a>Excel
+
+- Foi corrigido o problema em que a pasta de trabalho protegida por DRM não pode ser aberta do VBA se Application.DisplayAlerts estiver definido como True.
+
+
+### <a name="outlook"></a>Outlook
+
+- Corrigimos um problema que fazia com que os usuários das Configurações de Nuvem vivenciassem um fechamento inesperado quando uma conta configurada incompleta estava presente no perfil.
+
+
+### <a name="word"></a>Word
+
+- Foi corrigido um problema ao manter a "Lista Atual" de Citações em arquivos DOCX protegidos por senha.
+
+
+
+[//]: # (NÃO REMOVER O CONTEÚDO FINAL DO BUGDETAILS)
 
 ## <a name="version-2107-july-08"></a>Versão 2107: 08 de julho
 *Versão 2107 (Build 14228.20070)*
@@ -302,7 +342,7 @@ Este artigo contém notas de versão para builds de Canal Atual (Visualização)
 ### <a name="resolved-issues"></a>Problemas resolvidos
 ### <a name="excel"></a>Excel
 
-- Removemos o "RichValue" de Range.valueTypes. Tipos de dados vinculados agora retornarão "Erro" para corresponder ao valor de "#VALUE!" retornado por Range.values.
+- Removemos o "RichValue" de Range.valueTypes. Tipos de Dados vinculados agora retornarão "Erro" para corresponder ao valor de "#VALUE!" retornado por Range.values.
 
 - Corrigimos um problema que impedia o Gerenciador de Nomes de abrir livros com um grande número de nomes ocultos.
 
@@ -4759,7 +4799,7 @@ Atualizações de segurança listadas [aqui](./microsoft365-apps-security-update
 
 
 
-### <a name="office-suite"></a>Pacote Office
+### <a name="office-suite"></a>Pacote do Office
 
 - Ao usar as propriedades do MultiChoice/Lookup/Managed-metadata com documentos do Word/Excel/PowerPoint e salvá-los em uma biblioteca de documentos do SharePoint, essas propriedades anteriormente eram limitadas a 255 caracteres. Quando essas propriedades excederem 255 caracteres, esses documentos não puderam ser salvos. Com essa mudança, esse limite aumentou para 2048 caracteres.
 
